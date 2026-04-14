@@ -1,0 +1,13 @@
+# 個人/私密資料
+private/
+work/
+
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 暫存
+*.tmp
