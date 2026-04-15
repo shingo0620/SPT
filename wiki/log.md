@@ -53,6 +53,24 @@
 - 更新頁面：[[遊戲開發流程]]（新增 AI 對開發流程的影響段落）, [[遊戲發想]]（團隊規模差異加入 AI 擴展能力、新增交叉引用）
 - 頁面總數：3 新建 + 2 更新
 
+## [2026-04-15] ingest | Matt Pocock Skills Repo
+- 來源：raw/mattpocock-skills-repo.md（從 GitHub repo 擷取）
+- 新建頁面：[[src-mattpocock-skills]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增第 3 來源，加入交叉引用）
+- 備註：提供了 write-a-prd、prd-to-issues、prd-to-plan 三個核心 skill 的具體模板與流程
+
+## [2026-04-15] ingest | AI 輔助工作流程 + API Key 設計
+- 來源：raw/My AI-Assisted workflow.md, raw/My adventure in designing API keys.md
+- 新建頁面：[[src-AI輔助工作流程]], [[src-API-Key設計]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增第 2 來源，加入完整 7 步驟工作流程、AFK/HITL 分類、實踐建議 6-7）
+- 頁面總數：2 新建 + 1 更新
+
+## [2026-04-15] ingest | 每日新知 5 來源首次建立月報
+- 處理日期：2026-04-15
+- 新建頁面：[[src-hn-2026-04]], [[src-reddit-eli5-2026-04]], [[src-github-trending-2026-04]], [[src-producthunt-2026-04]], [[src-wikipedia-2026-04]]
+- GitHub Trending 月報僅保留有意義的專案（過濾無描述/低品質項目，15→7）
+- index.md 重組「每日新知（月報）」分類，統一管理 6 個來源
+
 ## [2026-04-15] lint | 健康檢查修正
 - index.md：將 src-reddit-til-2026-04 從「概念」移至「來源摘要」正確分類
 - LLM Wiki.md：新增交叉引用至 [[AI 輔助軟體工程]]

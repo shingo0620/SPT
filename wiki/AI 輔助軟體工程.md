@@ -1,7 +1,7 @@
 ---
 title: AI 輔助軟體工程
 type: concept
-sources: [dotllm-building-llm-inference-engine-in-csharp.md]
+sources: [dotllm-building-llm-inference-engine-in-csharp.md, My AI-Assisted workflow.md, mattpocock-skills-repo.md]
 created: 2026-04-15
 updated: 2026-04-15
 tags: [AI, 軟體工程, 方法論]
@@ -54,6 +54,21 @@ tags: [AI, 軟體工程, 方法論]
 
 兩者的共通洞見：AI 輔助開發的成功不取決於 AI 的能力，而取決於**人類的規劃與判斷品質**。
 
+## 完整工作流程（Matteo Barbero 方法）
+
+來自 [[src-AI輔助工作流程]]，提供了比 dotLLM 更細緻的逐步流程：
+
+```
+自由筆記 → PRD（結構化訪談） → Issues（垂直切片，AFK/HITL 分類）
+  → Tasks（單一 session 指令） → AI 寫程式（全新 session）
+    → 6 層 Code Review → 跨模組最終稽核
+```
+
+關鍵設計：
+- **AFK vs HITL**：每個 issue 標記 AI 能否獨立完成，最大化自主比例
+- **每個 task 用全新 session**：避免 context drift
+- **6 層 review**：特別注意 AI 常犯的「操作順序錯誤」（通知在交易提交前發出等）
+
 ## 實踐建議
 
 1. **先寫規劃文件再寫程式碼**——ROADMAP.md 定義做什麼，CLAUDE.md 定義怎麼做
@@ -61,10 +76,14 @@ tags: [AI, 軟體工程, 方法論]
 3. **標註依賴關係**——哪些步驟可以平行，哪些必須循序
 4. **用不同 AI 做 review**——消除實作者的確認偏差
 5. **架構決策永遠由人類做**——AI 擅長在框架內填充，不擅長選擇框架
+6. **用 AFK/HITL 分類最大化 AI 自主工作**——人類只在需要判斷時介入
+7. **每個 task 開全新 session**——長 session 的累積上下文會讓 AI 偏離目標
 
 ## 相關頁面
 
 - [[src-dotLLM]]
+- [[src-AI輔助工作流程]]
+- [[src-mattpocock-skills]]（具體工具集：write-a-prd、prd-to-issues、prd-to-plan）
 - [[AI 輔助遊戲開發]]
 - [[LLM Wiki]]（CLAUDE.md 作為 AI 行為指引的先例）
 - [[Skill vs Bash vs MCP]]（AI 工具選擇方法論）
