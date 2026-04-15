@@ -101,6 +101,7 @@ LLM 不會覺得無聊、不會忘記更新交叉引用，能一次處理 15 個
 - [[Andrej Karpathy]]
 - [[QMD]]
 - [[GBrain]]
+- [[AI 輔助軟體工程]]（CLAUDE.md 作為 AI 行為指引的延伸應用）
 - [[三大知識管理系統比較]]
 - [[src-LLM Wiki]]
 - [[src-karpathy筆記實作]]
