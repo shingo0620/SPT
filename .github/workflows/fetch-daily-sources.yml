@@ -16,23 +16,32 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Reddit r/todayilearned
+        continue-on-error: true
         run: bash scripts/fetch-reddit-til.sh
 
+      - name: Delay (avoid Reddit rate limit)
+        run: sleep 5
+
       - name: Reddit r/explainlikeimfive
+        continue-on-error: true
         run: bash scripts/fetch-reddit-eli5.sh
 
       - name: Hacker News
+        continue-on-error: true
         run: bash scripts/fetch-hn.sh
 
       - name: GitHub Trending
+        continue-on-error: true
         run: bash scripts/fetch-github-trending.sh
 
       - name: Product Hunt
+        continue-on-error: true
         env:
           PH_TOKEN: ${{ secrets.PH_TOKEN }}
         run: bash scripts/fetch-producthunt.sh
 
       - name: Wikipedia Featured
+        continue-on-error: true
         run: bash scripts/fetch-wikipedia.sh
 
       - name: Commit and push

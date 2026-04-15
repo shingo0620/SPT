@@ -13,7 +13,7 @@ TMPFILE=$(mktemp)
 trap 'rm -f "$TMPFILE"' EXIT
 
 curl -sf \
-  -H "User-Agent: Mozilla/5.0 (compatible; SPT-Bot/1.0)" \
+  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" \
   "https://www.reddit.com/r/explainlikeimfive/top/.json?t=day&limit=15" \
   > "$TMPFILE"
 
