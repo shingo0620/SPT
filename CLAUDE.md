@@ -9,24 +9,40 @@
 - PDF 檔案（放入 `raw/`，閱讀後摘要至 wiki）
 - 圖片（放入 `raw/assets/`，閱讀後摘要至 wiki）
 - URL（透過 https://markdown.new 轉換為 Markdown 後放入 `raw/`）
-- Reddit 每日摘要（GitHub Actions 自動收集，見下方「自動化來源」）
+- 每日自動摘要（GitHub Actions 自動收集，見下方「自動化來源」）
 
 ## 自動化來源
 
-### Reddit r/todayilearned 每日擷取
+GitHub Actions 每天 UTC 14:00（台灣 22:00）執行，收集以下 6 個來源。
+- Workflow：`.github/workflows/fetch-daily-sources.yml`
+- 本地腳本：`scripts/fetch-*.sh`（手動補擷取用）
+- **原則**：腳本只做機械性收集，翻譯與彙整由 LLM 在 ingest 時處理
 
-**收集（自動）**：GitHub Actions 每天 UTC 14:00（台灣 22:00）執行，擷取 Top 15 存入 `raw/reddit-til-YYYY-MM-DD.md`。
-- Workflow：`.github/workflows/fetch-reddit-til.yml`
-- 本地腳本：`scripts/fetch-reddit-til.sh`（手動補擷取用）
+### 來源清單
 
-**彙整（手動 `/llm-wiki ingest`）**：
-- 讀取尚未處理的 `raw/reddit-til-*.md`
-- **事實查核**：逐篇驗證可信度（見下方「事實查核」）
-- 逐篇翻譯成繁體中文
-- 以月為單位建立或增量更新 `wiki/src-reddit-til-YYYY-MM.md`
-- 每日為一個區塊，追加至月報檔案中
+| 來源 | 檔名格式 | 腳本 | 月報頁面 |
+|------|----------|------|----------|
+| Reddit r/todayilearned | `raw/reddit-til-YYYY-MM-DD.md` | `fetch-reddit-til.sh` | `wiki/src-reddit-til-YYYY-MM.md` |
+| Reddit r/explainlikeimfive | `raw/reddit-eli5-YYYY-MM-DD.md` | `fetch-reddit-eli5.sh` | `wiki/src-reddit-eli5-YYYY-MM.md` |
+| Hacker News Top 15 | `raw/hn-top-YYYY-MM-DD.md` | `fetch-hn.sh` | `wiki/src-hn-YYYY-MM.md` |
+| GitHub Trending | `raw/github-trending-YYYY-MM-DD.md` | `fetch-github-trending.sh` | `wiki/src-github-trending-YYYY-MM.md` |
+| Product Hunt Top 15 | `raw/producthunt-YYYY-MM-DD.md` | `fetch-producthunt.sh` | `wiki/src-producthunt-YYYY-MM.md` |
+| Wikipedia Featured | `raw/wikipedia-featured-YYYY-MM-DD.md` | `fetch-wikipedia.sh` | `wiki/src-wikipedia-YYYY-MM.md` |
 
-**原則**：腳本只做機械性收集，翻譯與彙整由 LLM 在 ingest 時處理。
+### Product Hunt 設定
+
+需要設定 GitHub Secret `PH_TOKEN`（Developer Token）。
+取得方式：https://www.producthunt.com/v2/oauth/applications → 建立應用 → Developer Token。
+未設定時該步驟自動跳過。
+
+### 彙整流程（手動 `/llm-wiki ingest`）
+
+1. 檢查各來源的 `raw/` 檔案，比對對應月報頁面中已處理的日期
+2. 對未處理的日期逐日進行：
+   - **事實查核**（Reddit、社群來源需嚴格查核，見下方「事實查核」）
+   - **翻譯**為繁體中文
+   - **增量追加**至月報檔案
+3. 以月為單位維護，每日為一個區塊
 
 ## 事實查核
 
