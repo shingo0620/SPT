@@ -97,3 +97,13 @@
 - 刪除：raw/坦白讲，普通人学大模型玩的就是信息差！.md
 - 刪除：raw/【游戏众生相】游戏设计第一课！什么是"游戏机制"？.md
 - 刪除：raw/Untitled.md（URL 已擷取為 dotllm-building-llm-inference-engine-in-csharp.md）
+
+## [2026-04-16] note | 跳過無內容來源
+- 跳過：raw/AI视频最大的问题，被Blender解决了.md（YouTube 逐字稿無法擷取，僅有標題與一行描述）
+
+## [2026-04-16] ingest | AI Agent 避坑指南
+- 來源：raw/做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md
+- 新建頁面：[[src-AI-Agent避坑指南]], [[Restatement]]
+- 更新頁面：[[Skill vs Bash vs MCP]]（新增 Skill 長任務限制 + 交叉引用）, [[AI 輔助軟體工程]]（新增 Agent 架構演進教訓、實踐建議第 8 條 + 交叉引用）
+- 重點強調：Restatement 機制與 KV Cache 實務考量
+- 頁面總數：2 新建 + 2 更新 + index.md + log.md

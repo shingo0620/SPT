@@ -14,6 +14,7 @@
 - [[src-AI輔助工作流程]] — Tech Lead 的 7 步驟結構化 AI 開發工作流（來源數：1）
 - [[src-API-Key設計]] — 多租戶 API Key 設計，從 SHA-256 到 SHAKE256（來源數：1）
 - [[src-mattpocock-skills]] — Matt Pocock 的 Claude Code Skills 合集，含 PRD/Issue/Plan 具體模板（來源數：1）
+- [[src-AI-Agent避坑指南]] — 三次 Agent 架構演進實戰：Plan-and-Execute → Skill → 上下文隔離（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -47,8 +48,9 @@
 - [[LLM Wiki]] — 以 LLM 維護持久 wiki 的知識管理模式（來源數：3）
 - [[QMD]] — 本地優先的混合搜尋引擎（來源數：1）
 - [[GBrain]] — 企業級個人知識管理系統（來源數：1）
-- [[Skill vs Bash vs MCP]] — LLM Agent 三種工具模式的比較與選擇方法論（來源數：1）
-- [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：3）
+- [[Skill vs Bash vs MCP]] — LLM Agent 三種工具模式的比較與選擇方法論（來源數：2）
+- [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：4）
+- [[Restatement]] — LLM 長任務中週期性重申關鍵資訊的控制機制（來源數：1）
 
 ### 遊戲設計與開發
 
