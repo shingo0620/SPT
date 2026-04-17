@@ -107,3 +107,34 @@
 - 更新頁面：[[Skill vs Bash vs MCP]]（新增 Skill 長任務限制 + 交叉引用）, [[AI 輔助軟體工程]]（新增 Agent 架構演進教訓、實踐建議第 8 條 + 交叉引用）
 - 重點強調：Restatement 機制與 KV Cache 實務考量
 - 頁面總數：2 新建 + 2 更新 + index.md + log.md
+
+## [2026-04-16] ingest | 每日新知 2026-04-16（5 來源）
+- 處理日期：2026-04-16
+- 更新頁面：[[src-hn-2026-04]]（+14 則，過濾 1 則招聘），[[src-github-trending-2026-04]]（+6 則，過濾 9 則垃圾/無描述），[[src-producthunt-2026-04]]（+15 則），[[src-wikipedia-2026-04]]（精選文章 + 熱門 + 歷史上的今天）
+- 新建頁面：[[src-skills-picks-2026-04]]（新來源首次建立月報，依三面向格式深度分析 character-arc skill）
+- HN 亮點：Cybersecurity = PoW（398 分）、Cal.com 轉閉源（303 分）、ChatGPT for Excel（202 分）
+- GitHub Trending 亮點：tiks（程序化 UI 音效）、KillerPDF（可攜 PDF 編輯器）、claude-detector（中轉站掺假檢測）
+- PH 亮點：Notion Diff、Sequna（AI Agent 工作記憶）、OmniType
+- Wikipedia：圖靈測試進入熱門 Top 10（11.2 萬瀏覽）
+- skills.sh：character-arc by jwynia——非程式碼類 diagnostic skill，用於角色弧線設計
+- index.md 新增 src-skills-picks-2026-04 至每日新知分類
+
+## [2026-04-16] ingest | 顧客管理 50 問
+- 來源：raw/你真的了解你的顧客嗎？—— 50 個自我診斷問題.md
+- 新建頁面：[[src-顧客管理50問]], [[顧客終身價值]]
+- 知識庫新增「商業與顧客管理」分類
+- 頁面總數：2 新建 + index.md + log.md
+
+## [2026-04-16] ingest | Claude Code 五個底層概念
+- 來源：raw/yt-為什麼-claude-code-有時很聰明有時又很蠢五個底層概念讓你秒懂.md（Whisper 語音辨識逐字稿）
+- 新建頁面：[[src-Claude Code五個底層概念]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增第 5 來源 + 交叉引用）
+- 五個概念：概率（next-token prediction）、窗口（context window 稀缺性）、模型（Opus/Sonnet/Haiku 選擇）、循環（Agent Loop）、層級（Prompt Injection Hierarchy 四層）
+- 與既有 wiki 高度關聯：Restatement（窗口管理）、Skill vs Bash vs MCP（Agent Loop 工具調用）、LLM Wiki（上下文管理實踐）
+
+## [2026-04-16] refactor | Skill pick 獨立成頁
+- 使用者偏好：每個 skills.sh daily pick 都做成獨立解析頁
+- 新建頁面：[[src-skill-character-arc]]（從月報抽出，擴充為完整三面向解析）
+- 更新頁面：[[src-skills-picks-2026-04]]（月報改為索引 + wikilink 連結至獨立頁）
+- 更新 CLAUDE.md：skills.sh 彙整指引新增「頁面結構」段落，定義獨立頁 + 月報索引的雙層架構
+- index.md 新增「Skill 解析」分類

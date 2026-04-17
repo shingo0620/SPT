@@ -15,6 +15,7 @@
 - [[src-API-Key設計]] — 多租戶 API Key 設計，從 SHA-256 到 SHAKE256（來源數：1）
 - [[src-mattpocock-skills]] — Matt Pocock 的 Claude Code Skills 合集，含 PRD/Issue/Plan 具體模板（來源數：1）
 - [[src-AI-Agent避坑指南]] — 三次 Agent 架構演進實戰：Plan-and-Execute → Skill → 上下文隔離（來源數：1）
+- [[src-Claude Code五個底層概念]] — 概率、窗口、模型、循環、層級——駕馭 LLM Agent 的心智模型（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -22,6 +23,10 @@
 - [[src-MDA框架]] — MDA 框架介紹，遊戲設計的系統性分析語言（來源數：1）
 - [[src-遊戲發想四問]] — 心智圖四問法，將靈感轉化為具體開發方向（來源數：1）
 - [[src-零基礎用AI做遊戲]] — 用 AI 全程開發遊戲的實戰記錄，含免費美術工作流（來源數：1）
+
+### 商業與顧客管理
+
+- [[src-顧客管理50問]] — 50 題自我診斷問卷，顧客基本面、回購行為、分級、CLV、關係管理（來源數：1）
 
 ### 每日新知（月報）
 
@@ -31,6 +36,11 @@
 - [[src-github-trending-2026-04]] — GitHub Trending 2026 年 4 月
 - [[src-producthunt-2026-04]] — Product Hunt 2026 年 4 月
 - [[src-wikipedia-2026-04]] — Wikipedia Featured 2026 年 4 月
+- [[src-skills-picks-2026-04]] — skills.sh Picks 2026 年 4 月（月報索引）
+
+### Skill 解析
+
+- [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 
 ## 實體
 
@@ -49,8 +59,12 @@
 - [[QMD]] — 本地優先的混合搜尋引擎（來源數：1）
 - [[GBrain]] — 企業級個人知識管理系統（來源數：1）
 - [[Skill vs Bash vs MCP]] — LLM Agent 三種工具模式的比較與選擇方法論（來源數：2）
-- [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：4）
+- [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：5）
 - [[Restatement]] — LLM 長任務中週期性重申關鍵資訊的控制機制（來源數：1）
+
+### 商業與顧客管理
+
+- [[顧客終身價值]] — CLV 與 CAC 的核心概念，客戶分級與留存優先策略（來源數：1）
 
 ### 遊戲設計與開發
 

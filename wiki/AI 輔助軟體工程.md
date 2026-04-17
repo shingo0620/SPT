@@ -1,7 +1,7 @@
 ---
 title: AI 輔助軟體工程
 type: concept
-sources: [dotllm-building-llm-inference-engine-in-csharp.md, My AI-Assisted workflow.md, mattpocock-skills-repo.md, 做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md]
+sources: [dotllm-building-llm-inference-engine-in-csharp.md, My AI-Assisted workflow.md, mattpocock-skills-repo.md, 做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md, yt-為什麼-claude-code-有時很聰明有時又很蠢五個底層概念讓你秒懂.md]
 created: 2026-04-15
 updated: 2026-04-16
 tags: [AI, 軟體工程, 方法論]
@@ -104,3 +104,4 @@ tags: [AI, 軟體工程, 方法論]
 - [[AI 輔助遊戲開發]]
 - [[LLM Wiki]]（CLAUDE.md 作為 AI 行為指引的先例）
 - [[Skill vs Bash vs MCP]]（AI 工具選擇方法論）
+- [[src-Claude Code五個底層概念]]（概率/窗口/模型/循環/層級——LLM Agent 行為的五個心智模型）
