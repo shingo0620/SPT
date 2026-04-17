@@ -11,3 +11,12 @@ Thumbs.db
 
 # 暫存
 *.tmp
+
+# Quartz build artifacts
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.quartz-cache
+.replit
+replit.nix
