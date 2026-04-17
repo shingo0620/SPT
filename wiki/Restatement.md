@@ -110,6 +110,7 @@ Matteo Barbero 方法中「每個 task 開全新 session」的做法，本質上
 ## 相關頁面
 
 - [[src-AI-Agent避坑指南]]——本概念的完整來源
+- [[src-Harness Engineering]]——Ralph Loop 的摘要機制與 Restatement 解決相同問題：壓縮後重推關鍵資訊
 - [[Skill vs Bash vs MCP]]——Skill 在長任務中的注意力衰減問題
 - [[AI 輔助軟體工程]]——全新 session 策略是 Restatement 的極端形式
 - [[LLM Wiki]]——知識庫結構本身也是一種「為 LLM 做 Restatement」的實踐

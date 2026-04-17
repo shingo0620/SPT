@@ -96,3 +96,4 @@ Claude Code 與一般聊天 AI 的根本差異。
 - [[Skill vs Bash vs MCP]]
 - [[LLM Wiki]]
 - [[src-AI-Agent避坑指南]]
+- [[src-Harness Engineering]]（「窗口」對應 Harness 管理上下文、「循環」對應 Ralph Loop、「層級」對應 agents.md 的 prompt hierarchy 位置）

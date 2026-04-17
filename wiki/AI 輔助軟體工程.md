@@ -1,7 +1,7 @@
 ---
 title: AI 輔助軟體工程
 type: concept
-sources: [dotllm-building-llm-inference-engine-in-csharp.md, My AI-Assisted workflow.md, mattpocock-skills-repo.md, 做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md, yt-為什麼-claude-code-有時很聰明有時又很蠢五個底層概念讓你秒懂.md]
+sources: [dotllm-building-llm-inference-engine-in-csharp.md, My AI-Assisted workflow.md, mattpocock-skills-repo.md, 做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md, yt-為什麼-claude-code-有時很聰明有時又很蠢五個底層概念讓你秒懂.md, how-to-kill-the-code-review-by-ankit-jain-latentspace.md]
 created: 2026-04-15
 updated: 2026-04-16
 tags: [AI, 軟體工程, 方法論]
@@ -33,6 +33,8 @@ tags: [AI, 軟體工程, 方法論]
 | 品味判斷與設計取捨 | 除錯與修正 |
 | 需求定義與優先排序 | PR review（作為第二意見） |
 | 驗收與品質判斷 | 文件撰寫 |
+
+「架構決策由人類做」這個原則在 [[src-Code Review已死]] 中被進一步延伸為「Review Intent not Code」——人類最有價值的判斷在第一行程式碼生成之前（審 spec/plan/constraints），而非之後（審 500 行 diff）。
 
 ### 雙重 review 分離
 
@@ -96,12 +98,15 @@ tags: [AI, 軟體工程, 方法論]
 
 ## 相關頁面
 
+- [[src-Solo SaaS架構]] — Solo SaaS 開發者選擇語言的第一考量是「AI 寫得好」：Go/TypeScript 的 LLM 生成品質最穩定，直接印證了語言選擇對 AI 輔助開發的影響
 - [[src-dotLLM]]
 - [[src-AI輔助工作流程]]
 - [[src-mattpocock-skills]]（具體工具集：write-a-prd、prd-to-issues、prd-to-plan）
 - [[src-AI-Agent避坑指南]]（Agent 架構演進三部曲與 Restatement 機制）
+- [[src-Harness Engineering]]（Harness = 認知框架 + 能力邊界 + 工作流程，與本頁方法論互補）
 - [[Restatement]]（長任務控制力的核心機制）
 - [[AI 輔助遊戲開發]]
 - [[LLM Wiki]]（CLAUDE.md 作為 AI 行為指引的先例）
 - [[Skill vs Bash vs MCP]]（AI 工具選擇方法論）
 - [[src-Claude Code五個底層概念]]（概率/窗口/模型/循環/層級——LLM Agent 行為的五個心智模型）
+- [[src-Code Review已死]]（Spec-driven development + Swiss-cheese 五層信任模型，Review Intent not Code）

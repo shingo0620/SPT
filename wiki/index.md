@@ -16,6 +16,8 @@
 - [[src-mattpocock-skills]] — Matt Pocock 的 Claude Code Skills 合集，含 PRD/Issue/Plan 具體模板（來源數：1）
 - [[src-AI-Agent避坑指南]] — 三次 Agent 架構演進實戰：Plan-and-Execute → Skill → 上下文隔離（來源數：1）
 - [[src-Claude Code五個底層概念]] — 概率、窗口、模型、循環、層級——駕馭 LLM Agent 的心智模型（來源數：1）
+- [[src-Harness Engineering]] — Harness Engineering 駕馭工程：agents.md、Ralph Loop、Lifelong AI Agent（來源數：1）
+- [[src-Code Review已死]] — Code Review 已死：Spec-driven development + Swiss-cheese 五層信任模型（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -27,6 +29,10 @@
 ### 商業與顧客管理
 
 - [[src-顧客管理50問]] — 50 題自我診斷問卷，顧客基本面、回購行為、分級、CLV、關係管理（來源數：1）
+
+### 獨立開發與架構
+
+- [[src-Solo SaaS架構]] — Steve Hanov 的 $20/月 solo SaaS 架構分析：Go + SQLite + 本地 GPU 的反直覺決策（來源數：1）
 
 ### 每日新知（月報）
 
@@ -77,3 +83,4 @@
 ## 綜整與分析
 
 - [[三大知識管理系統比較]] — LLM Wiki vs QMD vs GBrain 並排比較（來源數：1）
+- [[綜整-AI協作工程的六大趨勢]] — 六大結構性趨勢 + 五個應強化方向，綜合 12 個來源（來源數：12）

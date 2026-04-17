@@ -138,3 +138,32 @@
 - 更新頁面：[[src-skills-picks-2026-04]]（月報改為索引 + wikilink 連結至獨立頁）
 - 更新 CLAUDE.md：skills.sh 彙整指引新增「頁面結構」段落，定義獨立頁 + 月報索引的雙層架構
 - index.md 新增「Skill 解析」分類
+
+## [2026-04-17] ingest | Code Review 已死
+- 來源：raw/how-to-kill-the-code-review-by-ankit-jain-latentspace.md
+- 新建頁面：[[src-Code Review已死]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增第 6 來源 + 「Review Intent not Code」段落 + 交叉引用）, [[src-mattpocock-skills]]（新增交叉引用至 spec-driven development 對應）
+- 重點：Spec-driven development、Swiss-cheese 五層信任模型、BDD 復興
+- 頁面總數：1 新建 + 2 更新 + index.md + log.md
+
+## [2026-04-17] ingest | Solo SaaS 架構
+- 來源：raw/當一個人的 SaaS 不再需要矽谷.md
+- 新建頁面：[[src-Solo SaaS架構]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增交叉引用——AI 寫得好的語言選擇）, [[顧客終身價值]]（新增交叉引用——micro-SaaS 夜市經濟學的 CLV/CAC）
+- 重點：$20/月基礎設施跑 $10K MRR、Go+SQLite+本地GPU 反直覆決策、低維護成本 > 低製作成本、夜市經濟學
+- index.md 新增「獨立開發與架構」分類
+- 頁面總數：1 新建 + 2 更新 + index.md + log.md
+
+## [2026-04-17] ingest | Harness Engineering 駕馭工程
+- 來源：raw/Harness Engineering.md（李宏毅教授講座）
+- 新建頁面：[[src-Harness Engineering]]
+- 更新頁面：[[AI 輔助軟體工程]]（新增交叉引用）, [[Restatement]]（新增交叉引用至 Ralph Loop）, [[Skill vs Bash vs MCP]]（新增交叉引用至三種控制手段）, [[src-Claude Code五個底層概念]]（新增交叉引用）, [[src-AI-Agent避坑指南]]（新增交叉引用）
+- 重點：Harness = 認知框架 + 能力邊界 + 工作流程；agents.md 研究；Ralph Loop；情緒 feedback；Lifelong AI Agent；AI 教 AI（13.5→85 分）
+- 頁面總數：1 新建 + 5 更新 + index.md + log.md
+
+## [2026-04-17] query → synthesis | AI 協作工程的六大趨勢
+- 類型：綜合 12 個來源的趨勢分析，由 query 觸發後存為綜整頁
+- 新建頁面：[[綜整-AI協作工程的六大趨勢]]
+- 六大趨勢：重心轉向環境設計、上下文管理成核心挑戰、人類判斷向上游遷移、基礎設施民主化、Skill 成新軟體原語、Agent 從工具走向長期夥伴
+- 五個強化方向：Harness 設計模式系統化、上下文管理量化、Spec-driven 工具鏈、微型 SaaS 方法論、Skill 生態系追蹤
+- 知識庫現況：最厚實=AI Agent 執行層（6 來源），最薄弱=Spec→驗證鏈路 + Product→Business 銜接

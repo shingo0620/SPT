@@ -96,6 +96,7 @@ tags: [AI輔助開發, Claude Code, Skills, 工具]
 | [[src-AI輔助工作流程]] | Barbero 的工作流程改編自本 skill 集 |
 | [[src-dotLLM]] | dotLLM 的 ROADMAP.md 對應 prd-to-plan 的計畫模板 |
 | [[垂直切片]] | 遊戲開發的垂直切片概念，在軟體工程中有完全對應的實踐 |
+| [[src-Code Review已死]] | write-a-prd skill 正是 spec-driven development 的具體實踐，與五層信任模型 Layer 3（Humans Define Acceptance Criteria）完全吻合 |
 
 ## 相關頁面
 
@@ -103,3 +104,4 @@ tags: [AI輔助開發, Claude Code, Skills, 工具]
 - [[src-AI輔助工作流程]]
 - [[src-dotLLM]]
 - [[垂直切片]]
+- [[src-Code Review已死]]
