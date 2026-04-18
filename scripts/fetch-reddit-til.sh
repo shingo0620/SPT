@@ -1,6 +1,14 @@
 #!/bin/bash
 # 每日擷取 Reddit r/todayilearned Top 15 並存入 raw/
 # 用法：./scripts/fetch-reddit-til.sh [日期 YYYY-MM-DD]
+#
+# 環境變數（可選；建議 GitHub Actions 設定）：
+#   REDDIT_CLIENT_ID、REDDIT_CLIENT_SECRET — 使用 OAuth client_credentials
+#   grant，避開 Reddit 對 datacenter IP 的匿名封鎖。未設定時走匿名模式
+#  （本機可用、GH Actions 會被 403）。
+#
+# 建立 Reddit app：https://www.reddit.com/prefs/apps
+#   type: script / redirect: http://localhost / 取 client id + secret
 
 set -euo pipefail
 
@@ -8,6 +16,7 @@ PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 RAW_DIR="${PROJECT_DIR}/raw"
 DATE="${1:-$(date +%Y-%m-%d)}"
 OUTFILE="${RAW_DIR}/reddit-til-${DATE}.md"
+UA="SPT-daily-digest/1.0 (by /u/shingo0620)"
 
 # 避免重複擷取
 if [[ -f "$OUTFILE" ]]; then
@@ -18,11 +27,25 @@ fi
 TMPFILE=$(mktemp)
 trap 'rm -f "$TMPFILE"' EXIT
 
-# 擷取 JSON
-curl -sf \
-  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" \
-  "https://www.reddit.com/r/todayilearned/top/.json?t=day&limit=15" \
-  > "$TMPFILE"
+if [[ -n "${REDDIT_CLIENT_ID:-}" && -n "${REDDIT_CLIENT_SECRET:-}" ]]; then
+  TOKEN=$(curl -sf -X POST \
+    -u "${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}" \
+    -H "User-Agent: ${UA}" \
+    -d "grant_type=client_credentials" \
+    https://www.reddit.com/api/v1/access_token \
+    | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+  [[ -z "$TOKEN" ]] && { echo "錯誤：無法取得 Reddit OAuth token" >&2; exit 1; }
+  curl -sf \
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "User-Agent: ${UA}" \
+    "https://oauth.reddit.com/r/todayilearned/top?t=day&limit=15" \
+    > "$TMPFILE"
+else
+  curl -sf \
+    -H "User-Agent: ${UA}" \
+    "https://www.reddit.com/r/todayilearned/top/.json?t=day&limit=15" \
+    > "$TMPFILE"
+fi
 
 if [[ ! -s "$TMPFILE" ]]; then
   echo "錯誤：無法擷取 Reddit 資料" >&2

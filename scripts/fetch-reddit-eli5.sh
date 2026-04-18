@@ -1,21 +1,39 @@
 #!/bin/bash
 # 每日擷取 Reddit r/explainlikeimfive Top 15 並存入 raw/
+# 環境變數 REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET 啟用 OAuth 模式
+# （詳見 fetch-reddit-til.sh 說明）
 set -euo pipefail
 
 PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 RAW_DIR="${PROJECT_DIR}/raw"
 DATE="${1:-$(date +%Y-%m-%d)}"
 OUTFILE="${RAW_DIR}/reddit-eli5-${DATE}.md"
+UA="SPT-daily-digest/1.0 (by /u/shingo0620)"
 
 [[ -f "$OUTFILE" ]] && { echo "已存在：${OUTFILE}，跳過"; exit 0; }
 
 TMPFILE=$(mktemp)
 trap 'rm -f "$TMPFILE"' EXIT
 
-curl -sf \
-  -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" \
-  "https://www.reddit.com/r/explainlikeimfive/top/.json?t=day&limit=15" \
-  > "$TMPFILE"
+if [[ -n "${REDDIT_CLIENT_ID:-}" && -n "${REDDIT_CLIENT_SECRET:-}" ]]; then
+  TOKEN=$(curl -sf -X POST \
+    -u "${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}" \
+    -H "User-Agent: ${UA}" \
+    -d "grant_type=client_credentials" \
+    https://www.reddit.com/api/v1/access_token \
+    | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+  [[ -z "$TOKEN" ]] && { echo "錯誤：無法取得 Reddit OAuth token" >&2; exit 1; }
+  curl -sf \
+    -H "Authorization: Bearer ${TOKEN}" \
+    -H "User-Agent: ${UA}" \
+    "https://oauth.reddit.com/r/explainlikeimfive/top?t=day&limit=15" \
+    > "$TMPFILE"
+else
+  curl -sf \
+    -H "User-Agent: ${UA}" \
+    "https://www.reddit.com/r/explainlikeimfive/top/.json?t=day&limit=15" \
+    > "$TMPFILE"
+fi
 
 [[ ! -s "$TMPFILE" ]] && { echo "錯誤：無法擷取 Reddit 資料" >&2; exit 1; }
 

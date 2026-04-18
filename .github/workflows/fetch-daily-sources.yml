@@ -17,6 +17,9 @@ jobs:
 
       - name: Reddit r/todayilearned
         continue-on-error: true
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: bash scripts/fetch-reddit-til.sh
 
       - name: Delay (avoid Reddit rate limit)
@@ -24,6 +27,9 @@ jobs:
 
       - name: Reddit r/explainlikeimfive
         continue-on-error: true
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: bash scripts/fetch-reddit-eli5.sh
 
       - name: Hacker News
