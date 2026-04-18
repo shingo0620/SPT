@@ -1,9 +1,9 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md]
 created: 2026-04-15
-updated: 2026-04-16
+updated: 2026-04-17
 tags: [wikipedia, monthly-digest]
 ---
 
@@ -68,3 +68,34 @@ tags: [wikipedia, monthly-digest]
 - **2001**：印度與孟加拉國因邊境爭議爆發六天衝突，最終以僵局收場
 - **1963**：馬丁·路德·金恩在伯明翰監獄中撰寫《伯明翰獄中書》，回應白人牧師對非暴力抵抗策略的質疑
 - **1948**：歐洲經濟合作組織（OEEC）在巴黎成立，為 OECD 前身
+
+## 2026-04-17
+
+### 今日精選文章
+
+**橋樑（Bridge）**——跨越河流、鐵道等障礙物的結構，讓車輛、行人、載重通過。多數橋樑由平坦的橋面組成，由梁、拱、或索支撐；整座橋座落於精心設計的基礎上，將橋身重量傳至地基而不沉陷。[完整文章](https://en.wikipedia.org/wiki/Bridge)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | Justin Fairfax（前維吉尼亞州副州長） | 587,429 | [Wiki](https://en.wikipedia.org/wiki/Justin_Fairfax) |
+| 2 | Alex Manninger（奧地利前足球守門員） | 268,502 | [Wiki](https://en.wikipedia.org/wiki/Alex_Manninger) |
+| 3 | Dhurandhar: The Revenge（印度電影） | 161,731 | [Wiki](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+| 4 | 印度最高票房電影列表 | 144,410 | [Wiki](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 5 | 2026 年逝世人物 | 133,554 | [Wiki](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+| 6 | Castalius | 126,044 | [Wiki](https://en.wikipedia.org/wiki/Castalius) |
+| 7 | 菲律賓食品藥物管理局 | 118,189 | [Wiki](https://en.wikipedia.org/wiki/Food_and_Drug_Administration_(Philippines)) |
+| 8 | Sierras de Cazorla 自然公園（西班牙） | 112,746 | [Wiki](https://en.wikipedia.org/wiki/Sierras_de_Cazorla%2C_Segura_y_Las_Villas_Natural_Park) |
+| 9 | Michael Olise（英奈混血足球員） | 109,665 | [Wiki](https://en.wikipedia.org/wiki/Michael_Olise) |
+| 10 | Judith Barsi（童星，1988 遇害） | 98,762 | [Wiki](https://en.wikipedia.org/wiki/Judith_Barsi) |
+
+> 值得注意：**Justin Fairfax** 以 58.7 萬瀏覽居冠，可能與 2026 年新聞事件相關（需另行查核）。前三名中 **Dhurandhar: The Revenge** 連續三日上榜，顯示印度寶萊塢話題的持續熱度。
+
+### 歷史上的今天
+
+- **2014**：NASA 宣布發現 Kepler-186f，首顆半徑與地球相當、位於另一恆星宜居帶的系外行星
+- **2013**：美國德州 West 鎮化肥廠硝酸銨爆炸，15 死 160 傷
+- **2006**：巴勒斯坦自殺炸彈客在以色列特拉維夫一間餐廳引爆炸彈，11 死 70 傷
+- **1986**：荷蘭與英國錫利群島宣布結束 335 年未開一槍、零傷亡的「假想戰爭」
+- **1984**：英國警員 Yvonne Fletcher 於倫敦利比亞大使館外執勤時被槍殺，引發 11 天圍困與英利關係斷裂

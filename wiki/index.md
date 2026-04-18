@@ -47,6 +47,7 @@
 ### Skill 解析
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
+- [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
 
 ## 實體
 

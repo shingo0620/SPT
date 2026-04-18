@@ -1,9 +1,9 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md]
 created: 2026-04-15
-updated: 2026-04-16
+updated: 2026-04-17
 tags: [producthunt, monthly-digest]
 ---
 
@@ -54,3 +54,25 @@ tags: [producthunt, monthly-digest]
 | 15 | ImmoBit | 手機上像專業人士一樣評估房產 | Android / Productivity | [PH](https://www.producthunt.com/products/immobit) |
 
 > 備註：Notion Diff、Sequna、OmniType 是當日開發者工具類亮點。
+
+## 2026-04-17
+
+| # | 產品 | 一句話說明 | 分類 | 連結 |
+|---|------|-----------|------|------|
+| 1 | Claude Opus 4.7 | Anthropic 最新旗艦——最強推理與 agentic coding | API / AI / Dev | [PH](https://www.producthunt.com/products/claude-opus-4-7) |
+| 2 | Build Check (for Outsiders) | 你的 App 點子真的值得做嗎？ | No-Code / Vibe coding | [PH](https://www.producthunt.com/products/build-check-for-outsiders) |
+| 3 | E.Y.E. by Expert Chase | 與 AI 並行的人生作業系統 | Productivity / AI | [PH](https://www.producthunt.com/products/expert-chase-deleted-1107920) |
+| 4 | Submit.DIY | 一站式 AI 產品發布平台 | Marketing / Growth Hacking | [PH](https://www.producthunt.com/products/submit-diy) |
+| 5 | Codex 2.0 by OpenAI | Codex 升級——能跑 App、自動化任務、寫程式 | Productivity / AI | [PH](https://www.producthunt.com/products/openai) |
+| 6 | Canva AI 2.0 | 和你一起創作、連接你工作資料的 AI | Design / AI | [PH](https://www.producthunt.com/products/canva) |
+| 7 | CalendarPipe | 為人與 AI agent 設計的可程式化行事曆同步 | Productivity / Calendar | [PH](https://www.producthunt.com/products/calendarpipe) |
+| 8 | Visual PR Testing with AI | AI 替你跑每個 PR 的視覺測試 | DevTools / AI | [PH](https://www.producthunt.com/products/qa-tech) |
+| 9 | Hello Aria | 把聊天轉成任務、提醒、筆記 | Productivity / AI | [PH](https://www.producthunt.com/products/hello-aria-3) |
+| 10 | AI Mode in Chrome | 瀏覽與搜尋並排，不用切分頁 | UX / AI | [PH](https://www.producthunt.com/products/ai-mode-in-chrome) |
+| 11 | Cloudflare Email Service | 把 Email 收件匣變成 AI agent 原生介面 | Email / AI | [PH](https://www.producthunt.com/products/cloudflare) |
+| 12 | Elvan | 把顧客回饋變成 AI 決策 | Customer Success / SaaS | [PH](https://www.producthunt.com/products/elvan-3) |
+| 13 | Qwen3.6-35B-A3B | 開源稀疏 MoE 模型，主打 agentic coding | Open Source / AI | [PH](https://www.producthunt.com/products/qwen3) |
+| 14 | Arky | 與 AI 思考的畫布 | Writing / AI | [PH](https://www.producthunt.com/products/arky) |
+| 15 | LIVE: wtf are agents buying? | 即時看 AI agent 花錢的直播 | AI / Web3 | [PH](https://www.producthunt.com/products/live-wtf-are-agents-buying) |
+
+> 值得注意：當日 **Claude Opus 4.7**（#1，270 票）與 **Codex 2.0**（#5，156 票）同場競技，恰好呼應 HN 當日同主題的熱門討論——旗艦 LLM 正式進入「不只對話、還要真正代替你做事」的 agentic 階段。**Qwen3.6-35B-A3B** 的上榜（#13）顯示開源 MoE 模型也搶進 agentic coding 戰場。**CalendarPipe** 與 **Cloudflare Email Service** 則展現「為 AI agent 重新設計基礎設施」的趨勢——行事曆、Email 收件匣都要改成 agent-friendly 介面。

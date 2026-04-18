@@ -167,3 +167,15 @@
 - 六大趨勢：重心轉向環境設計、上下文管理成核心挑戰、人類判斷向上游遷移、基礎設施民主化、Skill 成新軟體原語、Agent 從工具走向長期夥伴
 - 五個強化方向：Harness 設計模式系統化、上下文管理量化、Spec-driven 工具鏈、微型 SaaS 方法論、Skill 生態系追蹤
 - 知識庫現況：最厚實=AI Agent 執行層（6 來源），最薄弱=Spec→驗證鏈路 + Product→Business 銜接
+
+## [2026-04-18] ingest | 每日新知 2026-04-17（4 來源）
+- 處理日期：2026-04-17
+- 處理來源：raw/hn-top-2026-04-17.md、raw/wikipedia-featured-2026-04-17.md、raw/producthunt-2026-04-17.md、raw/skills-picks-2026-04-17.md
+- 更新頁面：[[src-hn-2026-04]]、[[src-wikipedia-2026-04]]、[[src-producthunt-2026-04]]、[[src-skills-picks-2026-04]]（追加 2026-04-17 區塊，更新 frontmatter sources/updated）
+- 新建頁面：[[src-skill-3b1b-style-animation-skill]]（skills.sh 當日精選獨立解析頁）
+- 事實查核：
+  - ✅ Wikipedia 歷史上的今天：Kepler-186f (2014)、West Texas 化肥廠爆炸 (2013)、Yvonne Fletcher (1984)、荷蘭-錫利群島和平 (1986)、特拉維夫餐廳爆炸 (2006) 皆屬實
+  - ✅ HN #1 Asimov《最後的問題》為 1956 真實短篇；#5 Claude Opus 4.7 與當前使用模型一致
+  - ⚠️ skills-picks raw 檔有 fetch bug：「Skill README」區塊錯置為 ast-grep（2026-04-18 的 pick）。已依 frontmatter 與「今日精選」欄位確認 2026-04-17 pick 為 3b1b-style-animation-skill（1 install）
+- 當日主題觀察：Claude Opus 4.7 與 OpenAI Codex 2.0 同日發布 agentic coding 工具；HN #15 Stage（code review）與已知 [[src-Code Review已死]] 共振
+- 未處理：reddit-til / reddit-eli5 / github-trending 當日無 raw 檔（自動化流程可能未擷取到內容）
