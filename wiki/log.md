@@ -179,3 +179,21 @@
   - ⚠️ skills-picks raw 檔有 fetch bug：「Skill README」區塊錯置為 ast-grep（2026-04-18 的 pick）。已依 frontmatter 與「今日精選」欄位確認 2026-04-17 pick 為 3b1b-style-animation-skill（1 install）
 - 當日主題觀察：Claude Opus 4.7 與 OpenAI Codex 2.0 同日發布 agentic coding 工具；HN #15 Stage（code review）與已知 [[src-Code Review已死]] 共振
 - 未處理：reddit-til / reddit-eli5 / github-trending 當日無 raw 檔（自動化流程可能未擷取到內容）
+
+## [2026-04-18] infra | 修 Reddit fetch + 啟用本機 launchd cron
+- 發現：GitHub Actions 上 fetch-reddit-*.sh 持續失敗（curl exit 22 = HTTP 403），Reddit 封 datacenter IP；`continue-on-error: true` 把錯誤藏成 success
+- 嘗試 1（失敗）：加 OAuth client_credentials 支援——使用者無法建立 Reddit app 而放棄
+- 解法：改走本機 launchd，每日 22:05 跑 scripts/fetch-reddit-local.sh → 抓 reddit-til + reddit-eli5 → 順手 sync-vault push
+- 新檔：scripts/fetch-reddit-local.sh、scripts/com.shingowu.spt.fetch-reddit.plist
+- 工作流變動：GH Actions 移除 Reddit 兩步；本機 launchd 接手；/bin/bash 授予 Full Disk Access 讓 launchd 能寫 iCloud
+- Commits：ca1ca82（OAuth 嘗試）、f8eab2d（改本機 cron）
+- 缺口：reddit-til 04-15/16/17 與 reddit-eli5 04-16/17 永久缺角（Reddit `top?t=day` 不回歷史資料）
+
+## [2026-04-18] ingest | reddit 04-18 + Claude Code Routines
+- 處理日期：2026-04-18（Reddit）+ 既有 Obsidian bookmark（Routines）
+- 處理來源：raw/reddit-til-2026-04-18.md、raw/reddit-eli5-2026-04-18.md、raw/automate-work-with-routines-claude-code-docs.md
+- 新建頁面：[[src-Claude Code Routines]]
+- 更新頁面：[[src-reddit-til-2026-04]]（追加 2026-04-18 區塊 + 04-15/16/17 缺口說明）、[[src-reddit-eli5-2026-04]]（追加 2026-04-18 + 04-16/17 缺口說明）、[[wiki/index.md]]
+- 事實查核（reddit-til 04-18 全 15 條）：14 條 ✅，1 條 ⚠️（#3 拿破崙 6 天馬爾他改革——核心屬實但部分細節可能混入後續佔領期）
+- raw/ 更新：刪除原 URL bookmark 檔、換為 fetched 內容（正確 kebab-case 命名）
+- 關聯觀察：Routines 呼應既有 wiki 中 [[src-Harness Engineering]]「Lifelong AI Agent」願景、且為 HN 月報 04-15 #1 同一來源的正式收錄

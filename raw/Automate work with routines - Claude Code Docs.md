@@ -1,1 +1,0 @@
-[Automate work with routines - Claude Code Docs](https://code.claude.com/docs/en/routines)

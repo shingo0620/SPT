@@ -1,9 +1,9 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-18
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
@@ -36,3 +36,29 @@ tags: [reddit, todayilearned, monthly-digest]
 - **#4 ⚠️**：大致正確，但部分暴力細節（頭盔、鐵鎚）來自爭議性傳記記述，不同來源說法有出入
 - **#7 ⚠️**：原始 Reddit 標題聲稱「其實是綁匪不忍殺人質」過度簡化。實際情況是人質與綁匪雙方都產生了心理變化，學界對此症候群的批評重點在於它從未被納入 DSM 診斷標準，並非簡單的「角色反轉」。翻譯時已修正措辭
 - **#11 ⚠️**：聖包皮（Holy Prepuce）作為中世紀遺物確實存在，但原始 Reddit 標題中「foreskin cruncher」一詞和「靠味道鑑定」的說法出自單一來源且可能誇大。翻譯時已移除聳動細節，保留可驗證的核心事實
+
+> **缺口說明**：04-15、04-16、04-17 三天因 GitHub Actions 被 Reddit 封鎖未擷取到，Reddit `top?t=day` API 只回當下 top 無法回補，故留白。後續改由本機 launchd cron 抓取。
+
+## 2026-04-18
+
+| # | 冷知識 | 分數 | 查核 | 來源 |
+|---|-------|------|------|------|
+| 1 | Wendy's 巧克力 Frosty 其實是一半巧克力一半香草混成——創辦人 Dave Thomas 認為純巧克力太強烈 | 23,612 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Frosty_(frozen_dairy_dessert)) |
+| 2 | 詹姆士·龐德要求的「搖不攪」馬丁尼其實有爭議——純酒精飲料幾乎都用攪的，以保持清澈、避免過度稀釋 | 16,658 | ✅ | [tommacy](https://www.tommacy.com/shakingvstirring) |
+| 3 | 拿破崙在馬爾他停留僅 6 天就廢除奴隸制與封建制、限制教會權力、建立公共教育、創設郵政、改革行政、起草家庭法、任命 12 位法官 | 15,193 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Malta#Knights_of_Malta_and_Napoleon) |
+| 4 | Ferrari 這個姓氏在義大利相當於英文的「Smith」——兩者都是職業姓氏，意為「鐵匠」 | 11,793 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Smith_(surname)) |
+| 5 | 全球已知語言中最複雜的字是「𰻞」（biáng），中國一道麵食的名字，筆劃 42 到 70 畫，最常見的寫法是 58 畫 | 4,637 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Biangbiang_noodles#Chinese_character_for_bi%C3%A1ng) |
+| 6 | 2009 年在 Antietam 戰場發現一位不知名的聯邦軍戰士遺骸，年齡 17-19，147 年後歸葬紐約 | 3,611 | ✅ | [KERA News](https://www.keranews.org/2009-09-18/union-soldier-comes-home-147-years-later) |
+| 7 | Kate Bush 為 Peter Gabriel〈Games Without Frontiers〉錄和聲時，混音師全都迷上她，「爭相衝進控制室搶先幫她調麥克風或整理耳機」 | 3,584 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Games_Without_Frontiers_(song)) |
+| 8 | 加拿大有專門飼養供出口至日本的活體馬肉產業 | 2,750 | ✅ | [Gov Canada](https://inspection.canada.ca/en/animal-health/terrestrial-animals/humane-transport/horses/regulatory-oversight) |
+| 9 | 奧勒岡州 Cape Kiwanda「鴨嘴岩」2016 年被一群青少年推倒，事後自稱「為公益」——影片拍下卻從未遭起訴 | 2,368 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Duckbill_(rock_formation)) |
+| 10 | 歷史上出生過的所有人類中，每 14 人就有 1 人現在還活著（約 7%） | 2,064 | ✅ | [PRB](https://www.prb.org/news/how-many-people-have-ever-lived-on-earth/) |
+| 11 | 澳洲塔斯曼尼亞一隻名叫 Clyde 的貓失蹤 3 年後出現在 2,400 英里外的內陸沙漠——沒人知道牠如何橫渡 185 英里海峽又跨了 2,000 多英里 | 2,007 | ✅ | [CBS News](https://www.cbsnews.com/news/cat-returns-from-2400-mile-outback-trek/) |
+| 12 | Mae Laborde 93 歲才開始演員生涯，出演《菠蘿快遞》《哈拉上路》《費城永遠陽光燦爛》 | 1,952 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Mae_Laborde) |
+| 13 | Lucía Zárate 是史上體重最輕的成年人——4.7 磅（2.1 公斤） | 1,841 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Luc%C3%ADa_Z%C3%A1rate) |
+| 14 | 1685 年路易十四因牙痛拔了一顆臼齒，結果傷口感染，醫生乾脆把他上顎所有牙齒全拔——全程無麻醉，且不慎打穿上顎造成長期吞嚥困難 | 1,784 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Louis_XIV) |
+| 15 | 植物學中「Vavilovian 擬態」——雜草因長期無意識的人工選擇而演化出與作物相似特徵；燕麥是模仿小麥的經典案例 | 1,257 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Vavilovian_mimicry) |
+
+### 查核備註
+
+- **#3 ⚠️**：拿破崙確實在 6 天內啟動一連串改革（廢封建、奴隸制、建立公共教育、設郵政、引入法國民法體系等 Wikipedia 均有記載），但 Reddit 原文羅列的「12 位法官」「家庭法」等細節是否皆在那 6 天完成、或包含後續佔領期的措施，來源未明確區分。核心事實（6 天內啟動多項重大改革）屬實，細節可能混入後續佔領期

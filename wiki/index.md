@@ -18,6 +18,7 @@
 - [[src-Claude Code五個底層概念]] — 概率、窗口、模型、循環、層級——駕馭 LLM Agent 的心智模型（來源數：1）
 - [[src-Harness Engineering]] — Harness Engineering 駕馭工程：agents.md、Ralph Loop、Lifelong AI Agent（來源數：1）
 - [[src-Code Review已死]] — Code Review 已死：Spec-driven development + Swiss-cheese 五層信任模型（來源數：1）
+- [[src-Claude Code Routines]] — Claude Code Routines：排程／API／GitHub 事件驅動的雲端自主任務，Lifelong AI Agent 第一版可用產品（來源數：1）
 
 ### 遊戲設計與開發
 
