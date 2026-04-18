@@ -20,6 +20,7 @@ EXCLUDES=(
     'conflict-files-*'    # iCloud 衝突檔案
     '* 2.md'              # iCloud 衝突副本（常見格式）
     '* 3.md'              # iCloud 衝突副本
+    'work/'               # vault 中的個人工作目錄（不進 git）
 )
 
 build_excludes() {
@@ -57,24 +58,25 @@ check_dirs() {
 }
 
 do_push() {
-    echo -e "${GREEN}[push] wiki/ → vault${NC}"
+    echo -e "${GREEN}[push] wiki/ → vault/wiki/${NC}"
     local excludes=()
     for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
+    mkdir -p "${VAULT_DIR}/wiki"
     rsync -av --update --delete \
         "${excludes[@]}" \
-        "${WIKI_DIR}/" "${VAULT_DIR}/"
+        "${WIKI_DIR}/" "${VAULT_DIR}/wiki/"
     echo -e "${GREEN}[push] 完成${NC}"
 }
 
 do_pull() {
-    echo -e "${YELLOW}[pull] vault → wiki/${NC}"
+    echo -e "${YELLOW}[pull] vault/wiki/ → wiki/${NC}"
     local excludes=()
     for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
     # pull 只拉 .md 檔案，避免 Obsidian 產生的非 wiki 檔案污染 repo
     rsync -av --update \
         "${excludes[@]}" \
         --include='*.md' --exclude='*' \
-        "${VAULT_DIR}/" "${WIKI_DIR}/"
+        "${VAULT_DIR}/wiki/" "${WIKI_DIR}/"
     echo -e "${YELLOW}[pull] 完成${NC}"
 }
 
@@ -82,17 +84,17 @@ do_status() {
     local excludes=()
     for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
 
-    echo -e "${GREEN}=== wiki/ → vault（push 會同步的檔案）===${NC}"
+    echo -e "${GREEN}=== wiki/ → vault/wiki/（push 會同步的檔案）===${NC}"
     rsync -avn --update --delete \
         "${excludes[@]}" \
-        "${WIKI_DIR}/" "${VAULT_DIR}/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
+        "${WIKI_DIR}/" "${VAULT_DIR}/wiki/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
 
     echo ""
-    echo -e "${YELLOW}=== vault → wiki/（pull 會同步的檔案）===${NC}"
+    echo -e "${YELLOW}=== vault/wiki/ → wiki/（pull 會同步的檔案）===${NC}"
     rsync -avn --update \
         "${excludes[@]}" \
         --include='*.md' --exclude='*' \
-        "${VAULT_DIR}/" "${WIKI_DIR}/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
+        "${VAULT_DIR}/wiki/" "${WIKI_DIR}/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
 }
 
 [[ $# -lt 1 ]] && usage
