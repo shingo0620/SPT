@@ -10,6 +10,26 @@ REPO_DIR="/Users/shingowu/Work/private/SPT"
 VAULT_DIR="/Users/shingowu/Library/Mobile Documents/iCloud~md~obsidian/Documents/SPT"
 WIKI_DIR="${REPO_DIR}/wiki"
 
+# rsync 排除清單
+EXCLUDES=(
+    '.obsidian/'          # Obsidian 設定（vault 獨有，不進 git）
+    '.trash/'             # Obsidian 刪除的檔案
+    '.DS_Store'           # macOS
+    '*.canvas'            # Obsidian canvas 檔案
+    '.smart-connections/' # Obsidian plugin 快取
+    'conflict-files-*'    # iCloud 衝突檔案
+    '* 2.md'              # iCloud 衝突副本（常見格式）
+    '* 3.md'              # iCloud 衝突副本
+)
+
+build_excludes() {
+    local args=()
+    for pattern in "${EXCLUDES[@]}"; do
+        args+=(--exclude="$pattern")
+    done
+    echo "${args[@]}"
+}
+
 # 顏色
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -38,34 +58,40 @@ check_dirs() {
 
 do_push() {
     echo -e "${GREEN}[push] wiki/ → vault${NC}"
+    local excludes=()
+    for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
     rsync -av --update --delete \
-        --exclude='.obsidian/' \
-        --exclude='.DS_Store' \
+        "${excludes[@]}" \
         "${WIKI_DIR}/" "${VAULT_DIR}/"
     echo -e "${GREEN}[push] 完成${NC}"
 }
 
 do_pull() {
     echo -e "${YELLOW}[pull] vault → wiki/${NC}"
+    local excludes=()
+    for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
+    # pull 只拉 .md 檔案，避免 Obsidian 產生的非 wiki 檔案污染 repo
     rsync -av --update \
-        --exclude='.obsidian/' \
-        --exclude='.DS_Store' \
+        "${excludes[@]}" \
+        --include='*.md' --exclude='*' \
         "${VAULT_DIR}/" "${WIKI_DIR}/"
     echo -e "${YELLOW}[pull] 完成${NC}"
 }
 
 do_status() {
+    local excludes=()
+    for p in "${EXCLUDES[@]}"; do excludes+=(--exclude="$p"); done
+
     echo -e "${GREEN}=== wiki/ → vault（push 會同步的檔案）===${NC}"
     rsync -avn --update --delete \
-        --exclude='.obsidian/' \
-        --exclude='.DS_Store' \
+        "${excludes[@]}" \
         "${WIKI_DIR}/" "${VAULT_DIR}/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
 
     echo ""
     echo -e "${YELLOW}=== vault → wiki/（pull 會同步的檔案）===${NC}"
     rsync -avn --update \
-        --exclude='.obsidian/' \
-        --exclude='.DS_Store' \
+        "${excludes[@]}" \
+        --include='*.md' --exclude='*' \
         "${VAULT_DIR}/" "${WIKI_DIR}/" 2>&1 | grep -v '^\(sending\|sent\|total\|building\)' || echo "(無差異)"
 }
 
