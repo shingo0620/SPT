@@ -15,22 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Reddit r/todayilearned
-        continue-on-error: true
-        env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-        run: bash scripts/fetch-reddit-til.sh
-
-      - name: Delay (avoid Reddit rate limit)
-        run: sleep 5
-
-      - name: Reddit r/explainlikeimfive
-        continue-on-error: true
-        env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-        run: bash scripts/fetch-reddit-eli5.sh
+      # Reddit 來源改由本機 launchd 擷取（Reddit 封 GH Actions IP）
+      # 見 scripts/fetch-reddit-local.sh 與 com.shingowu.spt.fetch-reddit.plist
 
       - name: Hacker News
         continue-on-error: true

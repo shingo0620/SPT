@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd 設定：每天 22:05（GH Actions 跑完 5 分鐘後）本機擷取 Reddit 來源
+
+  安裝：
+    cp scripts/com.shingowu.spt.fetch-reddit.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.shingowu.spt.fetch-reddit.plist
+
+  立即測試（不等排程）：
+    launchctl start com.shingowu.spt.fetch-reddit
+    tail -f ~/Library/Logs/spt/fetch-reddit-$(date +%Y-%m-%d).log
+
+  停用：
+    launchctl unload ~/Library/LaunchAgents/com.shingowu.spt.fetch-reddit.plist
+
+  注意：Mac 關機或 sleep 時會錯過，launchd 會在下次喚醒時補跑一次
+  （因為 plist 未設 AbandonProcessGroup；macOS 預設行為）。
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.shingowu.spt.fetch-reddit</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/shingowu/Work/private/SPT/scripts/fetch-reddit-local.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>22</integer>
+        <key>Minute</key>
+        <integer>5</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/shingowu/Library/Logs/spt/launchd-stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/shingowu/Library/Logs/spt/launchd-stderr.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
