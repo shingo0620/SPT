@@ -1,15 +1,43 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md]
 created: 2026-04-15
-updated: 2026-04-17
+updated: 2026-04-18
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-18
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **Claude Design** by Anthropic Labs | 用和 Claude 對話來做 prototype、slides、one-pager | Design Tools / AI | 238 / 5 | [PH](https://www.producthunt.com/products/claude) |
+| 2 | CraftBot | 自架本機運行的主動式 AI 助理 | Productivity / Open Source / AI | 165 / 21 | [PH](https://www.producthunt.com/products/craftbot) |
+| 3 | Notebooks in Gemini | 把每個專案、聊天、檔案放在同一個專注空間 | Productivity / Education / AI | 162 / 2 | [PH](https://www.producthunt.com/products/google) |
+| 4 | Is Your Site Agent-Ready? by Cloudflare | 掃描你的網站，檢查對 AI agent 的友善程度 | SEO / AI / Dev | 148 / 7 | [PH](https://www.producthunt.com/products/is-your-site-agent-ready) |
+| 5 | Vercel Flags | Feature flag、targeting、rollout，都從 Vercel 來 | Software Engineering / DevTools | 130 / 3 | [PH](https://www.producthunt.com/products/vercel) |
+| 6 | ChatGPT Shopping | 更豐富、視覺化的購物體驗 | UX / AI / E-Commerce | 118 / 2 | [PH](https://www.producthunt.com/products/chatgpt-shopping) |
+| 7 | React Email 6.0 by Resend | 在自己 App 裡 build/customize/ship email | Email / Open Source | 113 / 4 | [PH](https://www.producthunt.com/products/react-email-6-0-resend) |
+| 8 | Claude Code Rendering | 滑鼠支援 + 無閃爍渲染 | UX / DevTools / AI | 110 / 4 | [PH](https://www.producthunt.com/products/claude-code-no_flicker-mode) |
+| 9 | Android CLI | 用任何 agent 把 Android app 打造得快 3 倍 | Android / AI / SDK | 107 / 4 | [PH](https://www.producthunt.com/products/android-cli) |
+| 10 | Grok Voice API | 最低價的快速精準 STT + TTS API | API / AI / Audio | 100 / 4 | [PH](https://www.producthunt.com/products/grok) |
+| 11 | CapyPlan | 為小任務打氣的無壓力啦啦隊 | Task / Calendar | 97 / 4 | [PH](https://www.producthunt.com/products/gentle-daily-planner-capyplan) |
+| 12 | lindo.ai | 用你的品牌推出自家 AI 網站建立器 | Website Builder / AI / No-Code | 81 / 2 | [PH](https://www.producthunt.com/products/lindo) |
+| 13 | .MD This Page | 任何網頁一鍵轉乾淨 Markdown | Browser Extension / Open Source | 80 / 3 | [PH](https://www.producthunt.com/products/md-this-page) |
+| 14 | Hipocampus | 接管團隊工作流程的 AI operator | SaaS / AI / YouTube | 76 / 7 | [PH](https://www.producthunt.com/products/hipocampus) |
+| 15 | Lounge | macOS Tahoe 選單列管理，notch 感知圖示控制 | Productivity / Icons / Menu Bar | 67 / 6 | [PH](https://www.producthunt.com/products/lounge-2) |
+
+> **當日主題：Anthropic Labs 日**。Claude Design（#1 重磅登場，同日 HN #8 衝 1,104 分）+ Claude Code Rendering（#8，渲染層修復）—— Anthropic 在 AI 設計工具領域明顯出手。CraftBot（#2 自架 AI 助理）與 Notebooks in Gemini（#3）形成「雲端 vs 本機」的對比。
+>
+> **AI 基礎設施再設計**：Cloudflare 的「Is Your Site Agent-Ready?」（#4）是一個宣告式工具——未來網站不只要對搜尋引擎友善，也要對 AI agent 友善。與前一天 CalendarPipe、Cloudflare Email Service 的趨勢一致。
+>
+> **.MD This Page（#13）**：Chrome extension 把任何頁面轉成 Markdown——與自家 wiki 使用的 markdown.new API 功能類似，值得關注是否能取代既有 `fetch-url.sh` 流程。
+>
+> **Android CLI（#9）**：把 CLI agent 模式帶進 Android 開發——呼應 [[src-Claude Code Routines]] 把 agent 從 IDE 挪到命令列的趨勢。
 
 ## 2026-04-17
 

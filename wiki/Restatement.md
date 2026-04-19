@@ -3,7 +3,7 @@ title: Restatement（重申機制）
 type: concept
 sources: [做 AI Agent 最痛苦的事：明明看了很多教程，最后还是做不对....md]
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-19
 tags: [AI Agent, Context Engineering, 注意力, KV Cache, 長任務, Restatement]
 ---
 
@@ -111,6 +111,7 @@ Matteo Barbero 方法中「每個 task 開全新 session」的做法，本質上
 
 - [[src-AI-Agent避坑指南]]——本概念的完整來源
 - [[src-Harness Engineering]]——Ralph Loop 的摘要機制與 Restatement 解決相同問題：壓縮後重推關鍵資訊
+- [[src-Claude Code Session管理]]——`/compact` 帶 focus 指令、`/clear` 帶 brief 是使用者端的 Restatement；bad compact 正是無 Restatement 時的失效模式
 - [[Skill vs Bash vs MCP]]——Skill 在長任務中的注意力衰減問題
 - [[AI 輔助軟體工程]]——全新 session 策略是 Restatement 的極端形式
 - [[LLM Wiki]]——知識庫結構本身也是一種「為 LLM 做 Restatement」的實踐

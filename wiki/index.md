@@ -19,6 +19,7 @@
 - [[src-Harness Engineering]] — Harness Engineering 駕馭工程：agents.md、Ralph Loop、Lifelong AI Agent（來源數：1）
 - [[src-Code Review已死]] — Code Review 已死：Spec-driven development + Swiss-cheese 五層信任模型（來源數：1）
 - [[src-Claude Code Routines]] — Claude Code Routines：排程／API／GitHub 事件驅動的雲端自主任務，Lifelong AI Agent 第一版可用產品（來源數：1）
+- [[src-Claude Code Session管理]] — Anthropic 團隊講 Claude Code session 管理：context rot、rewind、compact vs clear、bad compact、subagent 決策準則（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -49,6 +50,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，2,941 裝是 skills-picks 月報最高（來源數：1）
 
 ## 實體
 
@@ -86,3 +88,7 @@
 
 - [[三大知識管理系統比較]] — LLM Wiki vs QMD vs GBrain 並排比較（來源數：1）
 - [[綜整-AI協作工程的六大趨勢]] — 六大結構性趨勢 + 五個應強化方向，綜合 12 個來源（來源數：12）
+
+### 週綜整（每週橫向 + 縱向，完整週過完才做）
+
+- _尚無週綜整。W16（2026-04-13 ~ 04-19）的綜整將於 W17（04-20 週一）以後補做。_

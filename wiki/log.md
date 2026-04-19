@@ -197,3 +197,26 @@
 - 事實查核（reddit-til 04-18 全 15 條）：14 條 ✅，1 條 ⚠️（#3 拿破崙 6 天馬爾他改革——核心屬實但部分細節可能混入後續佔領期）
 - raw/ 更新：刪除原 URL bookmark 檔、換為 fetched 內容（正確 kebab-case 命名）
 - 關聯觀察：Routines 呼應既有 wiki 中 [[src-Harness Engineering]]「Lifelong AI Agent」願景、且為 HN 月報 04-15 #1 同一來源的正式收錄
+
+## [2026-04-19] ingest | 每日新知 2026-04-18（5 來源）+ Using Claude Code 文章
+- 處理日期：2026-04-18（5 個每日新知來源）+ Using Claude Code session 管理文章
+- 處理來源：raw/hn-top-2026-04-18.md、raw/wikipedia-featured-2026-04-18.md、raw/producthunt-2026-04-18.md、raw/github-trending-2026-04-18.md、raw/skills-picks-2026-04-18.md、raw/Using Claude Code-Session Management and 1M Context.md
+- 新建頁面：[[src-Claude Code Session管理]]（Anthropic 團隊講 context rot、rewind、compact vs clear、bad compact、subagent）、[[src-skill-ast-grep]]（skills.sh 04-18 精選獨立解析頁，2,941 裝）
+- 更新頁面：[[src-hn-2026-04]]、[[src-wikipedia-2026-04]]、[[src-producthunt-2026-04]]、[[src-github-trending-2026-04]]、[[src-skills-picks-2026-04]]（皆追加 2026-04-18 區塊）；[[Restatement]]、[[src-Claude Code五個底層概念]]、[[src-Harness Engineering]]、[[src-Claude Code Routines]] 加入對 Session 管理頁的交叉引用
+- 事實查核：
+  - ✅ Wikipedia 04-18 歷史：Dominion 7.87 億和解（2023）、Mueller 報告（2019）、遼寧熔鋼事故（2007）、Qana 砲擊（1996）、Mugabe 就任辛巴威首任總理（1980）五條全屬實
+  - ⚠️ HN #4 Michael Rabin 逝世——連結為 Wikipedia 條目而非訃聞，待權威來源確認
+  - ❌ GitHub Trending #3 USDT-Flasher（加密貨幣詐騙工具）、#7 AutoCAD 2026 Desktop（盜版/惡意軟體樣態）——已加刪除線
+  - ⚠️ GitHub Trending #5 Claude-Design-By-Anthropic 命名碰瓷（非 Anthropic 官方，Claude Design 本為網頁服務）
+- 當日主題觀察：**Anthropic Labs 日**——Claude Design 同時衝上 HN #8（1,104 分）、PH #1、衍生出 GitHub #8 awesome-claude-design；Claude 4.7 tokenizer 成本分析（HN #10）引發熱議
+- 關聯觀察：Session 管理文章與既有 [[src-Claude Code五個底層概念]]「窗口」為操作-概念互補；bad compact 成因呼應 [[Restatement]] 要解決的問題；ast-grep skill 2,941 裝 >> character-arc 248 >> 3b1b 1，驗證「工具型 skill >> 領域型」的生態分佈
+- 未處理：GitHub Trending 04-17 無 raw 檔（fetch 當日未擷取到內容）——已於月報標注缺口
+
+## [2026-04-19] rule-fix | 週綜整時機修正 + 撤回過早的 W16 綜整
+- 原誤解：以為「每週一次」= 本週隨時做
+- 使用者糾正（2026-04-19）：「要過完完整一週才做……week17 才可以進行 week16 的分析」
+- 修正 memory feedback_weekly_synthesis.md：進入 Wn 時檢查 W(n-1) 是否已做，絕不在當週未結束時做當週綜整
+- 已刪除：過早建立的 `wiki/週綜整-2026-W16.md`（今天 04-19 是 W16 最後一天，W16 尚未結束）
+- 已從 index.md 移除對應條目，留下「尚無週綜整」占位說明
+- W15（2026-04-06 ~ 04-12）知識庫尚未建立，**不需要補**
+- W16 綜整將於 2026-04-20（W17 週一）以後的 ingest 補做

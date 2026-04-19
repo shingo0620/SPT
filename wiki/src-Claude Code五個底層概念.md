@@ -3,7 +3,7 @@ title: Claude Code 五個底層概念
 type: source
 sources: [yt-為什麼-claude-code-有時很聰明有時又很蠢五個底層概念讓你秒懂.md]
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-19
 tags: [Claude Code, LLM, 概念, AI 輔助開發]
 ---
 
@@ -97,3 +97,4 @@ Claude Code 與一般聊天 AI 的根本差異。
 - [[LLM Wiki]]
 - [[src-AI-Agent避坑指南]]
 - [[src-Harness Engineering]]（「窗口」對應 Harness 管理上下文、「循環」對應 Ralph Loop、「層級」對應 agents.md 的 prompt hierarchy 位置）
+- [[src-Claude Code Session管理]]（窗口概念的實戰操作：rewind、compact、clear、subagent 五個分歧點選擇）

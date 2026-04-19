@@ -3,7 +3,7 @@ title: "Claude Code Routines"
 type: source
 sources: [automate-work-with-routines-claude-code-docs.md]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [claude-code, automation, agent, routines, scheduled-tasks]
 ---
 
@@ -142,4 +142,5 @@ curl -X POST https://api.anthropic.com/v1/claude_code/routines/trig_.../fire \
 - 相關工程方法論：[[AI 輔助軟體工程]]、[[src-mattpocock-skills]]、[[src-AI輔助工作流程]]
 - Agent 架構演進：[[src-AI-Agent避坑指南]]、[[src-Harness Engineering]]
 - 新軟體原語：[[Skill vs Bash vs MCP]]
+- Session 管理互補：[[src-Claude Code Session管理]]（routines 是 session 管理推到雲端自動化——每次觸發都是獨立 session，「開新任務開新 session」原則在 routines 裡變成預設）
 - 趨勢綜整：[[綜整-AI協作工程的六大趨勢]]（routines 實證其中的「基礎設施民主化」與「Agent 從工具走向長期夥伴」兩條趨勢）

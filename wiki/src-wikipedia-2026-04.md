@@ -1,15 +1,33 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md]
 created: 2026-04-15
-updated: 2026-04-17
+updated: 2026-04-18
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-18
+
+### 今日精選文章
+
+**熱帶風暴 Henri（2003）**——2003 年大西洋颶風季的中等強度熱帶風暴，襲擊佛羅里達州。該季第 8 個風暴，是當年 6 個登陸美國的熱帶氣旋之一。9 月 3 日從墨西哥灣的熱帶波發展而來，主要向東移動，9 月 5 日達到顛峰風速 60 mph（97 km/h）。遭遇不利條件後減弱，在佛羅里達 Clearwater 附近以熱帶低壓登陸。9 月 8 日在佛州減弱為殘餘低壓，之後在美國東岸沿海持續數日才再次登陸北卡羅來納，帶來大西洋中部的大量降雨，最終於 9 月 17 日消散。[完整文章](https://en.wikipedia.org/wiki/Tropical_Storm_Henri_(2003))
+
+> 註：raw 檔未提供「今日最多人閱讀」表格（抓取腳本可能未擷取到該區塊）。
+
+### 歷史上的今天
+
+- **2023**：Dominion Voting Systems 與 Fox News 就 2020 美國總統選舉誹謗案達成 7.87 億美元和解
+- **2019**：美國司法部向國會和公眾發布經過修訂的 Mueller 報告（俄羅斯干預 2016 美國總統選舉調查）
+- **2007**：中國遼寧一家工廠 30 噸（33 短噸）熔鋼灌包事故，造成 32 名工人死亡
+- **1996**：以色列「憤怒的葡萄」行動期間，以色列軍方砲擊黎巴嫩 Qana 的聯合國基地，至少 100 名平民死亡、超過 110 人受傷
+- **1980**：Robert Mugabe 成為辛巴威首任總理，開啟長達 37 年的執政
+
+> **事實查核**：Dominion 7.87 億美元和解（2023-04-18）✅、Mueller 報告發布（2019-04-18）✅、中國遼寧熔鋼事故 ✅、Qana 砲擊 ✅、Mugabe 就任辛巴威首任總理 ✅——五條歷史事件全部屬實。
 
 ## 2026-04-17
 
