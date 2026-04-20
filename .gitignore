@@ -20,3 +20,4 @@ tsconfig.tsbuildinfo
 .quartz-cache
 .replit
 replit.nix
+.gstack/

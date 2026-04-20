@@ -1,15 +1,44 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md]
 created: 2026-04-15
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-19
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | [cc-design](https://github.com/ZeroZ-lab/cc-design) | High-fidelity HTML 設計/prototype skill for AI agents，供 [[Claude Code]] 等產線使用 | 185 | JavaScript | ✅ |
+| 2 | [agents-md](https://github.com/TheRealSeanDonahoe/agents-md) | 直接放入 repo 的 AGENTS.md——融合 Karpathy 四原則與 Boris Cherny 的 Claude Code workflow，跨 Claude Code / Codex / Gemini / Cursor 通用 | 106 | - | ✅ |
+| 3 | [Cairn](https://github.com/oritera/Cairn) | AI 自動化通用問題求解 / AI 自動化滲透測試系統 | 62 | - | ⚠️ 滲透測試雙用工具，請確認授權場景 |
+| 4 | [claude-desktop-buddy-esp32-s3-touch-amoled-1.8](https://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8) | ESP32-S3 AMOLED 觸控螢幕的 Claude 桌面小夥伴 | 28 | C++ | ✅ |
+| 5 | [claude-english-immersion](https://github.com/rolandwonglonam/claude-english-immersion) | [[Claude Code]] skill 用於被動英語浸潤 + PTE 考試準備 | 24 | - | ✅ |
+| 6 | [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) | Claude Design DESIGN.md prompts（依美學家族分類）、remix 配方、skills、影片拆解、社群評價 | 23 | - | ✅ |
+| 7 | [MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting) | MITM 接收未加密資料，再以 Domain Fronting 送出 | 23 | - | ⚠️ 攻擊型資安工具，研究/授權測試專用 |
+| 8 | [cfnb](https://github.com/xinyitang3/cfnb) | Cloudflare CDN 節點自動優選——TCP 延遲+可用性+帶寬三重測，Windows/Linux 跨平台、WxPusher 通知 | 21 | Python | ⚠️ 常搭配繞過地區限制用途，灰色地帶 |
+| 9 | [reADHD](https://github.com/chrisnch/reADHD) | 為 ADHD 族群設計的 Obsidian 視覺強調閱讀插件，支援中文智能分詞（jieba-wasm） | 18 | TypeScript | ✅ |
+| 10 | [local-korean-xtts-engine](https://github.com/sinmb79/local-korean-xtts-engine) | 本地韓語優先 XTTS-v2 引擎，供一次錄製 shorts 旁白 | 15 | TypeScript | ✅ |
+| 11 | [pdf-dark-mode-converter](https://github.com/BrAtUkA/pdf-dark-mode-converter) | 瀏覽器端即時 PDF 深色模式轉換器，無需上傳 | 11 | HTML | ✅ |
+| 12 | [UKBAnalytica_v2](https://github.com/Hinna0818/UKBAnalytica_v2) | UK Biobank RAP 資料的可擴展表型/統計管線 | 11 | R | ✅ |
+| 13 | [Monash-Moodle-Downloader](https://github.com/Zetanegative1/Monash-Moodle-Downloader) | 批次下載 Monash 大學 Moodle 資源的 Chrome 擴充 | 11 | JavaScript | ✅ 學生常見用途 |
+| 14 | [alice](https://github.com/simoncirstoiu/alice) | AI 驅動的 YOLO 資料集管理工具包——分析/學習/匯入/策展/輸出 | 11 | JavaScript | ✅ |
+| 15 | ~~[dashen-money](https://github.com/cat9999aaa/dashen-money)~~ | ~~（無描述）~~ | 8 | - | ❌ 無描述 + 可疑 repo 名（money 相關）+ 低星靠衝榜——疑似刷榜或詐騙 |
+
+> **當日主題：Agent Skill 生態爆發**——#1 cc-design、#2 agents-md、#5 claude-english-immersion、#6 awesome-claude-design 四個都是 [[Claude Code]] 生態系衍生物，驗證了 04-18 以來的 Anthropic Labs 效應持續發酵。**#2 agents-md** 尤為值得關注——它把 [[Andrej Karpathy]] 的四原則與 Boris Cherny 的 Claude Code workflow 編成通用 AGENTS.md 範本。
+>
+> **「通用 AGENTS.md」的成形**：與 [[src-mattpocock-skills]]、[[src-Harness Engineering]] 呼應——從各家自訂的 CLAUDE.md 走向跨 agent 通用的 AGENTS.md 標準，降低使用者跨 agent 的切換成本。
+>
+> **資料污染警示**：
+> - ❌ #15 dashen-money（大神-money）無描述、低星卻衝上 trending——常見詐騙/刷榜樣態
+> - ⚠️ #3 Cairn、#7 MITM-DomainFronting：資安工具雙用性，非攻擊用途不會登上首頁但 trending 演算法會放大
+> - ⚠️ #8 cfnb：Cloudflare 節點優選工具，一體兩面——合法用途是加速 CDN，非法用途是繞過地區限制
 
 ## 2026-04-18
 

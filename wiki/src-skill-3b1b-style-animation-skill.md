@@ -123,8 +123,8 @@ npx skills add https://github.com/subinium/3b1b-style-animation-skill --skill 3b
 ### 與已知工具／知識的關係
 
 - **延續 [[Skill vs Bash vs MCP]] 的分類**——這是一個純 skill 實作，把 Manim 使用知識壓縮進 prompt
-- **對比 [[character-arc]]**——character-arc 是單檔 diagnostic skill，3b1b 是多檔具體生產 skill，兩者代表 Agent Skill 的兩個極端
-- **架構參考 [[mattpocock-skills]]**——Matt Pocock 的 skills 多為 PRD/Issue/Plan 工作流；3b1b 則是更垂直的內容生產工作流
+- **對比 [[src-skill-character-arc]]**——character-arc 是單檔 diagnostic skill，3b1b 是多檔具體生產 skill，兩者代表 Agent Skill 的兩個極端
+- **架構參考 [[src-mattpocock-skills]]**——Matt Pocock 的 skills 多為 PRD/Issue/Plan 工作流；3b1b 則是更垂直的內容生產工作流
 - **與 [[AI 輔助軟體工程]] 互補**——後者談結構化 AI 開發，3b1b 談結構化 AI 教育內容生產
 
 ### 一句話推薦

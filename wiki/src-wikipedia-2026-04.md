@@ -1,15 +1,36 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md]
 created: 2026-04-15
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-19
+
+### 今日精選文章
+
+**1986 年世界斯諾克錦標賽**——1986 年 4 月 19 日至 5 月 5 日於英國雪菲爾 Crucible 劇院舉行，是 1985–86 斯諾克賽季的第六站排名賽，也是首屆（1927）世界錦標賽以來的第 86 屆。總獎金 £350,000，冠軍獲 £70,000，贊助商為香菸廠商 Embassy。[完整文章](https://en.wikipedia.org/wiki/1986_World_Snooker_Championship)
+
+### 歷史上的今天
+
+- **2020**：加拿大新斯科細亞一系列攻擊事件結束，犯案者被警方擊斃，造成 22 名受害者死亡
+- **2015**：25 歲非裔美籍男子 Freddie Gray 在巴爾的摩警察拘留期間受重傷後死亡
+- **2005**：Joseph Alois Ratzinger 樞機於教宗選舉秘密會議次日當選為教宗本篤十六世
+- **2000**：菲律賓航空 541 號班機於達沃奧連特 Samal 墜毀，機上 131 人全數罹難
+- **1995**：卡車炸彈炸毀奧克拉荷馬市 Alfred P. Murrah 聯邦大樓大部分結構，造成 168 人死亡、逾 680 人受傷
+
+> **事實查核**：五條歷史事件全數屬實 ✅——
+> - 2020 Nova Scotia 攻擊（加拿大史上最嚴重單人槍殺案）
+> - 2015 Freddie Gray 事件引發巴爾的摩抗議
+> - 2005 本篤十六世以第二日第四輪投票當選
+> - 2000 Air Philippines 541 班機於低能見度中撞山
+> - 1995 Timothy McVeigh 奧克拉荷馬市爆炸案（美國內生恐怖主義歷史事件）
 
 ## 2026-04-18
 

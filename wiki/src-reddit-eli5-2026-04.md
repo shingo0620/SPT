@@ -1,15 +1,37 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md]
 created: 2026-04-15
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-19
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 全世界第一個感染 HIV 的人到底是怎麼得的？既然是性傳播、總該有個最初的源頭 | 2,469 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sp8mep/) |
+| 2 | YouTube、Netflix 這類串流網站怎麼能同時服務上億使用者還保持高速？難道只靠一台中央伺服器？ | 573 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sphpnl/) |
+| 3 | 為什麼「窮人食物翻身成奢侈品」的路徑特別常見於海鮮？（龍蝦、生蠔、魚子醬、鮭魚過去都是勞工階級食物） | 551 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spg9cv/) |
+| 4 | 核電怎麼運作？特別是核反應爐——既然效率更高，為什麼大家還在燒化石燃料？ | 256 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1soytuj/) |
+| 5 | 為什麼人類某些器官成對（眼、耳、腎）、某些卻只有一個（嘴、鼻、心）？生物學上的優勢是什麼？ | 231 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sp7w5z/) |
+| 6 | 電影在鏡子前取景時怎麼把攝影機藏起來？ | 210 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spnaru/) |
+| 7 | 光速是常數，但可見光只是電磁波譜的一小段——其他波長的電磁波是不是也以光速傳播？ | 130 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sppk5a/) |
+| 8 | 黎曼猜想（Riemann Hypothesis）是什麼？為什麼數學家說我們還沒有工具能解？ | 124 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sp7yn9/) |
+| 9 | 為什麼人類只消滅過天花等寥寥幾種病毒與疾病？ | 122 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sp9wu7/) |
+| 10 | 為什麼愛因斯坦把時間視為第四維度？ | 89 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spkhij/) |
+| 11 | 為什麼中風後大腦的神經可塑性會增強？是什麼生理機制讓 3–6 個月成為「黃金復健窗」？ | 78 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sp0zxp/) |
+| 12 | 賽車尾流（slipstream）能讓後車加速——但跳出尾流後超車時，空氣阻力不是又回來了嗎？怎麼還能保持速度？ | 58 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spi7ui/) |
+| 13 | 「自適應噪音遮蔽」（adaptive noise masking）到底是什麼？真的能救睡眠嗎？即時反應突發噪音的原理是什麼？ | 49 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spl2cq/) |
+| 14 | USB 等介面為何能在不換埠口的情況下升級頻寬、卻又要求新的相容線材？ | 42 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spaqco/) |
+| 15 | ISP 伺服器的資料怎麼精準送到我家的路由器？在龐大的網路「高速公路」上，誰負責指引方向？ | 37 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spi5be/) |
+
+> **當日觀察**：物理與網路基礎設施類別特別熱門——#2/4/7/10/14/15 皆與「系統運作原理」相關。#1 HIV 起源奪冠顯示流行病學對大眾的持續吸引力；#3 海鮮階級翻轉是難得的社會經濟類好奇；#13 ANC 耳機睡眠模式反映消費電子產品的行銷詞彙滲透到常識需求。
 
 ## 2026-04-18
 

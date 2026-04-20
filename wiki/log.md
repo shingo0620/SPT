@@ -193,7 +193,7 @@
 - 處理日期：2026-04-18（Reddit）+ 既有 Obsidian bookmark（Routines）
 - 處理來源：raw/reddit-til-2026-04-18.md、raw/reddit-eli5-2026-04-18.md、raw/automate-work-with-routines-claude-code-docs.md
 - 新建頁面：[[src-Claude Code Routines]]
-- 更新頁面：[[src-reddit-til-2026-04]]（追加 2026-04-18 區塊 + 04-15/16/17 缺口說明）、[[src-reddit-eli5-2026-04]]（追加 2026-04-18 + 04-16/17 缺口說明）、[[wiki/index.md]]
+- 更新頁面：[[src-reddit-til-2026-04]]（追加 2026-04-18 區塊 + 04-15/16/17 缺口說明）、[[src-reddit-eli5-2026-04]]（追加 2026-04-18 + 04-16/17 缺口說明）、[[index]]
 - 事實查核（reddit-til 04-18 全 15 條）：14 條 ✅，1 條 ⚠️（#3 拿破崙 6 天馬爾他改革——核心屬實但部分細節可能混入後續佔領期）
 - raw/ 更新：刪除原 URL bookmark 檔、換為 fetched 內容（正確 kebab-case 命名）
 - 關聯觀察：Routines 呼應既有 wiki 中 [[src-Harness Engineering]]「Lifelong AI Agent」願景、且為 HN 月報 04-15 #1 同一來源的正式收錄
@@ -220,3 +220,36 @@
 - 已從 index.md 移除對應條目，留下「尚無週綜整」占位說明
 - W15（2026-04-06 ~ 04-12）知識庫尚未建立，**不需要補**
 - W16 綜整將於 2026-04-20（W17 週一）以後的 ingest 補做
+
+## [2026-04-20] ingest | Reddit 04-19（本機 launchd 昨晚擷取）
+- 處理日期：2026-04-19（Reddit TIL + ELI5）
+- 處理來源：raw/reddit-til-2026-04-19.md、raw/reddit-eli5-2026-04-19.md
+- 更新頁面：[[src-reddit-til-2026-04]]、[[src-reddit-eli5-2026-04]]（皆於檔首追加 2026-04-19 區塊）
+- 事實查核（reddit-til 04-19 全 15 條）：全數 ✅——多為 Wikipedia、BBC、CBC、PubMed 等權威或可溯源來源；無誇大或誤導標題
+- 關聯觀察：TIL #1 迪士尼遊輪救人（2024 年新聞）顯示 TIL 社群偶收近期病毒式新聞而非純歷史冷知識；ELI5 物理/網路基礎設施類別（#2/4/7/10/14/15）當日熱度集中
+- 備註：本次 ingest 開始前已執行 `sync-vault.sh pull`，結束後將執行 `sync-vault.sh push`
+
+## [2026-04-20] query-save | AST 理論概念頁
+- 觸發：使用者 query「AST 理論是什麼」，發現 wiki 只有 [[src-skill-ast-grep]] 實作層、無理論頁——屬 lint 會抓出的「缺漏實體」
+- 新建頁面：[[AST]]（概念頁，type: concept，sources: []，來自 LLM 既有知識）
+- 更新頁面：
+  - [[index]]：新建「程式語言與工具」子分類於概念區，置入 [[AST]]
+  - [[src-skill-ast-grep]]：「相關頁面」區首行加入 [[AST]] 作為理論根基
+  - [[QMD]]：「AST 感知分塊」改為 [[AST]] wikilink 並補說明
+- 可延伸子題（備忘）：tree-sitter 運作、Visitor Pattern、CFG vs AST、Abstract Interpretation
+
+## [2026-04-20] lint + batch-fix | 全量 lint 批次修正（7 項）
+- 觸發：使用者跑 `/llm-wiki lint`，報告 7 項待辦，全數批准修正
+- 掃描規模：52 頁 wiki，建立反向連結圖譜確認無孤立頁、無懸空 index 連結、frontmatter 全齊
+- 修正內容：
+  1. **3 處懸空 wikilink**（[[src-skill-3b1b-style-animation-skill]]）——`[[character-arc]]`→[[src-skill-character-arc]]、`[[mattpocock-skills]]`→[[src-mattpocock-skills]]、[[3Blue1Brown]] 新建實體頁
+  2. **新建 [[Claude Code]]** 實體頁（18 頁提及的核心工具）
+  3. **新建 [[Anthropic]]** 實體頁（8 頁提及的公司）
+  4. **新建 [[skills.sh]]** 實體頁（5 頁提及的策展平台）
+  5. **補 ingest 04-19 五個每日新知**：[[src-hn-2026-04]]、[[src-wikipedia-2026-04]]、[[src-producthunt-2026-04]]、[[src-github-trending-2026-04]]、[[src-skills-picks-2026-04]]（後者註記連兩日 ast-grep 延續精選）；[[src-skill-ast-grep]] frontmatter 追加 sources 與安裝數更新 2,941→2,972
+  6. **新建 [[週綜整-2026-W16]]** 綜整頁（W16 為知識庫起點週）
+  7. **log.md 兩處路徑式連結** [[wiki/index.md]] → [[index]] 統一
+- 事實查核：HN 04-19 15 條全數 ✅（多為 NIST/USENIX/Archive.org/Kotaku 等權威或可驗證來源）；Wikipedia 歷史上今天 5 條全數 ✅；GitHub Trending 04-19 標記 1 條 ❌（dashen-money 無描述疑似刷榜）、3 條 ⚠️（Cairn 滲透測試工具／MITM-DomainFronting 攻擊工具／cfnb 繞限制灰區）
+- ingest 偵測盲點教訓：剛剛 04-20 首次 ingest 只用 `git status -s` 抓到 untracked 的 Reddit 兩檔，漏掉 commit 5183250 已追蹤但 wiki 月報未同步的 5 個 raw——lint 第 3 步「比對月報已處理日期」補救了這個漏網
+- index.md 重構：「實體」類別下細分「人物 / 組織 / 工具與平台」三小節（原為平鋪），置入新建實體頁
+- 影響總頁面：新增 5（Claude Code、Anthropic、skills.sh、3Blue1Brown、週綜整-2026-W16）、修改 10+

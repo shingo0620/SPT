@@ -1,15 +1,43 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md]
 created: 2026-04-15
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-19
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **Vantage in Google Labs** | 用 AI 模擬團隊幫你練習與評測未來職場技能 | Hiring / Productivity / AI | 162 / 4 | [PH](https://www.producthunt.com/products/google) |
+| 2 | Gemini app for Mac | Option+Space 即可呼叫 Gemini | Mac / AI / Menu Bar | 138 / 2 | [PH](https://www.producthunt.com/products/gemini-6) |
+| 3 | Verdent 2.0 | 你的 AI 技術 cofounder（Vibe coding） | Productivity / AI / Vibe coding | 132 / 6 | [PH](https://www.producthunt.com/products/verdent-deck) |
+| 4 | **Perplexity Personal Computer** | 本地檔案、原生 app、語音控制、全時運作 | Productivity / Task / AI | 122 / 4 | [PH](https://www.producthunt.com/products/perplexity-ai) |
+| 5 | Avina | GTM agent 幫你找出並接觸下一個客戶 | Sales / Marketing / AI | 117 / 6 | [PH](https://www.producthunt.com/products/avina-2) |
+| 6 | Creator OS | 不再錯過 Instagram 留言 | Productivity / Social / Marketing | 86 / 2 | [PH](https://www.producthunt.com/products/creator-os-3) |
+| 7 | Paperweight | 清理你的信箱、管理數位足跡 | Email / Open Source / Privacy | 83 / 0 | [PH](https://www.producthunt.com/products/paperweight) |
+| 8 | Nibbo | 家庭協作 hub，3D 寵物隨你完成任務成長 | Productivity / Task / GitHub | 80 / 5 | [PH](https://www.producthunt.com/products/nibbo) |
+| 9 | Tell | Mac 小工具，設計有趣 | Menu Bar / Apple / 3D | 80 / 3 | [PH](https://www.producthunt.com/products/tell-2) |
+| 10 | Wyndo | 告訴你何時該散步、騎車、在戶外用餐的天氣 app | Web App / Weather | 80 / 7 | [PH](https://www.producthunt.com/products/wyndo) |
+| 11 | Fixa.dev | 雲原生 AI agent，宣稱什麼都能做（Vibe coding） | DevTools / AI / Vibe coding | 77 / 2 | [PH](https://www.producthunt.com/products/fixa-dev) |
+| 12 | Assemble | 一個 `/go` 指令統合會記憶的 AI 工作流、零 runtime | Open Source / DevTools / AI | 77 / 3 | [PH](https://www.producthunt.com/products/assemble-2) |
+| 13 | AGG Loop | 安全、永久免費的 localhost 隧道（原 Deposure） | API / SaaS / DevTools | 76 / 2 | [PH](https://www.producthunt.com/products/agg-loop) |
+| 14 | Confetti Burst Chrome Ext. | 讓你的瀏覽體驗更歡樂 | Chrome Ext. | 18 / 2 | [PH](https://www.producthunt.com/products/highlight-your-confetti-powered-app) |
+| 15 | Today for Mobile | 寫下今天，讓過去的思緒找到你 | Productivity / Privacy / AI | 12 / 7 | [PH](https://www.producthunt.com/products/today-15) |
+
+> **當日主題：Google 與 Perplexity 正面對決**——#1 Vantage（Google Labs）與 #2 Gemini Mac app 雙線出擊，#4 Perplexity Personal Computer 主打「本地優先 + 語音 + 原生 app」。對比 04-18 的 Anthropic Labs 日，這日 Google 與 Perplexity 接棒。
+>
+> **「Vibe coding」類別成型**：#3 Verdent 2.0 與 #11 Fixa.dev 都打 Vibe coding tag——繼 04-17 之後又一輪冒出，顯示 PH 開始把「自然語言寫程式」當作獨立產品類別。
+>
+> **Personal AI Computer 概念**：#4 Perplexity Personal Computer 把 AI 從「chat UI」升級為「作業系統上的常駐 agent」——呼應 [[src-Claude Code Routines]] 的 lifelong agent 趨勢，但從 Perplexity 方向切入（裝在每台 Mac 上）。
+>
+> **生產力工具持續進化**：#7 Paperweight（email 清理 + 數位足跡）、#10 Wyndo（天氣決策）、#12 Assemble（有記憶的 AI 指令）——都是「AI 介入日常決策」的主題延伸。
 
 ## 2026-04-18
 

@@ -1,15 +1,37 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md]
 created: 2026-04-14
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-19
+
+| # | 冷知識 | 分數 | 查核 | 來源 |
+|---|-------|------|------|------|
+| 1 | 迪士尼 Dream 號 5 歲女童從約 15 公尺高的舷窗護欄墜海，父親隨即跳海救援——兩人皆獲救，女童體溫過低、父親脊椎骨折 | 23,842 | ✅ | [CBC](https://www.cbc.ca/news/world/disney-cruise-girl-overboard-9.6947353) |
+| 2 | 2005 年《哈利波特：混血王子的背叛》剛出版、摩爾多瓦買不到書——一名 15 歲女孩借朋友的書逐字抄寫整本，花了一個多月、用掉 5 本筆記本 | 23,131 | ✅ | [BBC](http://news.bbc.co.uk/cbbcnews/hi/newsid_4270000/newsid_4275100/4275114.stm) |
+| 3 | Mae West 1926 年百老匯劇作《Sex》被罵「敢在紐約開演的最廉價、最低俗、最惡劣的戲」，仍連演 375 場；她最終因淫穢罪入獄、罰金 500 美元——宣傳效果反倒讓她更紅 | 9,913 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Sex_(play)) |
+| 4 | 中國軍閥張宗昌綽號「三不知將軍」——不知自己口袋有多少錢、不知部隊有多少兵、不知姨太太有幾房 | 8,740 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Zhang_Zongchang#Nicknames_and_titles) |
+| 5 | 獅心王理查被神聖羅馬帝國俘虜、贖金設為 15 萬銀馬克時，弟弟「無地王」約翰反而出價 8 萬馬克要求對方繼續囚禁他 | 6,103 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Richard_I_of_England) |
+| 6 | 《Playboy》全盛期不只刊 NSFW 內容，也登過村上春樹、David Foster Wallace、Hunter Thompson、Ray Bradbury、Updike、Bellow 等作家的嚴肅作品 | 5,270 | ✅ | [The Hundreds](https://thehundreds.com/blogs/content/reading-playboy-for-the-articles-13-must-read-journalism-literature-pieces-from-playboy-magazine) |
+| 7 | 羅馬有座「聖階」（Scala Santa）——基督教傳統相信這正是耶穌在彼拉多面前受審時走過的台階 | 4,616 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Scala_Sancta) |
+| 8 | 蟬翅不只超疏水——落在翅面上的細菌不是被彈開，而是被奈米級刺柱撕裂細胞膜，為史上第一種天然殺菌生物材料 | 3,549 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Cicada#Description) |
+| 9 | 德國離婚前須先經過「分居年」（Trennungsjahr）——若另一半不同意並能提出有效異議，需分居三年才能正式離異 | 2,699 | ✅ | [Handbook Germany](https://handbookgermany.de/en/divorce) |
+| 10 | 一項近 130 萬瑞典男性的研究發現，身高每增 2 英寸（5 公分）自殺風險下降 9%；最矮組的自殺率約為最高組的兩倍 | 2,590 | ✅ | [PubMed](https://pubmed.ncbi.nlm.nih.gov/15994722/) |
+| 11 | James G. Blaine Society 是一個專門勸阻外地人搬到奧勒岡的組織——名字來自 1884 年競選時走遍美國各州、卻獨漏奧勒岡的政治人物 | 1,873 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/James_G._Blaine_Society) |
+| 12 | 早期 Lysol 被暗地當作女性避孕劑推銷——1911 年已記錄 193 例 Lysol 中毒與 5 例「子宮灌洗」致死 | 1,801 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lysol) |
+| 13 | 衛星也能有自己的衛星，稱作「次衛星」（submoon），或俏皮地叫「月亮的月亮」（moonmoon） | 1,668 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Subsatellite) |
+| 14 | 海地國旗的藍紅雙色——人類史上唯一由奴隸起義建國的國家——是把舊宗主國法國三色旗中央的白色撕掉而來 | 1,263 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Flag_of_Haiti) |
+| 15 | 古代日本的保險套（甲形，kabutogata）以龜殼與動物角製成 | 1,032 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Condom#History) |
+
+> **當日觀察**：歷史軼聞（#2/3/5/11/12）與生物學冷知識（#8/9/10）佔多數；#1 迪士尼遊輪救人事件屬近期新聞而非傳統 TIL，反映社群也會收錄病毒式新聞。
 
 ## 2026-04-18
 
