@@ -1,7 +1,7 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md]
 created: 2026-04-18
 updated: 2026-04-20
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
@@ -9,10 +9,10 @@ tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19 再度精選，本月首見延續）
+> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20 再度精選，連三日——本月與歷來首見）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ 2,972（04-19）**，24 小時 +31；為 skills-picks 月報中最高者，遠超過 character-arc 的 248 與 3b1b-skill 的 1
+> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）**，48 小時累積 +82，第二日漲幅（+51）較第一日（+31）加速；為 skills-picks 月報中最高者，遠超過 character-arc 的 248 與 3b1b-skill 的 1
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
 

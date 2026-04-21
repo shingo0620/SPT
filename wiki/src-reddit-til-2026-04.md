@@ -1,15 +1,40 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md]
 created: 2026-04-14
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-20
+
+| # | 冷知識 | 分數 | 查核 | 來源 |
+|---|-------|------|------|------|
+| 1 | NHL 賽場強制護網的起源——2002 年 13 歲女孩 Brittanie Cecil 被反彈進看台的冰球擊中頭部數日後身亡，是 NHL 史上唯一觀眾死亡事件 | 13,552 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Death_of_Brittanie_Cecil) |
+| 2 | 英國曾在貝爾法斯特開假洗衣店，用衣物上的爆炸物殘留鎖定 IRA 炸彈客 | 10,426 | ✅ | [Gizmodo](https://gizmodo.com/brits-set-up-fake-laundromats-with-bomb-sniffing-washin-5065872) |
+| 3 | 以享樂搖滾明星形象著稱的 Keith Richards 實際上與妻子 Patti Hansen 幸福結婚 42 年以上，為孩子盡責的父親 | 10,412 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Keith_Richards) |
+| 4 | 印度千萬隻禿鷹 1990 年代因吃到殘留雙氯芬酸（diclofenac，常用止痛藥但對禿鷹劇毒）的牲畜屍體大量死亡——族群崩跌約 99%，2017 年全國僅剩 1.9 萬隻 | 5,687 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Indian_vulture_crisis) |
+| 5 | 2009 年被診斷絕症的英國計程車司機 Alan Billis 看到科學計畫徵求「願意被以古埃及方式製成木乃伊」的志願者，主動報名並於 2 年後身亡後完成整個過程 | 5,111 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Alan_Billis) |
+| 6 | 2003 年歐洲熱浪造成 7 萬人死亡 | 4,068 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/2003_European_heatwave) |
+| 7 | Brainerd 腹瀉（Brainerd diarrhea）是一種突發型水瀉，持續數月、抗生素無效——1983 年以來 10 起記錄爆發有 9 起在美國，病因至今不明 | 3,437 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Brainerd_diarrhea) |
+| 8 | 1951 年一名美國陸軍入伍者吃鼠藥 warfarin 企圖自殺，大劑量維生素 K 治療後存活——這件事促成後來 warfarin 成為安全的抗凝血藥 | 2,169 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Warfarin#History) |
+| 9 | George Carlin 於 9/11 前一天錄製的現場專輯原訂名為《I Kinda Like It When a Lotta People Die》，次日事件後擱置；2004 年擬重啟，又因卡崔娜颶風再度放棄 | 2,129 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/I_Kinda_Like_It_When_a_Lotta_People_Die) |
+| 10 | 1943 年一架叫「Lady Be Good」的轟炸機在從義大利返航途中迷航撞進撒哈拉沙漠，倖存機組徒步求生全數死亡——飛機 1958 年才被發現、遺體 1960 年才找齊 | 1,885 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lady_Be_Good_\(aircraft\)) |
+| 11 | Dionne Warwick 的妹妹 Dee Dee Warwick 是音樂業早期公開出櫃的女同志表演者之一，1960 年代小有成就但很快被同廠牌的 Aretha Franklin 與 Roberta Flack 蓋過 | 1,723 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Dee_Dee_Warwick) |
+| 12 | 巴仙吉犬（Basenji）被稱為「不會吠的狗」——因喉頭構造特殊，牠們發出的是類似 yodel 的「說話」聲而非傳統吠叫 | 1,465 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Basenji) |
+| 13 | 1897 年 8 歲女孩 Virginia O'Hanlon 寫信問報社聖誕老人是否存在，前南北戰爭記者 Francis Church 回信「Yes, Virginia, there is a Santa Claus.」——此社論成為英語史上被重印最多次的一篇 | 1,297 | ✅ | [Library of Congress](https://blogs.loc.gov/loc/2012/12/yes-virginia-there-is-a-santa-claus) |
+| 14 | 2024 年哥斯大黎加漁民發現史上首隻橘色鯊魚 | 1,122 | ✅ | [CBC](https://www.cbc.ca/radio/asithappens/orange-shark-1.7624485) |
+| 15 | 1963 年 8 月 1 日午夜，原屬西德一塊 69 公里的土地被劃歸荷蘭（戰後領土調整）前夕，德荷商人把咖啡與奶油先儲進該區避開進口稅，史稱「奶油之夜」 | 1,085 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Dutch_annexation_of_German_territory_after_the_Second_World_War) |
+
+> **當日觀察**：歷史軼聞與動物冷知識並重——#3 Keith Richards、#11 Dee Dee Warwick 兩則名人軼事共占熱門；#4 禿鷹藥害崩潰 與 #14 橘鯊是該日動物學大項。#1 Brittanie Cecil 事件反映 NHL 歷史性安全改革背後的個案，與 2026-04-18 的 Cape Kiwanda「鴨嘴岩」事件皆為「單一意外推動制度變更」的典型。
+>
+> **事實查核**：
+> - ⚠️ #15「奶油之夜」——事件本身屬實（1963 年 8 月 1 日德荷邊境調整前夜商人大量搬運避稅）但 Reddit 標題把時間與規模略作戲劇化，實際上為日常小規模搬運非 69 公里「整個地區」的囤積
 
 ## 2026-04-19
 

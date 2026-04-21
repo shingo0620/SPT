@@ -1,15 +1,37 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md]
 created: 2026-04-15
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-20
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 為什麼「老人味」與「嬰兒味」存在？是化學物質還是錯覺？ | 1,076 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sq7pf2/) |
+| 2 | 為什麼嘴巴呼出的氣比鼻孔呼出的氣更臭？ | 627 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqgeop/) |
+| 3 | 為什麼現在不能用今天死的動物模擬石化燃料的形成？ | 409 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqieak/) |
+| 4 | 為什麼不能像尼古丁、雌激素那樣把所有藥物做成貼片？ | 365 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqap46/) |
+| 5 | Epoxy 是什麼？paint/primer 裡的 epoxy 跟 resin 裡的是同一種嗎？ | 139 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqhwgr/) |
+| 6 | 為什麼吃辣時吸氣能紓緩、呼氣卻像在噴火？ | 124 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqcbsd/) |
+| 7 | French drain（法式集水排水系統）的物理與工程原理——水為何不會直接穿過基材滲進地基？ | 111 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sq0aq3/) |
+| 8 | 喝醉斷片後醒來為何完全想不起發生什麼事？ | 108 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqgnmw/) |
+| 9 | Passkeys 比 Authenticator app + 密碼好在哪？手機被偷或壞掉怎麼辦？ | 93 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqkssn/) |
+| 10 | 為什麼不能靠意志力刻意忘記某件事？ | 80 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sptywd/) |
+| 11 | 需要縫合的深割傷，身體到底如何把皮膚黏合回去？ | 60 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqjzyb/) |
+| 12 | 旅行比價網站（Skyscanner、Trivago 等）怎麼賺錢？ | 55 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sq21v7/) |
+| 13 | 高速公路上的海市蜃樓（highway mirage）是如何形成的？ | 57 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sq9fa9/) |
+| 14 | Prednisone 等皮質類固醇（模擬壓力荷爾蒙 cortisol）為何能消炎，但壓力本身卻會增加發炎？ | 45 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sq0ayz/) |
+| 15 | 電池能量/電荷是怎麼量化測量的？ | 41 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1spzdkd/) |
+
+> **當日觀察**：生理/生活類（#1/#2/#4/#6/#8/#11/#14）佔絕對多數，反映當日 ELI5 討論「身體運作的日常奇怪現象」偏多。#9 Passkeys 討論延續近週身份驗證話題熱度——對比 [[src-reddit-eli5-2026-04]] 前幾日 HTTP、GPS、USB 等基礎架構問題，Passkeys 是更新更切身的資訊安全議題。#14 壓力荷爾蒙悖論（cortisol 消炎但壓力增發炎）是經典生物學雙向調節例子。
 
 ## 2026-04-19
 

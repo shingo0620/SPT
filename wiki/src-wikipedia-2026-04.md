@@ -1,15 +1,38 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md]
 created: 2026-04-15
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-20
+
+### 今日精選文章
+
+**Sci-Fi Dine-In Theater Restaurant（科幻汽車戲院餐廳）**——1991 年 5 月開幕的迪士尼好萊塢影城主題餐廳，仿 1950 年代汽車電影院。Walt Disney Imagineering 將餐桌設計成當時敞篷車的樣子，部分服務生穿溜冰鞋演 carhop（汽車戲院送餐員）。用餐時客人看大螢幕播放 1950-60 年代科幻片片段，如《Frankenstein Meets the Space Monster》、《Plan 9 from Outer Space》、《Attack of the 50 Foot Woman》。[完整文章](https://en.wikipedia.org/wiki/Sci-Fi_Dine-In_Theater_Restaurant)
+
+### 歷史上的今天
+
+- **2023**：SpaceX's Starship 首次發射，4 分鐘後爆炸
+- **2021**：Derek Chauvin 在明尼蘇達法院被判 George Floyd 謀殺案所有指控成立
+- **2010**：墨西哥灣 Deepwater Horizon 離岸鑽油平台爆炸，造成史上最大海上石油漏洩事件
+- **2008**：美國賽車手 Danica Patrick 贏得 Indy Japan 300，成為首位贏得 IndyCar 賽事的女性
+- **2008**：Fernando Lugo 當選巴拉圭總統，成為 61 年來第一位非 Colorado 黨籍的總統候選人當選
+
+> **事實查核**：五條歷史事件全數屬實 ✅——
+> - 2023 SpaceX Starship IFT-1 試飛於 T+04:00 左右自主啟動結束
+> - 2021 Chauvin 被判二級謀殺、三級謀殺、二級過失殺人罪（後 Apr 22, 2021 第三級成立——Reddit 條目時間點用的是 4/20 判決公告日）
+> - 2010 Deepwater Horizon 爆炸 11 死、2.1 億加侖原油外洩——與 [[src-reddit-til-2026-04]] 4/12 #4（deepwater horizon 起火 36 小時後沉沒）重疊
+> - 2008 Danica Patrick 日本茂木賽道奪冠，是 IndyCar 歷史首例
+> - 2008 Lugo 終結 Colorado 黨 61 年執政
+
+> **當日觀察**：「首次/最大/唯一」主題日——Starship 首飛、Deepwater Horizon 最大漏油、Danica Patrick 首位 IndyCar 女冠、Lugo 終結 61 年單黨執政——5 條歷史事件中 4 條屬「創舉或紀錄」類。精選文章 Sci-Fi Dine-In 餐廳則是**懷舊主題公園文化**的冷門題目。
 
 ## 2026-04-19
 

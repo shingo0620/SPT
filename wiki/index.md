@@ -20,6 +20,8 @@
 - [[src-Code Review已死]] — Code Review 已死：Spec-driven development + Swiss-cheese 五層信任模型（來源數：1）
 - [[src-Claude Code Routines]] — Claude Code Routines：排程／API／GitHub 事件驅動的雲端自主任務，Lifelong AI Agent 第一版可用產品（來源數：1）
 - [[src-Claude Code Session管理]] — Anthropic 團隊講 Claude Code session 管理：context rot、rewind、compact vs clear、bad compact、subagent 決策準則（來源數：1）
+- [[src-AI時代的測試管理]] — 敏捷三叔：AI 寫 code 時代的測試與 Bug 管理盲點，提出「AI 品質共謀」概念（來源數：1）
+- [[src-multica-devv-ai盡調]] — Multica / Devv.AI 盡調：3 人團隊 10k stars、OSS Investment Scorecard v1.3.1（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -65,12 +67,14 @@
 ### 組織
 
 - [[Anthropic]] — Claude 模型系列與 Claude Code 開發商（來源數：0，LLM 跨來源歸納）
+- [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
 - [[拉瑞安工作室]] — Larian Studios，博德之門 3 開發商（來源數：1）
 
 ### 工具與平台
 
 - [[Claude Code]] — Anthropic 官方 agent CLI，本 wiki 多處參照的核心實體（來源數：0，LLM 跨來源歸納）
 - [[skills.sh]] — Agent Skill 策展平台（來源數：0，LLM 跨來源歸納）
+- [[Multica]] — Vendor-neutral 的多 Agent 協作平台，Devv.AI 團隊開源（來源數：1）
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
 
 ## 概念
@@ -83,10 +87,12 @@
 - [[Skill vs Bash vs MCP]] — LLM Agent 三種工具模式的比較與選擇方法論（來源數：2）
 - [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：5）
 - [[Restatement]] — LLM 長任務中週期性重申關鍵資訊的控制機制（來源數：1）
+- [[AI 品質共謀]] — AI 同時寫 code 與測試時形成的隱形同源誤解，CI 綠燈下的幻覺式品質（來源數：1）
 
 ### 商業與顧客管理
 
 - [[顧客終身價值]] — CLV 與 CAC 的核心概念，客戶分級與留存優先策略（來源數：1）
+- [[OSS Investment Scorecard]] — 匿名 VC 作者的 OSS 投研框架 v1.3.1，含 Star 健康度、Commit 集中度、匿名團隊追溯 SOP（來源數：1）
 
 ### 遊戲設計與開發
 

@@ -238,6 +238,29 @@
   - [[QMD]]：「AST 感知分塊」改為 [[AST]] wikilink 並補說明
 - 可延伸子題（備忘）：tree-sitter 運作、Visitor Pattern、CFG vs AST、Abstract Interpretation
 
+## [2026-04-21] ingest | 04-20 每日新知 + 2 篇手動文章
+- 開始前執行 `sync-vault.sh pull`（三項 feedback 紀律）
+- **每日新知（04-20，7 來源）**：全部追加到各月報檔首（新到舊）
+  - [[src-reddit-til-2026-04]]：15 條冷知識（✅14 條、⚠️1 條「奶油之夜」時間精確性微誇大）
+  - [[src-reddit-eli5-2026-04]]：15 條 ELI5，生理生活類為主（#9 Passkeys 呼應近週資安話題）
+  - [[src-hn-2026-04]]：當日 #4 GitHub 假星經濟 422 分、#13 NSA 使用 Anthropic Mythos 272 分、#3 歐盟 2027 強制手機可換電池 296 分——三條高分都涉及「供應鏈信任」類議題
+  - [[src-github-trending-2026-04]]：❌3 條加密詐騙 repo 衝榜（Flash-USDT-Sender、Exodus-Fake-Balance、USDT-Flasher-Hydra-Edition）配合 HN 04-20「假星經濟」形成印證；⚠️3 條雙用資安/灰色工具；合法延續有 #9 ovo-local-llm、#15 claude-code-design 等 Claude 生態
+  - [[src-producthunt-2026-04]]：Pitch Berlin 包場日；#3 Claude Desktop Buddy 是本週第二個 Claude 實體週邊；#2 The New Waydev「從 token 到 production」定義新類別
+  - [[src-wikipedia-2026-04]]：「首次/最大/唯一」主題日——Starship IFT-1、Deepwater Horizon、Danica Patrick 首冠 IndyCar、Lugo 終結 61 年單黨
+  - [[src-skills-picks-2026-04]]：ast-grep **連三日精選**（前所未見），安裝數 2,941→2,972→3,023（48h +82）；[[src-skill-ast-grep]] 頁面追加 04-20 紀錄
+- **手動文章 1——AI 時代的測試管理**（敏捷三叔）
+  - 新建：[[src-AI時代的測試管理]]、[[AI 品質共謀]]（概念）
+  - 交叉引用：[[src-Code Review已死]]、[[src-Harness Engineering]]、[[src-AI-Agent避坑指南]]、[[AI 輔助軟體工程]]
+  - 核心論點：AI 同時寫 code 與 test 會產生「同源共謀」，CI 綠燈可能是幻覺
+- **手動文章 2——Multica/Devv.AI 盡調**（匿名 VC 作者）
+  - 檔案重新命名：`raw/未命名.md` → `raw/multica-devv-ai-盡調.md`
+  - 新建：[[src-multica-devv-ai盡調]]、[[Multica]]（工具）、[[Devv.AI]]（組織）、[[OSS Investment Scorecard]]（概念）
+  - 核心論點：Multica 極可能是 3-4 人 Devv.AI 團隊為消化內部 Agent 工作流的自用工具；OSS Investment Scorecard v1.3.1 新增 R-1 Star 健康度、R-2 Commit 集中度、R-3 匿名團隊追溯
+- **略過處理**：`raw/Using Claude Code-session management and 1M context 1.md`（只含 URL，與既 ingest 的 [[src-Claude Code Session管理]] 為同篇）
+- **不做週綜整**：今天 2026-04-21 在 W17 Day 2，W16 綜整（[[週綜整-2026-W16]]）已於 04-20 建立——依「週綜整必須過完完整一週才做」原則跳過
+- 影響總頁面：新增 6（2 source + 2 entity + 2 concept）、更新 9（7 月報 + ast-grep skill 頁 + index）
+- 結束後執行 `sync-vault.sh push`
+
 ## [2026-04-20] lint + batch-fix | 全量 lint 批次修正（7 項）
 - 觸發：使用者跑 `/llm-wiki lint`，報告 7 項待辦，全數批准修正
 - 掃描規模：52 頁 wiki，建立反向連結圖譜確認無孤立頁、無懸空 index 連結、frontmatter 全齊

@@ -1,15 +1,50 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md]
 created: 2026-04-15
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-20
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | ~~[Flash-USDT-Sender](https://github.com/3joshua5z06ne0illsynkx717/Flash-USDT-Sender)~~ | ~~Multi-network flash transaction tool，USDT/BTC/ETH 假交易生成工具~~ | 67 | Python | ❌ 加密貨幣詐騙工具，用於製造假餘額/假交易以騙取實際加密貨幣 |
+| 2 | ~~[Exodus-Fake-Balance](https://github.com/3jos337ph8zweb2bi5ghst974/Exodus-Fake-Balance)~~ | ~~Exodus 錢包的假餘額顯示覆蓋，200+ 資產即時偽造~~ | 65 | Python | ❌ 用於截圖詐騙的假錢包工具 |
+| 3 | [awawausb](https://github.com/ArcaneNibble/awawausb) | Firefox 的 WebUSB 擴充套件（見 [[src-hn-2026-04]] 04-20 #9） | 46 | Rust | ✅ |
+| 4 | [polymarket-arbitrage-bot](https://github.com/knit-finances/polymarket-arbitrage-bot) | Polymarket 預測市場套利機器人 | 44 | TypeScript | ⚠️ 無描述，預測市場套利工具合法性依管轄地區而異 |
+| 5 | [polymarket-copytrading-bot](https://github.com/lemini-protocol/polymarket-copytrading-bot) | Polymarket 預測市場跟單機器人 | 44 | TypeScript | ⚠️ 無描述，同 #4 |
+| 6 | ~~[USDT-Flasher-Hydra-Edition](https://github.com/vincosty/USDT-Flasher-Hydra-Edition)~~ | ~~flash btc/eth/usdt/ltc sender（fake crypto sender）~~ | 43 | — | ❌ 加密貨幣詐騙工具 |
+| 7 | [boj-archive](https://github.com/suinkimme/boj-archive) | 백준 온라인 저지（acmicpc.net）服務關閉後的公益性封存專案 | 40 | HTML | ✅ 韓國程式競賽社群的重要基礎設施封存 |
+| 8 | [planb-lpm](https://github.com/esutcu/planb-lpm) | （無描述） | 32 | C++ | ⚠️ 無描述 |
+| 9 | [ovo-local-llm](https://github.com/ovoment/ovo-local-llm) | Apple Silicon 的本地 [[Claude Code]]——AI coding agent + chat + image gen，零雲端。MLX / Ollama / OpenAI API 相容 | 29 | TypeScript | ✅ |
+| 10 | [artblock](https://github.com/vuciv/artblock) | 把網路上所有廣告替換為公共博物館與 NASA 典藏藝術 | 29 | JavaScript | ✅ 延伸自反廣告運動的有趣變奏 |
+| 11 | [AndroidPrybar](https://github.com/GitKittys/AndroidPrybar) | Android Native Trace 與逆向分析工具，支援函數包裝、指令追蹤、JNI 呼叫觀測與外部跳轉控制 | 29 | C++ | ⚠️ 資安逆向工具雙用性 |
+| 12 | [WindsurfPoolAPI](https://github.com/guanxiaol/WindsurfPoolAPI) | Windsurf AI 企業級多帳號池代理，87+ 模型通過 OpenAI 與 Anthropic APIs | 24 | JavaScript | ⚠️ 商業 API 多帳號池化通常違反服務條款 |
+| 13 | [WX](https://github.com/GordenSun/WX) | 公眾號排版神器，預置排版、支援自訂、可匯出 JSON | 20 | HTML | ✅ |
+| 14 | [ai-application-roadmap](https://github.com/Qiuner/ai-application-roadmap) | 雙語 AI 工程演進、實務應用模式、vibe coding 最佳實踐地圖 | 18 | — | ✅ |
+| 15 | [claude-code-design](https://github.com/bluzir/claude-code-design) | Claude Design（Anthropic Labs）在 [[Claude Code]] CLI 上的再現——HTML decks、prototypes、design systems、動畫影片 via skills + starters + Chrome DevTools MCP | 17 | JavaScript | ✅ |
+
+> **當日主題：加密詐騙工具集體衝榜**——#1 Flash-USDT-Sender、#2 Exodus-Fake-Balance、#6 USDT-Flasher-Hydra-Edition **三個明顯加密詐騙工具同日入 trending 前 6**（合計 175 星）。配合 [[src-hn-2026-04]] 04-20 #4「GitHub 假星經濟」揭露，可推論：這些 repo 多半是刷星上榜吸引受害者點進去的詐騙陷阱。**結論**：GitHub trending 前 5 在經過事實查核前不可直接信任。
+>
+> **合法延續**：#3 awawausb 與 HN 熱門重疊；#9 ovo-local-llm 延續 [[Claude Code]] 生態的本地化浪潮（對應 04-19 #5 claude-english-immersion、#6 awesome-claude-design）；#15 claude-code-design 是 04-18 Anthropic Labs「Claude Design」的社群移植；#10 artblock「以藝術取代廣告」是巧妙的反商業挪用。
+>
+> **公益性與衝突**：#7 boj-archive 封存即將關站的韓國程式競賽線上裁判——是本週少見的「純公益」trending；#13 WX 公眾號排版工具也屬於工具類延伸。
+>
+> **資安工具雙用性**：#11 AndroidPrybar、#12 WindsurfPoolAPI 皆屬灰色地帶——前者是 Android 逆向分析工具（合法用途：研究/認證測試；非法用途：破解 DRM），後者是商業 API 多帳號池化（常違反 ToS）。
+>
+> **事實查核**：
+> - ❌ #1/#2/#6 三個加密詐騙工具：obfuscated 帳號名（長隨機字串）、標籤含「fake-balance」「flash-btc」是典型詐騙模式
+> - ⚠️ #4/#5 polymarket bot：無描述 + obfuscated 帳號名（knit-finances、lemini-protocol）—疑似同一組刷榜操作
+> - ⚠️ #12 WindsurfPoolAPI：多帳號池化違反 Anthropic 與 OpenAI 服務條款
+>
+> **跨日比較**：04-19 dashen-money、04-20 整批 Flash/Fake——GitHub trending 被詐騙帳號持續污染，需要定期人工審核才能信任排行榜
 
 ## 2026-04-19
 

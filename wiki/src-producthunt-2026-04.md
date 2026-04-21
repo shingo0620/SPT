@@ -1,15 +1,47 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md]
 created: 2026-04-15
-updated: 2026-04-19
+updated: 2026-04-20
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-20
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **Dune** | Context-aware Mac keypad，自動化工作流與會議 | Productivity / AI / Dev | 336 / 50 | [PH](https://www.producthunt.com/products/dune-4) |
+| 2 | **The New Waydev** | 測量完整的 AI SDLC——從 token 到 production | Productivity / DevTools / AI | 238 / 30 | [PH](https://www.producthunt.com/products/waydev) |
+| 3 | Claude Desktop Buddy | 用 maker 硬體把 [[Claude Code]] 帶到實體世界 | Open Source / Hardware / AI | 179 / 3 | [PH](https://www.producthunt.com/products/claude) |
+| 4 | kaizen | 會依你實際跑步狀況調整的訓練計畫 | Health & Fitness / Running | 174 / 18 | [PH](https://www.producthunt.com/products/kaizen-7) |
+| 5 | Pegasus 1.5 by TwelveLabs | 把影片轉為 time-based metadata 的 AI 模型 | DevTools / AI / Video | 152 / 6 | [PH](https://www.producthunt.com/products/twelvelabs) |
+| 6 | tasteit | 食物主題社交網路——為食物交友 | Pitch Berlin | 128 / 20 | [PH](https://www.producthunt.com/products/tasteit) |
+| 7 | Granter | 你公司的 AI 補助金顧問 | SaaS / AI / Pitch Berlin | 109 / 2 | [PH](https://www.producthunt.com/products/granter-ai) |
+| 8 | Knowzilla | 即時 AI 銷售顧問，每個 deal 都引導你 | Pitch Berlin | 100 / 9 | [PH](https://www.producthunt.com/products/knowzilla) |
+| 9 | Urbned | 用穩定幣像傳簡訊一樣匯款 | Fintech / Payments / Pitch Berlin | 96 / 0 | [PH](https://www.producthunt.com/products/urbned-2) |
+| 10 | PangeAI | agent 驅動的即時空間分析與決策 | AI / Maps / Pitch Berlin | 90 / 5 | [PH](https://www.producthunt.com/products/pangeai) |
+| 11 | Papayo.ai | 招聘顧問業的 AI 人才尋才助理 | Pitch Berlin | 89 / 1 | [PH](https://www.producthunt.com/products/papayo-ai) |
+| 12 | Makko AI | AI 做 2D 遊戲美術與可玩遊戲，不畫圖、不寫程式 | Design / Indie Games / AI | 88 / 4 | [PH](https://www.producthunt.com/products/makko-ai) |
+| 13 | **TorchTPU** | 在 Google TPU 上原生運行 PyTorch | Open Source / DevTools / AI | 88 / 4 | [PH](https://www.producthunt.com/products/google) |
+| 14 | Claro | 執行 agent 操作你的資料的 AI 中心 | Productivity / AI / Pitch Berlin | 85 / 3 | [PH](https://www.producthunt.com/products/getclaro) |
+| 15 | GalaxyBrain | 以本地檔案驅動的資訊作業系統 | Productivity | 85 / 2 | [PH](https://www.producthunt.com/products/galaxybrain-com) |
+
+> **當日主題：Pitch Berlin 包場**——#6-#11、#14 七個產品皆帶「Pitch Berlin」標籤，暗示 PH 當日有柏林活動推送——這是歐洲新創 demo day 的慣例。相對於 04-18 Anthropic Labs 日、04-19 Google/Perplexity 日，04-20 是歐洲區 showcase。
+>
+> **Anthropic 生態持續外延**：#3 Claude Desktop Buddy 是**本週第二個 Claude 硬體 maker 專案**（對比 [[src-github-trending-2026-04]] 04-19 #4 claude-desktop-buddy-esp32-s3）——Claude 正從「軟體 agent」擴張到「實體週邊」。
+>
+> **AI SDLC 新類別**：#2 The New Waydev「從 token 到 production」——定義新的 AI dev productivity metric 類別：過去 DevEx 工具測 commit/PR 速度，Waydev 要測 AI 生成的 token 到實際 production 的投產率。可能成為 [[src-Claude Code Routines]] 的企業側對應。
+>
+> **Google TPU 生態開放**：#13 TorchTPU——Google 把 PyTorch 運行在 TPU 上的原生實作開源，對抗 NVIDIA CUDA 壟斷的重要一步。
+>
+> **Web3/Fintech 嘗試**：#9 Urbned（穩定幣匯款）——嘗試把 web3 包裝成「傳簡訊般」的體驗，降低使用門檻。
+>
+> **本地 AI 持續增長**：#15 GalaxyBrain（本地檔案驅動 OS）——延續 04-18 #2 CraftBot、04-19 #4 Perplexity Personal Computer 的「本地 first、檔案驅動」趨勢。
 
 ## 2026-04-19
 
