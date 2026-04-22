@@ -22,6 +22,7 @@
 - [[src-Claude Code Session管理]] — Anthropic 團隊講 Claude Code session 管理：context rot、rewind、compact vs clear、bad compact、subagent 決策準則（來源數：1）
 - [[src-AI時代的測試管理]] — 敏捷三叔：AI 寫 code 時代的測試與 Bug 管理盲點，提出「AI 品質共謀」概念（來源數：1）
 - [[src-multica-devv-ai盡調]] — Multica / Devv.AI 盡調：3 人團隊 10k stars、OSS Investment Scorecard v1.3.1（來源數：1）
+- [[src-multica-github-readme]] — Multica 官方 GitHub README（2026-04-21）：8 種 CLI 支援、Next.js 16 + Go + PostgreSQL/pgvector 技術棧、vs Paperclip 對比（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -67,6 +68,7 @@
 ### 組織
 
 - [[Anthropic]] — Claude 模型系列與 Claude Code 開發商（來源數：0，LLM 跨來源歸納）
+- [[Apple]] — 2026-04-20 Tim Cook → John Ternus CEO 交接事件為本月追蹤焦點（來源數：2）
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
 - [[拉瑞安工作室]] — Larian Studios，博德之門 3 開發商（來源數：1）
 

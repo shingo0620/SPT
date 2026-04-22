@@ -276,3 +276,25 @@
 - ingest 偵測盲點教訓：剛剛 04-20 首次 ingest 只用 `git status -s` 抓到 untracked 的 Reddit 兩檔，漏掉 commit 5183250 已追蹤但 wiki 月報未同步的 5 個 raw——lint 第 3 步「比對月報已處理日期」補救了這個漏網
 - index.md 重構：「實體」類別下細分「人物 / 組織 / 工具與平台」三小節（原為平鋪），置入新建實體頁
 - 影響總頁面：新增 5（Claude Code、Anthropic、skills.sh、3Blue1Brown、週綜整-2026-W16）、修改 10+
+
+## [2026-04-22] ingest | 2026-04-21 每日新知 + multica GitHub README 補強
+- 觸發：`/llm-wiki ingest`，偵測 2026-04-21 全部 7 個自動來源未 ingest（前次 commit 7959f79 只推 raw 未建 wiki）+ 1 個手動 `/browse` 抓取
+- 流程：`sync-vault.sh pull` → 讀取 8 個 raw → 查核 → 月報新到舊插入 → Multica 實體補強 → 建 Apple 實體 stub
+- **每日 7 來源**（月報皆在 2026-04-20 區塊之前新增 2026-04-21 區塊）：
+  - [[src-reddit-til-2026-04]]：15 則 TIL，2 則 ⚠️（#6 Filles du roi 年份誤差 1 年、#12 American mink 腦容量百分比依測量而異）、1 則 ✅ 補註釋（#7 EATTHE 車牌完整情境）
+  - [[src-reddit-eli5-2026-04]]：15 題問題翻譯（生理機制 + 金融科普主軸）
+  - [[src-hn-2026-04]]：15 條（John Ternus 接 Apple CEO #1 2,061 分；Anthropic 雙頭條：CLI 政策反轉 #3、Amazon 50 億美元投資/100 億美元 AWS 支出 #7）
+  - [[src-github-trending-2026-04]]：15 repo，4 則 ❌/⚠️（3 則 crypto flasher 詐騙工具、1 則 SEO spam）；#2 geo-citation-lab × Product Hunt #1 RankAI / #4 Dageno 形成「GEO 需求-產品-研究」三角
+  - [[src-producthunt-2026-04]]：15 產品（Kimi K2.6 首登 #3、Perplexity Health、Cosine Swarm、Chronicle for Codex）
+  - [[src-wikipedia-2026-04]]：Sinestro Corps War 精選 + John Ternus 進熱門榜 #4（26.4 萬瀏覽；與 HN #1 同一事件跨平台熱度）+ 歷史上今天 5 條全 ✅
+  - [[src-skill-ast-grep]]：ast-grep 連四日精選（**歷來最長**），安裝數 3,023→3,072（+49），72h 累積 +131 裝；[[src-skills-picks-2026-04]] 同步更新
+- **Multica 補強**（手動 `/browse` 抓 GitHub README 2026-04-21 22:01）：
+  - 新建 [[src-multica-github-readme]]（官方第一手來源，補盡調資訊差）
+  - 更新 [[Multica]]：CLI 支援從 4 種擴至 **8 種**（+Hermes、Gemini、Pi、Cursor Agent）、技術棧細節（Next.js 16 + Go Chi + PostgreSQL 17 + pgvector）、vs Paperclip 定位分化
+- **新建 [[Apple]] 實體 stub**：John Ternus 接任 CEO 事件為本月跨來源熱點（HN #1 + Wikipedia 熱門 #4 + Stratechery 策略分析）
+- **W17 週綜整不做**：今天 2026-04-22 仍在 W17（04-20 ~ 04-26）中，依記憶規則「週綜整必須過完完整一週才做」，等到 04-27 後才回看 W17
+- 事實查核亮點：
+  - Reddit TIL：2 則 ⚠️ 數據輕微誤差（用「接近野生祖先水準」替代 Reddit 標題的單一百分比）
+  - GitHub Trending：3 則 ❌ 連日出現 crypto flasher 詐騙工具，已成系統性現象
+- 影響總頁面：新增 3（[[src-multica-github-readme]]、[[Apple]]、log 本筆）；修改 9（7 月報 + [[Multica]] + [[index]] + [[src-skill-ast-grep]]）
+- 結束執行 `sync-vault.sh push`

@@ -1,15 +1,40 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md]
 created: 2026-04-14
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-21
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1980 年 Apple 共同創辦人 Steve Wozniak 自掏腰包拿出個人價值 1,000 萬美元股票分給早期員工，認為這是「應該做的事」；Steve Jobs 拒絕跟進 | 34,054 | ✅ | [CNBC](https://www.cnbc.com/2018/04/26/why-apple-co-founder-steve-wozniak-doesnt-invest-in-stocks.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr8p0k/) |
+| 2 | Val Kilmer 原本對《捍衛戰士》（Top Gun，1986）試鏡沒興趣，是在經紀人強力勸說下才去的——他用「冷淡」語氣念完台詞，得知入選時還感到失望 | 16,984 | ✅ | [Task & Purpose](https://taskandpurpose.com/culture/top-gun-val-kilmer-role/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sqs664/) |
+| 3 | Benford 定律：真實世界的數據（股價、城市人口、電費帳單等）中約 30% 的數字以「1」開頭；鑑識會計師用它來揪舞弊，因偽造數字通常不符合此分布 | 13,136 | ✅ | [Case IQ](https://www.caseiq.com/resources/using-benfords-law-in-fraud-investigations) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr5ats/) |
+| 4 | 英國 2 歲男童 Awaab Ishak 2020 年因住宅發霉致死——父母投訴 3 年未獲處理；死亡促成《Awaab's Law》，要求房東必須在數日內修復危險隱患，違者面臨無上限罰款 | 12,574 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Social_Housing_\(Regulation\)_Act_2023#Awaab's_Law) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr5y0s/) |
+| 5 | 飛機設計師 Nicholas Comper 出門放煙火，被路人問在做什麼時開玩笑說「我是 IRA 成員要炸市政廳」——路人一拳打倒他，頭撞路緣致腦出血，送醫後死亡 | 8,414 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Nicholas_Comper#Civilian_life) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr3475/) |
+| 6 | 「國王的女兒」（Filles du roi）是 1663–1673 年由法國王室資助移民魁北克的約 800 名年輕女性，目的是與法國殖民者結婚建立新法蘭西——今日 1,000 萬以上法裔加拿大人多為其後代 | 5,627 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/King%27s_Daughters) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sqqkl4/) |
+| 7 | 2011 年 Virginia 州 DMV 撤銷一塊個人化車牌，因其被解讀與車主原意不同 | 5,621 | ✅ | [DCist](https://dcist.com/story/11/01/05/internet-cannibalism-joke-lost-on-v/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr9esb/) |
+| 8 | 地球深處有兩個比大陸還大的巨型結構，稱為「大低剪切速度區」（LLSVPs，暱稱「the blobs」），科學家至今仍不完全理解它們的成因 | 4,935 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Large_low-shear-velocity_provinces) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sralgz/) |
+| 9 | 「孤獨死」（Kodokushi）是日本嚴重的社會現象，老年人獨自死去且長時間未被發現，主因為人口高齡化、社會孤立與家庭連結弱化 | 4,144 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Kodokushi) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sqxkq3/) |
+| 10 | 大碰撞假說：約 45 億年前，一顆火星大小的天體 Theia 撞上地球，濺出的碎片形成環繞地球的盤狀物，後經重力聚合形成月球 | 3,543 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Giant-impact_hypothesis) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr0lgh/) |
+| 11 | 拜占庭公主 Maria Palaiologina 1265 年被派去嫁給蒙古伊兒汗國 Hulagu Khan，但旭烈兀在她抵達前就死了，於是她改嫁其子 Abaqa Khan | 3,007 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Maria_Palaiologina) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srdwk2/) |
+| 12 | 逃逸野化的美洲水貂（feral American mink）在 40 個世代後腦容量回復至接近野生祖先水準，是馴化效應罕見的逆轉 | 2,924 | ⚠️ | [Royal Society](https://royalsocietypublishing.org/rsos/article/10/7/230463/91980/Domestication-effect-of-reduced-brain-size-is) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sraki1/) |
+| 13 | 1902 年紐約市猶太婦女發起 kosher 肉類聯合抵制，抗議價格從每磅 12 分錢漲到 18 分錢的協同漲價 | 2,672 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/1902_kosher_meat_boycott) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sqx9lh/) |
+| 14 | 林肯直到 1860 年總統大選前數週才開始蓄鬍——起因是一位 11 歲女孩 Grace Bedell 寫信建議他 | 2,403 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Grace_Bedell) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr8cqj/) |
+| 15 | 公元前 581 年，晉景公（Duke Jing of Jin）被巫師預言「活不到吃到新麥」，他把巫師處決；隨後正要吃新麥時掉進廁所淹死 | 1,340 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Duke_Jing_of_Jin_\(Ju\)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sr67if/) |
+
+> **查核備註**：
+> - 第 6 則（Filles du roi）⚠️：Reddit 原標題寫「1665-1673」實際為 **1663–1673**，差一年——Wikipedia 明確記錄首批 1663 年抵達；移民人數與今日後代人數描述屬實。
+> - 第 12 則（American Mink）⚠️：Reddit 原標題寫「regrow their brains by at least 20%」；Royal Society Open Science 論文（Domestication effect of reduced brain size is reversible in feral American mink, 2023）結論是 feral mink 腦容量「部分回復至接近野生祖先水準」，具體百分比依測量方式而異，建議以論文原文為準而非 Reddit 標題的單一數字。
+> - 第 7 則（Virginia DMV 車牌）：Reddit 原標題截斷在冒號，實際被撤銷車牌為 "EATTHE" 搭配框架上附加的 "KIDS" 貼紙（原車主意圖是 "Eat the children" 之類的黑色幽默），連結 DCist 報導為當時媒體第一手資料。
 
 ## 2026-04-20
 

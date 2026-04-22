@@ -1,15 +1,57 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md]
 created: 2026-04-15
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-21
+
+### 今日精選文章
+
+**Sinestro Corps War（辛尼斯托軍團戰爭）**——2007 年 6–12 月由 DC Comics 在 Green Lantern 與 Green Lantern Corps 兩本刊物連載的 11 部分交叉故事，由 Geoff Johns、Dave Gibbons 編劇，Ivan Reis、Patrick Gleason、Ethan Van Sciver 繪製；並含四本《Tales of the Sinestro Corps》與一期 Blue Beetle tie-in。這場戰爭是 Johns 多年鋪陳的 Green Lantern 神話重建中的里程碑事件，直接為《Blackest Night》等後續 DC 大事件打下基礎。[完整文章](https://en.wikipedia.org/wiki/Sinestro_Corps_War)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | Nahui Ollin | 858,084 | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | WrestleMania 42 | 627,138 | [Wikipedia](https://en.wikipedia.org/wiki/WrestleMania_42) |
+| 3 | Patrick Muldoon | 557,394 | [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Muldoon) |
+| 4 | **John Ternus**（新任 Apple CEO） | **264,850** | [Wikipedia](https://en.wikipedia.org/wiki/John_Ternus) |
+| 5 | Euphoria (American TV series) | 148,994 | [Wikipedia](https://en.wikipedia.org/wiki/Euphoria_\(American_TV_series\)) |
+| 6 | 2026 Bulgarian parliamentary election | 145,729 | [Wikipedia](https://en.wikipedia.org/wiki/2026_Bulgarian_parliamentary_election) |
+| 7 | List of highest-grossing Indian films | 141,422 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 8 | Dhurandhar: The Revenge | 139,792 | [Wikipedia](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+| 9 | D4vd | 137,656 | [Wikipedia](https://en.wikipedia.org/wiki/D4vd) |
+| 10 | Deaths in 2026 | 135,661 | [Wikipedia](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+
+### 歷史上的今天
+
+- **2021**：印尼海軍潛艦 Nanggala 號在巴厘海內爆沉沒，艦上 53 人全數罹難
+- **2014**：美國密西根州 Flint 市更換水源至 Flint 河，導致居民鉛中毒危機
+- **2010**：烏克蘭與俄羅斯簽署《哈爾科夫條約》（Kharkiv Pact），延長俄羅斯在克里米亞海軍設施的租期
+- **1975**：南越總統阮文紹（Nguyễn Văn Thiệu）於春祿戰役（越戰最後一戰）失守後辭職
+- **1970**：因小麥產量配額爭議，Leonard Casley 宣告其西澳 75 平方公里的農場獨立為 Hutt River Province（自稱的「獨立國」）
+
+> **事實查核**：五條歷史事件全數屬實 ✅——
+> - 2021 Nanggala 失事與 53 名艦員罹難（含多名高階軍官）
+> - 2014 Flint 水危機為美國公衛重大事件，2016 年國家緊急狀態宣告
+> - 2010 Kharkiv Pact 將俄羅斯黑海艦隊租期延長 25 年（至 2042 年）——俄烏 2014 年克里米亞危機後雙方單方面註銷
+> - 1975 阮文紹辭職發表著名「美國背叛」演說，4 月 30 日西貢陷落
+> - 1970 Hutt River Province 為澳洲最知名的 micronation，2020 年才解散
+
+> **2026-04-21 重點**：
+> - **John Ternus（#4, 264,850）突入 Wikipedia 熱門榜**：與同日 HN #1（2,061 分）指向同一件事——Apple CEO 接班公告的跨平台效應，Wikipedia 上出現明顯的「讀者查誰是新 CEO」行為。
+> - **娛樂與運動佔前三**：Nahui Ollin（墨西哥詩人/模特兒 Carmen Mondragón，20 世紀初 Muralism 運動繆思）、WrestleMania 42、演員 Patrick Muldoon——跨世代流行文化議題並陳。
+> - **印度與保加利亞政治事件**：#6 保加利亞大選、#7 印度最高票房電影榜、#8 Dhurandhar（印度動作片續集）——非英語國家流量反映本月 Wikipedia 跨語系連動。
+> - **精選文章主題延續「英雄敘事」**：Sinestro Corps War 緊接前日 Sci-Fi Dine-In Theater 的流行文化主題。
 
 ## 2026-04-20
 

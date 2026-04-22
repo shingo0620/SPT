@@ -1,15 +1,37 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md]
 created: 2026-04-15
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-21
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 為什麼人類這麼擅長掌握「要用多少力、多少角度才能把東西丟到某個距離」？ | 1,480 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr650r/) |
+| 2 | 為什麼 ad blocker 能擋 YouTube 廣告，卻對 Netflix、Disney+ 等串流平台無效？ | 423 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr5lx8/) |
+| 3 | 為什麼銀行追蹤詐騙匯款到最終收款帳戶這麼難？（KYC 那麼嚴，為何跨境難以追溯？） | 289 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr5kdz/) |
+| 4 | 總鑰匙（Master Keys）的工作原理——一把鑰匙能開多把鎖、但每把副鑰只能開自己那把，機械上怎麼做到？ | 274 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr3cbu/) |
+| 5 | 晨勃純粹是睪固酮濃度升高造成的嗎？還是另有生理機制？ | 270 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srhlan/) |
+| 6 | 為什麼肌肉量增加能改善胰島素敏感度？ | 270 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqxydd/) |
+| 7 | 如果智齒最終都要拔掉，人類為什麼還會長？（演化上的 vestigial 現象） | 248 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr13ao/) |
+| 8 | 為什麼用消毒液或酒精清潔新傷口會刺痛？（不是細菌在反抗） | 240 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srhfgj/) |
+| 9 | 棒球「內野高飛球規則」（Infield Fly Rule）——為什麼要有這條反直覺的規則？ | 183 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srdhi1/) |
+| 10 | 2008 年全球金融海嘯究竟是怎麼發生的？（次貸、MBS、雷曼倒閉的因果鏈） | 184 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqquyz/) |
+| 11 | 為什麼物體受熱會膨脹？（分子動能 vs. 原子間距） | 97 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sqz1ov/) |
+| 12 | 對生拇指（opposable thumbs）在人類演化上究竟有多重要？（與其他靈長類比較） | 78 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sr12ir/) |
+| 13 | 為什麼我們能知道大爆炸後「分秒級」發生了什麼？為什麼不能追到 T=0？（Planck time 的物理極限） | 65 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srgjsi/) |
+| 14 | 「街頭智慧」（street smarts）到底是什麼？相對於 book smarts，它能怎麼學？ | 51 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srhxty/) |
+| 15 | 親兄弟姐妹（full siblings）基因相同度是 50%——但兩人的 DNA 都來自同一對父母，為何不是 100%？（減數分裂與隨機重組） | 39 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srdh9g/) |
+
+> **本日趨勢**：問題集中在生理機制（晨勃、胰島素、傷口刺痛、智齒、基因分布）與金融科普（銀行追蹤詐騙、2008 金融海嘯）；第 1、12 均由 u/worxcd 提出，皆圍繞人類演化優勢（投擲與拇指）的主題鏈。
 
 ## 2026-04-20
 

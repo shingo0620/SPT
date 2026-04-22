@@ -1,15 +1,42 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md]
 created: 2026-04-15
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-21
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **RankAI** | 自動化把買家從 Google 與 AI 搜尋引流到你的網站 | Marketing / SEO / Search | 246 / 45 | [PH](https://www.producthunt.com/products/rankai-2) |
+| 2 | **Twenty 2.0** | AI 時代的企業 CRM——OSS、MCP 整合、自訂 data model | DevTools / CRM / SDK | 191 / 18 | [PH](https://www.producthunt.com/products/twenty-crm) |
+| 3 | **Kimi K2.6**（Moonshot AI） | 長任務協調與 agent swarm 的開源 SOTA | Open Source / AI / Dev | 162 / 7 | [PH](https://www.producthunt.com/products/kimi-ai-assistant) |
+| 4 | Dageno AI | 跨 7+ 主流 LLM 最被推薦的品牌優化平台（GEO） | Marketing / SEO / AI | 153 / 22 | [PH](https://www.producthunt.com/products/agent-powered-geo-by-dageno) |
+| 5 | Devaito | 在 autopilot 上建、上線、成長你的事業 | AI / E-Commerce / No-Code | 129 / 15 | [PH](https://www.producthunt.com/products/devaito) |
+| 6 | **Spectrum** | 把 agent 送到人們已經在用的各種介面（聊天、協作工具） | Messaging / Open Source / GitHub | 123 / 13 | [PH](https://www.producthunt.com/products/spectrum-5) |
+| 7 | **Perplexity Health** | 跨個人病歷、實驗室檢驗、穿戴裝置資料的 AI 健康問答 | Health & Fitness / Wearables / Medical | 112 / 1 | [PH](https://www.producthunt.com/products/perplexity-ai) |
+| 8 | **Chronicle for Codex** | 從最近的螢幕 context 自動建構 Codex 的記憶 | Productivity / DevTools / AI | 111 / 3 | [PH](https://www.producthunt.com/products/openai) |
+| 9 | **Cosine Swarm** | 複雜軟體任務的平行 AI agent 執行框架（長任務） | DevTools / AI / Vibe coding | 106 / 11 | [PH](https://www.producthunt.com/products/cosine) |
+| 10 | **LiveDemo** | 開源互動式產品 demo | Sales / SaaS / DevTools | 100 / 8 | [PH](https://www.producthunt.com/products/livedemo) |
+| 11 | PageOn.AI 3.0 | 做簡報、海報、資訊圖的 visual agent | Design / Productivity / AI | 95 / 10 | [PH](https://www.producthunt.com/products/pageon-ai) |
+| 12 | Magic Layers by Canva | 把任何平面圖片變成完全可編輯的設計稿 | Design / Productivity / Marketing | 94 / 3 | [PH](https://www.producthunt.com/products/magic-layers-by-canva) |
+| 13 | **Harker 2.0** | Mac 上完全私有的 speech-to-text | Mac / Productivity / AI | 88 / 10 | [PH](https://www.producthunt.com/products/harker-type-faster-with-your-voice) |
+| 14 | RapidNative | 真的建「整個 app」的 AI app builder（不只元件） | AI / No-Code / Vibe coding | 86 / 2 | [PH](https://www.producthunt.com/products/rapidnative) |
+| 15 | Flow AI | 把 LinkedIn 變成自動化的 leads 來源 | Sales / AI / Marketing automation | 84 / 9 | [PH](https://www.producthunt.com/products/agent-maya-by-flow-ai) |
+
+> **2026-04-21 主軸**：
+> - **GEO（Generative Engine Optimization）雙發**：#1 RankAI（Google + AI Search 主動引流）與 #4 Dageno AI（跨 LLM 被推薦優化）——與同日 GitHub Trending #2 geo-citation-lab 研究 dataset 形成完整「需求→產品→研究」三角。
+> - **Agent 生態物件化**：#3 Kimi K2.6（OSS SOTA long-horizon + swarm）、#6 Spectrum（agent 進入既有介面）、#9 Cosine Swarm（平行 agent 執行）——「agent 作為團隊、作為執行者、作為介面原住民」三種 positioning 同日出現。與 [[Multica]] 的 managed agents 定位形成生態互補。
+> - **AI 進醫療**：#7 Perplexity Health 是本月第一個面向個人醫療記錄（EHR）+ 穿戴裝置的泛用 AI 問答產品——Perplexity 從通用搜尋開始垂直化。
+> - **Codex 記憶戰**：#8 Chronicle 切入「螢幕 context → agent memory」這個細分賽道——對照 [[src-AI 寫 code 時代，不抓 Bug、不留 Test Case 真的沒事嗎？]] 主張的「結構化紀錄 vs 即興對話」的實踐版本。
+> - **Kimi K2.6 首登 PH**：Moonshot AI 一週內從第二階段開源變成 Product Hunt 第 3，曝光通道從學術圈進到 productization 圈。
 
 ## 2026-04-20
 

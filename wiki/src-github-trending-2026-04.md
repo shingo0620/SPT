@@ -1,15 +1,41 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md]
 created: 2026-04-15
-updated: 2026-04-20
+updated: 2026-04-21
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-21
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | ~~[polymarket-copy-trading-bot](https://github.com/QuantBots-Collective/polymarket-copy-trading-bot)~~ | ~~Polymarket 跟單機器人~~ | 76 | TypeScript | ⚠️ 描述為 SEO spam 式重複關鍵字；預測市場跟單工具，合法性依管轄地區而異 |
+| 2 | [geo-citation-lab](https://github.com/yaojingang/geo-citation-lab) | 研究 AI 搜尋引擎如何挑選與使用引用的 dataset 與分析 pipeline | 72 | Python | ✅ GEO（Generative Engine Optimization）研究基礎建設——呼應 Product Hunt #1 RankAI / #4 Dageno 同日 GEO 工具潮 |
+| 3 | ~~[Bitcoin-Flasher](https://github.com/martinSammy9a/Bitcoin-Flasher)~~ | ~~flash btc/eth/usdt/ltc sender、fake crypto sender~~ | 50 | — | ❌ 加密貨幣詐騙工具，用於製造假交易顯示以騙受害者 |
+| 4 | ~~[USDT-Flasher](https://github.com/celentanelite/USDT-Flasher)~~ | ~~同 #3 的同類詐騙~~ | 50 | — | ❌ 同上 |
+| 5 | ~~[Exodus-Fake-Balance](https://github.com/3s4r46kra7m1ertqdm7792/Exodus-Fake-Balance)~~ | ~~Exodus 錢包的假餘額顯示工具，200+ 資產即時偽造、防截圖檢測~~ | 35 | Python | ❌ 截圖詐騙工具，與 2026-04-20 #2 同類型 |
+| 6 | [demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker) | Lydia Hallie 的 issue tracker demo（教學/演示用，無說明） | 34 | TypeScript | ✅ Lydia Hallie 為知名 JS/React 教學作者，屬 demo repo |
+| 7 | [Lottie-Whatsapp](https://github.com/Pedrozz13755/Lottie-Whatsapp) | （無描述） | 34 | JavaScript | ⚠️ 無描述、帳號不知名 |
+| 8 | [vela](https://github.com/heider-x/vela) | AI-powered IDE for novel writing——本地 LLM + RAG、隱私優先、BYOK（Bring Your Own Key），面向網路小說作者與創意寫作者的桌面應用 | 30 | TypeScript | ✅ Privacy-first 本地 LLM 應用潮延續 |
+| 9 | [HA-Optimizer](https://github.com/doanlong1412/HA-Optimizer) | Home Assistant 自動化優化工具（無描述） | 26 | HTML | ⚠️ 無描述 |
+| 10 | [ai-browser-tutorial](https://github.com/dankefox/ai-browser-tutorial) | AI 瀏覽器自由教程——「一隻狐狸如何學會自己逛推特」，中文 | 21 | — | ✅ Agent-in-browser 概念的中文教學 |
+| 11 | [zef](https://github.com/pizlonator/zef) | Zef 程式語言（Phil Pizlo 的新語言實驗） | 20 | HTML | ✅ Phil Pizlo 曾任 Apple WebKit JS 引擎架構師，新語言值得關注 |
+| 12 | [Hint2Gen](https://github.com/yuanpengtu/Hint2Gen) | Hint2Gen 的原始碼（學術論文配套） | 16 | Python | ⚠️ 缺乏高層說明 |
+| 13 | [agent-simulator](https://github.com/jasonkneen/agent-simulator) | 瀏覽器內可檢視（inspect）的 iOS 模擬器，供 AI agent 操作 | 15 | TypeScript | ✅ Agent UI 測試基礎建設 |
+| 14 | [expo-ios-like-swipe-actions](https://github.com/rit3zh/expo-ios-like-swipe-actions) | React Native 的 iOS 風格平滑滑動操作 | 13 | TypeScript | ✅ 實用 RN 元件 |
+| 15 | [libghidra](https://github.com/0xeb/libghidra) | 自動化 Ghidra 的 SDK——支援 Python、Rust、C++：decompile、rename、annotate、查 symbols/types/xrefs、管理專案生命週期，把 Ghidra 當基礎建設而非僅 GUI | 13 | C++ | ✅ 資安逆向工程社群的重要提升——把 NSA 的 Ghidra 程式化 |
+
+> **2026-04-21 觀察**：
+> - **詐騙 repo 占比維持高**：#3、#4、#5 三筆加密貨幣「Flasher / Fake Balance」類詐騙工具——Trending 繼續被 SEO spam 攻陷。與 2026-04-20 的 #1、#2、#6 形成連日模式，已成為本月系統性現象。
+> - **GEO 基礎建設集中**：#2 geo-citation-lab 與同日 Product Hunt #1 RankAI（Google & AI Search 主動引流）、#4 Dageno AI（LLM 推薦優化）共同指向「AI 搜尋引擎的引用機制」正在從需求萌芽走向研究 + 產品化。
+> - **AI 工具三條線**：#8 vela（寫小說）、#10 ai-browser-tutorial（瀏覽器 agent）、#13 agent-simulator（iOS 模擬器）——agent-on-device、agent-in-browser、agent-as-writer 三向並進。
+> - **資安 SDK 升級**：#15 libghidra 把 NSA 逆向工具 Ghidra 用 SDK 暴露給 Python/Rust/C++，延續「把 GUI 工具 CLI/程式化」的 2026 趨勢。
 
 ## 2026-04-20
 

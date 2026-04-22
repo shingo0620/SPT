@@ -2,7 +2,7 @@
 title: Multica
 type: entity
 entity_type: tool
-sources: [src-multica-devv-ai盡調.md]
+sources: [src-multica-devv-ai盡調.md, src-multica-github-readme.md]
 created: 2026-04-21
 updated: 2026-04-21
 tags: [AI Agent, 多 Agent 協作, OSS, Vendor-neutral, Agent Management]
@@ -33,13 +33,19 @@ tags: [AI Agent, 多 Agent 協作, OSS, Vendor-neutral, Agent Management]
 
 ### Vendor-neutral（供應商中立）
 
-支援的 Agent CLI：
+支援的 Agent CLI（**官方 README 2026-04-21 更新至 8 種**）：
 - [[Claude Code]]（Anthropic）
 - Codex（OpenAI）
 - OpenClaw
 - OpenCode
+- Hermes
+- Gemini（Google）
+- Pi
+- Cursor Agent
 
 **Daemon 自動偵測本機裝的 CLI 進行串接**。
+
+> 2026-04-21 據 [[src-multica-github-readme]]，支援清單從盡調期的 4 種擴至 8 種——vendor-neutral 定位從「方向」升級為「既成事實」。
 
 對比 [[Anthropic]] Claude Managed Agents 只能跑自家 Claude——Multica 的開放架構直接打中企業對「Vendor Lock-in」的焦慮。
 
@@ -53,9 +59,29 @@ tags: [AI Agent, 多 Agent 協作, OSS, Vendor-neutral, Agent Management]
 
 ## 架構亮點
 
-- **任務狀態機（State Machine）**：Agent 任務的生命週期管理
+- **任務狀態機（State Machine）**：Agent 任務的生命週期管理（enqueue → claim → start → complete/fail）
 - **Skill 持久化**：Agent 學到的 Skill 可跨 session 復用，也可讓其他 Agent 讀取
 - **Multi-runtime 架構**：同一組 task 可路由到不同 Agent runtime 執行
+
+### 技術棧（據 [[src-multica-github-readme]]）
+
+| Layer | Stack |
+|-------|-------|
+| Frontend | Next.js 16（App Router） |
+| Backend | Go（Chi router、sqlc、gorilla/websocket） |
+| Database | **PostgreSQL 17 + pgvector**（強烈暗示 Skill 庫做語義搜尋） |
+| Agent Runtime | 本地 daemon，執行上述 8 種 CLI |
+| 進度推送 | WebSocket 即時串流 task lifecycle |
+
+### 產品定位分化（Multica vs Paperclip）
+
+| 維度 | Multica | Paperclip |
+|------|--------|-----------|
+| 焦點 | 團隊協作 | 單人 solo |
+| 部署 | 雲端優先 | 本地優先 |
+| 管理 | 輕量（Issues / Labels） | 重度（Org chart / Budgets） |
+
+→ 說明 agent management 市場已分化為「雲端團隊」與「本地個人」兩條路線，不是同一市場競爭。
 
 ## 與既有實體的關係
 
@@ -73,3 +99,4 @@ tags: [AI Agent, 多 Agent 協作, OSS, Vendor-neutral, Agent Management]
 ## 來源
 
 - [[src-multica-devv-ai盡調]]：匿名作者的投研視角盡調報告
+- [[src-multica-github-readme]]：官方 GitHub README（2026-04-21 擷取），補齊 CLI 支援清單、技術棧、商業化進度
