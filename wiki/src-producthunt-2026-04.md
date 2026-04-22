@@ -35,7 +35,7 @@ tags: [producthunt, monthly-digest]
 > - **GEO（Generative Engine Optimization）雙發**：#1 RankAI（Google + AI Search 主動引流）與 #4 Dageno AI（跨 LLM 被推薦優化）——與同日 GitHub Trending #2 geo-citation-lab 研究 dataset 形成完整「需求→產品→研究」三角。
 > - **Agent 生態物件化**：#3 Kimi K2.6（OSS SOTA long-horizon + swarm）、#6 Spectrum（agent 進入既有介面）、#9 Cosine Swarm（平行 agent 執行）——「agent 作為團隊、作為執行者、作為介面原住民」三種 positioning 同日出現。與 [[Multica]] 的 managed agents 定位形成生態互補。
 > - **AI 進醫療**：#7 Perplexity Health 是本月第一個面向個人醫療記錄（EHR）+ 穿戴裝置的泛用 AI 問答產品——Perplexity 從通用搜尋開始垂直化。
-> - **Codex 記憶戰**：#8 Chronicle 切入「螢幕 context → agent memory」這個細分賽道——對照 [[src-AI 寫 code 時代，不抓 Bug、不留 Test Case 真的沒事嗎？]] 主張的「結構化紀錄 vs 即興對話」的實踐版本。
+> - **Codex 記憶戰**：#8 Chronicle 切入「螢幕 context → agent memory」這個細分賽道——對照 [[src-AI時代的測試管理]] 主張的「結構化紀錄 vs 即興對話」的實踐版本。
 > - **Kimi K2.6 首登 PH**：Moonshot AI 一週內從第二階段開源變成 Product Hunt 第 3，曝光通道從學術圈進到 productization 圈。
 
 ## 2026-04-20

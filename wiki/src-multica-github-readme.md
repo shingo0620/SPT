@@ -159,7 +159,7 @@ multica setup self-host  # 同樣流程但指向 self-hosted deployment
 - **背後組織**：[[Devv.AI]]——Multica 出身上海的 Devv.AI 團隊，本 README 未提（由盡調補充）
 - **同生態 agent runtime**：[[Claude Code]]、Gemini——README 首次明載支援
 - **競合定位**：[[Anthropic]] Claude Managed Agents vs Multica vendor-neutral——README 未直接對比 Anthropic，但八種 CLI 支援清單本身就是 vendor-neutral 的最強聲明
-- **Skill 概念呼應**：[[Skill vs Bash vs MCP]]、[[src-Harness Engineering]]——Multica 的「Reusable Skills」機制將 agent 解決方案沉澱為可重用資產，與 [[src-AI 時代的測試管理]] 中 skill 的生命週期管理呼應
+- **Skill 概念呼應**：[[Skill vs Bash vs MCP]]、[[src-Harness Engineering]]——Multica 的「Reusable Skills」機制將 agent 解決方案沉澱為可重用資產，與 [[src-AI時代的測試管理]] 中 skill 的生命週期管理呼應
 
 ---
 

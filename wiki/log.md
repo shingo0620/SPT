@@ -298,3 +298,20 @@
   - GitHub Trending：3 則 ❌ 連日出現 crypto flasher 詐騙工具，已成系統性現象
 - 影響總頁面：新增 3（[[src-multica-github-readme]]、[[Apple]]、log 本筆）；修改 9（7 月報 + [[Multica]] + [[index]] + [[src-skill-ast-grep]]）
 - 結束執行 `sync-vault.sh push`
+
+## [2026-04-22] lint | ingest 後健康檢查 + 3 項修正
+- 觸發：`/llm-wiki lint`，全量掃描 66 頁
+- 掃描通過項：
+  - ✅ 所有 64 頁實體內容皆列於 [[index]]，無索引遺漏
+  - ✅ 無孤立頁面（最低反向連結 2）
+  - ✅ [[Apple]]、[[src-multica-github-readme]] 各 3 反向連結，整合良好
+  - ✅ 月報 frontmatter `sources` 與 `updated` 全部同步至 2026-04-21
+  - ✅ 無殘留誤植的 [[Gemini]] / [[OpenAI]] / [[Amazon]] / [[AWS]] / [[Privacy-First Architecture]] / [[Enshittification]] wikilink
+- 修正內容：
+  1. [[src-producthunt-2026-04]] 懸空 wikilink `[[src-AI 寫 code 時代，不抓 Bug、不留 Test Case 真的沒事嗎？]]` → `[[src-AI時代的測試管理]]`（本次 ingest 誤把 raw 檔名當 wiki 頁名）
+  2. [[src-multica-github-readme]] 懸空 wikilink `[[src-AI 時代的測試管理]]`（多一空格） → `[[src-AI時代的測試管理]]`
+  3. 新建 [[Manim]] 實體頁——3Blue1Brown 的 Python 動畫引擎，wiki 中 6 處提及但缺頁；作為 [[src-skill-3b1b-style-animation-skill]] 的技術基礎
+- 未修正但標記：
+  - **GEO（Generative Engine Optimization）** 本月 2 來源出現（GitHub Trending #2 + PH #1/#4），暫不建概念頁，累積 3+ 來源再建
+  - **John Ternus / Tim Cook** 暫歸入 [[Apple]] 頁章節，避免單事件人物 stub
+- 影響頁面：[[src-producthunt-2026-04]], [[src-multica-github-readme]], [[Manim]]（新）, [[index]]

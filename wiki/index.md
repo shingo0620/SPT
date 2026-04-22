@@ -78,6 +78,7 @@
 - [[skills.sh]] — Agent Skill 策展平台（來源數：0，LLM 跨來源歸納）
 - [[Multica]] — Vendor-neutral 的多 Agent 協作平台，Devv.AI 團隊開源（來源數：1）
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
+- [[Manim]] — Python 數學動畫引擎，3Blue1Brown 開發並開源，ML/教育內容事實標準（來源數：1）
 
 ## 概念
 
