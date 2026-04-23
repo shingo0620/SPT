@@ -1,15 +1,58 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md]
 created: 2026-04-15
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-22
+
+### 今日精選文章
+
+**Nihilism（虛無主義）**——一個否定任何客觀意義目的、道德價值、真理或知識存在的哲學觀點家族。虛無主義觀點橫跨哲學多個分支，包括倫理學、價值論、認識論與形上學。虛無主義也被描述為瀰漫現代西方世界的一種廣泛文化現象或歷史運動——從 19 世紀俄國思想家（如屠格涅夫《父與子》中的 Bazarov）到尼采宣告「上帝已死」、再到 20 世紀存在主義，皆屬此脈絡。[完整文章](https://en.wikipedia.org/wiki/Nihilism)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | Nahui Ollin | 909,531 | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | **John Ternus**（Apple CEO 接班人） | **413,418** | [Wikipedia](https://en.wikipedia.org/wiki/John_Ternus) |
+| 3 | Patrick Muldoon | 252,759 | [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Muldoon) |
+| 4 | **Patti Davis**（見 [[src-reddit-til-2026-04]] 04-22 #5 1994 Playboy 冷知識連動） | 178,454 | [Wikipedia](https://en.wikipedia.org/wiki/Patti_Davis) |
+| 5 | D4vd | 164,758 | [Wikipedia](https://en.wikipedia.org/wiki/D4vd) |
+| 6 | **Tim Cook** | 159,781 | [Wikipedia](https://en.wikipedia.org/wiki/Tim_Cook) |
+| 7 | Alan Osmond | 153,008 | [Wikipedia](https://en.wikipedia.org/wiki/Alan_Osmond) |
+| 8 | List of highest-grossing Indian films | 152,373 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 9 | Dhurandhar: The Revenge | 136,551 | [Wikipedia](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+| 10 | Deaths in 2026 | 134,035 | [Wikipedia](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+
+### 歷史上的今天
+
+- **2022**：美國氣候運動人士 Wynn Bruce 在美國最高法院大樓外自焚，以抗議氣候危機
+- **2020**：澳洲墨爾本東部高速公路上一輛卡車撞死四名維多利亞州警察——為該警力單一事件最嚴重的傷亡
+- **2016**：《巴黎協定》（Paris Agreement）氣候變遷國際條約開放簽署，當日由 175 個締約方簽署
+- **2013**：加拿大皇家騎警（RCMP）逮捕兩名密謀對 Via Rail 鐵路營運進行恐怖攻擊的男子
+- **2004**：北韓龍川郡火車站的易燃物爆炸，造成至少 54 人死亡、1,000 餘人受傷
+
+> **事實查核**：五條歷史事件全數屬實 ✅——
+> - 2022 Wynn Bruce 自焚：時間、地點、動機與新聞報導一致
+> - 2020 墨爾本東部高速公路：維多利亞州警察史上單一事件最高傷亡，4 名警員（Leading Senior Constable Lynette Taylor、Senior Constable Kevin King、Constable Glen Humphris、Constable Josh Prestney）殉職
+> - 2016 巴黎協定：聯合國氣候變化綱要公約第 21 次締約方大會（COP21）協商產物，4 月 22 日（地球日）在紐約開放簽署
+> - 2013 Via Rail 恐攻案：Chiheb Esseghaier 與 Raed Jaser 兩名被告被指控由伊朗指揮密謀——2015 年被定罪
+> - 2004 龍川郡爆炸：金正日專列通過後約 9 小時發生，North Korea 罕見向國際紅十字求援
+
+> **2026-04-22 重點**：
+> - **#2 John Ternus 413,418 瀏覽**：連日霸榜——04-21 Ternus 達 264,850 瀏覽，04-22 再增 +56%，反映 Apple 權力交接（見 [[Apple]] 與 [[src-hn-2026-04]] 04-21 #1）的公眾搜尋熱度仍在爬坡。Tim Cook #6（159,781）同步呼應。
+> - **#4 Patti Davis 跨平台共振**：Wikipedia 熱門 #4（178,454 瀏覽）同步 Reddit TIL #5（13,295 分）——「1994 年為 Playboy 拍攝」冷知識引發 Reddit 熱度並反向推高 Wikipedia 閱讀。TIL → Wikipedia 雙向流量路徑的典型範例。
+> - **#1 Nahui Ollin 連日霸榜**：04-21 首度登 #1（858,084）、04-22 再增至 909,531——墨西哥作家／繆思（1893–1978）的熱度來源目前不明，疑為社群媒體病毒式傳播。
+> - **本日精選 Nihilism**：與月內「[[Apple]] 權力交接」「氣候變遷（#2016 巴黎協定）」等當代變局題材形成哲學層的對照；虛無主義在 2020s 是網路常被援引但常被誤用的概念，Wikipedia 挑此日精選具有隱晦的時代批判意味。
+> - **2016 巴黎協定同日紀念**：04-22 為地球日，Wikipedia 把 Paris Agreement 簽署列入「On this day」——與 2025 年美國再度退出巴黎協定的當代政治脈絡形成暗合。
 
 ## 2026-04-21
 

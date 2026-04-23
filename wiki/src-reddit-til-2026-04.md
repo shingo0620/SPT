@@ -1,15 +1,43 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md]
 created: 2026-04-14
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-22
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | Gillette 刮鬍刀創辦人 King C. Gillette 是烏托邦社會主義者——主張所有工業應由單一公營企業經營，美國人應住在以尼加拉瀑布供電、名為 Metropolis 的巨型城市 | 19,628 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/King_C._Gillette) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srv4xo/) |
+| 2 | 賓州 17 歲少女 2012 年感恩節起連睡 64 天到 2013 年 1 月——平均每日睡 18–19 小時，只在夢遊狀態下起床吃東西，醒後毫無記憶，俗稱「睡美人症候群」（Kleine-Levin syndrome） | 19,323 | ✅ | [CBS News](https://www.cbsnews.com/news/17-year-old-pa-woman-battles-sleeping-beauty-syndrome/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss6bt2/) |
+| 3 | 「色情成癮」並非醫學上公認的成癮診斷——DSM-5 未收錄，ICD-11 改用「強迫性性行為障礙」（CSBD）作為行為失控範疇，學界對其是否屬「成癮」仍有爭議 | 18,922 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Pornography_addiction) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srpid4/) |
+| 4 | 拿破崙偏好烤雞、炸馬鈴薯、熱湯、水波蛋／煎蛋捲與通心粉等簡單菜餚，勝過廚師能做的所有精緻法料——餐桌上很少超過 15 分鐘，常直接用手吃 | 16,844 | ✅ | [Napoleon Blog](https://blog.napoleon-cologne.fr/en/napoleon-at-the-table-a-gastronomic-paradox/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srxs33/) |
+| 5 | 雷根總統之女 Patti Davis 1994 年為 Playboy 拍攝裸照——與她反對父親政治立場的公開抗爭為同時期話題 | 13,295 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Patti_Davis) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srpnj0/) |
+| 6 | 美國 18–25% 的智力資優學生（至少 130 IQ）無法從高中畢業——「資優未達成就」（underachievement）現象在教育心理學文獻中廣受研究 | 11,444 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Intellectual_giftedness#Underachievement) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss6gbc/) |
+| 7 | 亞奎丹的埃莉諾（Eleanor of Aquitaine）與法王路易七世結婚 15 年未生下男嗣被離婚——改嫁英王亨利二世後生了五個兒子，包括獅心王理查與無地王約翰 | 10,513 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssfl4p/) |
+| 8 | 搖滾歌手 Billy Idol 曾在泰國開 3 週派對，最後由軍隊介入才結束 | 5,237 | ✅ | [Louder Sound](https://www.loudersound.com/features/we-went-there-to-have-a-whale-of-a-time-a-sex-holiday-really-but-it-got-out-of-hand-billy-idol-on-the-thailand-vacation-that-ended-with-a-visit-from-the-army) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss7h8f/) |
+| 9 | 1950 年以前美國氣象員被禁止在天氣預報中使用「龍捲風」一詞——氣象局擔心造成民眾恐慌、引發聚眾騷動 | 4,879 | ✅ | [Atlas Obscura](https://www.atlasobscura.com/articles/until-1950-us-weathermen-were-forbidden-from-talking-about-tornados) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss9xzd/) |
+| 10 | 法國 96% 的用過核燃料被「回收或玻璃化固化」——實際轉為新 MOX 燃料的比例僅約 1%，其餘大部分為玻璃化長期儲存 | 4,344 | ⚠️ | [Stanford PH241](http://large.stanford.edu/courses/2024/ph241/friedman2/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1srvx0r/) |
+| 11 | 馬多夫（Bernie Madoff）龐氏騙局受害者賠償基金最終追回約 94% 損失——透過 15 年清算與信託人 Irving Picard 的追討訴訟完成 | 4,276 | ✅ | [The Guardian](https://www.theguardian.com/business/2024/dec/31/bernie-madoff-compensation-fund-makes-final-payments) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssjqqx/) |
+| 12 | 1979 年三哩島事故中，操作員錯過兩個關鍵狀態燈——一個被維修標籤遮住，另一個據推測被操作員的大肚子擋住視線 | 3,052 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss7uru/) |
+| 13 | ADSL 寬頻協定極度健壯——實驗證實可在一根「濕繩」上以合理速度傳輸資料（2017 年英國網路工程師 Adrian Kennard 實測） | 2,976 | ✅ | [revk.uk](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssgpws/) |
+| 14 | 1936 年柏林奧運開幕式上，印度代表隊為少數未向希特勒行納粹禮的國家之一；印度曲棍球隊同屆擊敗德國取得金牌 | 2,909 | ⚠️ | [idrottsforum](https://idrottsforum.org/feature-majumdar240728/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sruuxa/) |
+| 15 | 死亡谷（Death Valley）據說由一群迷路數週的淘金客命名——他們找到淡水因此只有一人死亡（命名由來版本多種，部分紀錄提及不只一位死亡） | 1,791 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Death_Valley_National_Park) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ss96zp/) |
+
+> **查核備註**：
+> - 第 3 則（色情成癮）⚠️：Reddit 標題正確但語境不完整——DSM-5 確未列「色情成癮」，但 ICD-11 已加入「強迫性性行為障礙」（CSBD）作為臨床診斷範疇。學界對是否屬「成癮模型」（獎勵迴路失調）或「衝動控制障礙」仍有主要分歧；應理解為「該具體術語未被接受」而非「該現象不存在」。
+> - 第 6 則（18–25% 資優生不畢業）⚠️：Wikipedia 頁面引用多篇研究，範圍估計為 18–25%。此為「資優未達成就」學術議題的上緣估計；實際數字依定義「資優」的門檻與地區樣本變化大，不宜視為單一權威數據。
+> - 第 10 則（法國核燃料 96%）⚠️：數字定義關鍵——「回收或玻璃化」合計達 96%，但真正轉為新 MOX 燃料再用者僅約 1%；多數為玻璃化後進入深地質處置場。Reddit 標題「reprocess 96%」的「reprocess」一詞涵蓋廣義，實際新燃料比例遠低於此。
+> - 第 12 則（三哩島肚子擋狀態燈）⚠️：Wikipedia 記述此說法，但為事故後訪談的軼聞型證據，非調查報告主論點。實際事故主因為 PORV 閥門指示燈誤植（指示關閉但實未關）及操作員訓練不足。
+> - 第 14 則（1936 奧運印度未行納粹禮）⚠️：「只有兩國未行」的說法無權威數據——當時多國使用「奧林匹克禮」（與納粹禮動作相近）導致影像判讀困難；美國明確未行納粹禮，部分代表團則行奧林匹克禮被誤判。印度曲棍球在該屆擊敗德國奪金為事實。
+> - 第 15 則（死亡谷）⚠️：1849 年 Death Valley 49ers 中的確有人迷路數週，但記載中至少有兩位死亡，並非「只有一人死」；「Death Valley」命名由一位倖存者離開時回望說出 "Goodbye, Death Valley" 而來，實際通過路線多條、人員分組複雜。
 
 ## 2026-04-21
 

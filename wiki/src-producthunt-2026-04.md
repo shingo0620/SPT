@@ -1,15 +1,44 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md]
 created: 2026-04-15
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-22
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **SpeakON** | MagSafe AI 裝置，為「後鍵盤時代」而生 | Hardware / Accessories / Apple | 223 / 32 | [PH](https://www.producthunt.com/products/speakon) |
+| 2 | **Stanley For 𝕏** | 世上第一位「AI Head of Content」（為 X/Twitter 內容策略設計） | Twitter / Marketing / AI | 198 / 52 | [PH](https://www.producthunt.com/products/stanley-for-x) |
+| 3 | **ChatGPT Images 2.0** | 首款具備 thinking capability 的圖像生成模型 | Design Tools / Social Media / AI | 192 / 5 | [PH](https://www.producthunt.com/products/chatgpt-images-2-0) |
+| 4 | **InstantDB** | 一個 prompt 搞定完整後端——含驗證與儲存 | Open Source / DevTools / Database | 170 / 27 | [PH](https://www.producthunt.com/products/instant-db) |
+| 5 | Zernio Ads API | 透過單一 API 在 6 大平台建立、管理、報告廣告 | API / Advertising / DevTools | 149 / 44 | [PH](https://www.producthunt.com/products/zernio) |
+| 6 | Nova Recruiter | Agent 化的人才發掘、接洽與招募平台 | Human Resources | 140 / 35 | [PH](https://www.producthunt.com/products/nova-recruiter) |
+| 7 | Toki 2.0 | 從想法自動轉為排程計畫——AI 時間管理 | Productivity / Calendar / AI | 115 / 24 | [PH](https://www.producthunt.com/products/toki-ai) |
+| 8 | Cai | 按 ⌥C 對任何東西執行 smart actions，全本地處理 | Productivity / DevTools / AI | 114 / 21 | [PH](https://www.producthunt.com/products/cai-layer) |
+| 9 | **Framework Laptop 13 Pro** | Linux 優先、具高階定位的模組化筆電 | Hardware / Computers | 111 / 3 | [PH](https://www.producthunt.com/products/framework) |
+| 10 | Tines Story copilot | 對話式 AI 介面——讓你組合智慧工作流 | DevTools / AI / Maker Tools | 103 / 9 | [PH](https://www.producthunt.com/products/tines) |
+| 11 | Portt | 把你的照片穿越至任何時代任何地點 | Photography / AI / Photo editing | 97 / 11 | [PH](https://www.producthunt.com/products/portt-time-travel-for-ios) |
+| 12 | Cavalry Studio | Canva 推出的免費 Motion Design 工具 | Design Tools / Marketing / SaaS | 91 / 2 | [PH](https://www.producthunt.com/products/cavalry-2) |
+| 13 | Qwen3.6-Max-Preview | Alibaba 為 agentic coding 打造的旗艦 Qwen | API / AI / Development | 88 / 1 | [PH](https://www.producthunt.com/products/qwen3) |
+| 14 | VibeAround | 從任何 IM 或瀏覽器跟你本地的 AI coding agent 對話 | Open Source / DevTools / GitHub | 85 / 5 | [PH](https://www.producthunt.com/products/vibearound) |
+| 15 | Instant Highlights V2 by Heygen | 秒把長影片轉為病毒式短片 | Social Media / Marketing / AI | 80 / 1 | [PH](https://www.producthunt.com/products/heygen) |
+
+> **2026-04-22 主軸**：
+> - **#1 SpeakON 與「後鍵盤」硬體交互**：MagSafe 固定 + AI 的物理型語音介面，與 04-20 #1 Dune（Context-aware Mac keypad）、04-22 #8 Cai（本地熱鍵觸發）形成「硬體型 AI 介面」新類別——2026 從鍵盤為中心逐漸過渡到「按鍵+語音+環境感知」多模態。
+> - **#3 ChatGPT Images 2.0 同步 HN #1**：本月首次見到 HN 與 PH 當日前 3 名出現同一產品——「圖像 + 推理」範式確立跨平台共識；差異在 HN 討論量 824、PH 只有 5 留言，顯示技術圈爭論遠熱於產品社群。
+> - **#4 InstantDB「一個 prompt 生完整後端」**：與 [[src-Solo SaaS架構]] 的「少即是多」路線完全反向——極大化 AI 抽象層級，開發者只下指令、技術棧完全隱藏。兩條路線在 2026 年平行發展。
+> - **#9 Framework Laptop 13 Pro（Linux-first）**：硬體製造商選定 Linux 優先是重要訊號——與 04-21 HN 的「MNT Reform」開源硬體筆電同一主軸，顯示 developer-first 硬體市場已成熟到能支撐兩個品牌級產品。
+> - **#13 Qwen3.6-Max-Preview**：搭配同日 HN #11 Qwen3.6-27B 的輕量版，Alibaba Qwen 系列以「輕量 dense + 旗艦 MoE」雙機種打 coding 市場——延伸 04-21 PH #3 Kimi K2.6 的開源 SOTA 趨勢。
+> - **#14 VibeAround「跨 IM 與瀏覽器跟本地 coding agent 對話」**：延續 04-21 Spectrum（agent 進入既有介面）的 positioning——「agent 作為介面原住民」從概念進入具體產品。
+> - **AI 招聘 agent 成熟化**：#6 Nova Recruiter 是本月第一個完整 agentic 招聘平台（find + contact + recruit 三合一），標誌 agent 從 SaaS 工具真正走向「取代某個職務」的階段。
 
 ## 2026-04-21
 

@@ -1,15 +1,42 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md]
 created: 2026-04-15
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-22
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | [PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt) | PPT 簡報設計 prompt 集（無說明） | 169 | Python | ⚠️ 無說明、星數來源不明，可能是 prompt pack |
+| 2 | [sub-store-workers](https://github.com/Yu9191/sub-store-workers) | Sub-Store 後端 Cloudflare Workers/Pages 移植版——訂閱管理工具的 Serverless 版 | 80 | JavaScript | ✅ 實用 Serverless 移植，Sub-Store 為 Shadowrocket 等代理客戶端的訂閱聚合後端 |
+| 3 | [qiaomu-blog-opensource](https://github.com/joeseesun/qiaomu-blog-opensource) | 基於 OpenNext、Next.js 16、D1、R2 的開源 Cloudflare blog 模板 | 75 | TypeScript | ✅ Cloudflare 全家桶部落格範本，延續 2026 的 edge-first 架構潮 |
+| 4 | [QuantClaw-plugin](https://github.com/SparkEngineAI/QuantClaw-plugin) | QuantClaw：OpenClaw 的任務類型路由量化插件（plug-and-play） | 66 | TypeScript | ✅ OpenClaw 生態延伸——自動根據任務類型選擇模型量化策略，與 [[Multica]] 的 harness 設計呼應 |
+| 5 | [ah-xhs-cover-title](https://github.com/ahang008/ah-xhs-cover-title) | 小紅書短影片封面標題生成器——從 85 條爆款公式路由匹配 | 55 | N/A | ⚠️ 中文內容行銷工具，爆款公式的商業與倫理爭議 |
+| 6 | [n8n-Actual-Automation](https://github.com/hail2victors/n8n-Actual-Automation) | Actual Budget 的 6 個 n8n workflow——AI 交易分類、信封自動撥款、Telegram 週報 | 53 | N/A | ✅ 自動化家庭記帳系統的實用整合，AI + n8n + Telegram 組合日益成熟 |
+| 7 | [Auto-Quant](https://github.com/TraderAlice/Auto-Quant) | 自動化量化交易（無說明） | 53 | Python | ⚠️ 無說明、作者 TraderAlice 為新建帳號 |
+| 8 | [ConsoleMini](https://github.com/momenbasel/ConsoleMini) | 把 Mac mini 變成客廳復古遊戲主機——Electron + React 的 big-picture launcher | 31 | TypeScript | ✅ Apple Silicon + DuckStation 模擬器整合，家庭娛樂裝置化 |
+| 9 | ~~[Flash-USDT-Tool](https://github.com/Alissalorenz10743/Flash-USDT-Tool)~~ | ~~USDT/BTC/ETH 多網路 flash transaction 工具，可自訂時長、gas 與跨鏈假交易~~ | 28 | Python | ❌ 加密貨幣詐騙工具——「Flash USDT」類同 04-20/04-21 系列，連日系統性 SEO spam |
+| 10 | [HiddenLogoShowOnScreenshotDemo](https://github.com/FaiChou/HiddenLogoShowOnScreenshotDemo) | iOS 截圖時顯示隱藏 logo 的示範（無說明） | 19 | Swift | ⚠️ 無說明、純技術示範 |
+| 11 | [hermes-codex-imagegen-skill](https://github.com/madrobotnet/hermes-codex-imagegen-skill) | 在 Hermes Agent 內直接用 Codex CLI 生圖的 skill——有 ChatGPT 付費訂閱就能用，不需另外的 API | 17 | N/A | ✅ Hermes / Codex / ChatGPT 帳號三方打通的 cost 優化 skill |
+| 12 | [discourse2MD](https://github.com/chitiabao/discourse2MD) | Discourse 論壇轉 Markdown 工具（無說明） | 16 | JavaScript | ⚠️ 無說明、實用性待驗證 |
+| 13 | [text-to-360](https://github.com/ilkerzg/text-to-360) | 從文字或圖片生成沉浸式 360° 全景——由 fal.ai 支撐 | 14 | TypeScript | ✅ fal.ai 運算基礎 + 全景生成具體產品化 |
+| 14 | [codex-imagegen-2-skill-for-kimi](https://github.com/ktkarchive/codex-imagegen-2-skill-for-kimi) | 為 Kimi 打造的 Codex 圖像生成 skill 2（無說明） | 14 | JavaScript | ⚠️ 無說明，與 #11 同類（生圖 skill 跨平台移植） |
+| 15 | [X-VC](https://github.com/Jerrister/X-VC) | X-VC：Codec 空間的零樣本串流語音轉換（Zero-shot Streaming Voice Conversion） | 14 | Python | ✅ 即時語音變換研究，面向 AI dubbing / privacy 應用 |
+
+> **2026-04-22 觀察**：
+> - **詐騙 repo 從 3–5 筆降為 1 筆**：04-21 佔 3 筆（#3、#4、#5）、04-20 佔 3 筆（#1、#2、#6），但 04-22 僅 #9 一筆「Flash-USDT-Tool」——GitHub 可能開始清理或演算法排除此類帳號。月內趨勢值得持續追蹤。
+> - **Agent Skill 生態擴張**：#4 QuantClaw-plugin（OpenClaw 的量化路由）、#11 hermes-codex-imagegen-skill（跨 agent CLI 共用 ChatGPT 帳號）、#14 codex-imagegen-2-skill-for-kimi（Kimi 移植版）——「skill 作為跨 agent 互通層」的現象明顯：一個能力（如生圖）被多家 agent 框架封裝成可攜 skill。
+> - **Cloudflare 部署模式固化**：#2 sub-store-workers、#3 qiaomu-blog-opensource——Cloudflare Workers/Pages + D1 + R2 的「全家桶」成為 2026 的第二大 solo 開發堆疊（相較於 [[src-Solo SaaS架構]] 的 Go + SQLite + 本地 GPU 路線）。
+> - **家庭自動化 AI 化**：#6 n8n-Actual-Automation 把 n8n + AI 分類 + Telegram 整合到個人財務——家庭自動化從 Home Assistant（04-21 #9 HA-Optimizer）擴展到財務、娛樂（#8 ConsoleMini）、寫作多面向。
+> - **Voice AI 接棒 Image AI**：#15 X-VC 的零樣本串流語音轉換——呼應同日 HN #1 ChatGPT Images 2.0（視覺）、PH #11 Portt（時空穿越影像），AI 創作從圖像擴展到即時語音的潮流已到位。
 
 ## 2026-04-21
 

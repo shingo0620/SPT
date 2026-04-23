@@ -23,6 +23,8 @@
 - [[src-AI時代的測試管理]] — 敏捷三叔：AI 寫 code 時代的測試與 Bug 管理盲點，提出「AI 品質共謀」概念（來源數：1）
 - [[src-multica-devv-ai盡調]] — Multica / Devv.AI 盡調：3 人團隊 10k stars、OSS Investment Scorecard v1.3.1（來源數：1）
 - [[src-multica-github-readme]] — Multica 官方 GitHub README（2026-04-21）：8 種 CLI 支援、Next.js 16 + Go + PostgreSQL/pgvector 技術棧、vs Paperclip 對比（來源數：1）
+- [[src-addyosmani-agent-skills]] — Addy Osmani 的 20 個 Production-Grade Agent Skill，覆蓋完整 SDLC 6 階段，支援 8 個主流 agent 平台（來源數：1）
+- [[src-obsidian-llm-wiki]] — aster-life/obsidian-llm-wiki：Obsidian + Claude Code 的 LLM Wiki 懶人包，架構與本 wiki 高度對齊（來源數：1）
 
 ### 遊戲設計與開發
 

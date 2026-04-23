@@ -2,6 +2,30 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-23] ingest | 2026-04-22 每日來源 + 2 篇手動文章
+
+**每日新知（7 個來源）——追加至各月報 2026-04-22 區塊**：
+- [[src-reddit-til-2026-04]]（含 6 條 ⚠️ 查核標註：色情成癮、資優生不畢業、法國核燃料 96%、三哩島肚子、1936 奧運印度、死亡谷命名）
+- [[src-reddit-eli5-2026-04]]（15 則問題翻譯）
+- [[src-hn-2026-04]]（15 則 HN 頭條翻譯，#1 ChatGPT Images 2.0 與 PH #3 跨平台同步）
+- [[src-github-trending-2026-04]]（1 筆 ❌ 詐騙 repo 清單縮小至單筆，5 筆 ⚠️ 無說明）
+- [[src-producthunt-2026-04]]（15 則產品翻譯，SpeakON 硬體型 AI 介面新類別）
+- [[src-wikipedia-2026-04]]（今日精選 Nihilism、John Ternus 瀏覽量再增 56%）
+- [[src-skills-picks-2026-04]] → ast-grep **連 5 日**創紀錄（3,072→3,123 裝）
+
+**手動文章（2 篇）——新建獨立來源頁**：
+- [[src-addyosmani-agent-skills]]（20 個 production-grade skill，覆蓋完整 SDLC 6 階段；與 [[src-mattpocock-skills]] 互補）
+- [[src-obsidian-llm-wiki]]（aster-life/obsidian-llm-wiki，架構與本 wiki 高度對齊但面向 Obsidian 使用者）
+
+**更新頁面**：[[src-skill-ast-grep]]（連 5 日 frontmatter + 安裝數追蹤）、[[wiki/index.md]]
+
+**本次特殊事件**：
+- markdown.new fetch-url.sh 超時（兩次手動文章擷取），改用 GitHub raw URL 直接拿 README
+- skills.sh 連 5 日選 ast-grep 創紀錄，轉化率 1.90 install/h 已達可預測穩態
+- 2026-04-21 的預測「04-22 將到 3,120±5」精準命中（實際 3,123）
+- 2026-04-22 的清理：2 個占位 URL 檔（placeholder）被替換為完整 README 內容並重命名
+
+
 ## [2026-04-13] init | 知識庫初始化
 - 主題：個人知識庫（主題隨時間與趨勢演進）
 - 語言：繁體中文

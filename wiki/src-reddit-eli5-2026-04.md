@@ -1,15 +1,37 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md]
 created: 2026-04-15
-updated: 2026-04-21
+updated: 2026-04-22
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-22
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 為什麼中國新款電動車能在 5–10 分鐘內充飽，智慧型手機卻仍需至少半小時？（電池化學、散熱與功率密度差異） | 1,594 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sru67w/) |
+| 2 | 我們真的需要清理耳朵嗎？還是做過頭了？（耳垢的生理機制與過度清潔的風險） | 1,145 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srppkr/) |
+| 3 | 什麼是「石油期貨」？為何期貨價格 \$90/桶但實際油價 \$140/桶？期貨到期時怎麼結算？ | 859 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srp18r/) |
+| 4 | 電影《金牌製作人》（The Producers）的詐騙機制——「故意讓戲劇票房失敗」為何能賺錢？ | 815 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srwhbn/) |
+| 5 | 最早的程式語言被發明時，電腦怎麼「理解」這些程式碼？（組合語言、編譯器與自我引導的 bootstrapping 歷史） | 279 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssb5qw/) |
+| 6 | 為什麼美國人要透過工作取得健康保險？（二戰薪資管制與稅務優惠政策的歷史遺產） | 238 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srxbn2/) |
+| 7 | Kevlar 為何這麼堅固？（para-芳香聚醯胺分子鏈結構與氫鍵網絡） | 193 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssh2lu/) |
+| 8 | 如果要磁鐵才能做出磁鐵，世界上第一塊磁鐵是怎麼來的？（天然磁石 + 地磁感應） | 169 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssfnkw/) |
+| 9 | 為何撥接網路只在連線開始時發出那段經典的聲音？（握手協議 handshake 的訊號協商階段） | 118 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srttns/) |
+| 10 | 斧頭頭部與木柄之間的楔子為何能這麼堅固？（材料正交壓縮力學與擠壓摩擦） | 74 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssc7r4/) |
+| 11 | 為什麼用嘴「嗚」（Hoo）吹氣感覺冷，「哈」（Haa）吹氣卻感覺熱？（氣流速度與周圍空氣混合比的差異） | 70 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssla1i/) |
+| 12 | 什麼是類星體（quasar）？（超大質量黑洞吸積盤的電磁輻射） | 69 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssdr9t/) |
+| 13 | 什麼是「媒體識讀」（media literacy）？常聽人說它「已死」，具體是在指什麼？ | 67 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1srxpp8/) |
+| 14 | 信用卡支付如何處理「初始結帳後才加的小費」？自助結帳機的技術機制 | 58 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ss64rt/) |
+| 15 | ADHD 與憂鬱症是如何「類別上不同」？都是腦化學差異、都用藥物加治療處理，為何 ADHD 不能治癒、但有些憂鬱症可以？ | 47 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssdr1i/) |
+
+> **本日趨勢**：問題集中在工程／技術物理（電動車快充、Kevlar、斧頭楔子、磁鐵起源、撥接握手、氣流溫度感），其次是金融與制度（石油期貨、健康保險、The Producers 詐騙、信用卡小費）。#1（中國電動車快充）延伸至 HN/PH 的本地 EV 革命話題，與 [[src-hn-2026-04]] 04-22 的能源基礎建設主軸相呼應。
 
 ## 2026-04-21
 
