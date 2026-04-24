@@ -1,15 +1,50 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md]
 created: 2026-04-15
-updated: 2026-04-22
+updated: 2026-04-23
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-23
+
+### 今日精選文章
+
+**Beyoncé**——美國歌手、詞曲創作者、演員與企業家。以歌唱實力、藝術風格不斷轉型、現場表演能力著稱，被廣泛認為是 21 世紀最具文化影響力的人物之一。在塑造流行音樂的貢獻上，Beyoncé 常被列為史上最偉大表演者之一。[完整文章](https://en.wikipedia.org/wiki/Beyonc%C3%A9)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | **Nahui Ollin**（持續九日位居首位） | **1,107,114** | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | Dave Mason（英國音樂人、Traffic 樂團創始成員） | 202,462 | [Wikipedia](https://en.wikipedia.org/wiki/Dave_Mason) |
+| 3 | **Earth Day**（04-22 當日節日熱度延續至 04-23） | 174,627 | [Wikipedia](https://en.wikipedia.org/wiki/Earth_Day) |
+| 4 | List of highest-grossing Indian films | 171,750 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 5 | **Michael (2026 film)**（Michael Jackson 傳記片 2026 新作） | 161,669 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_(2026_film)) |
+| 6 | **Dhurandhar: The Revenge**（印度新片延伸，續集熱度） | 146,608 | [Wikipedia](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+| 7 | David Wilcock（美國作家、新世紀陰謀論者） | 144,147 | [Wikipedia](https://en.wikipedia.org/wiki/David_Wilcock) |
+| 8 | Liam Rosenior（英格蘭足球教練） | 142,545 | [Wikipedia](https://en.wikipedia.org/wiki/Liam_Rosenior) |
+| 9 | Patrick Muldoon | 138,041 | [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Muldoon) |
+| 10 | Deaths in 2026 | 136,116 | [Wikipedia](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+
+### 歷史上的今天
+
+- **2018**：一名男子在多倫多楊格街開貨車蓄意衝撞行人，造成 11 人死亡——北美「車輛衝撞攻擊」模仿效應指標事件之一
+- **2010**：亞利桑那州州長 Jan Brewer 簽署爭議性反非法移民法案 SB 1070，其中大部分條款後被美國最高法院推翻
+- **2009**：gamma-ray burst GRB 090423 被偵測——當時已知宇宙最遠的任何類型天文物體
+- **1982**：ZX Spectrum 發布——英國銷量最高的微電腦，是 1980 年代個人電腦普及化的關鍵產品
+- **1979**：Blair Peach（紐西蘭教師）在倫敦 Southall 反納粹聯盟遊行中受致命傷——英國戰後警察抗議事件的指標案例
+
+> **Nahui Ollin 連續九日破百萬瀏覽**：04-15 至 04-23——從最初 Google Doodle 曝光引爆後，維持 80–200 萬瀏覽區間已近十日。單一 Doodle 的長尾效應遠超預期，延續時間遠長於一般 Doodle 主題（通常 1–3 日退燒）。
+>
+> **Earth Day 次日餘熱**：04-22 當日 Earth Day 在 04-23 仍擠進前 3，17.5 萬瀏覽顯示節日搜尋熱度跨日延續——與 03-08 婦女節、12-25 聖誕節等節日模式一致。
+>
+> **Michael (2026 film) / Dhurandhar 雙雙上榜**：兩部 2026 新片（一為 MJ 傳記、一為印度續集）同日進入前 10——顯示 2026 年春季娛樂話題兩極化：一邊西方傳記市場、一邊印度商業大片市場。
 
 ## 2026-04-22
 

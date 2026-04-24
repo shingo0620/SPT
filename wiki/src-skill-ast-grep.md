@@ -1,20 +1,22 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md]
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-04-23
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20、04-21、04-22 再度精選，**連五日**——本月與歷來最長紀錄）
+> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20、04-21、04-22、04-23 再度精選，**連六日**——本月與歷來最長紀錄再刷新）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）**，96 小時累積 +182；五日漲幅分別為 +31、+51、+49、+51，後四日維持 +49~+51 的穩態——轉化率約 1.90 install/h，**為本月 skills-picks 中唯一達到可預測穩態的 skill**；04-21 估算 04-22 將至 3,120±5，實際 3,123 完全命中
+> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）**，120 小時累積 +286；六日漲幅分別為 +31、+51、+49、+51、+104——**04-23 單日 +104 為異常大幅成長**，約為前四日穩態（+50）的兩倍；六日整體轉化率約 2.38 install/h
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
+>
+> **+104 異常觀察**（2026-04-23）：連四日穩態 +49~+51（1.82 install/h）的「可預測性」被打破——可能原因需進一步驗證：(1) skills.sh 端有外部曝光事件（podcast / 社群轉貼）；(2) ast-grep 官方 repo 發版；(3) fetch 時間差造成累積計算偏差。目前依 raw 資料先記錄異常，下日若再維持 +100 以上，判為「進入第二階段擴散」而非穩態回歸。
 
 ## 一句話定位
 

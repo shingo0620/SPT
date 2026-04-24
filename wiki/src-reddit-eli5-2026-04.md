@@ -1,15 +1,65 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md]
 created: 2026-04-15
-updated: 2026-04-22
+updated: 2026-04-24
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-24
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 大面積嚴重燒傷（三度燒傷）如果不治療為何會致死？除了過熱與烹煮身體組織以外的機制為何？ | 1,710 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stsnt8/) |
+| 2 | 為什麼毀滅性大龍捲風似乎只發生在美國？（地理與氣候條件的組合：平原、海灣暖氣流、極區冷空氣） | 624 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1su1je7/) |
+| 3 | 動物園若攻擊性動物（虎、獅）被食物噎住，飼育員該怎麼辦？放著不管或如何處理？ | 384 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1styrsf/) |
+| 4 | 看火焰時到底在看什麼？用顯微鏡放大能看到什麼？（高溫離子化氣體、黑體輻射、光譜組成） | 236 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stqcba/) |
+| 5 | 棒球游擊手為何不依打者左右手改變位置？（打擊率統計與站位傳統） | 195 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1streos/) |
+| 6 | 為什麼過去地質年代動物體型都比較大？（氧氣濃度、食物供應、無哺乳類競爭壓力等演化假說） | 144 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stu0fo/) |
+| 7 | 為什麼嬰兒明明疲憊卻對抗睡意、抵抗撫慰動作（哺乳、搖擺）？為何不是直接「斷電」入睡？ | 139 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1su60vv/) |
+| 8 | 酵母到底是什麼？動植物還是別的？ | 138 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1su3l7p/) |
+| 9 | 為什麼某些維生素與礦物質只有煮熟才能吸收？蔬菜水果裡不是都有嗎？（細胞壁破壞、生物可利用性） | 135 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stwzt6/) |
+| 10 | 為什麼月亮不是藍的？天空是藍色的，月亮在「天空之後」，月石又是灰色的——白天可見月亮時為何不反藍光？ | 112 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stshgm/) |
+| 11 | 為什麼外接顯卡（eGPU）不像外接硬碟那樣普及？（PCIe 頻寬、Thunderbolt 限制、熱設計） | 71 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stx9jh/) |
+| 12 | 日本書從右到左讀——從歷史或文化角度為何如此？不只「就是這樣習慣了」 | 71 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stk51l/) |
+| 13 | 為什麼輕傷（撞腳趾、紙割）會痛得不成比例？（表皮神經密度、痛覺傳導機制） | 67 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1su23k3/) |
+| 14 | 每個身體機能都有演化目的嗎？或是某些「純粹發生」？（例：為何某些食物味道在嘴裡留幾天而其他一下子就沒了） | 62 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1su8m6n/) |
+| 15 | 保險術語中「out-of-pocket」與「deductible」的差別？一個 $4000 一個 $14000 代表什麼？ | 53 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1strd73/) |
+
+> **04-24 主題：身體的「為什麼」——從生理到演化**——#1 燒傷致死機制、#6 遠古生物巨大化、#7 嬰兒抗睡、#13 輕傷痛覺、#14 演化目的——五項直接關於人體生物學與演化的「為什麼」，與前一日（04-23）的感官異常（#1 極度疲勞、#14 下唇質感）形成連續性——r/ELI5 社群在本週集中於身體機制的深度好奇。
+>
+> **#11 外接顯卡 ELI5**：延續近期 [[AI輔助工作流程]] / [[Solo SaaS架構]] 對「個人硬體配置」的探討——eGPU 在 AI 本地推論浪潮下（本地跑 Qwen3.6-27B 等）重新被問起，是典型「概念復活」現象。
+
+## 2026-04-23
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 為什麼熬夜到極度疲憊後，反而會不再感到累？（例：凌晨 1 點快睡著、清晨 7 點反而精神起來的生理機制） | 1,841 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st5q3y/) |
+| 2 | 為什麼「milli-」代表千分之一，但「million」卻是一千乘一千？（拉丁語前綴學的歷史脈絡） | 537 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st8dcs/) |
+| 3 | 為何兄弟姊妹在同樣環境下成長，卻變成完全不同的人？基因 vs 環境的主導權如何分配？ | 382 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st0bqn/) |
+| 4 | 船的剎車系統是什麼？如何減速或停住一艘巨輪？ | 192 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sstifj/) |
+| 5 | 為什麼「新車味」幾個月就消失，但「舊書味」（1970 年代書本）能持續幾十年不散？ | 162 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st74nl/) |
+| 6 | 貓咪清理自己時，是隨機舔，還是有系統地依某種格子順序去舔？ | 132 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st9nsz/) |
+| 7 | 手語翻譯員如果不帶表情，是否等於單調語氣？臉部表情如何傳達文法資訊？ | 124 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssn2om/) |
+| 8 | 細胞內的 organelles（胞器）是由什麼組成的？不可能是更小的細胞吧？ | 101 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ssun31/) |
+| 9 | 為什麼英式與美式手語互不相通？能同時流利嗎？美法手語是否互通？ | 92 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st5gt2/) |
+| 10 | 600m 高的東京晴空塔如何承受地震？（免震構造與中央柱設計） | 79 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1st7xsl/) |
+| 11 | 為什麼 LLM 有那種辨識度極高的寫作風格？（RLHF、訓練資料分布偏差、預設風格） | 74 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sthpm9/) |
+| 12 | 馬拉松跑者分級是怎麼運作的？波士頓馬拉松資格如何取得？大型賽事如芝加哥能透過慈善名額參加嗎？ | 71 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sszepc/) |
+| 13 | 聖喬治（St George）是希臘基督徒、被羅馬軍隊處死——為何與英格蘭愛國主義連結？這面旗幟對英人意味什麼？ | 68 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stc66r/) |
+| 14 | 為什麼下唇到下巴之間的肌肉用牙齒一刮就感覺「充滿氣泡」，但臉頰肉卻是平滑的？ | 64 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stfv85/) |
+| 15 | 為什麼歌曲會在腦中卡住（耳蟲／Earworm）？而且常是歌曲最隨機的片段而非全曲？ | 47 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1stcito/) |
+
+> **04-23 主題：感官、生理與語言邊界的微觀問題**——#1 極度疲勞後不累的生理機制、#5 新車味 vs 舊書味的化學差異、#14 口腔特定區域的質感、#15 耳蟲現象——日常感官異常是本日主軸。
+>
+> **手語議題連發**：#7（中性臉 ≈ 單調語氣？）+ #9（英美手語為何不通）——手語文法結構的「為什麼」連日被問——可能與近期聾人社群可見度上升相關（字幕、手語直播興起）。
+>
+> **#11 LLM 寫作風格被問** 的指標性意義：大眾對 AI 文字風格的辨識度已提高到「為什麼會這樣？」的層級——反映 AI 寫作在日常生活的滲透已讓使用者開始觀察其特徵（通常是 em-dash、parallel structure、「it's not just X, it's Y」等模式）。
 
 ## 2026-04-22
 

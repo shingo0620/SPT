@@ -2,6 +2,28 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-25] ingest | 2026-04-23 + 2026-04-24 每日來源
+
+**每日新知 04-23（7 個來源）——追加至各月報 2026-04-23 區塊**：
+- [[src-wikipedia-2026-04]]（今日精選 Beyoncé、Nahui Ollin 連續九日破百萬、Earth Day 次日餘熱）
+- [[src-hn-2026-04]]（15 則，主題：隱私與供應鏈雙重警報——Firefox/Tor 洩漏、Apple 修補 cop 漏洞、Bitwarden CLI 供應鏈攻擊；反 tech 聲量飆升 Alberta no-tech tractors 1,994 分）
+- [[src-github-trending-2026-04]]（3 筆 ❌ 詐騙 repo 連五日模式、levelsio 個人 Chrome 擴充 #1、future-agi/vlnr 雙 AI security、antfu/whenexpr）
+- [[src-producthunt-2026-04]]（15 則，主題：Agent 工具鏈收斂——11 項 AI/Agent 相關；Claude Code /ultrareview 上榜 154 分；Monid agent 支付基礎設施）
+- [[src-reddit-til-2026-04]]（3 條 ⚠️ 查核：#3 Family Feud 電話調查誇大、#11 最高法院大法官無須法律學位字面正確但實務誤導、#15 Perineum sunning 流行事實需加醫學駁斥脈絡）
+- [[src-reddit-eli5-2026-04]]（15 則問題翻譯；#11 LLM 寫作風格被問指標性）
+- [[src-skills-picks-2026-04]] → ast-grep **連 6 日**創紀錄再刷新（3,123→**3,227**，單日 **+104** 穩態破局）
+
+**每日新知 04-24（2 個來源，reddit 本地 cron 抓）——追加至各月報 2026-04-24 區塊**：
+- [[src-reddit-til-2026-04]]（1 條 ❌ 嚴重錯誤：#11 Acciaroli 義大利 300 百歲人瑞為誇大，實際約 80 餘人；2 條 ⚠️：#2 英國孩童用書數據需回原研究、#10 Mickey udder「convulsed」為 Reddit 誇張修辭）
+- [[src-reddit-eli5-2026-04]]（15 則；主題「身體的為什麼」，與 04-23 感官異常連貫）
+
+**更新頁面**：[[src-skill-ast-grep]]（連 6 日 frontmatter + 安裝數 3,227 + +104 異常增量分析）、[[wiki/index.md]]、[[wiki/log.md]]
+
+**本次特殊事件**：
+- **ast-grep 連 6 日 + 穩態破局**：連四日 +49~+51 穩態（1.82 install/h）在 04-23 跳升至 +104（4.33 install/h）——skills.sh 外部曝光事件或官方 release 為待驗證推論
+- **skills-picks raw frontmatter bug 延續**：2026-04-23 raw 檔的 frontmatter title/published 仍為「2026-04-18」，屬 fetch 腳本 bug；以 skill 名稱 + 安裝數增量為準判斷 pick 實質仍為 ast-grep
+- **04-24 本地 cron 提前抓**：reddit 來源在本地 cron 提早於 04-24 抓到，GitHub Actions 的其他來源（github-trending/hn/producthunt/wikipedia/skills-picks）04-24 未到，等 04-25 daily sync 補齊
+
 ## [2026-04-23] ingest | 2026-04-22 每日來源 + 2 篇手動文章
 
 **每日新知（7 個來源）——追加至各月報 2026-04-22 區塊**：

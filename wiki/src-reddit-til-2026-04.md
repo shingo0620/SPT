@@ -1,15 +1,67 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md]
 created: 2026-04-14
-updated: 2026-04-22
+updated: 2026-04-24
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-24
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 美國「已戒斷成癮者」享有法律保護身障地位——《美國身心障礙者法》（ADA）將已戒斷但有復發風險的前成癮者列為受保護群體 | 15,463 | ✅ | [ADATA](https://adata.org/factsheet/ada-addiction-and-recovery-and-government) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1strwsn/) |
+| 2 | 英國近三分之一幼稚園入學兒童不會正確使用書本——部分孩童嘗試像手機一樣滑動或點擊書頁 | 7,196 | ⚠️ | [Sky News](https://news.sky.com/story/nearly-a-third-of-kids-cant-use-books-when-starting-school-and-try-to-swipe-them-like-phones-13497398) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1su83zr/) |
+| 3 | Alan Robinson 與 Walter MacFarlane 國小六年級成為最好朋友、60 年交情——兩人都曾尋找生家資訊，2017 年 DNA 配對後發現他們是同母異父兄弟 | 6,871 | ✅ | [USA Today](https://www.usatoday.com/story/news/nation-now/2017/12/27/two-best-friends-hawaii-learn-they-actually-brothers-after-60-years/983673001/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stmgbp/) |
+| 4 | Alaska 州擁有大部分產油地、租給石油公司、用收益向所有公民派發股息（Alaska Permanent Fund，1976 年成立） | 5,665 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Alaska_Permanent_Fund) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stngrw/) |
+| 5 | 美國海軍、Lockheed、DARPA 冷戰期間秘密建造一艘隱形艦（Sea Shadow IX-529）——保密至 1993 年，2012 年海軍找不到博物館收購後拆解 | 5,659 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Sea_Shadow_(IX-529)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stsq3c/) |
+| 6 | 瑞典樂團 ABBA 由兩對夫婦組成——兩對在事業高峰期相繼離婚，"The Winner Takes It All" 寫於其中一對離婚後 | 5,448 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/ABBA) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1su1rg2/) |
+| 7 | 平均豬的體脂率 16%——比大多數人還低 | 5,433 | ✅ | [The Guardian](https://www.theguardian.com/world/2020/jun/22/fat-pig-livestock-lean-body-britons) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suastm/) |
+| 8 | 美國內戰期間 Ulysses S. Grant 將軍 1862 年發布 General Order No. 11——將猶太人驅逐出田納西、密西西比、肯塔基部分地區，稱「黑市主要由猶太人與無原則商人經營」 | 4,293 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/General_Order_No._11_(1862)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sttxi8/) |
+| 9 | 雜誌《Fire!!》1926 年只發行一期就因辦公室失火燒毀而銷量慘淡——現被視為非裔美國人文學重要出版物，探討同性戀、雙性戀、跨種族關係等議題 | 4,237 | ✅ | [AA Registry](https://aaregistry.org/story/fire-the-magazine-published/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1su05ff/) |
+| 10 | 1931 年牛乳房被禁止出現在卡通——Mickey Mouse 短片出現「不自然」的乳房擺動導致觀眾震驚 | 3,496 | ⚠️ | [CBLDF](https://cbldf.org/2014/10/the-decade-animated-udders-went-under-wraps/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sttfmz/) |
+| 11 | 2016 年義大利小鎮 Acciaroli 約 1,000 人中有 300 位百歲人瑞——村民不少吸菸或超重卻依然長壽 | 3,330 | ❌ | [10News](https://www.10news.com/news/healthy-aging-study-focuses-on-tiny-italian-town-033016) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stnnmy/) |
+| 12 | 哥斯大黎加沒有街道地址——居民以地標與名勝為基準描述相對距離（例：從某教堂往南三棟） | 3,293 | ✅ | [CRC Daily](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stusqa/) |
+| 13 | 南韓直到 2013 年才改用位置編號——之前建築物依建造順序編號，相鄰建築門牌可能相差極大 | 2,656 | ✅ | [The World](https://theworld.org/stories/2013/08/14/south-korea-revamps-complicated-street-address-system) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stk063/) |
+| 14 | 西班牙征服美洲後計劃征服中國——把中國改造為基督教國家、創建中西混血新人種，再形成對抗鄂圖曼帝國的新戰線。Society of Jesus 主導、Philip II 批准的「Empresa de China」計劃 | 2,556 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Empresa_de_China) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1su82i8/) |
+| 15 | F-117 隱形戰機 2008 年官方退役——但美國空軍要讓它飛到 2034 年 | 1,913 | ✅ | [The Aviationist](https://theaviationist.com/2023/01/10/f-117s-will-keep-flying-at-least-until-2034/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stslt1/) |
+
+> **#2 查核備註**：Sky News 2022 年報導的是英國「早期閱讀能力」調查——指部分入學孩童無法「正確方向持書」或理解文字與翻頁的關係，部分確有嘗試觸控動作。原主張屬實但「近三分之一」的具體數字需回到原研究（Early Years Foundation Stage Profile）查證，Sky News 可能轉述時放大。
+>
+> **#10 查核備註**：CBLDF 文章描述 1931 年 Hays Code 前的動畫自主審查——乳房擺動被「審查員投訴」、促使製作公司自主移除。Reddit 標題「觀眾 convulsed（痙攣）」為誇張修辭，實際報導是部分家長與道德團體投訴；未見有「觀眾身體反應」的醫學記載。
+>
+> **#11 查核錯誤**：Acciaroli 研究原文數字有誤——據 San Diego State + Sapienza 大學 2016 年研究，Acciaroli 約 700 人口中有 300 人年齡超過 **90 歲**（不是 100 歲），其中百歲人瑞約 80 餘人（不是 300）。Reddit 標題誇大「300 百歲」明顯與事實不符，但此 TIL 流傳範圍廣、多次以此數字引用——應以 ❌ 標記並附正確數字。
+
+## 2026-04-23
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 美國學生數學與閱讀成績大幅下滑——2022/23 年 13 歲學生數學平均跌回 1990 年代水準，高中三年級閱讀成績創 1992 年測試以來最低 | 50,357 | ✅ | [Nation's Report Card](https://www.nationsreportcard.gov/highlights/ltt/2023/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssnwrd/) |
+| 2 | Gerald Ford 的青少年兒子 Steven 曾偷帶 20 位朋友到白宮開 party、以為食物飲料免費——隔天父親拿出 Oval Office 的帳單，從他薪水扣除 | 17,960 | ✅ | [MLive](https://www.mlive.com/entertainment/grand-rapids/2010/09/steve_ford_richard_ford_remini.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st9vnk/) |
+| 3 | Family Feud 節目的「調查 100 人」是透過隨機電話調查收集——受訪者並不知道自己的答案會用於遊戲節目 | 16,786 | ⚠️ | [Mental Floss](https://www.mentalfloss.com/article/524152/12-fun-facts-about-family-feud) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st1h9l/) |
+| 4 | 2007 年泰國對 Abbott HIV 藥 Kaletra 啟動強制授權生產便宜學名藥——Abbott 報復性撤回 7 種藥物出泰國，泰國堅持不退讓，HIV 治療覆蓋範圍擴展至數十萬新病患 | 9,973 | ✅ | [Nature](https://www.nature.com/news/2007/070326/full/news070326-2.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stdj80/) |
+| 5 | 1995 年 NFL 選秀頂級新人 Eli Herring 因摩門教信仰拒絕週日比賽並公開聲明不打職業——Raiders 仍選他，他始終堅守信念未上場 | 6,772 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Eli_Herring) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssumpj/) |
+| 6 | Rolling Stones 創辦人 Brian Jones 1969 年 27 歲去世時，已與 7 位不同女性有 7 個孩子 | 6,761 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Brian_Jones) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sspui7/) |
+| 7 | Phil Ivey 在 Borgata 賭場以「邊緣分類」（edge sorting）贏百家樂 $9.6M——利用撲克背面微小瑕疵辨牌，法院判違約、判賠 $10M | 5,226 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Edge_sorting) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ssmvgr/) |
+| 8 | 第 23 任美國總統 Benjamin Harrison 白宮首裝電力時極怕觸電——拒絕碰電燈開關、開著所有燈睡覺 | 4,328 | ✅ | [KQED](https://www.kqed.org/pop/20516/weird-facts-you-never-knew-about-the-u-s-presidents) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sswmcw/) |
+| 9 | 平均而言，你的朋友比你有更多朋友——因為熱門的人更可能出現在別人的朋友群中，這個現象稱「友誼悖論」（Friendship paradox） | 3,330 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Friendship_paradox) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sstour/) |
+| 10 | Wensleydale 起司生產在 1990 年代幾乎停產——後經地方復興、被《Wallace and Gromit》電影採用，銷售量回升至今 | 2,079 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Wensleydale_cheese) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st05mb/) |
+| 11 | 美國最高法院大法官無需通過律師考試、無需法律學位、亦無需執業律師執照 | 1,993 | ⚠️ | [Supreme Court FAQ](https://www.supremecourt.gov/about/faq_general.aspx) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st5x9d/) |
+| 12 | 400 年前波蘭一位「吸血鬼」女性——下葬時腳趾套掛鎖、鐮刀架在脖子上（防她爬出來時割首）；2024 年底科學家以 DNA 與 3D 列印重建其臉部 | 1,589 | ✅ | [CBS News](https://www.cbsnews.com/news/vampire-iron-sickle-face-reconstructed-poland/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stbvji/) |
+| 13 | 2006 年 Werner Herzog 在 LA Skyline Drive 接受 BBC 電影評論家 Mark Kermode 的《Grizzly Man》訪問時，被狂熱粉絲用氣槍射中腹部——Herzog 繼續訪問，說「這不重要」 | 1,488 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Werner_Herzog) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st10nr/) |
+| 14 | 1981 年土耳其殺手 Mehmet Ali Ağca 暗殺教宗若望保祿二世未遂、被囚 29 年；釋放後皈依基督教，曾請求見教宗方濟各（被拒），2025 年企圖見教宗良十四世也被驅離 | 1,448 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1st2emq/) |
+| 15 | 「會陰日曬」（Butthole Sunning / Perineum Sunning）——健康潮流中將會陰部位暴露於陽光下 | 1,273 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Perineum_sunning) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1stclcg/) |
+
+> **#3 查核備註**：Mental Floss 文章實際說法是透過「商場／機場攔截式調查」與早年電話隨機抽樣收集，Reddit 標題誇大為「完全不知道自己在參加遊戲節目調查」——受訪者通常被告知是「市場調查」但不知道用途為何。主張部分正確，措辭需修正。
+>
+> **#11 查核備註**：美國最高法院大法官在《憲法》第三條層級上確實無明文資格要求（無律師、法學位、執業照等規定）。但實務上，現任 / 歷任所有大法官都有法學位與法律執業背景；習慣法 / 政治實務上幾乎不可能選出無法律訓練者。原文字面正確，但略誤導——應補「這是字面憲法規定，習慣法實務上不成立」脈絡。
+>
+> **#15 查核備註**：Perineum sunning 於 2019 年透過 Instagram 健康網紅短暫爆紅——主流醫學界強調「無任何科學證據支持」且存在皮膚癌與灼傷風險。原文實際上是一個「流行事實」而非「醫學推薦」，標題中性呈現易讓讀者誤認為健康做法，應附註「已被醫學界駁斥」。
 
 ## 2026-04-22
 

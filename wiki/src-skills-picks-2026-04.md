@@ -1,9 +1,9 @@
 ---
 title: skills.sh Picks 月報 — 2026-04
 type: source
-sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md]
+sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md]
 created: 2026-04-16
-updated: 2026-04-22
+updated: 2026-04-23
 tags: [skills-sh, agent-skills, monthly-digest]
 ---
 
@@ -15,6 +15,7 @@ tags: [skills-sh, agent-skills, monthly-digest]
 
 | 日期 | Skill 名稱 | 來源 | 安裝數 | 領域 | 一句話推薦 |
 |------|-----------|------|--------|------|-----------|
+| 04-23 | [[src-skill-ast-grep\|ast-grep]] *(連六日)* | ast-grep/agent-skill | 3,227 | coding / code-search / refactoring | 同 04-18/19/20/21/22——連六日精選，安裝數單日 **+104**（3,123→3,227）；**穩態破局**——連四日 +49~+51（1.82 install/h）跳升至 +104（4.33 install/h），可能為外部曝光事件觸發擴散 |
 | 04-22 | [[src-skill-ast-grep\|ast-grep]] *(連五日)* | ast-grep/agent-skill | 3,123 | coding / code-search / refactoring | 同 04-18/19/20/21——連五日精選，安裝數再 +51（3,072→3,123）；96h 累積 +182；實際連續超過預測下限（3,115–3,125） |
 | 04-21 | [[src-skill-ast-grep\|ast-grep]] *(連四日)* | ast-grep/agent-skill | 3,072 | coding / code-search / refactoring | 同 04-18/19/20——skills.sh 連四日選同一 skill，安裝數再 +49（3,023→3,072）；72h 累積 +131 |
 | 04-20 | [[src-skill-ast-grep\|ast-grep]] *(連三日)* | ast-grep/agent-skill | 3,023 | coding / code-search / refactoring | 同 04-18/19——skills.sh 連三日選同一 skill，安裝數再 +51（2,972→3,023） |
@@ -22,6 +23,17 @@ tags: [skills-sh, agent-skills, monthly-digest]
 | 04-18 | [[src-skill-ast-grep\|ast-grep]] | ast-grep/agent-skill | 2,941 | coding / code-search / refactoring | 如果你日常需要在大型 codebase 做結構化搜尋或 refactor，這個 skill 把「何時用、怎麼寫 AST rule」教給 agent |
 | 04-17 | [[src-skill-3b1b-style-animation-skill\|3b1b-style-animation-skill]] | subinium/3b1b-style-animation-skill | 1 | education / visualization / math | 如果你每週做數學 / ML 教學影片，這個 skill 把 Manim 技術與 3Blue1Brown 教學哲學整合成可重用工作流 |
 | 04-16 | [[src-skill-character-arc\|character-arc]] | jwynia/agent-skills | 248 | writing / fiction | 如果你用 AI 寫故事或設計遊戲劇情，這個 skill 是角色弧線的診斷工具 |
+
+> **04-23 連六日精選 + 穩態破局**：ast-grep 連續六日被選——skills.sh 歷來最長紀錄再刷新。處理策略不變：不新建 skill 頁，在 [[src-skill-ast-grep]] 累計追蹤。
+> - 六日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）→ 3,227（**+104**）
+> - **穩態破局**：連四日 +49~+51（1.82 install/h）的「可預測轉化率」在 04-23 被打破——單日 +104 約為穩態的 **2 倍**
+> - 120h 累積 +286 裝、六日整體轉化率 2.38 install/h——全線上升
+> - **可能原因推論**（需下日驗證）：
+>   1. ast-grep 官方 repo 04-22/23 有新版本 release，帶動裝量
+>   2. skills.sh 外部露出事件（podcast、社群轉貼、電子報）
+>   3. 平行 skills.sh 首頁 UI 改版，讓「連六日精選」獲得更高可見度
+>   4. fetch 時間差造成累積計算偏差（若前日 fetch 在 UTC 14:00 抓到不到 24h 資料、今日 fetch 抓到超過 24h）
+> - **raw 檔 frontmatter bug 延續**：skills-picks-2026-04-23.md 的 frontmatter title 仍為 "2026-04-18"（fetch 腳本 bug）——判斷依據：frontmatter 的 skill name 為 ast-grep、安裝數 3,227 相較 04-22 的 3,123 有 +104 增量，屬於同一 skill 持續曝光狀態
 
 > **04-22 連五日精選**：ast-grep 連續五日被選——skills.sh 歷來最長紀錄。處理策略不變：不新建 skill 頁，在 [[src-skill-ast-grep]] 累計追蹤。
 > - 五日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）

@@ -55,7 +55,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，2,941 裝是 skills-picks 月報最高（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 6 日精選**紀錄、04-23 單日 +104 破穩態達 3,227 裝（來源數：1）
 
 ## 實體
 

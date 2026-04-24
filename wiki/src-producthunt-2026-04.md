@@ -1,15 +1,44 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md]
 created: 2026-04-15
-updated: 2026-04-22
+updated: 2026-04-23
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-23
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **FocuSee 2.0** | 錄製螢幕、自動產出精緻 demo 與教學影片 | Productivity / Maker Tools / Video | 251 / 10 | [PH](https://www.producthunt.com/products/focusee) |
+| 2 | **Kollab** | Team 與 agent 共同協作的共享工作區 | Productivity / AI / No-Code | 206 / 16 | [PH](https://www.producthunt.com/products/kollab-2) |
+| 3 | **Monid** | 一個錢包，搞定 agent 需要的所有付費工具 | Fintech / AI / Web3 | 183 / 15 | [PH](https://www.producthunt.com/products/monid) |
+| 4 | **Magic Patterns Agent 2.0** | 從想法到 production 的最佳 AI 設計 agent | Design Tools / Prototyping / Vibe coding | 181 / 9 | [PH](https://www.producthunt.com/products/magicpatterns) |
+| 5 | **Claude Code /ultrareview** | 由平行 agent 艦隊執行的雲端 code review | SE / DevTools / AI | **154** / 7 | [PH](https://www.producthunt.com/products/claude-code) |
+| 6 | Reloop Animation Studio | 把任何影片想法變成 Pixar、Clay 或 Manga 風格 | Marketing / Advertising / AI | 130 / 8 | [PH](https://www.producthunt.com/products/reloop) |
+| 7 | **ASI:One** | 具記憶的個人 AI，能為你規劃並行動 | Productivity / AI / Tech | 126 / 21 | [PH](https://www.producthunt.com/products/asi) |
+| 8 | Wellows | 看 AI 怎麼談你的品牌——並修正它 | Analytics / Marketing / SEO | 120 / 18 | [PH](https://www.producthunt.com/products/wellows-3) |
+| 9 | Typewise AI Customer Service | 用 AI agent 跨系統自動化客戶支援 | Productivity / Customer Communication / AI | 111 / 33 | [PH](https://www.producthunt.com/products/typewise) |
+| 10 | **Blink AI CFO** | AI CFO 透過 Slack 自主交易股票與選擇權 | Productivity / Investing / AI | 110 / 6 | [PH](https://www.producthunt.com/products/blink-21) |
+| 11 | Docsio | 文件網站界的 Lovable | API / SE / DevTools | 102 / 9 | [PH](https://www.producthunt.com/products/docsio) |
+| 12 | **Hookdeck Outpost** | 為平台打造的開源 outbound webhooks | API / Open Source / DevTools | 100 / 12 | [PH](https://www.producthunt.com/products/hookdeck) |
+| 13 | Fabric CLI | 在終端機直接記筆記、處理 task、搜尋 | Productivity / SE / AI | 97 / 4 | [PH](https://www.producthunt.com/products/fabric-6) |
+| 14 | **Gemini Enterprise Agent Platform** | Google 用以企業規模運行 AI agent 的平台 | Productivity / SE / AI | 96 / 1 | [PH](https://www.producthunt.com/products/google) |
+| 15 | **Qwen3.6-27B** | 為 coding agent 而生的甜蜜點開源 dense 模型 | Open Source / AI / Development | 91 / 2 | [PH](https://www.producthunt.com/products/qwen3) |
+
+> **04-23 主題：Agent 工具鏈正在收斂**——15 項中 11 項與 AI/Agent 直接相關。值得標記的三條主軸：
+> 1. **Agent 協作**：#2 Kollab（人 agent 共享工作區）+ #5 Claude Code /ultrareview（多 agent code review fleet）+ #14 Gemini Enterprise Agent Platform——「組合多 agent」的層次正在從個人工具升級到團隊／企業
+> 2. **Agent 變現／支付**：#3 Monid（agent 用一個錢包付給所有付費工具）——agent payment infrastructure 開始有人正面解
+> 3. **Agent + 自主決策**：#7 ASI:One（記憶 + 規劃）+ #10 Blink AI CFO（自主交易股票）——「agent 代你做決定」的市場接受度上升，#10 的 AI 自主下單對應的合規與責任議題尚未明朗
+>
+> **[[Claude Code]] /ultrareview 上榜**：#5 「cloud code review using a fleet of parallel agents」對應使用者已知 skill；本日 154 票顯示 PH 社群對「平行 agent code review」的接受度——是 [[Multica]] 系列「multi-agent harness」概念的具體商業實作。
+>
+> **[[Qwen]] 3.6-27B 雙 PH 同模型續航**：04-22 已有 Qwen3.6-Max-Preview，04-23 出 Qwen3.6-27B（27B dense model）——Qwen 系列把「coding agent 甜蜜點」訴求做出兩款規格（巨大 + 中型），市場分層策略明確。
 
 ## 2026-04-22
 
