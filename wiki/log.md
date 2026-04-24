@@ -13,16 +13,22 @@
 - [[src-reddit-eli5-2026-04]]（15 則問題翻譯；#11 LLM 寫作風格被問指標性）
 - [[src-skills-picks-2026-04]] → ast-grep **連 6 日**創紀錄再刷新（3,123→**3,227**，單日 **+104** 穩態破局）
 
-**每日新知 04-24（2 個來源，reddit 本地 cron 抓）——追加至各月報 2026-04-24 區塊**：
+**每日新知 04-24（7 來源完整）——追加至各月報 2026-04-24 區塊**：
+- [[src-wikipedia-2026-04]]（今日精選 Ornithoprion 古生物；印度雙州選舉主題——Tamil Nadu + West Bengal 2026 選舉齊上榜；Nahui Ollin 連十日破百萬）
+- [[src-hn-2026-04]]（主題：**三大 AI 模型發布日**——GPT-5.5（1,457 分）、DeepSeek v4（1,430 分）、Anthropic Claude Code postmortem（826 分）；Bitwarden CLI 攻擊續燒 169→816 分；endless-toil agent 痛苦監聽）
+- [[src-github-trending-2026-04]]（DeepSeek V4 發布同步——#1 rolepaly_instruct 512 stars、#7 deep-dive PPT；#10 Safactory trustworthy agent 學術版；Flash USDT spam **連六日**；1 筆 ❌ 成人 AI 生成器 spam）
+- [[src-producthunt-2026-04]]（DeepSeek V4、Codex 3.0、Google Workspace Intelligence 同日對決；BAND 多 agent 治理接續 Kollab / /ultrareview / Monid 的 agent 協作層競爭；PH 自家 AI 推出）
 - [[src-reddit-til-2026-04]]（1 條 ❌ 嚴重錯誤：#11 Acciaroli 義大利 300 百歲人瑞為誇大，實際約 80 餘人；2 條 ⚠️：#2 英國孩童用書數據需回原研究、#10 Mickey udder「convulsed」為 Reddit 誇張修辭）
 - [[src-reddit-eli5-2026-04]]（15 則；主題「身體的為什麼」，與 04-23 感官異常連貫）
+- [[src-skills-picks-2026-04]] → ast-grep **連 7 日**再創紀錄（3,227→**3,413**，單日 **+186** 加速擴散；連兩日破穩態，進入連鎖擴散階段）
 
-**更新頁面**：[[src-skill-ast-grep]]（連 6 日 frontmatter + 安裝數 3,227 + +104 異常增量分析）、[[wiki/index.md]]、[[wiki/log.md]]
+**更新頁面**：[[src-skill-ast-grep]]（連 7 日 frontmatter + 安裝數 3,413 + +186 加速擴散分析）、[[wiki/index.md]]、[[wiki/log.md]]
 
 **本次特殊事件**：
-- **ast-grep 連 6 日 + 穩態破局**：連四日 +49~+51 穩態（1.82 install/h）在 04-23 跳升至 +104（4.33 install/h）——skills.sh 外部曝光事件或官方 release 為待驗證推論
-- **skills-picks raw frontmatter bug 延續**：2026-04-23 raw 檔的 frontmatter title/published 仍為「2026-04-18」，屬 fetch 腳本 bug；以 skill 名稱 + 安裝數增量為準判斷 pick 實質仍為 ast-grep
-- **04-24 本地 cron 提前抓**：reddit 來源在本地 cron 提早於 04-24 抓到，GitHub Actions 的其他來源（github-trending/hn/producthunt/wikipedia/skills-picks）04-24 未到，等 04-25 daily sync 補齊
+- **2026-04-24 為 AI 模型年度發布關鍵節點**：單日 HN 前 3 被 GPT-5.5、DeepSeek V4、Anthropic 包辦——AI coding agent 賽道正在高速整合
+- **ast-grep 連 7 日 + 連鎖擴散**：連兩日破穩態（+104、+186），推論與 DeepSeek V4 / GPT-5.5 發布引發「大 codebase 結構化搜尋」需求密度相關
+- **skills-picks raw frontmatter bug 延續**：2026-04-23、04-24 raw 檔 title/published 皆為「2026-04-18」——屬 fetch 腳本 bug；以 skill name + 安裝數增量判斷實質為 ast-grep 連續曝光
+- **04-24 第二次 commit**：因 GitHub Actions 在 UTC 14:00 後推上 04-24 完整 daily sources，本次 ingest 拆分為兩次 commit 處理
 
 ## [2026-04-23] ingest | 2026-04-22 每日來源 + 2 篇手動文章
 

@@ -1,15 +1,46 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md]
 created: 2026-04-15
-updated: 2026-04-23
+updated: 2026-04-24
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-24
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **Ask Product Hunt AI** | PH 的自家 AI——找產品時直接問 | Productivity / AI / Product Hunt | 311 / 17 | [PH](https://www.producthunt.com/products/producthunt) |
+| 2 | **DeepSeek-V4** | 開源時代的 1M context 智能 | Open Source / AI / Development | 206 / 1 | [PH](https://www.producthunt.com/products/deepseek) |
+| 3 | **Codex 3.0 by OpenAI** | Codex 能自動建構、測試、除錯 | DevTools / AI / Development | 196 / 1 | [PH](https://www.producthunt.com/products/codex-3-0-by-openai) |
+| 4 | Beezi AI | 讓 AI 開發結構化、安全、成本優化 | Productivity / SaaS / DevTools | 195 / 24 | [PH](https://www.producthunt.com/products/beezi-ai) |
+| 5 | Spira AI | 永遠跟上潮流的 AI 網紅——替品牌創造並成長 | Social Media / Marketing / AI | 166 / 21 | [PH](https://www.producthunt.com/products/spira-ai) |
+| 6 | **BAND** | 在單一 chat 中協調與治理多 agent 工作 | SE / DevTools / AI | 125 / 7 | [PH](https://www.producthunt.com/products/band) |
+| 7 | Mozart Studio 1.0 | 含 VSTs 的生成式音訊工作站 | Music / AI / Electronic Music | 123 / 15 | [PH](https://www.producthunt.com/products/mozart-ai) |
+| 8 | **Google Workspace Intelligence** | 理解並增強你 Workspace 的 AI | DevTools / AI / Tech | 122 / 1 | [PH](https://www.producthunt.com/products/google) |
+| 9 | Your Name in Landsat | 用 Landsat 衛星照拼出你的名字 | Space / Photography | 112 / 7 | [PH](https://www.producthunt.com/products/your-name-in-landsat) |
+| 10 | Bansi AI by Writesonic | 給長篇 talking-head 影片用的 AI 編輯器 | Marketing / AI / Video | 109 / 25 | [PH](https://www.producthunt.com/products/bansi) |
+| 11 | TraceUI | 把任何網站轉為品牌風格廣告 | Design Tools / Marketing / Advertising | 94 / 6 | [PH](https://www.producthunt.com/products/traceui) |
+| 12 | Onboarding0 | 把公司知識轉為 AI 引導的 onboarding | SaaS / AI / HR | 89 / 15 | [PH](https://www.producthunt.com/products/onboarding0) |
+| 13 | Nordcraft 2.0 | 具完整 HTML/CSS 控制與 SSR 的設計 agent | Website Builder / DevTools / Development Language | 86 / 6 | [PH](https://www.producthunt.com/products/toddle) |
+| 14 | NotchNest AI | 由 Apple Intelligence 驅動、位於 Notch 的 AI | Productivity / AI / Apple | 84 / 3 | [PH](https://www.producthunt.com/products/notchnest-quick-access-hub) |
+| 15 | Haiker | 給非英文母語者的 Hacker News App | News / Languages / Tech | 78 / 2 | [PH](https://www.producthunt.com/products/haiker) |
+
+> **04-24 主題：AI 模型供應商正面對決**——與 HN 04-24 同步：
+> 1. **DeepSeek-V4**（#2，206 票）——開源 1M context
+> 2. **Codex 3.0 by OpenAI**（#3，196 票）——全流程自動化 coding agent
+> 3. **Google Workspace Intelligence**（#8）——企業辦公 AI 整合
+>
+> 三大供應商在同日 PH 上互爭鎂光燈——GPT-5.5 未 PH 但 HN 頭版——**2026-04-24 為 AI 模型年度發布關鍵節點**。
+>
+> **Agent 協作基礎設施再推進**：#6 BAND（多 agent 單一 chat 治理）呼應 04-23 Kollab（人與 agent 共享工作區）、04-23 Claude Code /ultrareview（平行 agent code review）、04-23 Monid（agent 錢包）——**agent 協作層的市場競爭從「個人工具」層升級至「治理／支付／協調」層**。
+>
+> **PH 自家 AI #1**：Ask Product Hunt AI（311 票）——PH 本身推出 AI——顯示 2026 年的「每個平台都該有自己的 AI 搜尋」已成為基本配置。
 
 ## 2026-04-23
 

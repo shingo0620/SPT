@@ -1,15 +1,52 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md]
 created: 2026-04-15
-updated: 2026-04-23
+updated: 2026-04-24
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-24
+
+### 今日精選文章
+
+**Ornithoprion**——已滅絕的軟骨魚類屬，唯一已知物種 *O. hertwigi* 生存於 3.15–3.07 億年前的賓夕法尼亞紀莫斯科期。化石保存於美國中西部的黑色頁岩中；以 X 光成像為主要研究手段。屬名源自希臘語「bird saw」（鳥鋸），描述其類似鳥的頭骨與下顎鋸齒狀的牙齒。種名以德國動物學家 Oscar Hertwig 命名。目前分類於 Eugeneodontiformes 目、Caseodontidae 科。[完整文章](https://en.wikipedia.org/wiki/Ornithoprion)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | **Nahui Ollin**（持續十日位居首位，1.17M+） | **1,171,179** | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | **2026 Tamil Nadu Legislative Assembly election**（印度泰米爾納德邦 2026 立法會選舉） | **355,438** | [Wikipedia](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) |
+| 3 | 2021 Tamil Nadu Legislative Assembly election（上一屆選舉資料） | 257,803 | [Wikipedia](https://en.wikipedia.org/wiki/2021_Tamil_Nadu_Legislative_Assembly_election) |
+| 4 | **2026 West Bengal Legislative Assembly election**（西孟加拉邦 2026 選舉） | 229,632 | [Wikipedia](https://en.wikipedia.org/wiki/2026_West_Bengal_Legislative_Assembly_election) |
+| 5 | **Michael (2026 film)**（MJ 傳記片連日上榜） | 177,083 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_(2026_film)) |
+| 6 | List of highest-grossing Indian films | 166,928 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 7 | **Hung Cao**（越南裔美國海軍退伍、前 Virginia 參議員候選人） | 157,901 | [Wikipedia](https://en.wikipedia.org/wiki/Hung_Cao) |
+| 8 | Dhurandhar: The Revenge | 140,599 | [Wikipedia](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+| 9 | **Clayface (film)**（DC 宇宙新作） | 137,505 | [Wikipedia](https://en.wikipedia.org/wiki/Clayface_(film)) |
+| 10 | Deaths in 2026 | 134,261 | [Wikipedia](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+
+### 歷史上的今天
+
+- **2013**：孟加拉達卡 Savar 區大樓倒塌，造成 1,134 人死亡——為現代史上最致命的結構性意外
+- **2011**：美國 Guantanamo Bay 拘留營的機密文件透過 WikiLeaks 與多家新聞機構公開
+- **2003**：加拿大多倫多一條天然氣管線被挖土機撞破，引發氣爆造成 7 人死亡
+- **1993**：臨時愛爾蘭共和軍（Provisional IRA）在倫敦金融區 Bishopsgate 引爆卡車炸彈——1 死 44 傷、修復費用 3.5 億英鎊
+- **1990**：蘇格蘭 Gruinard 島——英國科學家生物戰測試地——經 48 年檢疫後宣告無炭疽污染
+
+> **04-24 印度雙州選舉主題**：Tamil Nadu + West Bengal 兩大州 2026 立法會選舉 + 2021 對照資料同日進入前 4——反映印度政治週期的關鍵曝光點，可能與選舉提名期公布、選前民調、或重大候選人事件相關。
+>
+> **Nahui Ollin 連續十日破百萬**：04-15 至 04-24——單一 Google Doodle 的長尾效應達到本月最長紀錄，依前幾日遞減趨勢（04-22: 0.91M → 04-23: 1.11M → 04-24: 1.17M 反彈）顯示維持強勁，Doodle 長尾理論被重新評估。
+>
+> **Hung Cao 個案**：越南裔美國海軍退伍軍人 Hung Cao 04-24 衝上第 7（15.8 萬瀏覽）——可能與 2026 任命、提名或重大訪談事件相關，值得追蹤。
+>
+> **2013 Savar 大樓倒塌 13 週年**：1,134 死的孟加拉製衣業大樓崩塌事件——Rana Plaza 災難——深刻影響全球快時尚供應鏈倫理討論（包括 H&M、Zara 等品牌的勞工權益 reform）。
 
 ## 2026-04-23
 
