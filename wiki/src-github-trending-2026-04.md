@@ -17,19 +17,19 @@ tags: [github, trending, monthly-digest]
 |---|------|------|------|------|------|
 | 1 | [deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct) | DeepSeek-V4 角色扮演的特殊控制指令說明 | **512** | N/A | ✅ 呼應 HN #2/ PH #2 DeepSeek V4 發布——v4 角色扮演 prompt 集合首發 |
 | 2 | [accumulation-radar](https://github.com/connectfarm1/accumulation-radar) | 市場做市商（market maker）累積 + OI 異常 + 3 策略評分——純 Python、零 AI 成本的加密期貨監控 | 150 | Python | ⚠️ 與 04-22 binance-alpha-monitor 為同作者（connectfarm1）——連續釋出加密交易工具 |
-| 3 | [endless-toil](https://github.com/AndrewVos/endless-toil) | 聽你的 agent 為你的爛 code 受苦——agent「痛苦聲效」工具 | 58 | Python | ✅ 同日登上 HN #10（78 分）——作者 AndrewVos 反映開發者幽默與 [[Harness Engineering]] 中「可觀察性」的極端版本 |
+| 3 | [endless-toil](https://github.com/AndrewVos/endless-toil) | 聽你的 agent 為你的爛 code 受苦——agent「痛苦聲效」工具 | 58 | Python | ✅ 同日登上 HN #10（78 分）——作者 AndrewVos 反映開發者幽默與 [[src-Harness Engineering]] 中「可觀察性」的極端版本 |
 | 4 | [sig-releases](https://github.com/adamjramirez/sig-releases) | Sig——你的 AI 終於知道工作上在發生什麼 | 47 | N/A | ⚠️ 無具體資訊，description 模糊需查證 |
 | 5 | [milli.nvim](https://github.com/Amansingh-afk/milli.nvim) | Neovim 動畫 ASCII 啟動畫面 | 33 | Lua | ✅ vim ricing 文化的延續 |
 | 6 | ~~[ai-image-generator](https://github.com/mafuvovo066-hub/ai-image-generator)~~ | ~~2026 最先進圖像生成器——超擬真 AI 內容與互動體驗，含 uncensored 標籤~~ | 33 | N/A | ❌ 成人內容 spam repo——透過 uncensored-ai-image-generator、uncensored-ai-video-generator tag 做 SEO |
 | 7 | [deepseek-v4-deep-dive](https://github.com/alchaincyf/deepseek-v4-deep-dive) | DeepSeek V4 深度解讀——73 頁 PPT + 20 分鐘講稿 + 發布動畫 | 30 | HTML | ✅ DeepSeek V4 發布當天的解讀內容，huashu-design 製作 |
 | 8 | [Calculadora-de-Salarios-y-Progresividad-en-Fr-o](https://github.com/jongonzlz/Calculadora-de-Salarios-y-Progresividad-en-Fr-o) | 西班牙 2012–2026 實質薪資計算器——IRPF、社會保障、MEI、通膨調整的年度試算 Excel | 23 | Python | ✅ 西班牙在地化稅務工具，多年時序分析與通膨調整，貼近個人財務需求 |
 | 9 | [TAG](https://github.com/InternRobotics/TAG) | Feel Robot Feels——觸覺回饋陣列手套，支援靈巧操作 | 21 | C | ✅ 機器人觸覺 teleoperation 領域的新硬體專案 |
-| 10 | [Safactory](https://github.com/AI45Lab/Safactory) | Scalable Agent Factory for Trustworthy Autonomous Intelligence——可擴展的可信任自主 AI 工廠 | 21 | Python | ✅ 延續 [[Harness Engineering]] 與 [[Multica]] 系列的多 agent 可信任框架——學術版對標 |
+| 10 | [Safactory](https://github.com/AI45Lab/Safactory) | Scalable Agent Factory for Trustworthy Autonomous Intelligence——可擴展的可信任自主 AI 工廠 | 21 | Python | ✅ 延續 [[src-Harness Engineering]] 與 [[Multica]] 系列的多 agent 可信任框架——學術版對標 |
 | 11 | [PesaTracker](https://github.com/Ishoula/PesaTracker) | Java 桌面個人財務管理 app——含 PostgreSQL 與 JFreeChart 視覺化 | 20 | Java | ✅ 傳統桌面財務工具代表案例 |
 | 12 | [SX1262_CHIRP](https://github.com/ibelinp/SX1262_CHIRP) | LoRa 晶片作為同調線性 FM chirp 產生器 | 20 | HTML | ✅ 硬體/RF 工程 hacks，把商用 LoRa 晶片改成 chirp generator |
 | 13 | ~~[Flash-USDT-Tool](https://github.com/Andrewkgonzalesazly34253/Flash-USDT-Tool)~~ | ~~USDT/BTC/ETH 多網路 flash transaction 工具~~ | 18 | Python | ❌ 加密貨幣詐騙工具——Flash USDT 系列**連六日**出現，帳號命名模式（長字串 + 隨機數字後綴）高度一致 |
 | 14 | [godzilla_yatming](https://github.com/Yat-ming666/godzilla_yatming) | 哥斯拉魔改二開 | 17 | N/A | ⚠️ 「哥斯拉」通常指中國網安界的 web shell 工具，「魔改二開」可能為攻擊工具衍生——需警惕 |
-| 15 | [ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 電商商品圖生產 skill——從商品圖分析、賣點提煉、Prompt 組織到成圖輸出，支援淘寶、京東、拼多多、抖音等平台 | 15 | Python | ✅ 呼應 [[src-hermes-codex]]、[[src-addyosmani-agent-skills]] 的「skill 垂直化」——中國電商內容生產 skill 的在地化實踐 |
+| 15 | [ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 電商商品圖生產 skill——從商品圖分析、賣點提煉、Prompt 組織到成圖輸出，支援淘寶、京東、拼多多、抖音等平台 | 15 | Python | ✅ 呼應 Hermes Codex skill、[[src-addyosmani-agent-skills]] 的「skill 垂直化」——中國電商內容生產 skill 的在地化實踐 |
 
 > **04-24 主題：[[DeepSeek]] V4 發布日**——#1 rolepaly_instruct（512 stars）、#7 deepseek-v4-deep-dive（30 stars）同日登榜——HN 頭版 1,430 分 + PH #2 產品發布——**DeepSeek V4 的開源 + 1M context** 是本日最大事件。
 >
@@ -41,11 +41,11 @@ tags: [github, trending, monthly-digest]
 
 | # | 專案 | 說明 | 星數 | 語言 | 查核 |
 |---|------|------|------|------|------|
-| 1 | [superlevels](https://github.com/levelsio/superlevels) | [[levelsio]] 自製的 Chrome 擴充套件——比安裝含惡意／廣告的外部擴充套件更安全，開源可檢（AI 輔助）並可客製化 | 96 | JavaScript | ✅ 個人品牌 indie hacker levelsio 推的工具、呼應 [[Solo SaaS架構]] 的「自建取代裝載第三方」原則 |
+| 1 | [superlevels](https://github.com/levelsio/superlevels) | [[levelsio]] 自製的 Chrome 擴充套件——比安裝含惡意／廣告的外部擴充套件更安全，開源可檢（AI 輔助）並可客製化 | 96 | JavaScript | ✅ 個人品牌 indie hacker levelsio 推的工具、呼應 [[src-Solo SaaS架構]] 的「自建取代裝載第三方」原則 |
 | 2 | ~~[Flash-USDT-Tool](https://github.com/Allisonolawrencebxswkrp1748/Flash-USDT-Tool)~~ | ~~USDT/BTC/ETH 多網路 flash transaction 工具，可自訂時長、gas、ERC-20/TRC-20/BEP-20 支援~~ | 50 | Python | ❌ 加密貨幣詐騙工具——「Flash USDT」系列，04-22/21/20 連日系統性 SEO spam |
 | 3 | [NYC-Graduation-Dashboard-PowerBi](https://github.com/pankaj1602/NYC-Graduation-Dashboard-PowerBi) | NYC 2012–2019 畢業率分析 Power BI dashboard——含行政區比較、dropout risk map | 50 | N/A | ✅ 教育數據視覺化示範，Power BI 少見的公開學校案例 |
 | 4 | ~~[Exodus-Fake-Balance](https://github.com/Andreaomcdonaldiohny11924/Exodus-Fake-Balance)~~ | ~~Exodus 錢包原生餘額覆蓋工具——BTC/ETH/SOL/XRP 及 200+ 資產即時竄改，持續 hooks 與截圖安全渲染~~ | 48 | Python | ❌ 加密貨幣詐騙工具——「Fake Balance」系列，與 Flash USDT 同類別的系統性 SEO spam |
-| 5 | [future-agi](https://github.com/future-agi/future-agi) | 開源端到端 LLM / AI agent 應用評估、觀察、改善平台——Tracing、Evals、Simulations、Datasets、Gateway、Guardrails。Self-hostable、Apache 2.0 | 41 | Python | ✅ 對標 [[Harness Engineering]] 全家桶——Self-hostable + Apache 2.0 為商業市場切入差異化 |
+| 5 | [future-agi](https://github.com/future-agi/future-agi) | 開源端到端 LLM / AI agent 應用評估、觀察、改善平台——Tracing、Evals、Simulations、Datasets、Gateway、Guardrails。Self-hostable、Apache 2.0 | 41 | Python | ✅ 對標 [[src-Harness Engineering]] 全家桶——Self-hostable + Apache 2.0 為商業市場切入差異化 |
 | 6 | [vlnr](https://github.com/nandrzej/vlnr) | AI security agent for Python supply chain——掃描套件、生成 exploits、在 Docker 驗證，全自動 | 39 | Python | ✅ 延續 04-23 HN #9（Bitwarden CLI 供應鏈攻擊）主題——AI 驅動的供應鏈漏洞自動化 |
 | 7 | [methane-emission-analysis](https://github.com/pankaj1602/methane-emission-analysis) | 全球甲烷排放分析與預測——Python + Pandas + Sklearn 線性回歸，基於世界銀行資料集 | 38 | Python | ✅ 科學計算教學範例，pankaj1602 連續兩個作品上榜 |
 | 8 | [binance-alpha-monitor](https://github.com/connectfarm1/binance-alpha-monitor) | 幣安 Alpha 首發上新自動監控 + AI 分析敘事／VC／評級 + Telegram 實時推送 | 35 | Python | ⚠️ 中文加密貨幣自動化工具，可能存在合規風險 |
@@ -54,12 +54,12 @@ tags: [github, trending, monthly-digest]
 | 11 | [whenexpr](https://github.com/antfu/whenexpr) | 微型 when-clause 表達式求值器——具完整型別安全 | 19 | TypeScript | ✅ [[antfu]]（Vue/Vite/UnoCSS 核心開發者）的微型工具，延續其 single-purpose utility 風格 |
 | 12 | [OMNI-ABDUCE](https://github.com/woojii-99/OMNI-ABDUCE) | 無說明 | 19 | Python | ⚠️ 無說明、純名稱可疑 |
 | 13 | [ATTFormer](https://github.com/admins97/ATTFormer) | 影片檢索系統的 ATTFormer 架構 | 18 | Python | ⚠️ 學術 codebase，缺完整 README |
-| 14 | [codex-sangpye-skill](https://github.com/NewTurn2017/codex-sangpye-skill) | 韓國電商詳細頁（상세페이지）生成器——13 區段 + 1080×12720 合成圖，用 Codex OAuth，不需 OpenAI API key | 17 | Python | ✅ Codex CLI/skill 生態延伸到在地電商場景，延續 [[src-hermes-codex]]、[[src-addyosmani-agent-skills]] 的「skill 垂直化」趨勢 |
+| 14 | [codex-sangpye-skill](https://github.com/NewTurn2017/codex-sangpye-skill) | 韓國電商詳細頁（상세페이지）生成器——13 區段 + 1080×12720 合成圖，用 Codex OAuth，不需 OpenAI API key | 17 | Python | ✅ Codex CLI/skill 生態延伸到在地電商場景，延續 Hermes Codex skill、[[src-addyosmani-agent-skills]] 的「skill 垂直化」趨勢 |
 | 15 | ~~[Jofxtebuy](https://github.com/jofxtez-arch/Jofxtebuy)~~ | ~~無說明，但標籤含 bitcoin-flash-transactions、btc-flash-payments、flash-btc-transfer~~ | 17 | N/A | ❌ 加密貨幣詐騙工具——從 tags 確認為 Flash BTC 系列 spam |
 
 > **04-23 三大詐騙 repo 再次出現**：#2 Flash-USDT、#4 Exodus-Fake-Balance、#15 Jofxtebuy——本月連續第五日出現「Flash USDT／Fake Balance」類詐騙 repo，帳號命名模式（長字串 + 隨機數字後綴，如 `Allisonolawrencebxswkrp1748`、`Andreaomcdonaldiohny11924`）高度一致，為協同 SEO spam 農場。
 >
-> **[[levelsio]] Chrome 擴充套件**：#1 個人品牌 indie hacker 自製 Chrome ext 直衝本日第一——與 [[Solo SaaS架構]]「小團隊、高槓桿」理念呼應。重點主張：不使用外部擴充套件（reduce attack surface），自己寫並開源（AI 可輔助 review）。
+> **[[levelsio]] Chrome 擴充套件**：#1 個人品牌 indie hacker 自製 Chrome ext 直衝本日第一——與 [[src-Solo SaaS架構]]「小團隊、高槓桿」理念呼應。重點主張：不使用外部擴充套件（reduce attack surface），自己寫並開源（AI 可輔助 review）。
 >
 > **AI security / supply chain 雙重訊號**：#5 future-agi（LLM observability）+ #6 vlnr（supply chain agent）——前者是防禦型 harness engineering，後者是攻擊型自動化發現——同日上榜顯示 AI + security 雙向需求熱度。
 >

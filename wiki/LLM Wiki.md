@@ -106,3 +106,4 @@ LLM 不會覺得無聊、不會忘記更新交叉引用，能一次處理 15 個
 - [[src-LLM Wiki]]
 - [[src-karpathy筆記實作]]
 - [[src-向三位大師學AI筆記]]
+- [[src-obsidian-llm-wiki]]（aster-life 的 Obsidian + Claude Code 實作版）

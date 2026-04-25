@@ -2,6 +2,37 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-25] lint | 斷鏈修復 + 7 個新頁建立 + 衝突檔清理
+
+**背景**：執行 `/llm-wiki lint` 健康檢查後發現 5 處斷鏈、7 個應建獨立頁的缺漏實體 / 概念、3 個 iCloud 衝突 raw 重複檔。
+
+**修復斷鏈（5 處）**：
+- `[[AI輔助工作流程]]` → `[[src-AI輔助工作流程]]`（src-reddit-eli5-2026-04 04-23 #11）
+- `[[Harness Engineering]]` × 3 → `[[src-Harness Engineering]]`（src-github-trending 04-23 future-agi、04-24 endless-toil + Safactory）
+- `[[Solo SaaS架構]]` × 3 → `[[src-Solo SaaS架構]]`（src-github-trending 04-23 levelsio + 觀察區、src-reddit-eli5 04-24 #11）
+- `[[src-hermes-codex]]` × 2 → 純文字「Hermes Codex skill」（src-github-trending 04-22 + 04-24，原為 placeholder 引用）
+
+**新建頁（8 個）**：
+- 實體（組織）：[[DeepSeek]]（中國 LLM、04-24 V4 三榜聯動）、[[Google]]（TPU + Gemini + Workspace 三戰線）、[[OpenAI]]（GPT-5.5 + Codex 3.0 + ChatGPT Images 2.0，**新建頁時自然出現的引用斷鏈，順手補上**）
+- 實體（產品系列）：[[Qwen]]（Alibaba 開源 LLM 雙規格策略）
+- 實體（人物）：[[antfu]]（Anthony Fu）、[[levelsio]]（Pieter Levels）
+- 實體（工具）：[[defuddle]]（Obsidian 網頁清理工具）
+- 概念：[[Specification by Example]]（SBE 需求工程方法論，AI 品質共謀的解方）
+
+**孤立頁互引**：
+- [[src-obsidian-llm-wiki]] 加入 [[LLM Wiki]] 與 [[三大知識管理系統比較]] 的相關頁面區塊
+
+**清理 iCloud 衝突檔（3 個）**：
+- 刪除 `raw/addyosmaniagent-skills Production-grade...md`（重複，已有 `addyosmani-agent-skills.md`）
+- 刪除 `raw/obsidian-llm-wikiREADME.md at main · ...md`（重複，已有 `aster-life-obsidian-llm-wiki.md`）
+- 刪除 `raw/我似乎已经看见了，游戏引擎的未来！.md`（vault 同步原命名版重複檔）
+
+**更新頁面**：[[wiki/index.md]]（人物 +2、組織 +2、工具 +2、概念 +1）、[[wiki/log.md]]
+
+**未處理（留待後續）**：
+- W17 週綜整：W17（04-20~04-26）尚未結束，待 04-27 起回看
+- 2026-04 月綜整：等月底（04-30 過後）執行
+
 ## [2026-04-25] ingest | 2026-04-23 + 2026-04-24 每日來源
 
 **每日新知 04-23（7 個來源）——追加至各月報 2026-04-23 區塊**：

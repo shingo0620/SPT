@@ -66,12 +66,17 @@
 - [[Garry Tan]] — YC 總裁，GBrain 建立者（來源數：1）
 - [[Marc LeBlanc]] — 遊戲設計師，MDA 框架共同創建者（來源數：1）
 - [[3Blue1Brown]] — Grant Sanderson 的數學教育頻道，Manim 發明者（來源數：1）
+- [[antfu]] — Anthony Fu，Vue/Vite 核心、UnoCSS 作者，「single-purpose、type-safe、微型 OSS」風格代表（來源數：0，LLM 跨來源歸納）
+- [[levelsio]] — Pieter Levels，indie hacker 標誌人物，公開 revenue 與 12 startups 挑戰（來源數：0，LLM 跨來源歸納）
 
 ### 組織
 
 - [[Anthropic]] — Claude 模型系列與 Claude Code 開發商（來源數：0，LLM 跨來源歸納）
 - [[Apple]] — 2026-04-20 Tim Cook → John Ternus CEO 交接事件為本月追蹤焦點（來源數：2）
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
+- [[DeepSeek]] — 杭州幻方量化旗下 AI，2026-04-24 V4 發布為本月關鍵事件（HN/PH/GitHub Trending 三榜聯動）（來源數：0，LLM 跨來源歸納）
+- [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI（來源數：0，LLM 跨來源歸納）
+- [[OpenAI]] — GPT 系列、Codex 開發者工具、ChatGPT 消費級產品，2026-04-22 ChatGPT Images 2.0、04-24 GPT-5.5 + Codex 3.0（來源數：0，LLM 跨來源歸納）
 - [[拉瑞安工作室]] — Larian Studios，博德之門 3 開發商（來源數：1）
 
 ### 工具與平台
@@ -79,6 +84,8 @@
 - [[Claude Code]] — Anthropic 官方 agent CLI，本 wiki 多處參照的核心實體（來源數：0，LLM 跨來源歸納）
 - [[skills.sh]] — Agent Skill 策展平台（來源數：0，LLM 跨來源歸納）
 - [[Multica]] — Vendor-neutral 的多 Agent 協作平台，Devv.AI 團隊開源（來源數：1）
+- [[Qwen]] — Alibaba 開源 LLM 系列，2026-04 Qwen3.6-27B / Max-Preview 雙規格切入 coding agent 市場（來源數：0，LLM 跨來源歸納）
+- [[defuddle]] — Obsidian 生態的網頁正文擷取工具，可作 markdown.new fallback（來源數：0，LLM 跨來源歸納）
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
 - [[Manim]] — Python 數學動畫引擎，3Blue1Brown 開發並開源，ML/教育內容事實標準（來源數：1）
 
@@ -93,6 +100,7 @@
 - [[AI 輔助軟體工程]] — 結構化 AI 開發方法論：規劃文件、人機分工、雙重 review（來源數：5）
 - [[Restatement]] — LLM 長任務中週期性重申關鍵資訊的控制機制（來源數：1）
 - [[AI 品質共謀]] — AI 同時寫 code 與測試時形成的隱形同源誤解，CI 綠燈下的幻覺式品質（來源數：1）
+- [[Specification by Example]] — SBE 需求工程方法論，「從例子建立規格、規格即測試、測試即活文件」——AI 品質共謀的核心解方（來源數：0，LLM 跨來源歸納）
 
 ### 商業與顧客管理
 
