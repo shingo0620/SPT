@@ -1,9 +1,9 @@
 ---
 title: skills.sh Picks 月報 — 2026-04
 type: source
-sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md]
+sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md]
 created: 2026-04-16
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [skills-sh, agent-skills, monthly-digest]
 ---
 
@@ -15,7 +15,8 @@ tags: [skills-sh, agent-skills, monthly-digest]
 
 | 日期 | Skill 名稱 | 來源 | 安裝數 | 領域 | 一句話推薦 |
 |------|-----------|------|--------|------|-----------|
-| 04-24 | [[src-skill-ast-grep\|ast-grep]] *(連七日)* | ast-grep/agent-skill | **3,413** | coding / code-search / refactoring | 同 04-18/19/20/21/22/23——連七日精選，安裝數單日 **+186**（3,227→3,413）；**連兩日破穩態且加速**——從 +104 再跳至 +186，進入連鎖擴散階段；可能與 [[DeepSeek]] V4 發布（1M context）引發大 codebase 結構化搜尋需求相關 |
+| 04-25 | [[src-skill-ast-grep\|ast-grep]] *(連八日)* | ast-grep/agent-skill | **3,511** | coding / code-search / refactoring | 同 04-18~24——連八日精選，安裝數單日 **+98**（3,413→3,511）；**擴散減速但仍高於穩態**——從 +186 回落至 +98，進入「擴散曲線緩降」階段；八日累積 +570 install |
+| 04-24 | [[src-skill-ast-grep\|ast-grep]] *(連七日)* | ast-grep/agent-skill | 3,413 | coding / code-search / refactoring | 同 04-18/19/20/21/22/23——連七日精選，安裝數單日 **+186**（3,227→3,413）；**連兩日破穩態且加速**——從 +104 再跳至 +186，進入連鎖擴散階段；可能與 [[DeepSeek]] V4 發布（1M context）引發大 codebase 結構化搜尋需求相關 |
 | 04-23 | [[src-skill-ast-grep\|ast-grep]] *(連六日)* | ast-grep/agent-skill | 3,227 | coding / code-search / refactoring | 同 04-18/19/20/21/22——連六日精選，安裝數單日 **+104**（3,123→3,227）；**穩態破局**——連四日 +49~+51（1.82 install/h）跳升至 +104（4.33 install/h），可能為外部曝光事件觸發擴散 |
 | 04-22 | [[src-skill-ast-grep\|ast-grep]] *(連五日)* | ast-grep/agent-skill | 3,123 | coding / code-search / refactoring | 同 04-18/19/20/21——連五日精選，安裝數再 +51（3,072→3,123）；96h 累積 +182；實際連續超過預測下限（3,115–3,125） |
 | 04-21 | [[src-skill-ast-grep\|ast-grep]] *(連四日)* | ast-grep/agent-skill | 3,072 | coding / code-search / refactoring | 同 04-18/19/20——skills.sh 連四日選同一 skill，安裝數再 +49（3,023→3,072）；72h 累積 +131 |
@@ -24,6 +25,13 @@ tags: [skills-sh, agent-skills, monthly-digest]
 | 04-18 | [[src-skill-ast-grep\|ast-grep]] | ast-grep/agent-skill | 2,941 | coding / code-search / refactoring | 如果你日常需要在大型 codebase 做結構化搜尋或 refactor，這個 skill 把「何時用、怎麼寫 AST rule」教給 agent |
 | 04-17 | [[src-skill-3b1b-style-animation-skill\|3b1b-style-animation-skill]] | subinium/3b1b-style-animation-skill | 1 | education / visualization / math | 如果你每週做數學 / ML 教學影片，這個 skill 把 Manim 技術與 3Blue1Brown 教學哲學整合成可重用工作流 |
 | 04-16 | [[src-skill-character-arc\|character-arc]] | jwynia/agent-skills | 248 | writing / fiction | 如果你用 AI 寫故事或設計遊戲劇情，這個 skill 是角色弧線的診斷工具 |
+
+> **04-25 連八日精選 + 擴散減速**：ast-grep 連續八日被選——skills.sh 歷來最長紀錄再刷新至 8 日。處理策略不變：不新建 skill 頁，在 [[src-skill-ast-grep]] 累計追蹤。
+> - 八日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）→ 3,227（+104）→ 3,413（+186）→ **3,511（+98）**
+> - **擴散曲線形成**：穩態 → 突破（+104）→ 加速峰（+186）→ **緩降（+98）**——典型 S 曲線擴散模式
+> - 168h 累積 **+570 裝**、八日整體轉化率 3.39 install/h——仍是穩態的近兩倍
+> - **解釋**：04-23~24 為 [[DeepSeek]] V4 發布引發的需求高峰、被前期擴散吸收完畢，目前進入第二批 lower-velocity adopter 的擴散階段
+> - **預測**：04-26 應落在 +60~80 區間（介於穩態 +50 與 +98 之間）
 
 > **04-24 連七日精選 + 連鎖擴散階段**：ast-grep 連續七日被選——skills.sh 歷來最長紀錄再刷新至 7 日。處理策略不變：不新建 skill 頁，在 [[src-skill-ast-grep]] 累計追蹤。
 > - 七日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）→ 3,227（**+104**）→ **3,413（+186）**

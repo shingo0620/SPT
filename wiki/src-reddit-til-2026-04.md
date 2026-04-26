@@ -1,15 +1,41 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md, reddit-til-2026-04-25.md]
 created: 2026-04-14
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-25
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | Shaggy（《Scooby-Doo》）原聲優 Casey Kasem 是純素食者與反工廠化飼養運動者——1995 年因被要求為 Burger King 廣告配音而退出節目，後來談判讓 Shaggy 改為素食者後才回歸 | 34,227 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Casey_Kasem) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suvjfo/) |
+| 2 | 2006 年 Lydia Angyiou（5 呎不到、90 磅）為救兩個兒子與朋友——徒手與一隻 700 磅北極熊纏鬥數分鐘，直到鄰居持槍趕到 | 15,326 | ✅ | [ESPN](https://www.espn.com/outdoors/general/news/story?id=2338668) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sunpfd/) |
+| 3 | 「Madison」雖在 2001 年是美國第 2 常見女嬰名，但在 1984 年電影《Splash》之前極為罕見——片中 Daryl Hannah 看到 Madison Ave 路標說「就叫我 Madison」，Tom Hanks 回「Madison 不是名字！」 | 9,820 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Madison_(name)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suj0fb/) |
+| 4 | 對於 1957 年取消的《魔戒》電影，Tolkien 嚴厲批評劇本對 Nazgul 的描繪、團隊使用大鷹、刪減 Galadriel 戲份——但他完全可接受刪除聖盔谷之戰與 Saruman 之死 | 7,117 | ✅ | [TheOneRing](https://www.theonering.net/torwp/2013/06/03/72359-what-would-the-professor-have-thought-of-peter-jacksons-version-of-the-lord-of-the-rings/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sumfrn/) |
+| 5 | **瑞典海軍花 15 年數百萬美元追蹤「俄羅斯潛艇」訊號——1996 年民間科學家發現「潛艇」實為大群鯡魚放屁的聲音**（2004 年 Ig 諾貝爾獎） | 7,013 | ✅ | [The Guardian](https://www.theguardian.com/education/2005/mar/11/highereducation.research) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sv9b7x/) |
+| 6 | 全球最大的海狸壩位於加拿大 Wood Buffalo 國家公園——長 800 公尺、周長 2 公里 | 3,396 | ✅ | [Parks Canada](https://parks.canada.ca/pn-np/nt/woodbuffalo/nature/beaver_gallery) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suimhr/) |
+| 7 | 1991 年 Nirvana《Smells Like Teen Spirit》MV 重度輪播時，MTV 製作了「歌詞跑馬燈版本」——因為觀眾聽不懂 Kurt 在唱什麼 | 2,616 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit#Lyrics_and_interpretation) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sv2p71/) |
+| 8 | San Marino 是雙頭執政——兩位 Captains Regent，每六個月（4/1、10/1）選舉產生，通常來自對立黨派；卸任後三年內不得連任 | 2,503 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Captains_Regent) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sur43n/) |
+| 9 | 秦始皇尋找長生不老藥——派方士徐福帶 3,000 男童女童出海，第二次出海後失蹤 | 1,748 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Xu_Fu) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sv99q7/) |
+| 10 | 《The Crow》（1994）原作者 James O'Barr 提案續集《The Crow: The Bride》——Miramax 拒絕，理由「沒人會看女主角主演的動作片」 | 1,461 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/The_Crow%3A_City_of_Angels) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suv5ng/) |
+| 11 | The Monkees 是史上唯一一年內擁有 4 張 Billboard 200 #1 專輯的藝人（1967 年） | 1,453 | ✅ | [Billboard](https://www.billboard.com/music/chart-beat/the-monkees-billboard-chart-record-still-stands-1235008332/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sum0j0/) |
+| 12 | 2015 年德州警方協助一名男子假死——含舞台化的墓地照片——因為發現他疏遠的妻子試圖雇凶殺他 | 1,022 | ✅ | [CBS News](https://www.cbsnews.com/news/ramon-sosa-boxer-marked-for-murder-goes-undercover-to-catch-the-person-who-wanted-him-dead-48-hours) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sv4slx/) |
+| 13 | 2021 年英國火車司機收到名人 Murray Walker 死訊後分心——列車撞站造成 £450,000 損失 | 991 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Kirkby_train_crash) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1susfvp/) |
+| 14 | Frank Zappa（音樂家）為孩子取名：Moon Unit、Dweezil、Diva、Ahmet | 984 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Moon_Zappa) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1suu0qm/) |
+| 15 | Paul Michael Glaser（《Starsky & Hutch》Starsky 演員）討厭劇中駕駛的 Ford Gran Torino——刻意虐待它試圖「毀掉」這台車 | 874 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Starsky_%26_Hutch#Cars) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1susena/) |
+
+> **04-25 主題：娛樂史與動物趣聞**——本日 15 條中無重大事實錯誤、無爭議性主張——相較 04-23/24 較「乾淨」的一日。
+>
+> **#5 鯡魚放屁誤判潛艇**：本日經典條目——瑞典海軍 1980-90 年代多次回報「俄羅斯潛艇入侵」聲響、引發冷戰末期外交緊張，1996 年才證實為鯡魚集體放屁。Magnus Wahlberg 與 Håkan Westerberg 因此研究獲 **2004 年 Ig 諾貝爾獎生物學獎**。
+>
+> **#15 查核備註**：Wikipedia 的 Cars 章節提到 Glaser 不喜歡那台車並故意激烈駕駛，但「purposely mistreated to destroy it」的說法略誇大；實際是「不愛護而造成多次小損壞」，並非系統性「想毀」。
 
 ## 2026-04-24
 

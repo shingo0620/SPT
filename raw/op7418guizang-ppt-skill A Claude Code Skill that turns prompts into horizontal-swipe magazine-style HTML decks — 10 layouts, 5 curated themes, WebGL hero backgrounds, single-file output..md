@@ -1,0 +1,1 @@
+[op7418/guizang-ppt-skill: A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.](https://github.com/op7418/guizang-ppt-skill)

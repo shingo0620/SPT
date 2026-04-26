@@ -1,15 +1,46 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md]
 created: 2026-04-15
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-25
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **ZeroHuman** | 你的 AI 共同創辦人——OpenClaw × Paperclip × Spud 三方整合 | AI / Marketing automation / Vibe coding | 204 / 12 | [PH](https://www.producthunt.com/products/zerohuman) |
+| 2 | **Gemini Personal Intelligence** | 從你的 Google apps 取得 context 來回答 | AI / Search / Photo editing | 148 / 2 | [PH](https://www.producthunt.com/products/gemini-personal-intelligence) |
+| 3 | **Inrō AI** | 你的 AI agent，自動化 Instagram DM | Instagram / AI / Marketing automation | 136 / 7 | [PH](https://www.producthunt.com/products/inro) |
+| 4 | **Clawdi** | 所有 AI agent 的最佳家——Chrome 擴充 | Chrome Extensions / DevTools / AI | 128 / 18 | [PH](https://www.producthunt.com/products/clawdi) |
+| 5 | **XChat** | X 推出的獨立加密訊息 app | Messaging / Social Network | 121 / 4 | [PH](https://www.producthunt.com/products/chat-by-x) |
+| 6 | **MiMo-V2.5 Voice** | 雙語 ASR——支援方言、語碼轉換、歌曲 | API / Open Source / AI | 106 / 1 | [PH](https://www.producthunt.com/products/mimo-v2-5-voice) |
+| 7 | **Grok Voice Think Fast 1.0** | xAI 最強語音 agent 開放 API | API / Audio | 102 / 0 | [PH](https://www.producthunt.com/products/grok-voice-think-fast-1-0) |
+| 8 | PromptPaste | Mac/iPhone/iPad 上的私人 AI prompt 庫 | Productivity / AI / Apple | 99 / 1 | [PH](https://www.producthunt.com/products/promptpaste) |
+| 9 | Genspark for Excel | AI Excel 助手（公式、圖表、洞察） | Productivity / Spreadsheets / Marketing | 98 / 2 | [PH](https://www.producthunt.com/products/genspark-for-excel) |
+| 10 | Euphony | 把 AI chat data 與 Codex logs 渲染成可瀏覽 view | AI / GitHub | 88 / 1 | [PH](https://www.producthunt.com/products/euphony-2) |
+| 11 | Architecto | 用 AI 設計、審查、文件化雲架構 | Design Tools / DevTools / AI | 79 / 1 | [PH](https://www.producthunt.com/products/architecto) |
+| 12 | DeployStack | 開源、可自架的 Vercel / Render 替代品 | Open Source / SaaS / DevTools | 9 / 2 | [PH](https://www.producthunt.com/products/deploystack-2) |
+| 13 | Smallbits | 8×8 grid 的像素圖示 | Icons / Design / Design resources | 8 / 5 | [PH](https://www.producthunt.com/products/smallbits) |
+| 14 | Regent | 知道你的 AI 何時改變行為——AI 行為監控 | SaaS / DevTools / AI | 7 / 7 | [PH](https://www.producthunt.com/products/regent) |
+| 15 | CodeSafe | Founder 的安全掃描器——「你 vibe-code 快，我們保證安全」 | Productivity / DevTools / Tech | 6 / 2 | [PH](https://www.producthunt.com/products/codesafe-security-scanner-for-founders) |
+
+> **04-25 主題：AI 語音 + AI 助理跨平台滲透**
+> - **語音 agent 雙發**：#6 MiMo-V2.5 Voice（小米開源 ASR）+ #7 Grok Voice Think Fast 1.0（xAI 商業版）——同日推出開源 + 商業兩款語音 agent，**語音 modality 進入 agent 工具基本配置**
+> - **[[Google]] Gemini 系列再推新**：#2 Gemini Personal Intelligence——從 04-22 TPU、04-23 Enterprise Agent Platform、04-24 Workspace Intelligence、04-25 Personal Intelligence——**連續 4 日發表企業/個人 AI 產品**
+> - **「Vibe coding」進入 PH 分類**：#1 ZeroHuman 直接以 vibe-coding 為分類標籤——術語從 Twitter meme 變成 PH 官方分類，標誌「氛圍寫程式」進入主流產品策略
+>
+> **OpenClaw × Paperclip × Spud 三方整合**：#1 ZeroHuman 的整合策略呼應 [[Multica]]「vendor-neutral 多 agent 協作」的概念——透過整合既有平台而非建新生態。
+>
+> **AI 行為監控細分市場**：#14 Regent「知道 AI 何時改變行為」——對應 [[AI 品質共謀]] 的核心問題——AI 系統的不可預測行為是新的可觀察性需求。
+>
+> **#15 CodeSafe「You vibe-code fast, we keep it secure」**——直接針對 vibe coding 後的安全問題——與 [[src-hn-2026-04]] 04-23 Bitwarden 供應鏈攻擊系列形成完整商業循環（先 vibe code → 再用 CodeSafe 修補）。
 
 ## 2026-04-24
 

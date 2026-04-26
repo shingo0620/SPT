@@ -1,15 +1,44 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md]
 created: 2026-04-15
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-25
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code — GPT-Image2 工業級提示詞引擎與模板庫，329 個案例逆向工程、13 套工業級模板 | 118 | N/A | ✅ 中文 prompt 工程社群實戰沉澱、與 [[OpenAI]] ChatGPT Images 2.0 發布（04-22）形成生態擴展 |
+| 2 | [grdpwasm](https://github.com/nakagami/grdpwasm) | Web 版 RDP 客戶端（Go WebAssembly + grdp） | 47 | Go | ✅ 同日登上 HN #12（36 分）——遠端桌面協議的瀏覽器原生實作 |
+| 3 | [byob](https://github.com/wxtsky/byob) | **Bring Your Own Browser** — 讓 AI agent 直接用你已開的 Chrome | 44 | TypeScript | ✅ 解決 agent 使用瀏覽器的「身分隔離 vs 共用 cookie」核心問題；與 PH 04-25 #4 Clawdi 同主題 |
+| 4 | [Cheat-Engine-Linux-Linked](https://github.com/UniXBRO/Cheat-Engine-Linux-Linked) | Linux 優先的 Cheat Engine 移植——支援 Proton 與 Steam 遊戲記憶體掃描 | 38 | Pascal | ✅ Linux 遊戲生態的調試工具補足，與 SteamOS 普及化相關 |
+| 5 | [windsurf-manager](https://github.com/YiKongk/windsurf-manager) | （無說明） | 34 | Python | ⚠️ 無說明、Windsurf 是 Codeium 的 IDE 名 |
+| 6 | [codexflow](https://github.com/hebicheng/codexflow) | Go Agent——支援 Windows/Linux/macOS/iOS/Android/Web 多端的 Codex 工作流 | 29 | Dart | ✅ Codex CLI 生態跨平台延伸——配合 04-24 OpenAI Codex 3.0 發布 |
+| 7 | [vss-fr2system](https://github.com/sailay1996/vss-fr2system) | test | 27 | C | ⚠️ 描述為 test、無資訊 |
+| 8 | [LiboLibo](https://github.com/Krasilshchik3000/LiboLibo) | 俄語 podcast app（vibe-coding 模式公開開發） | 16 | Swift | ✅ 「公開 vibe-coding」的開發風潮代表案例 |
+| 9 | [port-forward](https://github.com/Zyx0rx/port-forward) | 多 backend Linux port forwarding 管理腳本——含互動 + CLI 模式 | 17 | Shell | ✅ 系統管理工具實用案例 |
+| 10 | ~~[Coin-Flashing-Tool-2026](https://github.com/0103x/Coin-Flashing-Tool-2026)~~ | ~~Bitcoin/USDT/Exodus flash 詐騙工具集~~ | 17 | N/A | ❌ 加密貨幣詐騙工具——「Flash USDT/Coin」**連七日**出現，標籤直接列出 fake-balance、flash-usdt-online-sender |
+| 11 | [llfcchat](https://github.com/secondtonone1/llfcchat) | （無說明） | 15 | C++ | ⚠️ 無說明 |
+| 12 | [krob-tracking-stack](https://github.com/gustavokrob/krob-tracking-stack) | （無說明） | 14 | JavaScript | ⚠️ 無說明 |
+| 13 | [Heisenberg](https://github.com/at264939-ctrl/Heisenberg) | （無說明） | 14 | Rust | ⚠️ 無說明、命名引人遐想 |
+| 14 | [hermes-memory-skills](https://github.com/nexus9888/hermes-memory-skills) | Hermes Agent 的記憶清理 skills——dreaming（3 階段整合）+ lean check（手術式裁剪） | 13 | N/A | ✅ Hermes Agent 生態繼續擴展、agent 記憶管理（呼應 [[src-Claude Code Session管理]] 中的 compact 主題） |
+| 15 | [DeepseekWeb-enhance](https://github.com/calendar0917/DeepseekWeb-enhance) | （無說明） | 13 | JavaScript | ⚠️ 無說明、與 [[DeepSeek]] V4 發布同步出現的 web 增強 |
+
+> **04-25 三大主題**：
+> 1. **AI agent 用瀏覽器的方法論**：#3 byob「Bring Your Own Browser」+ PH #4 Clawdi——agent 共用使用者 Chrome 而非另開無頭瀏覽器，解決 cookie / 登入狀態 / 風控的痛點
+> 2. **[[DeepSeek]] V4 連動**：#15 DeepseekWeb-enhance 為 V4 發布後的 web 介面增強
+> 3. **Codex 3.0 連動**：#6 codexflow（Go Agent 多端工作流）為 04-24 [[OpenAI]] Codex 3.0 發布的生態回應
+>
+> **Flash USDT 連七日**：本月已連續七日出現「Flash USDT/Coin」類詐騙 repo——GitHub 算法對「無說明 + spam tag + 隨機帳號名」缺乏有效濾除已成本月持續結構性問題。
+>
+> **「無說明 repo 上榜」現象**：#5、#7、#11、#12、#13 五項都「無說明 + 低星數」即上 trending——可能與 GitHub Trending 的計算邏輯（短時間內 star 增量）有關，刷榜操作日益普及。
 
 ## 2026-04-24
 

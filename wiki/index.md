@@ -6,6 +6,7 @@
 
 ### AI 與知識管理
 
+- [[src-overthinking-scope-creep-structural-diffing]] — Kevin Lynagh 從 indie 開發者視角談「overthinking + scope creep + LLM 寫 code 後的 structural diff 工作流」（來源數：1）
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -55,7 +56,8 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 7 日精選**紀錄、04-24 單日 +186 加速擴散達 3,413 裝（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 8 日精選**紀錄、04-25 達 3,511 裝、擴散曲線進入緩降階段（來源數：1）
+- [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
 
 ## 實體
 

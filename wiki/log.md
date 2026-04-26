@@ -2,6 +2,34 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-26] ingest | 2026-04-25 daily sources + 2 篇手動文章
+
+**每日新知 04-25（7 來源完整）——追加至各月報 2026-04-25 區塊**：
+- [[src-wikipedia-2026-04]]（精選 Bombing of Obersalzberg 81 週年；MJ 主題群上榜 #3+#4+#8；NFL 選秀年度週；Nahui Ollin 連 11 日破百萬）
+- [[src-hn-2026-04]]（**重大事件**：#1 [[Google]] 投資 [[Anthropic]] $40B（684 分）；#6 「Karpathy 風格 LLM Wiki, agent 維護」（145 分，本知識庫概念主流化）；#3 純文字 50 年不死）
+- [[src-github-trending-2026-04]]（#1 awesome-gpt-image-2 prompt 庫；#3 byob「Bring Your Own Browser」+ PH #4 Clawdi 同主題；Flash USDT **連七日**spam）
+- [[src-producthunt-2026-04]]（**主題：AI 語音 + Google Gemini 連 4 日**；#6 MiMo + #7 Grok Voice 雙語音 agent；#1 ZeroHuman「vibe coding」進入 PH 分類；#14 Regent AI 行為監控）
+- [[src-reddit-til-2026-04]]（**乾淨一日**——僅 1 條 ⚠️；#5 鯡魚放屁誤判潛艇 Ig 諾貝爾經典條目）
+- [[src-reddit-eli5-2026-04]]（15 則；#5 Google zero-click 策略——直接呼應 04-25 HN #1 Google 投資 Anthropic 事件）
+- [[src-skills-picks-2026-04]] → ast-grep **連 8 日**（3,413→**3,511**，+98）；擴散曲線進入緩降階段
+
+**手動文章（2 篇）——新建獨立來源頁**：
+- [[src-overthinking-scope-creep-structural-diffing]] — Kevin Lynagh 2026-04 newsletter：overthinking、scope creep 守恆律、structural diff 工具評論——對應 [[src-hn-2026-04]] 04-24 #12
+- [[src-skill-guizang-ppt]] — op7418（歸藏）的雜誌風 HTML PPT skill；「強約束派」設計風格、與 [[Garry Tan]] "Thin Harness, Fat Skills" 直接呼應
+
+**更新頁面**：[[src-skill-ast-grep]]（連 8 日 + 安裝數 3,511 + 擴散曲線分析）、[[wiki/index.md]]、[[wiki/log.md]]
+
+**本次特殊事件**：
+- **HN #6 wuphf「Karpathy 風格 LLM Wiki, agent 維護」**：本知識庫的核心概念已從 Karpathy 推特帖文 → OSS 實作 → HN 主流視野——值得後續單獨 ingest 為來源頁
+- **Google–Anthropic $40B**：AI 三方陣營資金重組關鍵事件
+- **op7418 PPT skill fetch-url 超時**：用 GitHub raw URL 直接抓 README，與 04-22 obsidian-llm-wiki / addyosmani 處理方式一致
+- **3 個 iCloud 衝突重複檔再現**：sync-vault pull 後 again 出現——建議從 vault 端永久刪除以根治
+
+**未處理（留待後續）**：
+- W17 週綜整：今天（04-26）是 W17 週日——明天（04-27）為 W18 週一可開始回看 W17
+- 2026-04 月綜整：等月底（04-30 過後）執行
+- 04-26 daily sources 待 GitHub Actions 推上後處理
+
 ## [2026-04-25] lint | 斷鏈修復 + 7 個新頁建立 + 衝突檔清理
 
 **背景**：執行 `/llm-wiki lint` 健康檢查後發現 5 處斷鏈、7 個應建獨立頁的缺漏實體 / 概念、3 個 iCloud 衝突 raw 重複檔。

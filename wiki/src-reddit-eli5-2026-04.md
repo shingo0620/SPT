@@ -1,15 +1,39 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md, reddit-eli5-2026-04-25.md]
 created: 2026-04-15
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-25
+
+| # | 問題 | 分數 | 連結 |
+|---|------|------|------|
+| 1 | 為什麼野生動物若殺了人，即使不是直接責任也常被處死？（例：女子靠近野牛拍照、若被踩死野牛將被處死的合理性） | 688 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sujhe6/) |
+| 2 | 為什麼即使有脂肪儲備，大幅熱量赤字時仍會疲憊？（脂肪轉換能量的速度限制） | 613 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sunsdz/) |
+| 3 | 為什麼有些人無法說某語言但能聽懂？（接收性 vs 表達性語言能力） | 511 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1suuajn/) |
+| 4 | 身體如何「知道」我們在想性事而觸發陰莖勃起？（自主神經系統與認知-生理反射） | 468 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sukuh8/) |
+| 5 | **[[Google]] 的 zero-click 策略如何能賺錢？**（AI Overview、體育結果、網速檢測等讓使用者不點擊網站，與 AdSense 廣告模式的衝突） | 317 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sv4a2q/) |
+| 6 | 如果在兩眼裝潛望鏡指向不同方向，會發生什麼？大腦能適應完全無對齊的兩個視野嗎？ | 146 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sv6ti7/) |
+| 7 | 宇宙怎麼是「平的」？我們能上下飛行四面八方，怎麼宇宙形狀是平的？（時空曲率 vs 空間維度的常見混淆） | 121 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1susv8a/) |
+| 8 | 為什麼我們對剛得到的東西很快失去興趣？（dopamine 系統與快樂跑步機效應） | 99 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sv03jf/) |
+| 9 | 睪固酮如何運作？為何能讓聲音變低、體毛增多？ | 74 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1suuull/) |
+| 10 | 微波爐為何能把食物加熱得這麼快？（水分子振動與滲透加熱機制） | 58 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sulp0v/) |
+| 11 | 從分子／原子層次看，固體材料的硬／軟取決於什麼？ | 55 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sv3vyt/) |
+| 12 | 股票分割發生時實際在做什麼？為何要分割？利弊為何？ | 52 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sumlcn/) |
+| 13 | 為什麼受壓的植物（如缺水）反而開更多花？舒服照顧的植物反而不開？ | 53 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1suhm0n/) |
+| 14 | 為什麼多年前的尷尬時刻記得像昨天剛發生？（負面記憶的長期保存機制） | 34 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sv2f2h/) |
+| 15 | 強子對撞機（Hadron Collider）做什麼？在大局中的重要性？ | 33 | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1suouow/) |
+
+> **04-25 主題**：仍以「身體的為什麼」為主——#2 脂肪疲憊、#4 性反應、#9 睪固酮、#10 微波爐——延續 04-23/24 的生理機制好奇主軸。
+>
+> **#5 [[Google]] zero-click 策略**：直接回應 [[src-hn-2026-04]] 04-25 #1 「Google 投資 [[Anthropic]] $40B」事件——Google 為何願意投巨資 AI？因為 zero-click + AI Overview 正在重塑搜尋商業模式。**ELI5 社群已經注意到「搜尋未來不是搜尋」的本質變化**。
 
 ## 2026-04-24
 

@@ -1,15 +1,52 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md]
 created: 2026-04-15
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-25
+
+### 今日精選文章
+
+**Bombing of Obersalzberg**（Obersalzberg 轟炸）——1945 年 4 月 25 日（**剛好 81 週年**）皇家空軍轟炸機司令部對德國巴伐利亞 Obersalzberg 區的空襲，目標為希特勒與納粹高層的住宅與地堡複合體。多棟建物被摧毀，但希特勒住所與地堡網僅輕微受損。盟軍 2 架轟炸機被擊落、4 名飛行員陣亡，德方 31 人死亡。歐戰最後階段的象徵性事件之一。[完整文章](https://en.wikipedia.org/wiki/Bombing_of_Obersalzberg)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | **Nahui Ollin**（連續十一日位居首位） | **1,123,937** | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | **2026 NFL draft**（NFL 選秀年度大事） | **366,855** | [Wikipedia](https://en.wikipedia.org/wiki/2026_NFL_draft) |
+| 3 | **Michael (2026 film)**（連續多日上榜的 MJ 傳記片） | 251,066 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_(2026_film)) |
+| 4 | **Michael Jackson**（MJ 傳記片連動） | 186,806 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jackson) |
+| 5 | Fernando Mendoza（NFL 球員，配合選秀熱度） | 184,559 | [Wikipedia](https://en.wikipedia.org/wiki/Fernando_Mendoza) |
+| 6 | 2026 West Bengal Legislative Assembly election | 179,835 | [Wikipedia](https://en.wikipedia.org/wiki/2026_West_Bengal_Legislative_Assembly_election) |
+| 7 | 2026 Tamil Nadu Legislative Assembly election | 176,191 | [Wikipedia](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) |
+| 8 | **Jaafar Jackson**（飾演 MJ 的 MJ 姪子） | 155,199 | [Wikipedia](https://en.wikipedia.org/wiki/Jaafar_Jackson) |
+| 9 | Raghav Chadha（印度政治人物） | 146,735 | [Wikipedia](https://en.wikipedia.org/wiki/Raghav_Chadha) |
+| 10 | List of highest-grossing Indian films | 135,367 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+
+### 歷史上的今天
+
+- **2015**：尼泊爾 7.8 級大地震，造成 8,000+ 人死亡（Gorkha 大地震）
+- **2014**：密西根 Flint 市政府將供水切換至 Flint River，引爆「Flint 水危機」——美國公衛史重大失職事件
+- **2012**：Daniel Chong 在加州 San Diego DEA 拘留室被遺忘，5 天無食物無水後被發現
+- **1990**：Violeta Chamorro 就任尼加拉瓜總統——美洲首位「以自身名義當選」的女性國家元首
+- **1986**：Mswati III 加冕為斯威士蘭（現史瓦帝尼）國王，繼承父親 Sobhuza II
+
+> **MJ 主題群上榜**：#3 Michael (2026 film) + #4 Michael Jackson + #8 Jaafar Jackson 同日進入前 8——傳記片預告或上映新聞引爆連帶搜尋熱度，是「IP 帶動人物 + 演員」三層搜尋的典型案例。
+>
+> **NFL 選秀年度週**：#2 NFL Draft 2026（366K）+ #5 Fernando Mendoza（184K，可能是首輪選秀球員）——美國運動年度週期高峰。
+>
+> **Nahui Ollin 連十一日破百萬**：04-15 至 04-25——單一 Google Doodle 的長尾效應已遠超預期，11 日累積接近 1,300 萬瀏覽。
+>
+> **Obersalzberg 轟炸 81 週年**：1945-04-25 → 2026-04-25 對齊——Wikipedia 精選文章的「歷史對齊」策展邏輯（剛好整數紀念日）顯示策展人對「日期對齊」的明確優先。
 
 ## 2026-04-24
 

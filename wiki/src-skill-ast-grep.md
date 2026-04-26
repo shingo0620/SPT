@@ -1,22 +1,22 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md]
 created: 2026-04-18
-updated: 2026-04-24
+updated: 2026-04-25
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20、04-21、04-22、04-23、04-24 再度精選，**連七日**——本月與歷來最長紀錄再刷新）
+> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20、04-21、04-22、04-23、04-24、04-25 再度精選，**連八日**——本月與歷來最長紀錄再刷新）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）→ 3,413（04-24）**，144 小時累積 **+472**；七日漲幅分別為 +31、+51、+49、+51、**+104、+186**——連兩日破穩態且**加速更快**；七日整體轉化率約 3.28 install/h
+> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）→ 3,413（04-24）→ 3,511（04-25）**，168 小時累積 **+570**；八日漲幅分別為 +31、+51、+49、+51、+104、+186、**+98**——擴散減速但仍高於穩態（穩態約 +50）；八日整體轉化率約 3.39 install/h
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
 >
-> **連兩日破穩態、加速擴散**（2026-04-24）：04-23 +104、04-24 **+186**——從穩態 1.82 install/h 飆至 **7.75 install/h**（24h 滑動）——已可判定為「進入第二階段擴散」而非單日 noise。本日同步另一訊號：GitHub Trending #1 `deepseek_v4_rolepaly_instruct` 與 DeepSeek V4 發布同步——可能是新模型上市引發「大 codebase 結構化搜尋」需求爆量，驅動 ast-grep 快速進入開發者工具箱。下日若再維持 +150 以上，判為進入**連鎖擴散**階段（非線性增長）。
+> **擴散階段曲線**（2026-04-25）：04-23 +104、04-24 +186 兩日加速後，04-25 回落 +98——形成「**穩態 → 突破 → 加速峰 → 緩降**」的典型擴散曲線。雖未回穩態（+50），但已退出爆量階段。可能解釋：DeepSeek V4 帶動的需求高峰已被前期擴散吸收，目前進入第二批 lower-velocity adopter 的擴散階段。預測：04-26 應落在 +60~80 區間。
 
 ## 一句話定位
 
