@@ -2,6 +2,26 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-26] ingest+lint | 修正 04-25 lint 誤判 + ingest 「遊戲引擎的未來」+ 根治 vault 衝突循環
+
+**修正 04-25 lint 誤判**：
+- 上次 lint 把 `raw/我似乎已经看见了，游戏引擎的未来！.md` 當「重複檔」刪除——實際上它是 16 行的 Obsidian Clipper YouTube metadata raw（**有效來源待 ingest**），sync-vault pull 又把它從 vault 拉回來
+- 教訓：未來判斷「重複」前需 wc/diff 確認內容與既有 raw 一致；URL 純標籤檔（1 行）vs 完整 metadata（含 frontmatter）必須區分
+
+**ingest 「我似乎已经看见了，游戏引擎的未来！」**：
+- 作者：秦无邪 OvO（五鞋，遊戲製作人）
+- 用 fetch-youtube.sh + Whisper medium 取得逐字稿（raw/yt-...md）
+- 新建 [[src-遊戲引擎的未來]]——核心預測：未來遊戲引擎為「人 + AI 代理共同使用」軟體形態、MCP 為過渡產物、遊戲產業類比文藝復興早期
+- 與既有 [[Godot]] / [[src-零基礎用AI做遊戲]] / [[Skill vs Bash vs MCP]] / [[綜整-AI協作工程的六大趨勢]] 互引
+- 與 [[src-overthinking-scope-creep-structural-diffing]] 形成「樂觀 vs 悲觀」並列視角
+
+**根治 vault 衝突循環**：
+- 從 vault 端永久刪除 `addyosmaniagent-skills Production-grade...md` + `obsidian-llm-wikiREADME.md at main · ...md`（兩者皆為 1 行 URL 標籤檔，git 上已有完整對應 `addyosmani-agent-skills.md` / `aster-life-obsidian-llm-wiki.md`）
+- 從 git untracked 端也刪除這兩檔
+- **下次 sync pull 不會再拉回**，循環根治
+
+**更新頁面**：[[wiki/index.md]]（遊戲設計與開發類別新增 [[src-遊戲引擎的未來]]）、[[wiki/log.md]]
+
 ## [2026-04-26] ingest | 2026-04-25 daily sources + 2 篇手動文章
 
 **每日新知 04-25（7 來源完整）——追加至各月報 2026-04-25 區塊**：
