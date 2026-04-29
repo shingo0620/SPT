@@ -7,6 +7,7 @@
 ### AI 與知識管理
 
 - [[src-overthinking-scope-creep-structural-diffing]] — Kevin Lynagh 從 indie 開發者視角談「overthinking + scope creep + LLM 寫 code 後的 structural diff 工作流」（來源數：1）
+- [[src-agent-model-body-harness]] — 三層拆解進化：Agent = Model + Body + Harness，OpenClaw vs Claude Code 同 Opus 4.6 體感差異 + Anthropic 4/23 postmortem 解析（來源數：1）
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -57,7 +58,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 8 日精選**紀錄、04-25 達 3,511 裝、擴散曲線進入緩降階段（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 10 日精選**紀錄、04-27 達 3,711 裝（+128，二次跳升），從 S 曲線修正為多事件階梯式擴散（來源數：1）
 - [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
 
 ## 實體
@@ -69,6 +70,7 @@
 - [[Garry Tan]] — YC 總裁，GBrain 建立者（來源數：1）
 - [[Marc LeBlanc]] — 遊戲設計師，MDA 框架共同創建者（來源數：1）
 - [[3Blue1Brown]] — Grant Sanderson 的數學教育頻道，Manim 發明者（來源數：1）
+- [[antirez]] — Salvatore Sanfilippo，Redis 原作者，2026-04-26 以 DeepSeek V4 llama.cpp 實驗進入本月追蹤（來源數：1）
 - [[antfu]] — Anthony Fu，Vue/Vite 核心、UnoCSS 作者，「single-purpose、type-safe、微型 OSS」風格代表（來源數：0，LLM 跨來源歸納）
 - [[levelsio]] — Pieter Levels，indie hacker 標誌人物，公開 revenue 與 12 startups 挑戰（來源數：0，LLM 跨來源歸納）
 
@@ -79,6 +81,7 @@
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
 - [[DeepSeek]] — 杭州幻方量化旗下 AI，2026-04-24 V4 發布為本月關鍵事件（HN/PH/GitHub Trending 三榜聯動）（來源數：0，LLM 跨來源歸納）
 - [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI（來源數：0，LLM 跨來源歸納）
+- [[月之暗面]] — Moonshot AI / Kimi 模型線，本月因 Attention Residuals 復現專案進入追蹤（來源數：1）
 - [[OpenAI]] — GPT 系列、Codex 開發者工具、ChatGPT 消費級產品，2026-04-22 ChatGPT Images 2.0、04-24 GPT-5.5 + Codex 3.0（來源數：0，LLM 跨來源歸納）
 - [[拉瑞安工作室]] — Larian Studios，博德之門 3 開發商（來源數：1）
 
@@ -91,6 +94,7 @@
 - [[defuddle]] — Obsidian 生態的網頁正文擷取工具，可作 markdown.new fallback（來源數：0，LLM 跨來源歸納）
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
 - [[Manim]] — Python 數學動畫引擎，3Blue1Brown 開發並開源，ML/教育內容事實標準（來源數：1）
+- [[Redis]] — antirez 建立的 in-memory data structure store，本月因 DeepSeek V4 llama.cpp 實驗被提及（來源數：1）
 
 ## 概念
 
@@ -104,6 +108,7 @@
 - [[Restatement]] — LLM 長任務中週期性重申關鍵資訊的控制機制（來源數：1）
 - [[AI 品質共謀]] — AI 同時寫 code 與測試時形成的隱形同源誤解，CI 綠燈下的幻覺式品質（來源數：1）
 - [[Specification by Example]] — SBE 需求工程方法論，「從例子建立規格、規格即測試、測試即活文件」——AI 品質共謀的核心解方（來源數：0，LLM 跨來源歸納）
+- [[Scope Creep 守恆律]] — AI 降低實作成本後，省下的時間被更多想法、抽象化與 structural diff 吃掉的反模式（來源數：1）
 
 ### 商業與顧客管理
 
@@ -125,7 +130,7 @@
 ## 綜整與分析
 
 - [[三大知識管理系統比較]] — LLM Wiki vs QMD vs GBrain 並排比較（來源數：1）
-- [[綜整-AI協作工程的六大趨勢]] — 六大結構性趨勢 + 五個應強化方向，綜合 12 個來源（來源數：12）
+- [[綜整-AI協作工程的六大趨勢]] — 六大結構性趨勢 + 五個應強化方向，綜合 13 個來源（來源數：13）
 
 ### 週綜整（每週橫向 + 縱向，完整週過完才做）
 

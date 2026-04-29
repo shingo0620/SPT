@@ -1,15 +1,76 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md, github-trending-2026-04-26.md, github-trending-2026-04-27.md]
 created: 2026-04-15
-updated: 2026-04-25
+updated: 2026-04-28
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-27
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | [evanflow](https://github.com/evanklem/evanflow) | TDD-driven iterative feedback loop：16 個 Claude Code skills，從 brainstorm → plan → execute → tdd → iterate | **239** | Shell | ✅ Skill 生態主線——將完整軟體開發流程拆成可組合 skills，呼應 [[src-addyosmani-agent-skills]] |
+| 2 | [ai-auto-trading](https://github.com/6551-Team/ai-auto-trading) | NexusQuant：VoltAgent 上的 AI 多策略加密交易 | 85 | TypeScript | ⚠️ 加密交易 bot；需視為投機工具，不等同可驗證收益 |
+| 3 | [gpt-pp-team](https://github.com/DanOps-1/gpt-pp-team) | ChatGPT Team 訂閱協議重放 + hCaptcha 視覺求解 + 反欺詐研究 | 68 | Python | ⚠️/❌ 雙用偏灰：captcha solver + 訂閱協議重放具明顯濫用風險 |
+| 4 | [crypto-liquidity-ai-trading-bot](https://github.com/Udacity-ai/crypto-liquidity-ai-trading-bot) | order-book liquidity / hidden walls / sweeps 的 AI trading bot | 47 | JavaScript | ⚠️ 加密交易工具；描述偏行銷，未見可驗證績效 |
+| 5 | [clawd.rip](https://github.com/maria-rcks/clawd.rip) | Everything that went wrong with Claude | 45 | TypeScript | ✅ [[Anthropic]] / Claude Code 品質事件的社群紀錄站 |
+| 6 | ~~[Lossless-Scaling-LSFG](https://github.com/Nareshkkkk/Lossless-Scaling-LSFG)~~ | ~~Download Lossless Scaling / LSFG / frame generation~~ | ~~41~~ | C++ | ❌ 疑似商業軟體盜版或 SEO 下載 repo |
+| 7 | ~~[Tomodachi-Life-Living-the-Dream-PC-Port](https://github.com/bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port)~~ | ~~Tomodachi Life PC 版下載~~ | ~~40~~ | C++ | ❌ 疑似遊戲盜版 / 假下載 repo |
+| 8 | [line-family-comment-bot](https://github.com/castlen3/line-family-comment-bot) | beginner-friendly n8n workflow for LINE 家庭群留言 bot | 30 | Shell | ✅ n8n + LINE 在地化 automation 案例 |
+| 9 | [llvm_assembler](https://github.com/lyc010706/llvm_assembler) | 無說明 | 25 | C++ | ⚠️ 無說明，暫不放大解讀 |
+| 10 | [vsc-skills](https://github.com/vibeshotclub/vsc-skills) | 無說明 | 22 | JavaScript | ⚠️ Skill repo 但缺描述；需後續觀察 |
+| 11 | [axi-front-design-skill](https://github.com/bbostaice/axi-front-design-skill) | 做 PPT、落地頁、產品動效和互動原型的 Skill | 20 | N/A | ✅ 設計 / PPT / prototype skill，與 [[src-skill-guizang-ppt]] 同屬視覺內容生成分支 |
+| 12 | [DrvEye](https://github.com/0xDbgMan/DrvEye) | Windows kernel driver 靜態分析與 exploit triage toolkit | 17 | Python | ⚠️ 雙用資安工具；可用於防禦審計也可用於 exploit triage |
+| 13 | [rn-ci-setup](https://github.com/fazzysyed/rn-ci-setup) | scaffold React Native CI/CD with Fastlane, GitHub Actions, Bitrise, Codemagic | 17 | JavaScript | ✅ 實用 DevOps scaffold |
+| 14 | [hbackup](https://github.com/ultraworkers/hbackup) | Hermes Agent + OpenClaw 安裝的備份與還原工具 | 15 | Rust | ✅ Agent runtime 維運工具——多 agent 平台開始出現備份需求 |
+| 15 | [ZaloMulti-Win](https://github.com/congtruongitvn/ZaloMulti-Win) | 無說明 | 15 | PowerShell | ⚠️ Zalo 多開類工具常涉及自動化/規避平台限制，需保留觀察 |
+
+> **04-27 主題：Skill 生態延伸 + 灰色 repo 高峰**
+> 1. **#1 evanflow**：16 個 Claude Code skills 串成完整 SDLC loop，是 [[src-addyosmani-agent-skills]]「Production-Grade Agent Skill」路線的更流程化版本；Skill 不再只是單點能力，而是軟體工程作業系統。
+> 2. **#11 axi-front-design-skill + #10 vsc-skills**：設計 / 視覺 / PPT skill 持續上榜，與 04-26 `ppt-image-first`、`PPT-Visual-Replica` 形成「PPT/前端視覺 skill」連續兩日熱點。
+> 3. **#3、#6、#7 明顯灰色/違規**：captcha solver、商業軟體下載、遊戲 PC port 下載——GitHub Trending 低星刷榜與 SEO spam 問題延續。
+> 4. **#14 hbackup**：Agent runtime 已需要備份/還原工具，代表 Hermes/OpenClaw 這類 agent 平台正在從 demo 走向「可維運」階段。
+>
+> **加密交易 repo 再次上榜**：#2、#4 都是 AI crypto trading，延續本月多次出現的「AI + crypto + trading bot」敘事；未見回測與風控證據前一律標注為 ⚠️。
+
+## 2026-04-26
+
+| # | 專案 | 說明 | 星數 | 語言 | 查核 |
+|---|------|------|------|------|------|
+| 1 | [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | **PPT image-first skill for Codex CLI**——以使用者提供的圖片參考為準復刻成可編輯 PPT | **112** | Python | ✅ Skill 生態實戰——對應 [[OpenAI]] Codex CLI 04-24 發布、image-first workflow 在 OpenAI 系統大量出現 |
+| 2 | [illustrated-explainer-spec](https://github.com/vthinkxie/illustrated-explainer-spec) | 無限下鑽圖文科普規範——輸入主題、點圖片任一處生成下一頁 | 31 | N/A | ✅ Spec/Protocol 風格資源——「點圖片無限下鑽」是教育產品創新概念 |
+| 3 | [pi-browser-template](https://github.com/FredySandoval/pi-browser-template) | Production-grade template for Pi-powered Chrome extensions | 30 | TypeScript | ✅ Pi（PiAI、Inflection 系列）的 Chrome 擴充功能模板 |
+| 4 | ~~[DaVinci-Resolve-Studio-Version-2026](https://github.com/xDarkLife55/DaVinci-Resolve-Studio-Version-2026)~~ | ~~DaVinci Resolve Studio——所有 premium 功能已解鎖~~ | ~~18~~ | N/A | ❌ **盜版破解工具**——同帳號連續發布 Premiere Pro / DaVinci 等多個「premium unlocked」repos，明顯違反 GitHub TOS |
+| 5 | [xui-cf-deployer](https://github.com/byJoey/xui-cf-deployer) | （無說明） | 18 | Python | ⚠️ 無說明；xui 是 V2Ray/Xray 面板、CF 是 Cloudflare——可能是科學上網 / 機場代理工具 |
+| 6 | ~~[Adobe-Premiere-Pro-Version-2026](https://github.com/xDarkLife55/Adobe-Premiere-Pro-Version-2026)~~ | ~~Adobe Premiere Pro——所有 premium 功能已解鎖~~ | ~~17~~ | N/A | ❌ **盜版破解工具**——與 #4 同帳號 |
+| 7 | [llama.cpp-deepseek-v4-flash](https://github.com/antirez/llama.cpp-deepseek-v4-flash) | **[[antirez]]（Redis 創始人）的 DeepSeek v4 flash 實驗實作**——在 llama.cpp 上跑 [[DeepSeek]] V4 | 16 | C++ | ✅ Salvatore Sanfilippo 親自實驗 DeepSeek V4——與 04-22 [[DeepSeek]] V4 1M 發布、04-24 連動 |
+| 8 | [claude-image](https://github.com/jiangmuran/claude-image) | 教 Claude Code/Codex 真正用好 GPT-Image 2 的 skill 包——意圖優先 prompting、外科手術編輯、平行批次、視覺自我驗證 | 14 | Python | ✅ Skill 生態——讓 LLM agent 利用 GPT Image 2，**「教 agent 用其他 agent」的元 skill 風格** |
+| 9 | [tbm-recommender](https://github.com/johnpcutler/tbm-recommender) | The Beautiful Mess（John Cutler 通訊）內容推薦 skill | 12 | N/A | ✅ Skill 生態——個人通訊作者把自己的 archive 變成可查詢資源；前蘇聯式生產力理論社群 |
+| 10 | [agentmako](https://github.com/drhalto/agentmako) | **Local-first MCP server**——給編碼 agent 提供結構化 context packets、code/schema facts、診斷資訊（內含 SQLite 後端） | 10 | TypeScript | ✅ Local MCP 路線——與 [[Skill vs Bash vs MCP]] 中討論的 MCP 用例完全契合 |
+| 11 | [rockchip-vaapi](https://github.com/woodyst/rockchip-vaapi) | Rockchip RK3588 的 VA-API 驅動——透過 MPP 提供硬體影片解碼 | 10 | C | ✅ Rockchip RK3588 是 ARM 開發板熱門 SoC——硬體 stack 補完，與 ARM Linux 生態相關 |
+| 12 | [attention-residuals-reproduction](https://github.com/gouzigouzi/attention-residuals-reproduction) | 中文向 PyTorch 復現 Kimi Team Attention Residuals——比較標準 residuals、Full AttnRes、Block AttnRes 在 Qwen3 上的效果 | 10 | Python | ✅ 中文 LLM 研究社群實戰——對 Kimi（[[月之暗面]]）論文的獨立驗證 |
+| 13 | [PPT-Visual-Replica](https://github.com/ZhiweiWei-NAMI/PPT-Visual-Replica) | 嚴格 image-first 工作流——把參考圖片復刻成可編輯 PPT | 10 | Python | ✅ 與 #1 NyxTides 同主題的競品實作——**「以圖片做 PPT 規範」是新興 sub-niche** |
+| 14 | [carrot-plus](https://github.com/wuyuqian114514/carrot-plus) | （無說明） | 9 | JavaScript | ⚠️ 無說明、命名類似中國熱門遊戲 carrot |
+| 15 | [mcp-chat](https://github.com/maile456/mcp-chat) | 把 IDE 中的 AI（Copilot/Cursor/Windsurf）變成 ChatGPT + OpenAI API——一次對話無限調用 | 9 | Vue | ⚠️ **可能繞過 IDE AI 訂閱限制**——把 Copilot/Cursor 私有 API 當作後端輸出，存在 ToS 風險 |
+
+> **04-26 主題：Skill 生態爆發 + 盜版工具浪潮**
+> 1. **Skill 生態日**：#1 ppt-image-first、#8 claude-image、#9 tbm-recommender、#10 agentmako、#13 PPT-Visual-Replica——**5/15 為 Skill 或 MCP 生態工具**，是本月以來「最 Skill 化的一日」；對應 [[src-skills-picks-2026-04]] ast-grep 連九日精選的長尾擴散
+> 2. **PPT image-first sub-niche 形成**：#1（112 ⭐）+ #13（10 ⭐）兩個獨立實作同日上榜——「先給圖、再產 PPT」的工作流取代了傳統文字大綱輸入；上游可能是 Codex CLI 04-24 image-input 能力解鎖
+> 3. **盜版浪潮**：#4 + #6 同帳號連發 DaVinci / Premiere Pro 破解 repo——GitHub Trending 演算法弱點再現，**❌ 標注延續 04-25「Coin Flashing Tool」連七日盜版示警的同類問題**
+>
+> **#7 antirez 親自玩 [[DeepSeek]] V4**：[[Redis]] 創始人 Salvatore Sanfilippo 把 DeepSeek V4 移植到 llama.cpp——名人效應 + 開源生態的「flash 實作」風格示範；與 [[src-hn-2026-04]] 04-26 #15 SWE-bench 失效形成「benchmark 已不重要、看誰先 ship」的當代敘事。
+>
+> **#10 agentmako 是 local MCP server 的代表實作**：local-first + SQLite + structured context packets——這是 [[Skill vs Bash vs MCP]] 中「MCP server 的最佳適用場景」的典型案例；與 04-25 #14 hermes-memory-skills 形成「agent 持久 context」的兩種路線（檔案系統 vs SQLite）。
+>
+> **#12 Kimi Attention Residuals 中文復現**：Kimi（[[月之暗面]]）的 attention 改進論文——「中文 ML 社群已具備獨立復現主流大廠論文的能力」是本年來重要訊號；以 Qwen3 為基底意味著開源中文模型生態自成體系。
+>
+> **#15 mcp-chat ⚠️ ToS 風險**：把 Copilot/Cursor/Windsurf 的 IDE AI 包裝成 ChatGPT API——**繞過廠商計費機制、可能違反 ToS**；標注但保留作為「LLM API 灰市」現象的觀察記錄。
 
 ## 2026-04-25
 

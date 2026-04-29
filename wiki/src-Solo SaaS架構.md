@@ -3,7 +3,7 @@ title: Solo SaaS 架構——$20/月的反叛
 type: source
 sources: [當一個人的 SaaS 不再需要矽谷.md]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-27
 tags: [SaaS, 架構, 獨立開發, Go, SQLite, 本地AI]
 ---
 
@@ -118,6 +118,12 @@ Hanov 的 laconic（為 8K context window 設計的 agentic researcher）：
 ## 結構性轉變的信號
 
 基礎設施已完全競爭化：VPS $5、SQLite 免費、Go compiler 免費、開源模型免費——基礎設施變成了水電。
+
+## 相關頁面
+
+- [[Scope Creep 守恆律]]（AI 加速後，範圍控制比執行速度更關鍵）
+- [[AI 輔助軟體工程]]
+- [[顧客終身價值]]
 
 > 語言模型和 AI Agent 做的事情是人類歷史上從來沒出現過的：它普及了智力本身。
 

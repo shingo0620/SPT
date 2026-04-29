@@ -81,3 +81,4 @@ tags: [claude-code, anthropic, ai-agent, cli, coding-agent]
 - [[src-Harness Engineering]]（駕馭工程）
 - [[src-mattpocock-skills]]（Skill 合集範例）
 - [[src-AI-Agent避坑指南]]（Plan-and-Execute → Skill → 上下文隔離的演進）
+- [[src-agent-model-body-harness]]（Claude Code 與 OpenClaw 同 Opus 4.6 體感差異的三層解釋；2026/4/23 postmortem 三條 harness 改動分析）

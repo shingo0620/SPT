@@ -1,15 +1,95 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md, wikipedia-featured-2026-04-26.md, wikipedia-featured-2026-04-27.md]
 created: 2026-04-15
-updated: 2026-04-25
+updated: 2026-04-28
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-27
+
+### 今日精選文章
+
+**Enzyme kinetics**（酵素動力學）——研究酵素催化反應速率、不同條件如何影響反應，以及這些速率變化如何揭示催化機制、代謝角色、活性控制與藥物／修飾物對酵素作用的影響。這是生物化學、藥物設計與代謝調控的核心方法論之一。[完整文章](https://en.wikipedia.org/wiki/Enzyme_kinetics)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | **Nahui Ollin**（連續十三日位居首位） | **810,725** | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | **Michael (2026 film)** | 350,796 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_(2026_film)) |
+| 3 | **Michael Jackson** | 339,354 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jackson) |
+| 4 | **Jaafar Jackson** | 245,752 | [Wikipedia](https://en.wikipedia.org/wiki/Jaafar_Jackson) |
+| 5 | **Apex (2026 film)** | 236,751 | [Wikipedia](https://en.wikipedia.org/wiki/Apex_(2026_film)) |
+| 6 | Sabastian Sawe | 207,366 | [Wikipedia](https://en.wikipedia.org/wiki/Sabastian_Sawe) |
+| 7 | Weijia Jiang | 161,890 | [Wikipedia](https://en.wikipedia.org/wiki/Weijia_Jiang) |
+| 8 | Attempted assassination of Donald Trump in Pennsylvania | 161,582 | [Wikipedia](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania) |
+| 9 | Diego Pavia | 144,974 | [Wikipedia](https://en.wikipedia.org/wiki/Diego_Pavia) |
+| 10 | 2026 White House Correspondents' Dinner shooting | 133,935 | [Wikipedia](https://en.wikipedia.org/wiki/2026_White_House_Correspondents'_Dinner_shooting) |
+
+### 歷史上的今天
+
+- **2012**：烏克蘭 Dnipropetrovsk 發生四起連環爆炸。
+- **2011**：2011 Super Outbreak 最活躍的一天，218 個龍捲風在美國 16 州造成 317 人死亡。
+- **2005**：Airbus A380 在法國 Toulouse 完成首飛，成為全球最大客機。
+- **1997**：Andrew Cunanan 殺害 Jeffrey Trail，成為其連續殺人案第一名受害者。
+- **1993**：尚比亞國家足球隊空難，球員、職員與機組員共 30 人死亡。
+
+> **04-27 主題：酵素動力學 + Michael Jackson 傳記片熱潮延續**
+> 1. **Enzyme kinetics 精選**：從拿坡里料理轉向生物化學基礎方法，Wikipedia 精選文章再次回到「知識基礎設施」型條目；對藥物設計、代謝工程與臨床藥理都有直接關聯。
+> 2. **Nahui Ollin 連續第十三日榜首**（810,725 瀏覽）：04-26 曾略降至 781K，04-27 回升，長尾流量仍未結束。
+> 3. **Michael 相關四頁同榜**：Michael (2026 film)、Michael Jackson、Jaafar Jackson 加總 935K+，顯示傳記片新聞持續主導流量。
+>
+> **歷史上的今天查核**：A380 首飛（2005）、2011 Super Outbreak、尚比亞足球隊空難（1993）皆為可驗證歷史事件；2012 Dnipropetrovsk 爆炸與 1997 Cunanan 第一案亦與 Wikipedia 條目一致。
+
+## 2026-04-26
+
+### 今日精選文章
+
+**Neapolitan ragù**（拿坡里 ragù）——源自義大利那不勒斯（Naples）的肉醬料理，以肉先煎黃後再以番茄醬汁慢燉數小時。肉煮好後取出、醬汁繼續熬煮收稠。在義大利餐桌結構中，拿坡里 ragù 分兩階段上桌：先把大部分醬汁澆在義大利麵上，肉本身單獨或配蔬菜上桌、僅以剩餘醬汁略為調味。**「ragù」其實是法文 ragoût（燉煮）借入義大利文的，現已成那不勒斯地區的代表料理之一**。[完整文章](https://en.wikipedia.org/wiki/Neapolitan_rag%C3%B9)
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 | 連結 |
+|---|------|--------|------|
+| 1 | **Nahui Ollin**（連續十二日位居首位） | **781,718** | [Wikipedia](https://en.wikipedia.org/wiki/Nahui_Ollin) |
+| 2 | **2026 NFL draft** | 319,724 | [Wikipedia](https://en.wikipedia.org/wiki/2026_NFL_draft) |
+| 3 | **Michael (2026 film)** | 316,184 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_(2026_film)) |
+| 4 | **Michael Jackson**（MJ 傳記片連動） | 288,031 | [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jackson) |
+| 5 | **Apex (2026 film)**（Charlize Theron 動作新片） | 228,500 | [Wikipedia](https://en.wikipedia.org/wiki/Apex_(2026_film)) |
+| 6 | **Jaafar Jackson**（飾演 MJ 的 MJ 姪子） | 218,032 | [Wikipedia](https://en.wikipedia.org/wiki/Jaafar_Jackson) |
+| 7 | Deaths in 2026 | 117,815 | [Wikipedia](https://en.wikipedia.org/wiki/Deaths_in_2026) |
+| 8 | List of highest-grossing Indian films | 113,786 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films) |
+| 9 | **Jermaine Jackson**（MJ 兄長） | 112,311 | [Wikipedia](https://en.wikipedia.org/wiki/Jermaine_Jackson) |
+| 10 | **Dhurandhar: The Revenge**（印度動作片） | 110,684 | [Wikipedia](https://en.wikipedia.org/wiki/Dhurandhar%3A_The_Revenge) |
+
+### 歷史上的今天
+
+- **2017**：Shandong（山東艦）為解放軍海軍下水——**中國首艘國產航空母艦**
+- **2007**：Tallinn 銅製士兵雕像爭議——蘇聯紅軍二戰紀念碑被搬遷引發大規模抗議與騷亂
+- **2002**：被開除學生 Robert Steinhäuser 在德國 Erfurt Gutenberg-Gymnasium 殺害 16 人、傷 7 人後自殺
+- **1999**：CIH 病毒（陳盈豪）大規模激活——破壞數十萬部電腦、損失數億美元
+- **1994**：China Airlines Flight 140（中華航空 140 號班機）名古屋空難——副駕駛無意觸發起降開關，導致 271 人中 264 人遇難（**台灣航空史最重大空難之一**）
+
+> **04-26 主題：拿坡里料理 + Jackson 家族 + Apex 新片**
+> 1. **Neapolitan ragù 精選**：呼應「料理 / 飲食文化」議題——歐戰結束 80 週年（[[src-wikipedia-2026-04]] 04-25 Obersalzberg）後翻轉到義大利日常料理，是 WP 編輯選題的「歷史 → 庶民」韻律
+> 2. **Nahui Ollin 連續第十二日榜首**（781,718 瀏覽）：墨西哥詩人兼模特兒（1893–1978）持續吸引大量好奇——這是 2026/4 月 WP 全月最大流量現象，**前所未見的單一傳記頁面長尾流量**；可能與 Netflix / 流行文化作品有關但未明確
+> 3. **Michael Jackson + Jaafar Jackson + Jermaine Jackson 三人同榜**（288K + 218K + 112K = 618K）：Michael (2026 film) 傳記片 4 月底進入觀眾搜尋高峰；**MJ 兄弟姪子三代家庭網絡同時被翻閱**
+>
+> **#5 Apex (2026 film)**：Charlize Theron 主演的山難動作驚悚片——2026 年好萊塢「主角獨自對抗自然」類型復興；可能與 Netflix 同類劇 Lost on a Mountain 等串流配合熱度
+>
+> **歷史上的今天 04-26：強烈悲劇日**
+> - **CIH 病毒（陳盈豪）04-26 1999 觸發**——台灣大同工學院（現大同大學）學生作品；台灣本土首個大規模惡意軟體事件
+> - **中華航空 140 名古屋空難 1994**：台灣航空史最嚴重事故之一，264 死、7 生還——副駕駛操作失誤是主因
+> - **Erfurt 校園槍擊 2002**：歐洲現代校園槍擊轉折點之一，影響後續德國校槍管制法
+> - **山東艦下水 2017**：中國第一艘國產航艦——本日歷史與兩岸軍事戰略發展直接關聯
+>
+> **跨來源連動**：04-26 是台灣相關歷史巧合度高的一日（CIH 病毒 + 華航 140）——這在 04-25 Obersalzberg 轟炸日後，**連續兩日 WP「歷史上的今天」對台灣讀者具特殊意義**。
 
 ## 2026-04-25
 

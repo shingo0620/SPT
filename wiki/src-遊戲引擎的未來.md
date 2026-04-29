@@ -3,7 +3,7 @@ title: "秦无邪OvO — 我似乎已经看见了，游戏引擎的未来！"
 type: source
 sources: [我似乎已经看见了，游戏引擎的未来！.md, yt-我似乎已经看见了游戏引擎的未来.md]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-27
 tags: [game-engine, godot, unity, mcp, ai-agent, indie-game, 秦无邪]
 ---
 
@@ -144,7 +144,7 @@ tags: [game-engine, godot, unity, mcp, ai-agent, indie-game, 秦无邪]
 
 - **[[綜整-AI協作工程的六大趨勢]]**：本影片預測「軟體被 AI 而非人使用」是該綜整未涵蓋的新趨勢——值得列為**第七大趨勢候選**
 - **[[Multica]] / [[src-Harness Engineering]]**：「人只把控大方向、API 留給 AI」與 multi-agent harness 的設計哲學一致
-- **[[Solo SaaS架構]] / [[antfu]] / [[levelsio]]**：「決定做什麼比怎麼做更重要」是 indie 哲學的進階版——AI 加速後個人創造力的瓶頸不再是執行力
+- **[[src-Solo SaaS架構|Solo SaaS架構]] / [[antfu]] / [[levelsio]]**：「決定做什麼比怎麼做更重要」是 indie 哲學的進階版——AI 加速後個人創造力的瓶頸不再是執行力
 
 ### 矛盾與互補
 

@@ -2,6 +2,51 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-29] ingest | reddit 04-28+04-29 月報補完 + Agent = Model + Body + Harness 三層拆解論述
+
+**處理 reddit 兩個來源 04-28 + 04-29 雙日區塊（依新到舊插入月報頂部）**：
+- [[src-reddit-til-2026-04]]：04-28 Derinkuyu 地下城（45,983 分）+ Penn Jillette Jill-Jet 專利、Kant 種族觀、1994 Augusta 綠夾克 5 美元購入；04-29 24 億年前氧氣大滅絕（22,748 分）+ Black Wednesday 1992 + F1 改進 ICU + 細菌離心機 403,627g
+- [[src-reddit-eli5-2026-04]]：04-28「半衰期 vs 全衰期」+ AC130 手動裝彈 + 政府紓困邏輯；04-29 瘦人比肌肉者強（神經肌肉效率）+ Great Lakes 沉船屍體不浮 + 意識的 Hard Problem
+
+**事實查核標注**：
+- til 04-29 #9「KIA → JFK 機場代碼」**❌ 都市傳說**：JFK 機場原代碼是 IDL（Idlewild），改名後直接 IDL → JFK，從未使用 KIA。Wikipedia 與 FAA 紀錄不支持此主張——典型「以權威來源包裝錯誤」現象
+- til 04-29 #3 Liger 1100 lb ⚠️（最大紀錄 ~922 lb）；#11 劉賀 1127 過失 ⚠️（漢書記載「千有餘」）；#7 Mulhern 重播再停權 ⚠️
+- til 04-28 #8 Biffi vs Ratzinger 投票軼事 ⚠️（教宗選舉投票紀錄保密）
+- eli5 04-29 #11「創造衝動只有人類有」⚠️（其他物種有展示）；#15 量子觀察者 ⚠️（流行誤解）
+
+**ingest [[src-agent-model-body-harness]]**（新建來源頁）：
+- 來源：FB 分享連結（https://www.facebook.com/share/1HJJVjFR6U/）某作者第一人稱論述
+- 核心貢獻：對「Agent = LLM + Harness」二分法提出三層進化——`Agent = Model + Body + Harness`
+- Body（filesystem、bash、git、sandbox、browser、MCP）= 能不能做事；Harness（CLAUDE.md、hooks、planner-evaluator、sub-agent、back-pressure）= 會不會做歪
+- 案例：OpenClaw vs [[Claude Code]] 同 Opus 4.6 體感差異——「為寫 code 設計的身體+約束」vs「為 personal assistant 設計的身體+約束」
+- 重點論證：[[Anthropic]] 4/23 postmortem 三條改動（reasoning effort high→medium、thinking history caching bug、25/100 字長度限制）**全動 harness、未動 body**
+- 與 [[src-Harness Engineering]]（李宏毅）關係：李版二層、本文三層；李版「能力邊界」對應本文 body 層
+
+**影響頁面**：
+- 新建：[[src-agent-model-body-harness]]
+- 更新：[[綜整-AI協作工程的六大趨勢]]（趨勢一補強三層拆解論述，sources 12 → 13）、[[Anthropic]]（加 4/23 postmortem 條目）、[[Claude Code]]（加 cross-ref）、[[src-Harness Engineering]]（加 cross-ref）、[[index]]（新條目+綜整數字）
+- 待處理（已盤點未處理）：4 個空檔 raw（Untitled.md / Untitled 1.md 已 ingest 不算空 / Claude for Creative Work.md / GitHub - Yeachan-Heooh-my-codex.md）
+
+---
+
+## [2026-04-26] ingest | 每日新知 7 來源（4/26）
+
+**處理 7 個自動化來源 4/26 區塊（依新到舊插入月報頂部）**：
+- [[src-reddit-eli5-2026-04]]：15 則生活、生理、資安問題；#7 reCAPTCHA、#13 腦震盪後睡眠 ⚠️ 標注（過時前提）
+- [[src-reddit-til-2026-04]]：15 則歷史 / 動物 / 戰爭冷知識；#4 河狸 1930 奧勒岡 + #8 I-400 鼠疫舊金山 ⚠️ 標注（標題誇大或年份混淆）
+- [[src-hn-2026-04]]：「西方忘了寫程式」（732 分榜首）+ ChatGPT 破解 60 年 Erdős 問題（527 分）+ OpenAI 自承 SWE-bench 失效——AI 與工程文化雙向質疑日
+- [[src-github-trending-2026-04]]：5/15 為 Skill 生態工具（PPT image-first、claude-image、tbm-recommender、agentmako、PPT-Visual-Replica）——史上最 Skill 化的 GitHub Trending 一日；xDarkLife55 連發兩個盜版破解 repo ❌ 標注
+- [[src-producthunt-2026-04]]：[[OpenAI]] **GPT-5.5**（251 票榜首）+ [[Anthropic]] Claude Connectors（218 票）同日對決；Edgee Team「Strava for coding agents」新 sub-niche
+- [[src-wikipedia-2026-04]]：Neapolitan ragù 精選；Nahui Ollin 連十二日榜首；歷史上的今天台灣相關事件雙發（CIH 病毒 1999 + 華航 140 名古屋空難 1994）
+- [[src-skills-picks-2026-04]] + [[src-skill-ast-grep]]：ast-grep **連九日精選**，3,583 裝（+72）——**預測命中**（04-25 預測 +60~80），完整 S 擴散曲線形成
+
+**跨來源連動**：
+- GPT-5.5 發布日（PH #1）+ OpenAI 自承 SWE-bench 失效（HN #15）= 完整定位重置動作
+- Skill 生態爆發：skills.sh ast-grep 連九日 + GitHub Trending 5/15 為 Skill = 全平台「skill 化」共振
+- 多項議題形成跨日連線：iPhone 自動安裝 app（HN #4 → ELI5 #1+#9+#12 資安三題）；USB-C/USB Cheat Sheet（HN #3 → ELI5 #11 USB-C 普及）
+
+---
+
 ## [2026-04-26] ingest+lint | 修正 04-25 lint 誤判 + ingest 「遊戲引擎的未來」+ 根治 vault 衝突循環
 
 **修正 04-25 lint 誤判**：
@@ -446,3 +491,30 @@
   - **GEO（Generative Engine Optimization）** 本月 2 來源出現（GitHub Trending #2 + PH #1/#4），暫不建概念頁，累積 3+ 來源再建
   - **John Ternus / Tim Cook** 暫歸入 [[Apple]] 頁章節，避免單事件人物 stub
 - 影響頁面：[[src-producthunt-2026-04]], [[src-multica-github-readme]], [[Manim]]（新）, [[index]]
+
+## [2026-04-27] lint + fix | 全量健康檢查修正
+- 觸發：使用者要求 `fix all issues`
+- 修正內容：
+  1. 修正內容頁懸空 wikilink：`Codex 3.0` 改連 [[OpenAI]]、`App Store Connect` 改歸 [[Apple]]、YouTube raw 檔名改連 [[src-遊戲引擎的未來]]、`Solo SaaS架構` 改為 [[src-Solo SaaS架構|Solo SaaS架構]]
+  2. 新建缺漏頁面：[[antirez]]、[[月之暗面]]、[[Redis]]、[[Scope Creep 守恆律]]
+  3. 修正孤立頁：從 [[AI 輔助遊戲開發]] 連回 [[src-遊戲引擎的未來]]、從 [[src-skills-picks-2026-04]] 連回 [[src-skill-guizang-ppt]]、從 [[綜整-AI協作工程的六大趨勢]] 連回 [[週綜整-2026-W16]]
+  4. 更新 [[index]]，收錄新增人物、組織、工具與概念頁
+  5. 更新 CLAUDE.md 的事實查核規則：逐條高風險來源使用「查核」欄位；低風險索引型來源可用區塊級查核
+  6. 更新 CLAUDE.md：明確 `wiki/log.md` 為 append-only 稽核紀錄，lint 不要求歷史舊 wikilink 全部可解析
+- 驗證結果：82 頁內容頁 frontmatter 全齊；內容頁懸空連結 0；index 懸空連結 0；index 遺漏 0；孤立頁 0；frontmatter sources 缺檔 0
+- 影響頁面：[[index]], [[antirez]], [[月之暗面]], [[Redis]], [[Scope Creep 守恆律]], [[src-github-trending-2026-04]], [[src-hn-2026-04]], [[src-overthinking-scope-creep-structural-diffing]], [[src-遊戲引擎的未來]], [[AI 輔助遊戲開發]], [[src-skills-picks-2026-04]], [[綜整-AI協作工程的六大趨勢]], [[Skill vs Bash vs MCP]], [[src-Solo SaaS架構]]
+
+## [2026-04-28] ingest | 每日新知 2026-04-27（7 來源）
+- 處理日期：2026-04-27
+- 處理來源：raw/reddit-til-2026-04-27.md、raw/reddit-eli5-2026-04-27.md、raw/hn-top-2026-04-27.md、raw/github-trending-2026-04-27.md、raw/producthunt-2026-04-27.md、raw/wikipedia-featured-2026-04-27.md、raw/skills-picks-2026-04-27.md
+- 更新頁面：[[src-reddit-til-2026-04]]、[[src-reddit-eli5-2026-04]]、[[src-hn-2026-04]]、[[src-github-trending-2026-04]]、[[src-producthunt-2026-04]]、[[src-wikipedia-2026-04]]、[[src-skills-picks-2026-04]]、[[src-skill-ast-grep]]、[[index]]
+- 事實查核：
+  - Reddit TIL：15 條中 11 ✅、4 ⚠️（小人幻覺菇、DID 失明個案、Cassini 大紅斑辨識、牙科史定義放大）
+  - Reddit ELI5：15 條中 14 ✅、1 ⚠️（處方 stimulant vs meth 容易過度二分，已修正為劑量/給藥途徑/醫療監控差異）
+  - GitHub Trending：3 條 ❌/⚠️ 高風險（captcha solver + 訂閱協議重放、Lossless Scaling 疑似盜版、Tomodachi Life PC port 疑似假下載/盜版），2 條 crypto trading bot 標為 ⚠️
+  - Wikipedia 歷史上的今天：A380 首飛、2011 Super Outbreak、Zambia football team air disaster 等條目與來源一致
+- 當日主題觀察：
+  - HN：Microsoft / OpenAI 結束獨家與收入分潤、Mercor 語音資料外洩、pgBackRest 停維，形成「AI 合作重組 + 資料鏈風險 + OSS 基礎設施維護風險」三線
+  - GitHub / PH：agent/skill 生態從 coding 擴張到 business operations、設計/PPT、備份與 workflow package
+  - skills.sh：[[src-skill-ast-grep]] 連十日精選，安裝數 3,583→3,711（+128）；04-26 的 +50~70 預測失準，已修正為「多事件驅動的階梯式擴散」模型
+- 未新建實體頁：evanflow、Dirac、Logic、Orange Slice、Epismo 等先記於月報，待累積 2+ 來源或明確長期價值再獨立建頁

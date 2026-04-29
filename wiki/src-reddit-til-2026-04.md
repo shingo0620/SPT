@@ -1,15 +1,129 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md, reddit-til-2026-04-25.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md, reddit-til-2026-04-25.md, reddit-til-2026-04-26.md, reddit-til-2026-04-27.md, reddit-til-2026-04-28.md, reddit-til-2026-04-29.md]
 created: 2026-04-14
-updated: 2026-04-25
+updated: 2026-04-29
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-29
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 24 億年前藍綠菌演化出產氧能力，引發大氣化學劇變——氧對既有厭氧生物有毒，並與甲烷反應觸發「雪球地球」冰期，持續約 3 億年 | 22,748 | ✅ | [ASM](https://asm.org/articles/2022/february/the-great-oxidation-event-how-cyanobacteria-change) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syl9xj/) |
+| 2 | 美國半掛車（semi-truck）平均油耗約 6 MPG（每加侖 6 英里） | 12,612 | ✅ | [AtoB](https://www.atob.com/blog/average-mpg-for-a-semi-truck) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sy7q35/) |
+| 3 | 獅虎獸（Liger）由獅父遺傳促進生長基因，但虎母不像母獅那樣帶有抑制生長基因，造成基因性巨大症，最大可達 1100 磅 | 10,883 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Liger) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syeouq/) |
+| 4 | 1856 年 1 月 23 日 SS Pacific 從利物浦出發前往紐約，載 186 人神秘消失於大西洋；1861 年蘇格蘭海岸發現瓶中信揭露事件 | 9,632 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/SS_Pacific_(1849)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sy3jhr/) |
+| 5 | 倫敦兒童醫院的 ICU 轉移流程造成過多錯誤，於是請來法拉利 F1 Pit Crew 觀察醫師動作、重新設計整套交接系統，挽救生命 | 8,844 | ✅ | [HealthManagement.org](https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syws74/) |
+| 6 | 1992 年黑色星期三：英國央行單日將利率調升至 15% 以保衛英鎊、耗用 33 億英鎊外匯仍失敗，同日 Soros 的對沖基金做空英鎊賺進約 11 億美元 | 7,086 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Black_Wednesday) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sy6n4s/) |
+| 7 | 英國電視主持人 Stephen Mulhern 因兒童節目 Finger Tips 揭露魔術技巧被 Magic Circle 停權；雖原停權已解除，但每次該集重播時仍會被再度停權 | 5,705 | ⚠️ | [FemaleFirst](https://www.femalefirst.co.uk/tv/news/stephen-mulhern-suspended-magic-circle-837841.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sytyhr/) |
+| 8 | 2011 年科學家意外發現一種常見土壤細菌可在離心機 403,627 倍地球重力下存活並繁殖——這個重力強度只見於超新星震波 | 3,797 | ✅ | [PNAS](https://www.pnas.org/doi/10.1073/pnas.1018027108) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sy8utt/) |
+| 9 | ~~1963 年甘迺迪機場改名後 IATA 代碼一度為 KIA，1968 年改為 JFK 以避免聯想到 Killed In Action~~ **修正：JFK 機場從未使用 KIA 代碼。原代碼為 IDL（Idlewild），1963 年改名後直接改為 JFK，無中間階段** | 2,569 | ❌ | [Wikipedia](https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syh5oa/) |
+| 10 | Andy van den Hurk 為勸警方挖出繼姐 Nicole 屍體並比對更多 DNA，假供認自己殺害她；雖被捕但隨即釋放，新 DNA 證據後找到真凶 | 2,295 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Nicole_van_den_Hurk#Stepbrother's_confession) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syhjv8/) |
+| 11 | 漢朝皇帝劉賀（昌邑王）即位僅 27 天，因犯下 1,127 件失德行為被廢黜 | 2,253 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Marquis_of_Haihun) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sytaex/) |
+| 12 | Winnie the Pooh 中 Christopher Robin 角色的真人原型 Christopher Robin Milne，年輕時抵觸父親將其商業化，但晚年與父親和解並擁抱 Pooh 遺產 | 1,986 | ✅ | [Gyles Brandreth](https://www.gylesbrandreth.net/blog/2020/8/19/now-we-are-100-the-truth-about-christopher-robin) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syhgs3/) |
+| 13 | 夏威夷檀香山公車後方原顯示路線號的 LED 螢幕，會在駕駛人讓道時切換為 shaka 手勢加上「Mahalo」感謝 | 1,901 | ✅ | [SFGate](https://www.sfgate.com/hawaii/article/hawaii-bus-shaka-honolulu-19376091.php) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sycxwa/) |
+| 14 | Fully Informed Jury 活動家會在不允許的場域發傳單給陪審員——理由是「若被起訴，傳單就必須交給其本人陪審團作為證據」 | 1,438 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Civil_disobedience#Legal_theory) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syxrmt/) |
+| 15 | 明尼蘇達 Lake Itasca（1200 英畝、最深 35 英尺）是密西西比河源頭，全長 2340 英里直至墨西哥灣 | 982 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lake_Itasca) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1syux6r/) |
+
+> **04-29 主題：地球史 + 制度與系統的奇異交會**
+> - **#1 + #8 + #15** 形成「地球深時尺度」三聯：氧氣大滅絕（10⁹ 年）、超新星等級重力細菌（10⁵ g）、河流源頭（10³ mile）。
+> - **#5 法拉利改進 ICU**：經典「跨產業流程移植」案例——F1 pit crew 的 8 秒換胎流程被翻譯到醫院 ICU 病人交接，是 process engineering 教科書案例（呼應 [[綜整-AI協作工程的六大趨勢#harness 是流程工程不是技術]]）。
+> - **#9 ❌ KIA → JFK 都市傳說**：本月最明顯的 TIL 都市傳說——JFK 機場原代碼是 IDL（Idlewild），改名 JFK 後直接從 IDL → JFK，**從未使用 KIA**。Wikipedia 與 FAA 紀錄均不支持「KIA 中間階段」。標題引用 Wikipedia 但 Wikipedia 並未如此記載——典型的「以權威來源包裝錯誤主張」現象。
+> - **#3 ⚠️ Liger 1100 磅**：基因印記（genomic imprinting）解釋是常見假說但學界尚有爭議；最大紀錄 Hercules 約 922 磅（418 公斤），「1100 磅」屬於上限誇飾。
+> - **#11 ⚠️ 劉賀 1127 過失**：漢書記載劉賀犯多達「千有餘事」，「1127 件」具體數字在多個流傳版本不一，需查《漢書·霍光金日磾傳》原文核對。
+> - **#7 ⚠️ Mulhern 重播再停權**：英國 Magic Circle 確曾停權 Mulhern，但「每次重播自動再停權」屬於趣聞性質，無正式紀錄機制——可能是媒體誇飾。
+> - **#14 ⚠️ FIJA 法律推理**：FIJA 活動家確實使用「被起訴後傳單必為呈堂證據」作為公民不服從合理化，但「prosecutors have reasoned」措辭暗示官方立場，實際是活動家自身策略——**這是把策略包裝成對手認同的修辭**。
+
+## 2026-04-28
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1963 年土耳其一名屋主整修地下室時發現雞群消失於牆裂縫——挖開後發現古城 Derinkuyu，地下 18 層、深 85 公尺、可容納 20,000 人 | 45,983 | ✅ | [BBC Travel](https://www.bbc.com/travel/article/20220810-derinkuyu-turkeys-underground-city-of-20000-people) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxbk1e/) |
+| 2 | 魔術師 Penn Jillette 與歌手 Debbie Harry 同泡熱水浴時，Harry 提議水柱角度應對女性更友善——Jillette 因此申請「水療刺激器」專利並命名為「Jill-Jet」 | 26,721 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Penn_Jillette) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sx5hi4/) |
+| 3 | Kant 是科學種族主義（scientific racism）支持者，對其他種族抱負面看法——曾僅因木匠是黑人而忽視其意見 | 10,217 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Immanuel_Kant#Views_on_race) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxfn65/) |
+| 4 | 1994 年一名記者在多倫多舊物店以 5 美元買到 Augusta National 高爾夫俱樂部綠夾克，多年後賣給同事，2017 年拍賣以 13.9 萬美元成交；夾克如何流入加拿大舊物店至今未解 | 9,147 | ✅ | [CBC News](https://www.cbc.ca/news/canada/toronto/masters-jacket-thrift-store-mystery-1.4064624) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxsnh1/) |
+| 5 | 1978 年在位僅 33 天的 Pope John Paul I 是首位選用雙名的教宗，也是首位在新名後加上序號「I」的教宗——據天主教媒體報導他不知這樣做不尋常 | 7,368 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Pope_John_Paul_I) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sx8pbb/) |
+| 6 | 西維吉尼亞 Fort Gay 鎮玩家因 Microsoft 認定其個人檔案中的鎮名是假的，將其封號並逐出 Call of Duty 賽事 | 6,692 | ✅ | [BBC](https://www.bbc.com/news/newsbeat-11258407) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxeezs/) |
+| 7 | Chuck Berry 因 Keith Richards 觸碰他的吉他而揍他臉一拳；Richards 後來形容那拳是「他最棒的 hit（單曲／一擊雙關）」 | 6,310 | ✅ | [FarOut Magazine](https://faroutmagazine.co.uk/chuck-berry-punched-keith-richards-in-the-face/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxmlqw/) |
+| 8 | 2005 年教宗選舉中，樞機 Giacomo Biffi 每輪投票皆收到一票；Biffi 跟另一位樞機說：「若知道誰投我那票，我要打他一巴掌」——對方回答：那人是 Joseph Ratzinger（後來的 Benedict XVI） | 5,510 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/2005_conclave) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxnufs/) |
+| 9 | 紐約市過去曾被視為「世界蠔之都」（oyster capital of the world） | 4,884 | ✅ | [Atlas Obscura](https://www.atlasobscura.com/articles/oysters-new-york-city-history-blue-point) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sx57l1/) |
+| 10 | Disney 1984 年從 Tishman 家族收購一批重要的私人非洲藝術收藏（原計畫於 Epcot 展出）；2005 年將全部 525 件藝術品捐贈給 Smithsonian 國家非洲藝術博物館 | 4,520 | ✅ | [Smithsonian Africa](https://africa.si.edu/exhibitions/african-vision) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxe73o/) |
+| 11 | 氫彈引爆需要超過 1 億 K 的溫度——比太陽核心更熱；早期核子科學家曾合理擔憂引爆會點燃地球大氣，使行星變成燃燒恆星 | 3,533 | ✅ | [IAEA](https://www.iaea.org/newscenter/news/what-is-nuclear-fusion) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxzcns/) |
+| 12 | 1942 年英國政府重剪納粹影片，讓希特勒看似跟著趣味歌曲跳舞（Schicklegruber Doing the Lambeth Walk），是宣傳片中最早的喜劇剪輯範例之一 | 2,934 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Schichlegruber_Doing_the_Lambeth_Walk) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sx556n/) |
+| 13 | 中國藝術家張充仁（Zhang Chongren）是 Hergé 的好友，深刻影響《丁丁歷險記》——尤其《藍蓮花》一作脫離當時的種族刻板印象、轉向文化準確的描繪 | 2,045 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Zhang_Chongren) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxmm80/) |
+| 14 | 電玩與排行榜中的 S 級（S-rank/tier）源自日本教育系統——S 有時是頒給優異作品的最高評分（高於 A） | 1,789 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Tier_list) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxippq/) |
+| 15 | Aldous Huxley（《美麗新世界》作者）曾於伊頓公學教 George Orwell（《1984》作者）法文；Huxley 致信 Orwell 表示尊重《1984》，但相信《美麗新世界》的反烏托邦更可能成真 | 1,763 | ✅ | [Letters of Note](https://news.lettersofnote.com/p/1984-v-a-brave-new-world) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sxw3b8/) |
+
+> **04-28 主題：歷史軼聞與文化交會**
+> - **#1 Derinkuyu** 是當日最有戲劇張力條目——卡帕多西亞地下城群中最深者，1963 年偶然發現後成為土耳其代表景點；BBC Travel 詳細記載發現過程屬實。
+> - **#13 張充仁 + #15 Huxley/Orwell** 形成「文學跨文化導師」對照：張影響 Hergé 從刻板印象走向文化準確；Huxley 與 Orwell 跨年代論辯反烏托邦兩條路徑。
+> - **#3 Kant 種族觀** 與本月哲學脈絡呼應——Wikipedia 條目「Views on race」確實記錄 Kant 早期著作的種族主義言論（晚期立場有所修正）；社群常將其引用為「啟蒙時代偉人 ≠ 道德無暇」的警示案例。
+> - **#7 Chuck Berry 揍 Keith Richards** 是音樂史經典軼事，FarOut 與多本 Richards 自傳皆有記載；「greatest hit」是 Richards 自嘲。
+> - **#8 ⚠️ Biffi vs Ratzinger 投票軼事**：屬於非正式樞機間流傳的故事，2005 conclave 投票紀錄屬機密，無正式來源能驗證單票去向；應作為趣談而非史實。
+> - **#11 氫彈點燃大氣** 是 Manhattan Project Edward Teller 等人早期確實討論過的擔憂；1942 年 Oppenheimer 委託 Hans Bethe 計算後判定機率極低、不致發生。
+> - **#14 S 級源自日本教育**：屬於普遍接受的字源說法，但「S = Special / Superior」具體哪個版本最早無定論。
+
+## 2026-04-27
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 中國常見菇類若未煮熟，可能造成「小人幻覺」（lilliputian hallucinations）：看見微小人形或幻想人物爬門縫、牆面、家具 | 31,853 | ⚠️ | [Vice](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swrcri/) |
+| 2 | 自殺率在 70 歲以上族群中特別高 | 14,024 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Suicide) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swmahb/) |
+| 3 | 核電廠熱水排放為美洲鱷創造穩定繁殖環境，幫助佛州族群恢復 | 11,924 | ✅ | [Smithsonian](https://www.smithsonianmag.com/smart-news/florida-crocs-are-thriving-outside-nuclear-power-plant-180972712/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swkc4e/) |
+| 4 | 太空人在軌道上不是因為逃離地球重力而「失重」；ISS 高度重力仍約為地表 90%，失重來自持續自由落體 | 10,540 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Gravity_of_Earth#Altitude) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swogti/) |
+| 5 | 麥當勞芝加哥全球總部一樓有 Global Menu Restaurant，每 12 週輪換各國菜單 | 9,116 | ✅ | [Food & Wine](https://www.foodandwine.com/mcdonalds-global-menu-restaurant-chicago-8728683) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swg45j/) |
+| 6 | Mister Rogers 曾為第 1000 億支 Crayola 蠟筆灌蠟 | 6,550 | ✅ | [Jenny's Crayon Collection](https://www.jennyscrayoncollection.com/2020/08/blue-ribbon-crayola-crayon-one-hundred.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swq8hf/) |
+| 7 | 一名解離性身分疾患失明女性恢復視力時，部分人格狀態看得見、部分仍失明；EEG 顯示視覺區活動隨人格狀態改變 | 5,942 | ⚠️ | [PubMed](https://pubmed.ncbi.nlm.nih.gov/26468893/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swmnq3/) |
+| 8 | 納粹德國對高階軍官與官員有制度化賄賂：秘密 Konto 5 基金支付免稅生日支票與月費 | 5,541 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Bribery_of_senior_Wehrmacht_officers) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swc2gk/) |
+| 9 | Cassini 於 1666 年觀測木星大紅斑，並把木星日長估到接近現代測量值 | 2,757 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Jupiter#cite_note-119) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swm1h6/) |
+| 10 | Goya 的「黑色繪畫」1819–1823 年直接畫在自宅牆面上，原本不打算公開展示 | 2,084 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Black_Paintings) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sw8ur2/) |
+| 11 | 4 世紀 Lycurgus Cup 正面照呈綠色、背光呈紅色，原因是玻璃中的金銀奈米粒子 | 1,574 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lycurgus_Cup) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swl8uh/) |
+| 12 | William Herschel 1800 年用稜鏡分光時發現紅光外溫度升高，進而發現紅外線 | 1,225 | ✅ | [American Scientist](https://www.americanscientist.org/article/herschel-and-the-puzzle-of-infrared) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swz60o/) |
+| 13 | 人類牙科行為可追溯數萬年；農業興起後蛀牙增加，古人曾用瀝青與蜂蠟填牙 | 1,019 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Dentistry) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swxdcu/) |
+| 14 | Dishwalla 主唱因〈Counting Blue Cars〉中把 God 指為女性而收到死亡威脅 | 803 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Counting_Blue_Cars) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swgqc8/) |
+| 15 | George Lucas 與 Carrie Fisher 在電影 Hook 中有秘密 cameo | 787 | ✅ | [TheWrap](https://www.thewrap.com/watch-carrie-fishers-secret-cameo-hook-video-meriah-doty/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1swexip/) |
+
+> **04-27 主題：生物奇觀 + 視覺 / 感知異常**
+> - **#1 ⚠️ 小人幻覺菇**：核心現象與文章一致，但來源為 Vice 報導，且「跨文化完全一致」屬高風險誇飾，保留但標注。
+> - **#7 ⚠️ DID 失明恢復視力**：PubMed 個案研究存在，但單一 case report 不應泛化成普遍神經機制；價值在「視覺處理可受心理狀態調節」而非證明所有 DID 具此能力。
+> - **#9 ⚠️ Cassini 與大紅斑**：Cassini 17 世紀確有木星斑點觀測與自轉估算，但「大紅斑」是否與今日 Great Red Spot 為同一持續系統仍有歷史辨識問題。
+> - **#13 ⚠️ 牙科史**：農業與蛀牙增加、古代填牙均有考古支持，但「Neanderthals 130,000 年前 basic dentistry tools」需看原研究定義，標題可能把 toothpick grooves / manipulation 放大成現代意義的 dentistry。
+
+## 2026-04-26
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1872 年美國記者 Julius Chambers 自稱「危險瘋子」混進精神病院，調查報導揭露「正常人多麼容易被認定瘋狂」，導致 12 名病人獲釋並推動瘋人法重寫 | 11,211 | ✅ | [NYU Undercover Reporting](https://undercover.hosting.nyu.edu/s/undercover-reporting/item-set/116) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svv5kv/) |
+| 2 | 前 Fry's Electronics 副總裁 Ausaf Umar Siddiqui 年薪 22.5 萬美元，卻在拉斯維加斯賭掉 1.62 億美元（從公司侵占而來），最終破產時負債 1.37 億美元 | 9,476 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Ausaf_Umar_Siddiqui) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svn5ua/) |
+| 3 | 部分煤礦工人對隨身金絲雀情感深厚，甚至為金絲雀打造復甦艙——當金絲雀因瓦斯昏厥時用純氧搶救 | 8,964 | ✅ | [Science & Industry Museum](https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svv447/) |
+| 4 | 1930 年美國政府在俄勒岡州放生 600 隻河狸對抗土壤侵蝕——平均每隻成本 5 美元、卻發揮約 300 美元的水土保持效果 | 8,695 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Environmental_impacts_of_beavers) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svef7m/) |
+| 5 | 黑犀牛是哺乳動物中同種致死率最高者——約 50% 的雄性、30% 的雌性死於同種爭鬥造成的傷害 | 7,939 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Black_rhinoceros) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svindl/) |
+| 6 | Mr. T 是熱情的冰壺運動支持者，2018 與 2022 冬奧都公開為美國冰壺隊加油 | 2,917 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Mr._T#Curling) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svt6d1/) |
+| 7 | 土耳其在 1945 年 2 月（明顯德日將敗時）對德日宣戰，宣言開頭：「朋友們，人類歷史末年浮現一些人，他們把『上等種族與生存空間』這種胡言亂語掛在旗幟上」——為的是取得聯合國創始會員資格 | 2,486 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Turkish_declaration_of_war_on_Germany_and_Japan) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svo4te/) |
+| 8 | 二戰最大潛艦是日本 I-400 級航艦潛艦，可載 3 架可摺疊全尺寸轟炸機——原任務是對美西海岸投擲鼠疫感染跳蚤生物武器（PX 作戰），因日本投降取消（**修正：主任務原為攻擊巴拿馬運河，PX 作戰由山本中止**） | 2,151 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/I-400-class_submarine) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svu3xe/) |
+| 9 | 2013 年 8 月聖貝納迪諾一非營利受害者支援團體被偷走數台電腦主機與螢幕——隔天物品連同道歉信被歸還，信中鼓勵組織「繼續對人們的生命做出貢獻」 | 1,829 | ✅ | [NBC News](https://www.nbcnews.com/news/us-news/burglars-return-stolen-computers-nonprofit-along-apology-note-flna6c10875846) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sw5qv7/) |
+| 10 | 德國陸軍元帥 Erwin von Witzleben 參與 1944 年 7 月 20 日刺殺希特勒陰謀失敗後，希特勒下令以細麻繩將他從肉鉤吊死；家屬被剝奪退休金請求權 | 1,227 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Erwin_von_Witzleben#Trial_and_death) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sw3n68/) |
+| 11 | 1792 年 Nicolas Jacques Pelletier 是史上首位被斷頭台處決者——群眾因公開處決「太快結束」失望，許多人喊「還我們木製絞架」、偏好絞刑或劍砍 | 770 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Jacques_Pelletier) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svqkax/) |
+| 12 | 美國政府花 50 億美元為一架波音 747 機鼻裝上巨型雷射砲（Boeing YAL-1）來在空中以雷射擊落飛彈——2011 年因被認定「無作戰可行性」而終止 | 718 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Boeing_YAL-1) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sw1ba0/) |
+| 13 | 美洲西部圍欄蜥蜴會「治癒」蜱蟲的萊姆病——蜥蜴血液中含有殺死萊姆病螺旋體的補體蛋白，蜱吸血後體內病原體被清除 | 531 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Western_fence_lizard) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sw44nz/) |
+| 14 | 電視偵探 Columbo 在 Peter Falk 系列之前已存在——1960 年 The Chevy Mystery Show 一集由 Bert Freed 飾演，1962 年舞台劇由 Thomas Mitchell 飾演 | 496 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Columbo_(character)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svdh28/) |
+| 15 | 愛爾蘭囚犯因偷「6 雙鞋」被流放澳洲，多次逃進塔斯馬尼亞荒野——並有食人自白，至今歷史學家仍辯論其真實性（Alexander Pearce 案） | 409 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Pearce) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1svynls/) |
+
+> **04-26 主題：戰爭、犯罪、極端事件的歷史側寫**——#1 假裝瘋人臥底、#7 土耳其反納粹宣戰文、#8 日本生物武器潛艦、#10 肉鉤吊死、#11 斷頭台失敗首演——多則涉及制度暴力與其反諷面。
+>
+> **#4 ⚠️ 河狸 1930 vs 1948**：標題說「1930 年 600 隻河狸放生奧勒岡」——但歷史上更知名的「降落傘空投河狸」是 1948 年愛達荷州的 Beaver Drop 計畫；Wikipedia 環境影響條目對 1930 奧勒岡 600 隻數字的具體出處需另查證。**標題年份與州別有可能交錯混淆**——保留條目並標注。
+>
+> **#8 ⚠️ I-400 潛艦修正**：標題稱「首要任務是用鼠疫跳蚤攻擊舊金山」實際不準確——歷史紀錄主任務是攻擊巴拿馬運河水閘以阻斷美軍補給；PX 作戰（生物武器對舊金山）是早期討論但被山本五十六中止，理由是「對人類的犯罪」。**這是 TIL 常見的「驚爆標題擇選最戲劇性面向」現象**。
+>
+> **#1 + #2 + #9 形成「制度與善惡」三聯**：Chambers 假裝瘋子揭露制度暴力、Siddiqui 副總裁侵占巨額、聖貝納迪諾小偷歸還並道歉——三則對「制度信任 vs 個人選擇」的當代道德故事。
+>
+> **#5 黑犀牛同種致死率 50%**：與近期 [[src-wikipedia-2026-04]] 動物行為議題形成跨來源呼應；同種高致死率在哺乳類中極罕見，但黑犀牛因領域性與單獨繁殖策略確有此特徵。
 
 ## 2026-04-25
 

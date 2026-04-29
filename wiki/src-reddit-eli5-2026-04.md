@@ -1,15 +1,123 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md, reddit-eli5-2026-04-25.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md, reddit-eli5-2026-04-25.md, reddit-eli5-2026-04-26.md, reddit-eli5-2026-04-27.md, reddit-eli5-2026-04-28.md, reddit-eli5-2026-04-29.md]
 created: 2026-04-15
-updated: 2026-04-25
+updated: 2026-04-29
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-29
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為什麼較瘦的人有時比肌肉量更大、訓練更多的人臥推更重？（神經肌肉效率、肌纖維類型、技巧、骨骼槓桿——肌肉量不等於力量） | 887 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syeh5p/) |
+| 2 | Great Lakes 沉船為何屍體不浮上水面？（冷淡水低細菌活性、腐敗氣體少；湖深低氧抑制屍體膨脹） | 767 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sykjoz/) |
+| 3 | 人類 70% 是水——水到底在哪？（細胞內液、組織間液、血漿、淋巴——肉與血都含大量水） | 727 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syg9fv/) |
+| 4 | 為何不能直接用太陽能板給電動車充電？（指車頂太陽能板：功率密度不足、面積太小、效率限制——一天只能多跑數公里） | 642 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syfha6/) |
+| 5 | 為何 Great Plains 即使在歐洲殖民前也不是森林？（年降水不足以支持喬木、頻繁草原火災、野牛踩踏與啃食、根系競爭） | 532 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syae4m/) |
+| 6 | 8oz Boost 高熱量營養飲料如何塞進 530 大卡？（脂肪 9 kcal/g、額外糖與奶蛋白濃縮——高熱量密度產品的常見配方） | 326 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sy6275/) |
+| 7 | 代數中 log 是什麼？（指數的逆運算：log_b(x) = y 表示 b^y = x；用於壓縮大範圍數值） | 243 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sy55om/) |
+| 8 | Andor 影集中 Ghorman 語為何聽起來像法文？（音節結構、鼻母音、子音群、節奏模式都仿造法語特徵——大腦從 prosody 識別「法文味」） | 202 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sybfge/) |
+| 9 | 意識的 Hard Problem 是什麼？（物理過程如何產生主觀體驗——David Chalmers 1995 提出，與「easy problems」的功能性意識區分） | 145 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sya232/) |
+| 10 | 為何感覺一切都超過通膨？（CPI 加權與消費者實際支出結構不同；房租、教育、醫療、保險上漲幅度遠高於 CPI 加權項目，造成「outpace」感） | 83 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syauhi/) |
+| 11 | 為何人類有「需要創造」的衝動？（社會性物種的地位／繁衍動機、神經獎勵系統、文化選擇——但「只有人類有」是過度主張） | 80 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sykn4s/) |
+| 12 | 太空中有多少輻射、來自何處？（太陽風帶電粒子、銀河宇宙射線、地球磁場外失去 Van Allen 帶保護——長程任務最大限制因素） | 71 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syv8vs/) |
+| 13 | 黑膠唱片如何把所有聲音記錄在單一溝槽？（多頻波形相加為合成波，溝槽的橫向 + 縱向雙軸記錄左右聲道；針頭輸出複合振動由耳朵分離） | 59 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syq67p/) |
+| 14 | 為何沒服抗憂鬱藥也會有 brain zap？（電解質波動、發燒、神經亢奮、頸椎壓迫——可能是 Lhermitte's sign 或自主神經短暫異常） | 55 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1syf7mb/) |
+| 15 | 為何「觀察」電子會改變其行為？（量子測量問題：要測就要用光子或電子撞擊，互動本身改變狀態——並非意識造成；常被誤解為「觀察者效應 = 意識」） | 45 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sy8z79/) |
+
+> **04-29 主題：物理與生物機制 + 電玩文化交會**
+> - **#1 + #6** 形成「能量與肌肉」雙題：肌肉量不等於力量、卡路里密度不等於體積——都在點破「直觀比較」的陷阱。
+> - **#11 ⚠️ 創造衝動只有人類有**：問題本身的預設「I'm sure we're the only animal」是錯誤——黑猩猩、新喀里多尼亞烏鴉、甚至蜂巢設計都展示「物種級的創造行為」。應在回答中先修正預設。
+> - **#14 ⚠️ 非藥物 brain zaps**：醫學上 brain zaps 主要是 SSRI／SNRI 停藥症候群；非戒斷情境的「閃電感」更可能是 Lhermitte's sign（多發性硬化症）、頸椎神經壓迫或低血糖——若反覆發生應就醫。
+> - **#15 ⚠️ 量子觀察者**：是 ELI5 高頻誤解——「觀察 = 意識作用」是流行文化扭曲；正確版本是「測量需要物理交互，交互改變狀態」。延續 04-26 #7、#13 的「ELI5 答案常常需要先修正預設」主題。
+> - **#9 Hard Problem of Consciousness**：David Chalmers 概念，可呼應 [[綜整-AI協作工程的六大趨勢]] 中關於 LLM「是否有體驗」的哲學討論——hard problem 提醒我們功能性智能 ≠ 主觀體驗。
+
+## 2026-04-28
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何用半衰期（half-life）而非「全衰期」？（指數衰減在數學上沒有「完全為 0」時刻；半衰期是常數、便於計算累積與清除） | 1,011 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxia0i/) |
+| 2 | 我選擇權的對手是誰？（市場造市商/做市商通常為對手方；亦可能是其他散戶或機構——交易所撮合即時對手） | 702 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sx8pap/) |
+| 3 | 為何添加糖比天然糖差？（添加糖通常無膳食纖維伴隨、吸收快、隨工程化飲料攝取量易過高；天然糖在水果中與纖維、微營養素伴隨） | 635 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxfdzw/) |
+| 4 | AC-130 為何人工裝彈而非自動裝彈系統？（多種口徑彈藥切換、可靠度、空間／重量平衡、機組多功能性——自動系統故障代價更高） | 403 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxnkcg/) |
+| 5 | 政府為何要紓困失敗的私人企業？（避免系統性風險擴散、保住就業與供應鏈、外溢效應——「too big to fail」的傳統論述） | 324 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxw22d/) |
+| 6 | 電影院如何回報票務給片商？（早期靠票根計數與稽核員實地查核、現代靠 POS 數位上報；信任機制 + 抽樣核帳） | 296 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxn3kf/) |
+| 7 | 噁心時身體在做什麼？（迷走神經啟動「異常即清空腸胃」的演化保留反射；伴隨唾液增加、胃排空抑制、面色蒼白） | 244 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxflt3/) |
+| 8 | 車門為何有「半關」設計？（雙鎖閂結構：第一鎖防意外開啟、第二鎖確認完全關閉——安全冗餘） | 223 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxay30/) |
+| 9 | 為何戶外野生植物耐旱、家中盆栽不耐？（深根系延伸、根系與真菌共生網路、土壤蓄水量、適應性——盆栽根系受限於盆器） | 199 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxc8mm/) |
+| 10 | 奧運「業餘規則」是怎麼回事？（19 世紀紳士運動觀念延伸、階級保護機制；專業選手被排除——蘇聯時代的「國家業餘」漏洞推動 1980s 規則放寬） | 199 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxgc1u/) |
+| 11 | Sovereign Wealth Fund 是什麼？（國家持有的主權級投資基金，通常來自外匯盈餘、資源出口收入；用於跨世代分配資源——挪威 GPFG、新加坡 GIC 為代表） | 93 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxpb3u/) |
+| 12 | 「游泳耳」（swimmer's ear）是什麼？（外耳道急性感染／發炎，水殘留+耳垢清除過度→保護層破壞→細菌孳生） | 58 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxpmpp/) |
+| 13 | 有些藥為何很苦？（多數生物鹼有苦味，天然防禦的演化警示；藥物多源自植物次級代謝物） | 55 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxi8oe/) |
+| 14 | 火燒時氧氣去哪了？（不是「消失」——而是與燃料的碳、氫結合成 CO₂ 與水蒸氣；密閉容器中還是 80% 氮氣，氣壓減少是因氣體分子數變少） | 52 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sxrg5v/) |
+| 15 | 天然氣產出為何伴隨氦？（地殼放射性元素 α 衰變產生氦原子核（即 ⁴He），長時間累積於岩層、隨天然氣一同被開採） | 55 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sx8iw6/) |
+
+> **04-28 主題：金融機制 + 工程設計**
+> - **#1、#2、#5、#11** 形成「金融基礎概念」四聯——半衰期類比金融衰減、對手方、紓困、主權基金——延續 04-25 #5 [[Google]] zero-click、04-26 #9 VPN 商業模式 的「商業邏輯解構」主軸。
+> - **#4、#8、#9** 形成「工程取捨」三題：軍機裝彈、車門設計、植物根系——都在說明「複雜系統的冗餘設計與環境適應」。
+> - **#7 噁心** 與 04-26 #14 是同一主題的雙日重複——迷走神經反射在 ELI5 社群是高頻好奇點。
+> - **#14 火燒掉氧氣** 是 ELI5 經典化學題目——「消失 vs 重組」的本質區分；常見小學等級誤解「火吃了氧氣」。
+> - **#15 氦從天然氣** 呼應 04-25 #15 強子對撞機——讀者社群仍對「日常元素的奇異起源」高度好奇。
+
+## 2026-04-27
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 男女高潮為何在強度、持續時間、感覺上不同？（生理結構、神經分布、荷爾蒙與主觀描述共同影響；科學可測量生理反應但無法直接比較主觀感覺） | 2,570 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swbeyn/) |
+| 2 | 喝酒後一旦尿第一次，為何很快又想尿？（酒精抑制 ADH，腎臟排水增加；憋住只是延後第一次排空，不能停止後續利尿） | 2,332 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swb6vi/) |
+| 3 | 甲基安非他命為何危險，而處方 amphetamines 不是？（劑量、給藥途徑、純度、醫療監控與藥物動力學差異；處方藥仍有風險） | 1,629 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swl7tv/) |
+| 4 | 「bleeds out」時真正死因是什麼？（血容量下降 → 血壓崩潰 → 氧氣無法送達腦與心臟 → 休克與器官衰竭） | 492 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swi83d/) |
+| 5 | GPS 如何計算最佳路線？若最佳路線相同，為何不把所有人導去同一路造成塞車？（路徑規劃會納入即時/預測交通與分散效應；不同使用者時間點與目的地也不同） | 358 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swa570/) |
+| 6 | 腫瘤為何有良性與惡性？不是都失控增生嗎？（惡性關鍵在侵襲、轉移、基因不穩定與破壞周邊組織；良性可增生但邊界較清楚） | 357 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swektd/) |
+| 7 | 為何幾乎只有飲料大量使用代糖？（飲料只需甜味；烘焙食品還需要糖提供體積、褐變、保濕、質地與發酵特性） | 213 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swelzw/) |
+| 8 | 沒有 CPU/GPU/RAM bottleneck 時，遊戲為何仍達不到目標 FPS？（瓶頸可能在單執行緒、driver、同步、draw calls、engine frame pacing，而不是總使用率） | 100 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swmuda/) |
+| 9 | 焦慮/恐慌為何有這麼多身體效果？（交感神經、HPA axis、消化抑制、注意力與情緒調節改變） | 63 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swuew3/) |
+| 10 | 「海平面」全球都一樣嗎？（不是完全一樣；平均海平面受重力場、洋流、溫度、氣壓與地形影響，基準面需定義） | 57 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sx0yzq/) |
+| 11 | 肚子咕嚕叫時發生什麼？（腸胃蠕動推動氣體與液體，空腹時 migrating motor complex 更明顯） | 45 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sx1kov/) |
+| 12 | 免疫系統決定攻擊後，實際怎麼摧毀微生物？（吞噬、補體打孔、抗體標記、T 細胞殺感染細胞、發炎招募更多細胞） | 44 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swkaq3/) |
+| 13 | 美國制裁一個國家時實際發生什麼？（限制金融、貿易、技術、資產與交易對手；效果依全球金融依賴度與執法聯盟而定） | 44 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swdmhv/) |
+| 14 | 水為何會氧化金屬？（水本身不是主要氧化劑，通常是溶解氧、電解質與金屬形成電化學腐蝕迴路） | 41 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swdcvx/) |
+| 15 | 功的公式為何用 cos theta 而非 sin/tan？（功只計算力在位移方向上的投影，內積定義即 `F d cos(theta)`） | 38 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1swru05/) |
+
+> **04-27 主題：人體生理 + 基礎科學 ELI5**
+> - #1、#2、#3、#4、#6、#9、#11、#12 都是身體機制問題，延續 04-24~26 的「身體的為什麼」主軸。
+> - **#3 ⚠️**：問題本身容易導向「處方藥安全、meth 危險」的過度二分；實際應強調 prescription stimulants 也有依賴、心血管與濫用風險，差別在醫療監控與劑量控制。
+> - **#8 FPS 問題**：呼應 [[src-遊戲引擎的未來]] 與本 wiki 遊戲開發主題——效能瓶頸不等於硬體總使用率，frame pacing / single-thread bottleneck 是遊戲開發常見誤區。
+> - **#14 水氧化金屬**：是 ELI5 典型好問題——課本「氧偷電子」比喻若缺少電化學脈絡，會讓兒童誤解水分子內的氧也會直接偷電子。
+
+## 2026-04-26
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 軟體從硬碟「刪除」時，物理空間實際發生什麼事？（檔案系統只移除索引、資料區塊標為可寫，實際內容仍在直到被覆寫——這也是檔案救援與資安抹除的依據） | 865 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svgahy/) |
+| 2 | 微波爐怎麼能放金屬架？（無尖端的接地金屬不會引起電弧，反而能均勻反射微波；尖點才會集中電場放電——這是有設計過的微波爐配件） | 434 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svkls9/) |
+| 3 | 「Post-nut clarity」是什麼原理？真的存在嗎？（射精後 dopamine、oxytocin、prolactin 的快速變化造成情緒與認知狀態切換——確有內分泌依據） | 379 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sw0t9c/) |
+| 4 | 為何藥品都有兩個名字？學名怎麼挑？（化學名 → 學名 (USAN/INN 命名規則) → 商品名；學名通常含活性成分線索） | 258 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svl00u/) |
+| 5 | 小孩怎麼變神童？腦部有何差異？若從未接觸該領域呢？（先天結構優勢 + 早期密集練習的交互作用；無接觸通常無法發揮——「天賦只是潛能」） | 210 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svncou/) |
+| 6 | 乾掉的血為何不發霉？（水活性 aw 太低、微生物無法繁殖——同理乾燥肉乾、果乾的保存原理） | 176 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svubhw/) |
+| 7 | 為何機器人無法完成勾選方塊驗證碼（reCAPTCHA）？（**實際上很多都能完成**——主要安全性靠 mouse/touch 軌跡、device fingerprint、瀏覽歷史等行為指紋；單純勾選只是觸發評估的入口） | 175 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sw49hi/) |
+| 8 | 綠色甜椒買回家為何不會像香蕉一樣轉色？（被採摘後切斷與母株的乙烯／酶供應，且綠椒採摘期早於成熟期——香蕉是利用樹上累積的澱粉內部分解） | 169 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svi2jo/) |
+| 9 | 用免費版 VPN 是否比不用更糟？（看廠商——商業模式 = 客戶；若免費表示你是「商品」，部分免費 VPN 確有售流量／植入分析的紀錄；Proton VPN 為少數可信案例） | 80 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svk76x/) |
+| 10 | 為何動機在「來不及做」時最強？（壓力反應推進 cortisol、最後期限縮窄選項、減少 procrastination 的 [decision paralysis]——也是 Parkinson's Law 觀察） | 77 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svxj2i/) |
+| 11 | 為何手機都改用 USB-C 而非 3.5mm 耳機孔？（內部空間給更大電池、防水機構、歐盟強制 USB-C、藍牙耳機普及驅動商業誘因） | 71 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sw4ohn/) |
+| 12 | 鍵盤打密碼 vs 自動填入的 I/O 差異？（終究都是 keystroke event 寫入欄位；差別在攻擊面——鍵盤可被 keylogger 攔截、密碼管理員的 autofill 可被惡意網域 phishing） | 67 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svq79o/) |
+| 13 | 為何受傷後不該睡？（**舊觀念已修正**——現代神經科學認為輕度腦震盪可以睡，主要是擔心錯過嚴重出血徵兆；當年「不能睡」是因為無法觀察意識變化） | 62 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sw2lw3/) |
+| 14 | 為何各種狀況都會噁心？（迷走神經是「全身狀態總管」——疼痛、恐懼、感染、頭痛都觸發迷走神經反射，是演化保留的「異常即清空腸胃」風險最小化機制） | 60 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svyivc/) |
+| 15 | 美國 NSB（國家科學委員會）對 NSF（國家科學基金會）的影響？（NSB 為 24 名科學家組成的董事會、設定 NSF 政策方向與優先領域；NSF Director 由總統提名） | 48 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1svsyac/) |
+
+> **04-26 主題：仍以「身體的為什麼」+ 隱私／科技」雙主軸**——延續本週身體機制好奇（#3 post-nut、#5 神童、#6 血、#13 腦震盪、#14 噁心），與隱私／資安話題（#1 刪除、#9 VPN、#12 密碼填入）並列。
+>
+> **#7、#13 ⚠️ 標注**：兩則 ELI5 標題本身帶有過時或不精確的前提——`#7` 預設「機器人無法完成」實際多數可、`#13` 預設「不該睡」是已被現代醫學修正的舊觀念。**ELI5 答案的價值：常常是「修正提問的隱含預設」，而不是「直接回答」**——這也是好的科普與壞的科普的差別。
+>
+> **#1 刪除 + #12 密碼 + #9 VPN 三題並列**：r/ELI5 社群進入「資安基礎概念」高峰——可能與近期 [[src-hn-2026-04]] 04-26 #9「app 自動安裝在 iPhone」事件、04-25 系列關於 [[Anthropic]] / [[Google]] 的隱私討論有關。
+>
+> **#11 USB-C 普及問題**：延續近期 [[src-hn-2026-04]] 04-26 #10「USB Cheat Sheet」、各家 phone OEM 對 EU CE marking 的因應；ELI5 社群通常落後 HN 約 1–2 日反映底層議題。
 
 ## 2026-04-25
 

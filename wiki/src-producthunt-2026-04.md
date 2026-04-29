@@ -1,15 +1,77 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md, producthunt-2026-04-26.md, producthunt-2026-04-27.md]
 created: 2026-04-15
-updated: 2026-04-25
+updated: 2026-04-28
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-27
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **Orange Slice** | 用 AI 自動化任何 sales task | Sales / Marketing / Growth | **255 / 17** | [PH](https://www.producthunt.com/products/orange-slice) |
+| 2 | **Jet AI Agents** | 幾分鐘內建立 business AI agents | DevTools / AI / No-Code | **255 / 11** | [PH](https://www.producthunt.com/products/jet-admin) |
+| 3 | **Logic** | 建立與營運 agent fleets | Productivity / DevTools / AI | 170 / 13 | [PH](https://www.producthunt.com/products/logic-ship-an-agent) |
+| 4 | Waitlister | 產品 launch waitlist software | Productivity / Email Marketing / Marketing | 156 / 2 | [PH](https://www.producthunt.com/products/waitlister) |
+| 5 | VIDEO AI ME | 用逼真 AI actors 建立影片 | Marketing / AI / Photo & Video | 145 / 9 | [PH](https://www.producthunt.com/products/video-ai-me) |
+| 6 | Atech | 用 chat 組裝 snap-together electronics | Robots / Hardware / AI | 121 / 12 | [PH](https://www.producthunt.com/products/atech) |
+| 7 | Brew Finder | 找附近適合工作的咖啡店 | Social / Coffee / Maps | 113 / 10 | [PH](https://www.producthunt.com/products/brew-finder) |
+| 8 | Odyssey-2 Max | 物理精確度更進一步的 world model | AI / 3D Modeling / Video | 106 / 1 | [PH](https://www.producthunt.com/products/odyssey-5) |
+| 9 | SNEWPapers | AI newspaper archive | Education / AI / Data | 105 / 11 | [PH](https://www.producthunt.com/products/snewpapers) |
+| 10 | GitBar | GitHub / GitLab / Azure PR menubar | Productivity / DevTools / Menu Bar | 104 / 5 | [PH](https://www.producthunt.com/products/gitbar-3) |
+| 11 | Replyless | 每日 email brief 送到 Telegram 的 AI email app | Email / Productivity / AI | 101 / 1 | [PH](https://www.producthunt.com/products/replylessai) |
+| 12 | Epismo Agent Package | 執行社群已建好的 agent workflows | Productivity / AI / Community | 98 / 3 | [PH](https://www.producthunt.com/products/epismo) |
+| 13 | Wafaa.io | 幾分鐘建立安全數位合約 | SaaS / Legal | 96 / 5 | [PH](https://www.producthunt.com/products/wafaa-io-beta) |
+| 14 | PlayJoob | 把死掉的 task board 變成共享 strategy map | Productivity / Task Management | 96 / 3 | [PH](https://www.producthunt.com/products/playjoob) |
+| 15 | Vouch API | 能證明自己沒說謊的 AI equity research | API / Fintech / Investing | 84 / 1 | [PH](https://www.producthunt.com/products/vouch-api) |
+
+> **04-27 主題：Agent 產品從 coding 轉向 business operations**
+> 1. **#1 Orange Slice + #2 Jet AI Agents + #3 Logic**：前三名全是 agent / automation，其中 Orange Slice 打 sales automation、Jet 打 no-code business agents、Logic 打 agent fleets——PH 的 agent 敘事從「寫 code」明顯轉向「營運業務流程」。
+> 2. **#12 Epismo Agent Package**：把 agent workflow 當 package 分發，與 GitHub Trending #1 evanflow、#14 hbackup 形成同日呼應——agent 生態正在長出「套件 / 備份 / 維運」層。
+> 3. **#8 Odyssey-2 Max**：world model + physical accuracy，與 [[src-遊戲引擎的未來]] 討論的「真實世界可互動生成」方向一致；3D/video/physics 模型正在向遊戲與模擬工具靠攏。
+>
+> **#15 Vouch API**：「AI equity research that proves it isn't lying」直接把 hallucination proof 當賣點——金融場景已把可追溯、可驗證輸出視為產品核心，而非附加功能。
+
+## 2026-04-26
+
+| # | 產品 | 一句話說明 | 分類 | 票／留言 | 連結 |
+|---|------|-----------|------|---------|------|
+| 1 | **GPT-5.5 by OpenAI** | **OpenAI 最聰明、最直覺的模型**——前沿模型直接登 PH | API / DevTools / AI | **251 / 1** | [PH](https://www.producthunt.com/products/openai) |
+| 2 | **Claude Connectors** | Claude 的「日常生活連接器」——非開發者用的整合 | Productivity / Travel / AI | **218 / 5** | [PH](https://www.producthunt.com/products/claude-connectors) |
+| 3 | **QuickCompare by Trismik** | 在自己的資料上比較 LLM、量化選最佳 | DevTools / AI / Data Science | 131 / 12 | [PH](https://www.producthunt.com/products/quickcompare-by-trismik) |
+| 4 | **Pica** | macOS 原生字型管理 app | Mac / Design Tools / Typography | 126 / 3 | [PH](https://www.producthunt.com/products/pica) |
+| 5 | **Happenstance** | AI 搜尋你的人脈網絡 | AI / Tech / Social Networking | 119 / 1 | [PH](https://www.producthunt.com/products/happenstance-2) |
+| 6 | **Edgee Team** | 「Strava for coding assistants」——編碼 agent 的活動追蹤平台 | Productivity / DevTools / AI | 102 / 3 | [PH](https://www.producthunt.com/products/edgee) |
+| 7 | Free chart generator by Embedful | CSV/Excel 秒轉圖表 | DevTools / Data & Analytics | 85 / 3 | [PH](https://www.producthunt.com/products/embedful) |
+| 8 | OpenStartup | 小企業的即時利潤與定價計算器 | Productivity / Tech / Business | 22 / 5 | [PH](https://www.producthunt.com/products/openstartup) |
+| 9 | Life Navigator | 「成為更好版本的自己」（Notion 模板） | Productivity / Task Mgmt / Notion | 9 / 1 | [PH](https://www.producthunt.com/products/life-navigator) |
+| 10 | Layman | Caveman fork——「現在任何人都能寫程式」 | Productivity / DevTools / Tech | 8 / 1 | [PH](https://www.producthunt.com/products/layman) |
+| 11 | shieldcn | 美觀現代的 README 徽章生成器 | Design / Open Source / GitHub | 8 / 1 | [PH](https://www.producthunt.com/products/shieldcn) |
+| 12 | Octomind – Plug n Play AI Agents | 「AI agent 的 Homebrew」——單一 binary、零設定 | Open Source / DevTools / GitHub | 5 / 1 | [PH](https://www.producthunt.com/products/octomind-plug-n-play-ai-agents) |
+| 13 | Repli | 「被每個 AI 引用、Google 自動排名」——AI 時代 SEO | Marketing / SEO / AI | 4 / 1 | [PH](https://www.producthunt.com/products/repli-2) |
+| 14 | grepfeed | 比所有人提早 48 小時發現病毒式趨勢 | Social Network / Marketing | 4 / 1 | [PH](https://www.producthunt.com/products/grepfeed) |
+| 15 | Veritads | 讓真人為你的品牌打廣告 | Social Media / Advertising | 3 / 1 | [PH](https://www.producthunt.com/products/veritads) |
+
+> **04-26 主題：[[OpenAI]] GPT-5.5 + [[Anthropic]] Claude Connectors 同日榜首對決**
+> 1. **#1 GPT-5.5（251 票）**：OpenAI「最聰明、最直覺」的新前沿模型 PH 首發——對應 [[src-hn-2026-04]] 04-26 #15「OpenAI 自承 SWE-bench 飽和」聲明，**模型發布 + 基準測試棄用同日宣告，是 OpenAI 完整定位重置動作**
+> 2. **#2 Claude Connectors（218 票）**：Anthropic 把 Claude 從「開發者 / 編碼 IDE」延伸到「日常 productivity / 旅遊整合」消費者領域——首次以「連接器」框架直接對打 ChatGPT 一般用戶市場
+> 3. **GPT-5.5 vs Claude Connectors 並列**：兩家 AI 巨頭同日榜首——前者強化「開發者前沿模型」、後者強化「消費者 productivity 整合」——清晰呈現兩家 2026 Q2 的策略差異
+>
+> **#6 Edgee Team「Strava for coding assistants」**：把編碼 agent 的活動量化、社群化——延續 [[src-producthunt-2026-04]] 04-25 #1 ZeroHuman、04-22 OpenAI Codex 3.0 後「coding agent 的觀察與監控」需求；**「dev tools 的 fitness tracker 化」是值得追蹤的新 sub-niche**。
+>
+> **#3 QuickCompare**：在自己資料上比較 LLM——回應 [[src-hn-2026-04]] 04-26 #15 SWE-bench 失效後「benchmark 應私有化」的趨勢；trismik.com 切入「私有資料 + 私有評測」工具市場。
+>
+> **#4 Pica（macOS 字型管理）**：與 04-25 PromptPaste（Mac AI prompt 庫）形成「Mac-native 工具復興」——對抗 Electron / web app 的 macOS 原生工具仍有市場。
+>
+> **#13 Repli「被每個 AI 引用 + Google 排名」**：AEO（AI Engine Optimization）+ SEO 並行——「LLM 引用是新 SEO」這類論述開始有明確產品實作；對應 [[src-reddit-eli5-2026-04]] 04-25 #5 Google zero-click 策略討論。
+>
+> **#10 Layman + #12 Octomind**：兩款都打「降低 AI agent 使用門檻」——Layman「任何人都能寫程式」（票低 8）vs Octomind「Homebrew for agents」（票低 5）——**「agent 平民化」的口號充斥但實際採用率仍低**；可能是 PH 投票疲乏對 vibe-coding 議題的反應。
 
 ## 2026-04-25
 

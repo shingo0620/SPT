@@ -1,9 +1,9 @@
 ---
 title: AI 協作工程的六大趨勢——從知識庫觀察到的發展方向
 type: synthesis
-sources: [AI 輔助軟體工程.md, Restatement.md, Skill vs Bash vs MCP.md, LLM Wiki.md, 顧客終身價值.md, src-Harness Engineering.md, src-Code Review已死.md, src-Solo SaaS架構.md, src-Claude Code五個底層概念.md, src-AI-Agent避坑指南.md, src-skill-character-arc.md, src-顧客管理50問.md]
+sources: [AI 輔助軟體工程.md, Restatement.md, Skill vs Bash vs MCP.md, LLM Wiki.md, 顧客終身價值.md, src-Harness Engineering.md, src-Code Review已死.md, src-Solo SaaS架構.md, src-Claude Code五個底層概念.md, src-AI-Agent避坑指南.md, src-skill-character-arc.md, src-顧客管理50問.md, src-agent-model-body-harness.md]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-29
 tags: [綜整, 趨勢, AI, 方法論, 未來方向]
 ---
 
@@ -34,6 +34,25 @@ Prompt Engineering（咒語，效果遞減）
 ```
 
 三個階段不是互相取代，而是累加。但邊際報酬正在從模型本身轉向環境設計。
+
+### 進化：把「環境」拆得更細——Body vs Harness
+
+[[src-agent-model-body-harness]] 對「Agent = LLM + Harness」二分法提出三層拆解：
+
+```
+Agent = Model + Body + Harness
+        大腦      手腳      約束
+```
+
+**Body**（filesystem、bash、git、sandbox、browser、MCP）解「能不能做事」；**Harness**（CLAUDE.md、hooks、planner-evaluator、sub-agent、back-pressure）解「會不會做歪」——本質不同。
+
+[[Anthropic]] 2026/4/23 postmortem 是最強支持證據：Claude Code 品質下降的三個原因（reasoning effort 從 high 降 medium、thinking history caching bug、25/100 字長度限制）**全部動到 harness、沒動到 body**——說明這層 body/harness 邊界在工程實踐上是真實存在的。
+
+**重要推論**：Model 變強之後，body 與 harness 的演化方向不一樣——
+- **Body 會長新器官**（Computer Use、多 agent 並行、跨 device 操作）
+- **Harness 會搬家但永不消失**——因為它解的是「LLM 本質 non-deterministic」這個結構問題，不會被「model 更強」消滅
+
+這對知識庫「趨勢一」的擴充：環境設計不只是一塊，而是**身體（能力）+ 約束（行為）兩個獨立可調維度**。OpenClaw vs Claude Code 同模型不同表現的對照，是這個拆解最直觀的案例。
 
 ---
 
@@ -243,3 +262,5 @@ character-arc 的 Integration 生態系（story-sense → character-arc → dial
 - [[src-Solo SaaS架構]]（基礎設施民主化的具體案例）
 - [[LLM Wiki]]（知識管理本身作為 Lifelong Agent 的知識層）
 - [[src-skill-character-arc]]（Skill 作為新軟體原語的範例）
+- [[週綜整-2026-W16]]（本綜整所在起點週的橫向回顧）
+- [[src-agent-model-body-harness]]（Agent = Model + Body + Harness 三層拆解，補強趨勢一）
