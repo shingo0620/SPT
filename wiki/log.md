@@ -2,6 +2,22 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-30] ingest | 04-28+04-29 daily 5 來源月報補完
+
+**處理 5 個自動化來源 04-28+04-29 雙日區塊（依新到舊插入月報頂部）**：
+- [[src-hn-2026-04]]：04-29 Ghostty 離開 GitHub（3,096 分榜首，[[Claude Code]] 創辦人 Mitchell Hashimoto）+ Before GitHub（585 分）+ Tangled forge federation（228 分）= **「離開 GitHub 中心化」三聯**；04-29 #12 ICU handover from F1 Ferrari 與 [[src-reddit-til-2026-04]] 同日 #5 同題（罕見 HN/Reddit 同日同題並進）；04-28 #15 Anthropic 加入 Blender Dev Fund（5 分但呼應 [[src-claude-for-creative-work]]）；04-28 #1 Talkie「13B 1930s LM」⚠️（明顯 satire/parody）；04-28 #3 OpenAI CEO Worldcoin 假合作 218 分
+- [[src-github-trending-2026-04]]：04-28 #1 nexu-io/open-design 743⭐（Claude Design 開源復刻 + 19 skills + 71 design systems）+ 04-28 #3 99xAgency/GodModeSkill（multi-LLM cross-review for Claude Code）+ 04-29 #4 skydoves/compose-performance-skills + #9 zeke/swiss-design-skill = **Skill 生態三日連動**；04-29 #14 Fortex-here ❌ + 04-28 #4 GitGet-Here ❌ 連兩日 Flash USDT/BTC 詐騙工具上 trending；04-29 #1/#6/#10 三個無描述/SNI 翻牆中繼工具同日上榜
+- [[src-producthunt-2026-04]]：04-29 #4 KarmaBox + #13 Devin for Terminal + #15 noirdoc 三聯 = **Coding agent 配套品從可選變必備**；04-29 #1 Plurai 361 票榜首（vibe-train evals + guardrails）+ #5 CodeHealth MCP Server（keep AI code healthy）= AI 評估工具標準化；04-28 #10 MaxHermes by Minimax「builds skills from every task」+ #11 WUPHF「AI employees with own knowledge base」= **Lifelong AI Agent 商業化具體案例**
+- [[src-wikipedia-2026-04]]：Michael 2026 film + Michael Jackson + Jaafar Jackson 三聯仍持續，04-28 #1 Michael 2026 film 333k 瀏覽**首次超過 MJ 本尊 312k**（傳記片宣傳期高峰）；04-29 歷史今日 1995 Ric Flair vs Inoki 北韓平壤 165k 觀眾——**史上最多觀眾的職業摔角賽事**；04-28 1996 Port Arthur 大屠殺 + 1999 Taber 校園槍擊 + 1988 Aloha 243 機體爆裂的暴力意外密集
+- [[src-skills-picks-2026-04]] + [[src-skill-ast-grep]]：ast-grep **連十二日精選**，3,939 裝（04-29），十二日累積 **+998**（接近 +1,000 整數里程碑）；04-28 +112、04-29 +116 連兩日落「100 ± 20」區間 → **進入新穩態**（原 +50 穩態的 2 倍）；04-28 預測（+80~120）命中
+
+**跨來源連動**：
+- HN 04-29 #1 Ghostty 離 GitHub + #2 Before GitHub + #6 Tangled = **GitHub 中心化反思三聯**；GitHub Trending 04-28 #1 nexu-io 開源復刻 Anthropic Claude Design = **「商業 AI → 10 天內 OSS 復刻」速度展現**——兩股力量都在挑戰 GitHub 與 Anthropic 的單一中心化角色
+- HN 04-28 #15 Anthropic Blender Dev Fund + [[src-claude-for-creative-work]] = 同日同事件不同視角；HN 直接呼應 wiki 既有 source 頁
+- ast-grep 連十二日新穩態（+110/day）+ GitHub Trending Skill 生態三日連動 + PH coding agent 配套品三聯 = **Skill 生態跨平台共振**繼續延續 04-26 觀察
+
+---
+
 ## [2026-04-30] ingest | oh-my-codex + Claude for Creative Work（修正前次空檔誤判）
 
 **修正前次 ingest 的判斷錯誤**：

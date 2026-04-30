@@ -10,6 +10,8 @@
 - [[src-agent-model-body-harness]] — 三層拆解進化：Agent = Model + Body + Harness，OpenClaw vs Claude Code 同 Opus 4.6 體感差異 + Anthropic 4/23 postmortem 解析（來源數：1）
 - [[src-oh-my-codex]] — OpenAI Codex CLI 的 harness 工具（27k stars / TypeScript），4 個 skill 命令（$deep-interview / $ralplan / $ralph / $team）+ tmux runtime + wiki MCP server（來源數：1）
 - [[src-claude-for-creative-work]] — Anthropic 2026-04-28 推出 8 個 MCP connector（Blender / Adobe / Autodesk / Ableton / Splice 等），Claude 進入創意產業工具鏈（來源數：1）
+
+> 月報 2026-04-29 已更新至 04-29 區塊（HN/GH Trending/PH/Wikipedia/skills-picks），ast-grep 連十二日精選 + 安裝累積 +998
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）

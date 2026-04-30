@@ -1,9 +1,9 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md, producthunt-2026-04-26.md, producthunt-2026-04-27.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md, producthunt-2026-04-26.md, producthunt-2026-04-27.md, producthunt-2026-04-28.md, producthunt-2026-04-29.md]
 created: 2026-04-15
-updated: 2026-04-28
+updated: 2026-04-30
 tags: [producthunt, monthly-digest]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md, wikipedia-featured-2026-04-26.md, wikipedia-featured-2026-04-27.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md, wikipedia-featured-2026-04-26.md, wikipedia-featured-2026-04-27.md, wikipedia-featured-2026-04-28.md, wikipedia-featured-2026-04-29.md]
 created: 2026-04-15
-updated: 2026-04-28
+updated: 2026-04-30
 tags: [wikipedia, monthly-digest]
 ---
 

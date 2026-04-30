@@ -1,15 +1,71 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md, github-trending-2026-04-26.md, github-trending-2026-04-27.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md, github-trending-2026-04-26.md, github-trending-2026-04-27.md, github-trending-2026-04-28.md, github-trending-2026-04-29.md]
 created: 2026-04-15
-updated: 2026-04-28
+updated: 2026-04-30
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-29
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | amirshaker000/netlify-relay | 137 | JS | 無描述（疑為 Netlify proxy 中繼） | ⚠️ | [GitHub](https://github.com/amirshaker000/netlify-relay) |
+| 2 | AI4FinanceFoundation/coinbase-trading-bot | 105 | TS | Coinbase 自動交易、EMA cross / ATR / trend filter | ⚠️ | [GitHub](https://github.com/AI4FinanceFoundation/coinbase-trading-bot) |
+| 3 | t8y2/dbx | 102 | Vue | 跨平台 DB client，支援 MySQL/PG/SQLite/Redis/MongoDB/DuckDB/ClickHouse/SQL Server | ✅ | [GitHub](https://github.com/t8y2/dbx) |
+| 4 | **skydoves/compose-performance-skills** | 79 | Shell | Jetpack Compose 效能的 Agent Skills 集合（skydoves 是知名 Android 開發者） | ✅ | [GitHub](https://github.com/skydoves/compose-performance-skills) |
+| 5 | Fokkyp/SoftwareCopyright-Skill | 73 | Python | 中國軟體著作權申請材料 Skill 自動生成 | ⚠️ | [GitHub](https://github.com/Fokkyp/SoftwareCopyright-Skill) |
+| 6 | avacocloud/netlify-XHHTP | 37 | JS | 無描述（疑為 SNI/XHTTP 翻牆中繼，命名「XHHTP」拼字異常） | ⚠️ | [GitHub](https://github.com/avacocloud/netlify-XHHTP) |
+| 7 | AugustineFulgur/GhostBitsGenerator | 28 | Java | 無描述（匿名作者） | ⚠️ | [GitHub](https://github.com/AugustineFulgur/GhostBitsGenerator) |
+| 8 | 1TDSPH-26/front-1sem-aula-01 | 22 | HTML | 巴西大學第一學期課堂作業：媒體查詢、Flexbox、Grid | ✅ | [GitHub](https://github.com/1TDSPH-26/front-1sem-aula-01) |
+| 9 | **zeke/swiss-design-skill** | 21 | TS | Swiss International Style 設計系統 skill for AI agents（zeke 為前 Replicate 知名 dev） | ✅ | [GitHub](https://github.com/zeke/swiss-design-skill) |
+| 10 | avacocloud/SNI-XHTTP-V1.1 | 21 | JS | SNI-XHTTP 翻牆/proxy 工具 V1.1 | ⚠️ | [GitHub](https://github.com/avacocloud/SNI-XHTTP-V1.1) |
+| 11 | 1TDSPF-26/front-1sem-aula-01 | 20 | HTML | 同 #8 不同班級的同份作業 | ✅ | [GitHub](https://github.com/1TDSPF-26/front-1sem-aula-01) |
+| 12 | peter123023/awesome-claude-api | 20 | — | 「可靠的 Claude 中轉 API 資源列表」（中文，中國中轉服務名單） | ⚠️ | [GitHub](https://github.com/peter123023/awesome-claude-api) |
+| 13 | meat29/solana-trading-bot | 17 | TS | Solana sniping bot，pump.fun + Raydium AMM v4 | ⚠️ | [GitHub](https://github.com/meat29/solana-trading-bot) |
+| 14 | ~~MortiKonix/Fortex-here~~ Flash USDT 詐騙生成工具 | 16 | — | 自稱「Flash USDT Sender & Generator 2026」，明確詐騙性質 | ❌ | [GitHub](https://github.com/MortiKonix/Fortex-here) |
+| 15 | 550710418/teamsp | 16 | HTML | 「checkout link generator」（描述極簡，疑為釣魚或測試工具） | ⚠️ | [GitHub](https://github.com/550710418/teamsp) |
+
+> **04-29 主題：Skill 生態 + 灰色金融工具同日並進**
+> - **#4 + #9 + 04-28 #1 nexu-io/open-design 形成「Skill 生態三日連動」**：skydoves/compose-performance-skills 直接以「agent skills」打進 trending、zeke/swiss-design-skill 是設計系統 skill、再加 04-28 nexu-io 743⭐ 的 Anthropic Claude Design 開源復刻——**Skill 生態的 GitHub 化擴散持續**（延續 04-26 的「5/15 為 Skill 生態工具」紀錄）
+> - **#14 ❌ Flash USDT 詐騙**：與 04-28 #4 「00021x/GitGet-Here」（Flash BTC 詐騙標籤）為同類——**連兩日詐騙工具上 GitHub Trending**，需警覺 GitHub Trending 演算法被加密貨幣詐騙圈刷榜利用
+> - **#1、#6、#10 三個無描述/SNI 工具同日上榜**：amirshaker / avacocloud 的 netlify proxy / XHHTP 工具——**疑似翻牆基礎設施流量上升**，可能因近期某地區 GFW 升級
+> - **#5 軟著申請 + #12 Claude API 中轉名單**：兩件事都是「中國灰色地帶 + AI 工具化」——軟著申請流程被 LLM 自動化（合法但顛覆律師收費模式）、Claude 中轉服務名單（OpenAI 與 Anthropic 都對中國禁用，這類中轉服務遊走在 ToS 邊緣）
+> - **#3 t8y2/dbx**：少數的「正常 OSS」——跨平台 DB client，支援 8 個主流 DB；Vue 寫桌面 app（類似 [[Multica]] 的多 DB 連線思路但 personal-grade）
+> - **#8 + #11 巴西教育程式作業同日上榜**：兩個學生作業 repo 同日衝破 22 + 20⭐——**演算法共振**——Trending 推薦同類 repo 形成「校友互相 star」現象
+
+## 2026-04-28
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | **nexu-io/open-design** | 743 | TS | Local-first 開源復刻 [[Anthropic]] Claude Design——19 Skills + 71 brand-grade Design Systems + sandboxed preview + HTML/PDF/PPTX export，相容多 agent CLI（[[Claude Code]] / Codex / Cursor / Gemini CLI / OpenCode / Qwen） | ✅ | [GitHub](https://github.com/nexu-io/open-design) |
+| 2 | Dhravya/webpull | 98 | TS | 無描述 | ⚠️ | [GitHub](https://github.com/Dhravya/webpull) |
+| 3 | **99xAgency/GodModeSkill** | 69 | Shell | Multi-LLM cross-review workflow for [[Claude Code]]——`/work` orchestrate plan/implement/bug-fix，3 個 model family 投票決定每個 gate | ✅ | [GitHub](https://github.com/99xAgency/GodModeSkill) |
+| 4 | ~~00021x/GitGet-Here~~ Flash BTC 詐騙標籤 repo | 62 | — | 描述空但 tags 為 bitcoin-flash-transactions / btc-flash-payments / fake-btc-transaction 等 | ❌ | [GitHub](https://github.com/00021x/GitGet-Here) |
+| 5 | cloudgen/ShellParser | 59 | Shell | 把 legacy shell scripts 拆成 small AI-editable components | ✅ | [GitHub](https://github.com/cloudgen/ShellParser) |
+| 6 | shiyi-zh0408/Meta-CoT | 43 | Python | CVPR 2026「Meta-CoT: Enhancing Granularity and Generalization in Image Editing」官方代碼 | ✅ | [GitHub](https://github.com/shiyi-zh0408/Meta-CoT) |
+| 7 | Tech-Melon/GmgnTwitterTgAlert | 39 | Python | 「只要 gmgn 不倒閉，就能擁有自己的推特追蹤器」（gmgn 為加密貨幣交易追蹤平台） | ⚠️ | [GitHub](https://github.com/Tech-Melon/GmgnTwitterTgAlert) |
+| 8 | i2cjak/Framework_Expansion_Cards | 37 | Python | 每天設計一張 Framework 筆電擴充卡，直到收到 NICE Framework 筆電 | ✅ | [GitHub](https://github.com/i2cjak/Framework_Expansion_Cards) |
+| 9 | insistanan/GPT_Image_Playground | 24 | TS | gpt-image-2 Image API / Response API 視覺化測試與調參工具 | ✅ | [GitHub](https://github.com/insistanan/GPT_Image_Playground) |
+| 10 | jha0313/skills_repo | 19 | Python | 「skills github」——描述極簡 | ⚠️ | [GitHub](https://github.com/jha0313/skills_repo) |
+| 11 | AhanaSabud07/Smart-first-aid-kit- | 18 | TS | 行動優先的急救指引 app，給受訓 / 未受訓使用者即時逐步指示 | ✅ | [GitHub](https://github.com/AhanaSabud07/Smart-first-aid-kit-) |
+| 12 | JenniferZhao0531/ICLR-VLM-MLLM-papers | 18 | HTML | 「不想啃 460 篇全文？我已替你和 GPT-5 啃完了 — ICLR 2026 VLM/MLLM 全景中文導讀」 | ✅ | [GitHub](https://github.com/JenniferZhao0531/ICLR-VLM-MLLM-papers) |
+| 13 | anonyme2704/legi-milei | 17 | Python | 用 LLM 把法國 69 個 codes / 366,504 articles 按「indispensable / facultatif / à supprimer」三分類，附 prompts 與 70 PDF 開源 | ✅ | [GitHub](https://github.com/anonyme2704/legi-milei) |
+| 14 | GENEXIS-AI/chromex | 17 | TS | Codex-powered Chrome side-panel 助手，支援 page context / tabs / voice / image | ✅ | [GitHub](https://github.com/GENEXIS-AI/chromex) |
+| 15 | szabgab/awesome-axum | 16 | — | Rust Axum 框架的 awesome list（szabgab 為知名 Rust dev） | ✅ | [GitHub](https://github.com/szabgab/awesome-axum) |
+
+> **04-28 主題：Anthropic Claude Design 開源復刻 + AI 行為審計工具崛起**
+> - **#1 ⭐ nexu-io/open-design 743⭐**：本日的指標性 repo——把 [[Anthropic]] Claude Design（04-18 Anthropic Labs 日推出）做成 local-first 開源版本，**19 skills + 71 design systems + 多 agent 相容**——這個事件展示「Anthropic 推一個閉源產品 → 10 天內開源復刻打進 Trending 第一」的速度。**呼應 [[src-claude-for-creative-work]] 的「creative tools 進入 MCP 標準」主題**。
+> - **#3 99xAgency/GodModeSkill 69⭐ + #5 cloudgen/ShellParser**：「multi-LLM cross-review」（3 個 model family 投票）= [[AI 品質共謀]] 的具體解方；ShellParser「把 legacy shell 拆成 AI-editable」 = [[綜整-AI協作工程的六大趨勢]] 趨勢三「人類判斷的價值向上游遷移」的工具化
+> - **#13 anonyme2704/legi-milei**：用 LLM 把法國法律 366,504 條分類「必要/選擇性/應刪除」——**LLM 應用於公共政策反思**的歐洲案例（命名 milei 影射阿根廷總統 Milei 的解管制風格）
+> - **#9 insistanan/GPT_Image_Playground**：gpt-image-2 的視覺化測試工具——延續 [[OpenAI]] 04-22 ChatGPT Images 2.0 發布的擴散；中文（中國開發者）對 gpt-image-2 的快速生態跟進
+> - **#7 ⚠️ GmgnTwitterTgAlert**：加密貨幣交易追蹤工具——「只要 gmgn 不倒閉」反諷加密圈的中心化基礎設施依賴
+> - **#4 ❌ Flash BTC 詐騙**：與 04-29 #14 為同類——詐騙圈刷榜手法穩定上 trending；GitHub Trending 演算法值得改進
 
 ## 2026-04-27
 

@@ -1,22 +1,22 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md]
 created: 2026-04-18
-updated: 2026-04-28
+updated: 2026-04-30
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19、04-20、04-21、04-22、04-23、04-24、04-25、04-26、04-27 再度精選，**連十日**——本月與歷來最長紀錄再刷新）
+> skills.sh Pick of the Day — 2026-04-18（連續 04-19~04-29 再度精選，**連十二日**——本月與歷來最長紀錄再刷新）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）→ 3,413（04-24）→ 3,511（04-25）→ 3,583（04-26）→ 3,711（04-27）**，216 小時累積 **+770**；十日漲幅分別為 +31、+51、+49、+51、+104、+186、+98、+72、**+128**——04-27 出現二次跳升，推翻「回歸近穩態」假設；十日整體轉化率約 3.56 install/h
+> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）→ 3,413（04-24）→ 3,511（04-25）→ 3,583（04-26）→ 3,711（04-27）→ 3,823（04-28）→ 3,939（04-29）**，264 小時累積 **+998**（接近 +1,000 整數里程碑）；十二日漲幅分別為 +31、+51、+49、+51、+104、+186、+98、+72、+128、+112、**+116**——進入「100 ± 20 install/day 的新穩態」（原 +50 穩態的 2 倍）；十二日整體轉化率約 3.78 install/h
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
 >
-> **擴散階段曲線修正**（2026-04-27）：04-26 曾判斷為「穩態 → 突破 → 加速峰 → 緩降 → 回歸近穩態」，但 04-27 實際 +128，明顯高於預測 +50~70。更合理的模型是**多事件驅動的階梯式擴散**：skills.sh 連日曝光提供底噪，外部 agent/skill 生態新聞提供跳升。04-27 GitHub Trending #1 `evanflow`（16 個 Claude Code skills）與 #11 `axi-front-design-skill` 同日上榜，可能是第二波 skill 生態曝光來源。**下日預測（04-28）**：+80~120 區間（60% 信心）；若 >+150，代表第二波擴散尚未結束。
+> **擴散階段曲線修正**（2026-04-29 更新）：04-26 曾判斷為「穩態 → 突破 → 加速峰 → 緩降 → 回歸近穩態」，但 04-27 實際 +128 推翻；04-28 +112 與 04-29 +116 確認**多事件驅動的階梯式擴散 → 進入新穩態**。更合理模型：原始 +50/day 穩態反映「skills.sh 首頁基礎曝光」；新 +110/day 穩態反映「skills.sh 連續精選 + GitHub Trending Skill 生態活躍 + Claude Code skills 文化普及」三層疊加效果。**下日預測（04-30）**：+90~130 區間（70% 信心）；累積破 +1,000 預期確認；若連續 5 日落穩態，可宣告 ast-grep 為「skills.sh 生態的 anchor skill」。
 
 ## 一句話定位
 
