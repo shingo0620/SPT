@@ -2,6 +2,41 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-30] ingest | oh-my-codex + Claude for Creative Work（修正前次空檔誤判）
+
+**修正前次 ingest 的判斷錯誤**：
+- 上次 ingest（04-29）將 raw/Untitled.md / raw/Claude for Creative Work  Anthropic.md / raw/GitHub - Yeachan-Heo...md 三個檔案誤判為「0 byte 空檔」
+- 原因：用 `wc -l` 顯示 0 行（單行內容無換行符），未檢查實際 byte 大小
+- 實際是 URL 標籤檔（95、171、129 bytes），含可重新擷取的 URL 連結
+- 教訓：**判斷檔案內容必須用 `ls -la`（byte size）+ `Read`，而非僅憑 `wc -l`**——與既有「URL 標籤檔 vs 完整 metadata 必須區分」記憶屬同一風險面
+
+**重新擷取**：
+- 用 `fetch-url.sh` 重新擷取 2 個 URL：
+  - `https://www.anthropic.com/news/claude-for-creative-work` → `raw/claude-for-creative-work-anthropic.md`（179 行）
+  - `https://github.com/Yeachan-Heo/oh-my-codex` → `raw/github-yeachan-heooh-my-codex-...md`（623 行）
+- FB story URL 擷取失敗（exit 56，需登入）；Untitled.md URL 標籤檔保留待手動處理
+
+**ingest [[src-oh-my-codex]]**（新建來源頁）：
+- OpenAI Codex CLI 的 harness 工具，27k stars / 2.2k forks / v0.15.2（2026-04-30 release）
+- 4 個核心 skill 命令：`$deep-interview`、`$ralplan`、`$ralph`（呼應 [[src-Harness Engineering]] Ralph Loop）、`$team`（多 agent tmux 並行）
+- 工具棧：tmux runtime、HUD、native+plugin 雙層 hooks、`.omx/` 持久化、AGENTS.md scoped guidance
+- 內建 wiki MCP server（`omx wiki list/query/lint/refresh`）——「markdown-first, search-first, not vector-first」**完全呼應 [[LLM Wiki]] 設計哲學**
+- 對 Codex 的關係 = [[Claude Code]] 對 [[Anthropic]] = [[src-agent-model-body-harness]] 三層拆解的具體實作（給 Codex 加 body + harness）
+- Maintainer：Yeachan Heo + HaD0Yun（韓國團隊），i18n 支援 14 語言含繁體中文
+
+**ingest [[src-claude-for-creative-work]]**（新建來源頁）：
+- [[Anthropic]] 2026-04-28 公告：與 Blender、Autodesk Fusion、Adobe、Ableton、Splice、Affinity by Canva、Resolume、SketchUp 推出 8 個 MCP connector
+- 戰略：[[Claude Code]] coder → [[Anthropic]] Labs Claude Design designer → 本次 creative professional 的市場橫向擴張
+- MCP 從 SaaS（Linear/Sentry/Notion）擴展到創意工具——標準化動作影響超越 Claude 本身
+- 加入 Blender Development Fund 為 patron；與 RISD/Ringling/Goldsmiths 合作 creative computation 課程
+- 與 [[OpenAI]] 4/21 ChatGPT Images 2.0 路徑分化：合作既有工具 vs 自家 image model
+
+**影響頁面**：
+- 新建：[[src-oh-my-codex]]、[[src-claude-for-creative-work]]
+- 更新：[[Anthropic]]（加 4/28 條目）、[[OpenAI]]（加 oh-my-codex 與 ChatGPT Images 2.0 references）、[[Claude Code]]（加 oh-my-codex / Claude for Creative Work cross-ref）、[[Skill vs Bash vs MCP]]（MCP connector 規模化案例）、[[index]]（兩個新條目）
+
+---
+
 ## [2026-04-29] ingest | reddit 04-28+04-29 月報補完 + Agent = Model + Body + Harness 三層拆解論述
 
 **處理 reddit 兩個來源 04-28 + 04-29 雙日區塊（依新到舊插入月報頂部）**：

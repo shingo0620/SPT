@@ -54,3 +54,5 @@ tags: [openai, ai-company, gpt, codex, chatgpt]
 - [[Claude Code]] / [[src-Harness Engineering]]（Codex CLI 對標目標）
 - [[src-hn-2026-04]] / [[src-producthunt-2026-04]]（近期動態）
 - [[src-Code Review已死]]（Codex 對 code review 的影響）
+- [[src-oh-my-codex]]（Codex CLI 的 harness 工具，27k stars，給 Codex 加上 Ralph Loop / 4 個 skill 命令 / wiki MCP server / tmux runtime）
+- [[src-agent-model-body-harness]]（OpenAI 4/21 ChatGPT Images 2.0「first image model with thinking capabilities」是 harness 升級的案例）

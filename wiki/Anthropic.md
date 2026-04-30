@@ -44,6 +44,7 @@ tags: [anthropic, ai-company, llm, claude, safety]
 - **Mythos 研究複現**（[[src-hn-2026-04]] 04-19 #2）：用公開模型重現 Anthropic 的 Mythos 研究發現
 - **Session Management 官方教學**（[[src-Claude Code Session管理]]）：Anthropic 團隊公開 context 管理最佳實踐
 - **2026-04-23 Claude Code 品質下降 postmortem**（[[src-agent-model-body-harness]]）：官方確認三條 harness 改動是主因——3/4 default reasoning effort 從 high 改 medium、3/26 thinking history caching bug、4/16 system prompt 加上 25/100 字長度限制；明確聲明「The models themselves were not to blame」
+- **2026-04-28 Claude for Creative Work 公告**（[[src-claude-for-creative-work]]）：與 Blender、Autodesk Fusion、Adobe、Ableton、Splice、Affinity by Canva、Resolume、SketchUp 推出 8 個 MCP connector，Claude 進入創意產業工具鏈；同步加入 Blender Development Fund 為 patron、與 RISD/Ringling/Goldsmiths 合作 creative computation 課程
 
 ## 核心論述
 
@@ -68,3 +69,4 @@ tags: [anthropic, ai-company, llm, claude, safety]
 - [[src-hn-2026-04]] / [[src-producthunt-2026-04]] / [[src-github-trending-2026-04]]（近期話題）
 - [[綜整-AI協作工程的六大趨勢]]（宏觀趨勢的參與者之一）
 - [[src-agent-model-body-harness]]（4/23 postmortem 在三層 Agent Anatomy 中的位置——三條改動全動 harness、未動 body）
+- [[src-claude-for-creative-work]]（4/28 Claude 進入創意產業：8 個 MCP connector + Blender Dev Fund + 學術合作）
