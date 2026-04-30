@@ -2,6 +2,45 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-04-30] lint+ingest | Blender AI 視頻工作流 + 清理 9 個冗餘 raw
+
+**lint 健康檢查結果**：
+- ✅ 所有非 log.md 的 wikilink 解析正確
+- ✅ 沒有孤立頁面（86 個 wiki 頁皆有反向連結）
+- ✅ 所有 source/entity/concept 頁皆有 frontmatter `type` 欄位
+- ✅ Profile 一致性符合 04-29 更新後的「低風險來源可區塊級查核」規則
+- 🟡 發現 1 個未 ingest 有效來源 + 8 個冗餘 raw（vault 端 URL 標籤檔/YouTube metadata，已 ingest 完整版本）+ 1 個失敗 fetch 標籤檔
+
+**ingest [[src-blender-ai-video-workflow]]**（新建來源頁）：
+- 來源：YouTube `https://www.youtube.com/watch?v=6zOt8nnMoug`，太陽鴿鴿 2026-03-28
+- Whisper medium 模型自動轉錄取 transcript（371 行）
+- 核心：「**越強大的生成式模型，越需要嚴密的控制條件**」——三步工作流：
+  1. Blender 空間約束 + 物理動態提取（白模做動畫，純運動信息）
+  2. Nano Banana 2 + Seedance 2.0 視覺特質與時間軸絕對約束（全能參考模式：效果圖=global 視覺條件、Blender=運動條件）
+  3. AI 視頻放大重塑畫質（超分辨率 + 幻象生成 + 光流補幀，4K 60fps）
+- **本影片 03-28 早於 [[Anthropic]] 04-28 加入 Blender Dev Fund 整 1 個月**——「社群先行 → 官方追認 → 開源復刻」三段式擴散的代表案例
+- 概念呼應 [[src-agent-model-body-harness]]：「harness 永遠存在」在創意 AI 領域的同構——AI 視頻每幀微小偏差時間軸累加 = LLM non-deterministic 的視覺版本
+
+**清理 9 個冗餘 raw 檔**（git rm，依記憶教訓「URL 標籤檔可從 vault + git 兩端刪除」）：
+- `Using Claude Code-session management and 1M context 1.md`（75B URL，「 1」後綴 iCloud 衝突檔；對應 [[src-Claude Code Session管理]]）
+- `How to Kill the Code Review.md`（195B URL；對應 [[src-Code Review已死]]）
+- `On sabotaging projects by overthinking, scope creep, and structural diffing.md`（135B URL；對應 [[src-overthinking-scope-creep-structural-diffing]]）
+- `為什麼 Claude Code 有時很聰明、有時又很蠢？五個底層概念讓你秒懂.md`（1224B YouTube metadata；對應 [[src-Claude Code五個底層概念]]——transcript 已 ingest）
+- `Claude for Creative Work  Anthropic.md`（95B URL；對應 [[src-claude-for-creative-work]]）
+- `GitHub - Yeachan-Heooh-my-codex...md`（171B URL；對應 [[src-oh-my-codex]]）
+- `op7418guizang-ppt-skill...md`（237B URL；對應 [[src-skill-guizang-ppt]]）
+- `Untitled.md`（129B FB story URL，前次 fetch-url.sh exit 56 失敗）
+- `AI视频最大的问题，被Blender解决了.md`（593B YouTube metadata；本次新 ingest [[src-blender-ai-video-workflow]] 已用 yt- transcript 完整版）
+
+**vault 端清理提醒**：sync-vault.sh push 對 raw/ 不帶 `--delete`（避免誤刪 vault 端正在加的來源），上述 9 個檔案需**手動清 vault 端**，否則下次 pull 會回來。
+
+**影響頁面**：
+- 新建：[[src-blender-ai-video-workflow]]
+- 更新：[[Anthropic]]（加 Blender Dev Fund 社群先行案例）、[[AI 輔助遊戲開發]]（加可移植工作流參考）、[[index]]
+- 刪除：9 個 raw 檔
+
+---
+
 ## [2026-04-30] ingest | 04-28+04-29 daily 5 來源月報補完
 
 **處理 5 個自動化來源 04-28+04-29 雙日區塊（依新到舊插入月報頂部）**：
