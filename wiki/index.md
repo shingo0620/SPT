@@ -59,7 +59,8 @@
 - [[src-github-trending-2026-04]] — GitHub Trending 2026 年 4 月
 - [[src-producthunt-2026-04]] — Product Hunt 2026 年 4 月
 - [[src-wikipedia-2026-04]] — Wikipedia Featured 2026 年 4 月
-- [[src-skills-picks-2026-04]] — skills.sh Picks 2026 年 4 月（月報索引）
+- [[src-skills-picks-2026-04]] — skills.sh Picks 2026 年 4 月（月報索引）⚠️ 04-19 起 skills.sh 停發新 pick；表中 04-19~04-30 為 fetcher fallback 假象，已撤回相關推論
+- [[src-skills-trending-2026-05]] — skills.sh Trending Top 10 月報 2026 年 5 月（按 installs 降序，05-01 起新增追蹤）
 
 ### Skill 解析
 

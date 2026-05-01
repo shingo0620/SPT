@@ -2,6 +2,29 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-01] feat | 新增 skills.sh Trending Top 10 自動化來源（第 8 個 daily 來源）
+
+**動機**：[[src-skills-picks-2026-04]] 校正後（編輯精選自 04-19 停發），需要另一個資料管道追蹤 skills.sh 上 skill 的真實 organic 流行度。`/trending` 頁面按 installs 降序提供 Top 10+，與 picks（編輯選擇）形成對比。
+
+**實作**：
+1. 新建 `scripts/fetch-skills-trending.sh`——解析 `https://skills.sh/trending` 的 Next.js RSC `initialSkills` array，取 Top 10 寫入 `raw/skills-trending-YYYY-MM-DD.md`
+2. 新建月報 [[src-skills-trending-2026-05]]——含 05-01 首日基線 + 處理慣例（新進榜 ✨、跌出榜 ⬇️、獨立頁觸發手動）
+3. 更新 [[CLAUDE]]：自動化來源清單加上第 8 個來源 + 彙整指引（含「[[src-skills-picks-2026-04]] 前車之鑑」警示——警惕資料管道靜默 fallback）
+4. 更新 `.github/workflows/fetch-daily-sources.yml`：加 skills.sh Trending Top 10 步驟
+5. 測試擷取 05-01 ✅——第一名 ai-image-generation 27,775 installs
+
+**05-01 首日觀察**：
+- `infsh-skills/skills` 一家獨佔 Top 1-4 + #6（5 件 skill 進榜，installs 集中於 27.5k–27.7k 極窄區間）——「skill 集合作為單一發行單位」批次擴散
+- `microsoft/azure-skills` Top 9-10——企業級 skill 包以「廣度」獲分散安裝
+- vercel-labs/find-skills #5（17,687）+ degausai/wonda-cli #7（8,509）+ [[src-mattpocock-skills|mattpocock]]/grill-me #8（6,844）為個人/小團隊 skill
+- **[[src-skill-ast-grep]] 不在 Top 10**——4,073/4,138 install 排在 #11+，**進一步確認 [[src-skills-picks-2026-04]] 的「ast-grep 連十三日精選」虛構性**——它從來不是 skills.sh 上 organic 排名的霸主
+
+**影響頁面**：
+- 新建：[[src-skills-trending-2026-05]]、`scripts/fetch-skills-trending.sh`、`raw/skills-trending-2026-05-01.md`
+- 更新：[[CLAUDE]]、`.github/workflows/fetch-daily-sources.yml`、[[index]]
+
+---
+
 ## [2026-05-01] fix | skills.sh fetcher fallback 假象修正
 
 **問題發現**：使用者觀察「skill picks 似乎連續多日內容相同」——驗證後確認 skills.sh `/picks` 頁面實際只有 04-13 ~ 04-18 共 6 筆 pick，**04-19 起未發布新 pick**。`scripts/fetch-skills-picks.sh` 的 fallback 靜默把「找不到當日 pick」替換為「最新一筆 ast-grep」，造成 raw 連續 12 日相同。
