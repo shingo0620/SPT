@@ -1,15 +1,44 @@
 ---
 title: GitHub Trending 月報 — 2026-04
 type: source
-sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md, github-trending-2026-04-26.md, github-trending-2026-04-27.md, github-trending-2026-04-28.md, github-trending-2026-04-29.md]
+sources: [github-trending-2026-04-15.md, github-trending-2026-04-16.md, github-trending-2026-04-18.md, github-trending-2026-04-19.md, github-trending-2026-04-20.md, github-trending-2026-04-21.md, github-trending-2026-04-22.md, github-trending-2026-04-23.md, github-trending-2026-04-24.md, github-trending-2026-04-25.md, github-trending-2026-04-26.md, github-trending-2026-04-27.md, github-trending-2026-04-28.md, github-trending-2026-04-29.md, github-trending-2026-04-30.md]
 created: 2026-04-15
-updated: 2026-04-30
+updated: 2026-05-01
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 4 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-30
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | wrongly-cuddly-obsession/NTSB_FOIA_MU5735 | 54 | — | 中國東方航空 MU5735 墜機 NTSB FOIA 文件揭露（無描述） | ⚠️ | [GitHub](https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735) |
+| 2 | Sndav/CVE-2026-31431-Advanced-Exploit | 41 | Python | CVE-2026-31431 純文件利用（中文描述） | ⚠️ | [GitHub](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit) |
+| 3 | sixplatemizu/take_out | 41 | — | 「dongfhkong」（描述極簡，疑為廣告/spam） | ⚠️ | [GitHub](https://github.com/sixplatemizu/take_out) |
+| 4 | gmberton/awesome-3D-vision | 28 | — | image-to-3D reconstruction methods 比較 | ✅ | [GitHub](https://github.com/gmberton/awesome-3D-vision) |
+| 5 | UzenUPozitiv4ik/gpt-image-2-skill | 27 | — | gpt-image-2 通用 skill（生成寫實圖像） | ✅ | [GitHub](https://github.com/UzenUPozitiv4ik/gpt-image-2-skill) |
+| 6 | Crihexe/copy-fail-tiny-elf-CVE-2026-31431 | 25 | Shell | Copy Fail (CVE-2026-31431) 最小 no-libc Linux x86_64 ELF PoC | ⚠️ | [GitHub](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431) |
+| 7 | 1TDSPJ-26/front-1sem-aula-02 | 22 | HTML | 巴西大學課堂作業：媒體查詢 / Flexbox / Grid / JS（與 04-29 #8、#11 同班級系列） | ✅ | [GitHub](https://github.com/1TDSPJ-26/front-1sem-aula-02) |
+| 8 | b-nnett/codex-plusplus-ios-simulator | 21 | JS | iOS Simulator tweak for Codex++（在 Codex 右側嵌 headless mirrored simulator） | ✅ | [GitHub](https://github.com/b-nnett/codex-plusplus-ios-simulator) |
+| 9 | simoncozens/glyphtracy | 15 | Python | raster to vector 轉換 library（simoncozens 是知名字型 dev） | ✅ | [GitHub](https://github.com/simoncozens/glyphtracy) |
+| 10 | assetnote/cpanel2shell-scanner | 15 | Python | CVE-2026-41940 cPanel & WHM 認證繞過高保真掃描器 | ✅ | [GitHub](https://github.com/assetnote/cpanel2shell-scanner) |
+| 11 | yui540/reanimated-css-animations | 14 | TS | Reanimated 版 CSS 動畫（日文描述） | ✅ | [GitHub](https://github.com/yui540/reanimated-css-animations) |
+| 12 | 0xShe/CVE-2026-31431 | 14 | C | CVE-2026-31431 PoC（C 語言版） | ⚠️ | [GitHub](https://github.com/0xShe/CVE-2026-31431) |
+| 13 | IPAHound/IPAHound | 11 | Python | BloodHound Collector for FreeIPA（攻擊者也用 graphs 思考——Linux 也適用） | ⚠️ | [GitHub](https://github.com/IPAHound/IPAHound) |
+| 14 | archerzjp-dev/China-Eastern-Airlines-Flight-5735 | 11 | — | 中國東方航空 5735 航班相關（無描述） | ⚠️ | [GitHub](https://github.com/archerzjp-dev/China-Eastern-Airlines-Flight-5735) |
+| 15 | lakysir/fpbrowser2api | 10 | Python | fpbrowser2api 逆向工程社群 (sora2/grok/veo/seedance2.0)，QQ 群連結 | ⚠️ | [GitHub](https://github.com/lakysir/fpbrowser2api) |
+
+> **04-30 主題：CVE-2026-31431 Linux kernel exploit + 東方航空 MU5735 文件雙主軸**
+> - **#2 + #6 + #12 三個 CVE-2026-31431 repo 同日上榜**：直接呼應 [[src-hn-2026-04#2026-04-30]] #1 Copy Fail（1,243 分本日榜首）——`algif_aead` Linux kernel use-after-free 漏洞，本日全球資安界跟進；同類「PoC 開源化」會持續引來零日修復賽跑。**HN + GitHub Trending 同 CVE 共振**罕見，反映該漏洞影響範圍。
+> - **#10 cpanel2shell-scanner CVE-2026-41940**：另一個本日 CVE——cPanel & WHM 認證繞過——本日有兩個 CVE 同時擴散。
+> - **#1 + #14 MU5735 文件**：兩個 repo 都是中國東方航空 MU5735（2022 年 132 死墜機）的 NTSB FOIA 文件揭露——**官方調查報告與民間二次調查文件流通的擴散**——可能與墜機調查 4 週年（2026-03-21 為 4 週年）某些新文件公開有關。
+> - **#5 gpt-image-2-skill**：延續 [[OpenAI]] 04-21 ChatGPT Images 2.0 發布的擴散——continuing from 04-28 #9 GPT_Image_Playground 同個生態。
+> - **#8 codex-plusplus-ios-simulator**：給 Codex CLI 加 iOS simulator 鏡像——這是「為 coding agent 加 GUI 操作」的早期嘗試（呼應 [[src-agent-model-body-harness]] 三層拆解中 body 層的 Computer Use 演化）。
+> - **#9 simoncozens/glyphtracy**：知名字型開發者 Simon Cozens 的新工具——「raster to vector」對字體與字型生成有實用價值。
+> - **#3 take_out 廣告 + #15 fpbrowser2api QQ 群**：兩個典型「中國 GitHub 廣告/社群引流」repo——延續 04-29 觀察的演算法被中國 dev 群體利用現象。
 
 ## 2026-04-29
 

@@ -1,9 +1,9 @@
 ---
 title: skills.sh Picks 月報 — 2026-04
 type: source
-sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md]
+sources: [skills-picks-2026-04-16.md, skills-picks-2026-04-17.md, skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md]
 created: 2026-04-16
-updated: 2026-04-30
+updated: 2026-05-01
 tags: [skills-sh, agent-skills, monthly-digest]
 ---
 
@@ -15,6 +15,7 @@ tags: [skills-sh, agent-skills, monthly-digest]
 
 | 日期 | Skill 名稱 | 來源 | 安裝數 | 領域 | 一句話推薦 |
 |------|-----------|------|--------|------|-----------|
+| 04-30 | [[src-skill-ast-grep\|ast-grep]] *(連十三日)* | ast-grep/agent-skill | **4,073** | coding / code-search / refactoring | 同 04-18~29——連十三日精選，安裝數單日 **+134**（3,939→4,073）；**累積破 +1,000 整數里程碑**（+1,132）；新穩態（+110/day）持續確認，連 4 日落 +112~+134 區間 |
 | 04-29 | [[src-skill-ast-grep\|ast-grep]] *(連十二日)* | ast-grep/agent-skill | **3,939** | coding / code-search / refactoring | 同 04-18~28——連十二日精選，安裝數單日 **+116**（3,823→3,939）；十二日累積 **+998 install**（接近 +1000 整數里程碑） |
 | 04-28 | [[src-skill-ast-grep\|ast-grep]] *(連十一日)* | ast-grep/agent-skill | **3,823** | coding / code-search / refactoring | 同 04-18~27——連十一日精選，安裝數單日 **+112**（3,711→3,823）；04-27 預測 04-28 落於 +80~120，**實際 +112 命中區間中位**——確認進入「**新穩態**」（高於原 +50 穩態的長尾） |
 | 04-27 | [[src-skill-ast-grep\|ast-grep]] *(連十日)* | ast-grep/agent-skill | **3,711** | coding / code-search / refactoring | 同 04-18~26——連十日精選，安裝數單日 **+128**（3,583→3,711）；04-26 預測 +50~70 失準，代表不是回歸近穩態，而是出現**二次跳升**；十日累積 +770 install |
@@ -29,6 +30,13 @@ tags: [skills-sh, agent-skills, monthly-digest]
 | 04-18 | [[src-skill-ast-grep\|ast-grep]] | ast-grep/agent-skill | 2,941 | coding / code-search / refactoring | 如果你日常需要在大型 codebase 做結構化搜尋或 refactor，這個 skill 把「何時用、怎麼寫 AST rule」教給 agent |
 | 04-17 | [[src-skill-3b1b-style-animation-skill\|3b1b-style-animation-skill]] | subinium/3b1b-style-animation-skill | 1 | education / visualization / math | 如果你每週做數學 / ML 教學影片，這個 skill 把 Manim 技術與 3Blue1Brown 教學哲學整合成可重用工作流 |
 | 04-16 | [[src-skill-character-arc\|character-arc]] | jwynia/agent-skills | 248 | writing / fiction | 如果你用 AI 寫故事或設計遊戲劇情，這個 skill 是角色弧線的診斷工具 |
+
+> **04-30 連十三日精選 + 累積破千 + anchor skill 確認**：ast-grep 連續十三日被選——skills.sh 歷來最長紀錄再刷新至 13 日。處理策略不變：不新建新頁，在 [[src-skill-ast-grep]] 累計追蹤。
+> - 十三日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）→ 3,227（+104）→ 3,413（+186）→ 3,511（+98）→ 3,583（+72）→ 3,711（+128）→ 3,823（+112）→ 3,939（+116）→ **4,073（+134）**
+> - **累積 +1,132 install / 286 小時**——破 +1,000 整數里程碑（04-29 預測命中）；整體轉化率 3.96 install/h
+> - **新穩態確認**：連續 4 日落 +110~+135（98 → 72 → 128 → 112 → 116 → **134**）——「100 ± 20 install/day」新穩態穩定運作，原 +50 穩態的 ~2.4 倍
+> - **「anchor skill」地位確認**：依 04-29 預測「若連 5 日落穩態，可宣告 ast-grep 為 skills.sh 生態的 anchor skill」——本日為連續 4 日，05-01 達到 5 日門檻，極可能正式進入 anchor 地位
+> - **預測**：05-01 落於 +100~140 區間（70% 信心）；累積可達 +1,200+；若仍落穩態則 anchor skill 確認
 
 > **04-29 連十二日精選 + 安裝數迫近 +1000**：ast-grep 連續十二日被選——skills.sh 歷來最長紀錄再刷新至 12 日。處理策略不變：不新建新頁，在 [[src-skill-ast-grep]] 累計追蹤。
 > - 十二日安裝走勢：2,941 → 2,972（+31）→ 3,023（+51）→ 3,072（+49）→ 3,123（+51）→ 3,227（+104）→ 3,413（+186）→ 3,511（+98）→ 3,583（+72）→ 3,711（+128）→ 3,823（+112）→ **3,939（+116）**

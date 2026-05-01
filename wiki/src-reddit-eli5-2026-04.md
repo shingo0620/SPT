@@ -1,15 +1,41 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-04
 type: source
-sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md, reddit-eli5-2026-04-25.md, reddit-eli5-2026-04-26.md, reddit-eli5-2026-04-27.md, reddit-eli5-2026-04-28.md, reddit-eli5-2026-04-29.md]
+sources: [reddit-eli5-2026-04-15.md, reddit-eli5-2026-04-18.md, reddit-eli5-2026-04-19.md, reddit-eli5-2026-04-20.md, reddit-eli5-2026-04-21.md, reddit-eli5-2026-04-22.md, reddit-eli5-2026-04-23.md, reddit-eli5-2026-04-24.md, reddit-eli5-2026-04-25.md, reddit-eli5-2026-04-26.md, reddit-eli5-2026-04-27.md, reddit-eli5-2026-04-28.md, reddit-eli5-2026-04-29.md, reddit-eli5-2026-04-30.md]
 created: 2026-04-15
-updated: 2026-04-29
+updated: 2026-04-30
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 4 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-30
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何光沒有質量卻能攜帶能量？（質能等價 E=mc²；光子有動量但靜止質量為 0；能量=動量×光速） | 1,047 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz074w/) |
+| 2 | 「In the key of」是什麼意思？（音樂理論：以某個音為主音的音階體系，影響和弦進行與旋律走向） | 1,020 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz70go/) |
+| 3 | 冰箱 crisper 抽屜為何能保鮮蔬果？（控濕設計：較高濕度減少蔬菜失水；某些設計含氣孔調節以排乙烯，避免水果催熟蔬菜） | 607 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szk1v1/) |
+| 4 | 為何網站把帳號和密碼分兩頁輸入？（防 phishing + 支援 SSO 流程：帳號頁可決定後續走 SSO 還是密碼；也讓 password manager autofill 更明確） | 255 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szc2kh/) |
+| 5 | 時間從何時開始？開始之前的瞬間叫什麼？（大霹靂後時間才有定義；「之前」在物理上沒有意義——時間是時空結構的一部分，不是獨立的容器） | 245 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz7yjf/) |
+| 6 | 機器人平衡與設計為何突然進步？（reinforcement learning + sim-to-real + 物理模擬器升級——Boston Dynamics、Figure、Unitree 等近 6 個月跳躍） | 215 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sznh96/) |
+| 7 | 為何浴室沒有火警？（蒸氣與高濕會誤觸傳統煙霧探測器；近期 photoelectric 探測器已改善；多數法規仍只規範臥室與廚房附近） | 146 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz0f51/) |
+| 8 | 為何遊戲中 lag 玩家有時瞬移、有時凍結？（client-side prediction vs server authoritative：rollback netcode 會 reposition、無預測的會凍結等回包） | 140 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szcpgd/) |
+| 9 | 怠速 vs 加速時油耗的差異？（800 RPM 怠速約 0.2-0.5 GPH；3000 RPM 加速到 5+ GPH；引擎效率非線性，怠速浪費極大） | 88 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szihjf/) |
+| 10 | 為何強大的人腦容易被成癮控制以致傷身？（dopamine 獎勵系統演化解的是「找食物/求偶」，不是抗濃縮藥物；成癮是 hacker 走捷徑） | 51 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sza4pf/) |
+| 11 | 大型太空望遠鏡如何穩定指向特定方位？（reaction wheel 慣性穩定 + star tracker 精準定向；JWST 用熱遮罩 + L2 軌道；不靠引擎而靠角動量交換） | 51 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szrei5/) |
+| 12 | 「red mist of anger」是真的嗎？（憤怒下的瞳孔放大、視野隧道化、認知狹窄，「mist」是文學描述非物理紅色——但 fight-or-flight 的視覺改變屬實） | 29 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szn41m/) |
+| 13 | FBI Most Wanted 名單的標準？（必須是已被起訴 + 公眾風險 + 公眾協助有助逮捕——從遞補制變動，部分人被移除是因「不再符合條件」） | 23 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz8zrl/) |
+| 14 | 金融的 derivatives 是什麼？（衍生自其他資產的合約：futures、options、swaps；用來避險、投機、或槓桿—— Black-Scholes 給選擇權定價的公式） | 24 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1sz7lhh/) |
+| 15 | 聲音怎麼穿過固體？（聲音是粒子振動的波；空氣→牆面→空氣的振動傳遞，固體傳導效率高於氣體；隔音牆用解耦的雙層+質量阻尼） | 13 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1szomn8/) |
+
+> **04-30 主題：物理基礎 + 制度與心理機制**
+> - **#1、#5、#11、#15 形成「物理 ELI5」四聯**：光的質量、時間起源、太空望遠鏡穩定、聲音穿固體——本日 ELI5 物理比例特別高（4/15 = 27%）。
+> - **#6 機器人突然進步**：直接呼應 Boston Dynamics、Figure、Unitree 過去 6 個月人形機器人衝高熱度——RL + sim-to-real + 物理模擬器（Isaac Sim、MuJoCo）的組合突破。**這個 ELI5 問題反映了非業內人士對 humanoid robot 突然進步的觀感與真實技術突破吻合**。
+> - **#10 人腦為何易成癮**：呼應本月 [[綜整-AI協作工程的六大趨勢]] 趨勢六「Lifelong AI Agent」——AI 對 dopamine reward 的免疫力是長期 agent 設計的隱含優勢（不會「成癮」）。
+> - **#7 浴室火警 + #4 帳密分頁** = **設計取捨類**：兩則涉及「為何標準做法是這樣」的解釋；ELI5 此類問題佔比穩定。
 
 ## 2026-04-29
 

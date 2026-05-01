@@ -11,8 +11,10 @@
 - [[src-oh-my-codex]] — OpenAI Codex CLI 的 harness 工具（27k stars / TypeScript），4 個 skill 命令（$deep-interview / $ralplan / $ralph / $team）+ tmux runtime + wiki MCP server（來源數：1）
 - [[src-claude-for-creative-work]] — Anthropic 2026-04-28 推出 8 個 MCP connector（Blender / Adobe / Autodesk / Ableton / Splice 等），Claude 進入創意產業工具鏈（來源數：1）
 - [[src-blender-ai-video-workflow]] — 太陽鴿鴿 2026-03-28 影片：Blender + Seedance 2.0 + Nano Banana 2 三步工作流，AI 視頻控制性差的解法（社群比 Anthropic 加入 Blender Dev Fund 早 1 個月）（來源數：1）
+- [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
+- [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 
-> 月報 2026-04-29 已更新至 04-29 區塊（HN/GH Trending/PH/Wikipedia/skills-picks），ast-grep 連十二日精選 + 安裝累積 +998
+> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5），ast-grep 連十三日精選 + 累積 +1,132 install 破千
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）

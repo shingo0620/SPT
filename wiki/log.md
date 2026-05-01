@@ -2,6 +2,43 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-01] ingest | 04-30 daily 7 來源月報補完 + andrej-karpathy-skills + codeburn
+
+**ingest 兩個新 source 頁**：
+- [[src-andrej-karpathy-skills]]（103k stars / 10.1k forks 的爆紅 CLAUDE.md repo）
+  - 作者 forrestchang（@jiayuan_jy）= [[Multica]] 開發者（README 直接 plug Multica）
+  - 內容：把 [[Andrej Karpathy]] 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before Coding / Simplicity First / Surgical Changes / Goal-Driven Execution）
+  - **使用者全域 CLAUDE.md 已採用此四原則**——本 wiki 第一次紀錄使用者已採用的具體 CLAUDE.md 來源
+  - Karpathy 引用：「LLMs are exceptionally good at looping until they meet specific goals... Don't tell it what to do, give it success criteria and watch it go.」
+- [[src-codeburn]]（getagentseal/codeburn 4.7k stars / 355 forks）
+  - 一句話：「See where your AI coding tokens go」TUI dashboard，跨 16 個 AI coding 工具的 token 用量與成本觀測
+  - 完全本地執行，用 LiteLLM 計價，支援 [[Claude Code]] / Codex / Cursor / Gemini CLI / OpenCode 等
+  - 與 [[src-oh-my-codex]] 互補：oh-my-codex 是行為層、codeburn 是可觀測層
+
+**處理 7 個 daily 來源 04-30 區塊**：
+- [[src-reddit-til-2026-04]]：Tim Hortons 創辦人車禍亡（16,586）+ 第一明尼蘇達 82% 戰損 + 美國車廠不能直銷 + Old Sarum 腐敗選區 + Apollo 15 私人 Bulova 手錶
+- [[src-reddit-eli5-2026-04]]：物理 ELI5 四聯（光的質量/時間起源/太空望遠鏡/聲音穿固體）+ #6 機器人突然進步 + #10 人腦成癮機制
+- [[src-hn-2026-04]]：**Copy Fail CVE-2026-31431（1,243 分本日榜首）+ Zig anti-AI policy（517 分）+ Mozilla 反對 Chrome Prompt API（368 分）+ Granite 4.1 8B 比 32B MoE + Claude Code 拒絕「OpenClaw」commits ⚠️**
+- [[src-github-trending-2026-04]]：CVE-2026-31431 三個 PoC repo（HN+GH 同 CVE 共振）+ MU5735 NTSB FOIA 文件雙 repo + gpt-image-2-skill
+- [[src-producthunt-2026-04]]：**Google Gemini Deep Research + File Generation 雙連發 + Symphony Codex orchestration spec + Rova AI goal-driven testing（呼應 Karpathy 第 4 條）**
+- [[src-wikipedia-2026-04]]：**Nahui Ollin 620,773 瀏覽——本月病毒擴散最高峰（前一日 140k 的 4.4 倍）**+ Michael 三聯持續 + Abu Ghraib 22 週年
+- [[src-skills-picks-2026-04]] + [[src-skill-ast-grep]]：ast-grep **連十三日精選**，4,073 install（+134），**累積 +1,132 破 +1,000 整數里程碑**；連 4 日落「100±20」穩態，05-01 達 anchor skill 確認門檻
+
+**修正前次 ingest 失敗**：發現 [[src-producthunt-2026-04]] 與 [[src-wikipedia-2026-04]] 的 04-28+04-29 區塊**前次（2026-04-30）ingest 時 Edit 沒成功插入**（Edit 訊息回報 success 但實際 string 未匹配），本次一併補完三天區塊（04-28 + 04-29 + 04-30）
+
+**跨來源連動**：
+- HN #1 Copy Fail（CVE-2026-31431）+ GH Trending #2/#6/#12 同 CVE PoC = **同日同 CVE 共振**罕見
+- HN #3 Zig anti-AI policy + #6 Mozilla 反對 Chrome Prompt API = **OSS/Web 標準對 AI 治理的政策反彈**
+- HN #12 Claude Code 拒絕 "OpenClaw" commits ⚠️ = 呼應 [[src-agent-model-body-harness]] 的 OpenClaw 競品；**廠商在自家工具靜默不利競品**的暗黑面，趨勢一「環境比模型聰明」的副作用
+- PH #9 Rova AI「goal-driven testing」 + 同日新建 [[src-andrej-karpathy-skills]] 的第 4 條 Goal-Driven Execution = **Karpathy 觀察落地為商業 SaaS 的具體案例**
+- PH #1 VideoOS + #4 Hera Launch（AI video）+ HN #4 Noctua 3D CAD = 創意內容生成擴散，呼應 [[src-blender-ai-video-workflow]]
+
+**影響頁面**：
+- 新建：[[src-andrej-karpathy-skills]]、[[src-codeburn]]
+- 更新：7 個月報 + [[src-skill-ast-grep]] + [[index]]
+
+---
+
 ## [2026-04-30] lint+ingest | Blender AI 視頻工作流 + 清理 9 個冗餘 raw
 
 **lint 健康檢查結果**：

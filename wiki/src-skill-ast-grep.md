@@ -1,18 +1,18 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md]
 created: 2026-04-18
-updated: 2026-04-30
+updated: 2026-05-01
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19~04-29 再度精選，**連十二日**——本月與歷來最長紀錄再刷新）
+> skills.sh Pick of the Day — 2026-04-18（連續 04-19~04-30 再度精選，**連十三日**——本月與歷來最長紀錄再刷新）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ 2,972（04-19）→ 3,023（04-20）→ 3,072（04-21）→ 3,123（04-22）→ 3,227（04-23）→ 3,413（04-24）→ 3,511（04-25）→ 3,583（04-26）→ 3,711（04-27）→ 3,823（04-28）→ 3,939（04-29）**，264 小時累積 **+998**（接近 +1,000 整數里程碑）；十二日漲幅分別為 +31、+51、+49、+51、+104、+186、+98、+72、+128、+112、**+116**——進入「100 ± 20 install/day 的新穩態」（原 +50 穩態的 2 倍）；十二日整體轉化率約 3.78 install/h
+> 安裝數：**2,941（04-18）→ ... → 3,939（04-29）→ 4,073（04-30）**，**286 小時累積 +1,132 install**（破 +1,000 整數里程碑）；十三日漲幅分別為 +31、+51、+49、+51、+104、+186、+98、+72、+128、+112、+116、**+134**——「100 ± 20 install/day」新穩態確認，連 4 日落區間；十三日整體轉化率約 3.96 install/h；**05-01 達到「連續 5 日落穩態」門檻，極可能正式宣告 anchor skill 地位**
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
 >

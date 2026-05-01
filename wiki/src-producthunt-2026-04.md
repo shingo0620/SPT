@@ -1,15 +1,97 @@
 ---
 title: Product Hunt 月報 — 2026-04
 type: source
-sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md, producthunt-2026-04-26.md, producthunt-2026-04-27.md, producthunt-2026-04-28.md, producthunt-2026-04-29.md]
+sources: [producthunt-2026-04-15.md, producthunt-2026-04-16.md, producthunt-2026-04-17.md, producthunt-2026-04-18.md, producthunt-2026-04-19.md, producthunt-2026-04-20.md, producthunt-2026-04-21.md, producthunt-2026-04-22.md, producthunt-2026-04-23.md, producthunt-2026-04-24.md, producthunt-2026-04-25.md, producthunt-2026-04-26.md, producthunt-2026-04-27.md, producthunt-2026-04-28.md, producthunt-2026-04-29.md, producthunt-2026-04-30.md]
 created: 2026-04-15
-updated: 2026-04-30
+updated: 2026-05-01
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 4 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-30
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | VideoOS by Jupitrr AI | All-in-one video workflow | 256 | Social Media / Marketing / Video | [PH](https://www.producthunt.com/products/jupitrr) |
+| 2 | **Wonder** | The AI design agent that works on your canvas | 209 | Design Tools / Dev Tools | [PH](https://www.producthunt.com/products/wonder-public-alpha) |
+| 3 | Mintlify Editor | AI-native collaborative editor | 178 | Notes / Text Editors / GitHub | [PH](https://www.producthunt.com/products/mintlify) |
+| 4 | Hera Launch | Studio-quality launch videos with AI | 172 | Design Tools / AI | [PH](https://www.producthunt.com/products/hera-6) |
+| 5 | **Gemini Deep Research Agent** | Web and MCP research agents in [[Google]] Gemini API | 153 | API / Dev Tools / AI | [PH](https://www.producthunt.com/products/gemini-deep-research) |
+| 6 | File Generation in Gemini | Generate production-ready files in chat | 114 | Productivity / AI | [PH](https://www.producthunt.com/products/gemini-6) |
+| 7 | **Quarkdown** | Markdown with LaTeX in modern typesetting | 107 | Open Source / Writing / Dev Tools | [PH](https://www.producthunt.com/products/quarkdown) |
+| 8 | Invite Only | Event invite that gets people to show up | 102 | Productivity / Live Events | [PH](https://www.producthunt.com/products/invite-only) |
+| 9 | Rova AI | Autonomous, **goal-driven testing** for web & mobile | 100 | Productivity / Development | [PH](https://www.producthunt.com/products/rova-ai) |
+| 10 | **Mistral Medium 3.5** | 128B model for coding, reasoning, and long tasks | 97 | AI | [PH](https://www.producthunt.com/products/mistral-medium-3-5) |
+| 11 | **Symphony** | Open-source spec for Codex orchestration | 94 | Open Source / AI | [PH](https://www.producthunt.com/products/openai) |
+| 12 | SuperMind | Business that runs itself | 91 | SaaS / AI / BI | [PH](https://www.producthunt.com/products/supermind-2) |
+| 13 | AstroGrid - Universe Engine | Explore the universe in browser, real 3D | 89 | Education / Space | [PH](https://www.producthunt.com/products/astrogrid) |
+| 14 | Adoptly | Turn product releases into feature adoption | 86 | Customer Communication / SaaS | [PH](https://www.producthunt.com/products/adoptly) |
+| 15 | Tabstack | Extract web data, automate browsers, no scraper | 87 | API / Dev Tools / AI | [PH](https://www.producthunt.com/products/tabstack) |
+
+> **04-30 主題：[[Google]] Gemini 雙連發 + Codex 生態擴張**
+> - **#5 + #6 Gemini 雙產品同日**：Deep Research Agent（Web + MCP）+ File Generation——[[Google]] 04-22~24 Workspace Intelligence 之後第二波；**Deep Research 是 OpenAI 同名功能後的 Google 跟進**——兩家 search agent 賽道正面對決
+> - **#11 Symphony**：[[OpenAI]] Codex orchestration 的 open-source spec——延續 [[src-oh-my-codex]] 的「給 raw model 加 harness」主題
+> - **#9 Rova AI「Goal-driven testing」**：完全呼應 [[src-andrej-karpathy-skills]] 第 4 條原則——**Karpathy 觀察落地為商業 SaaS**
+> - **#10 Mistral Medium 3.5**：歐系 LLM 持續精進；延續 04-29 HN #7 同產品連榜
+> - **#1 + #4 視頻製作雙產品**：呼應 [[src-blender-ai-video-workflow]] 的混合工作流需求
+> - 觀察查核：本日 AI 直接相關 ≥9 個（>60%），與本月趨勢一致
+
+## 2026-04-29
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | **Plurai** | Vibe-train evals and guardrails tailored to use case | **361** | API / Dev Tools / AI | [PH](https://www.producthunt.com/products/plurai) |
+| 2 | **Open Wearables** | Open infra for wearable-powered health products | 337 | Open Source / Wearables | [PH](https://www.producthunt.com/products/open-wearables) |
+| 3 | Gro v2 | Spot signals, trigger outreach - turn posts into pipeline | 186 | Sales / AI / CRM | [PH](https://www.producthunt.com/products/gro-2) |
+| 4 | **KarmaBox** | Run your own [[Claude Code]] in your pocket | 178 | Productivity / Privacy / AI | [PH](https://www.producthunt.com/products/karmabox-2) |
+| 5 | **CodeHealth MCP Server** by CodeScene | Keep AI-generated code healthy and maintainable | 172 | Dev Tools / AI / Vibe coding | [PH](https://www.producthunt.com/products/codescene-codehealth-mcp-server) |
+| 6 | Netlify Database | Ship data-driven apps without breaking flow | 151 | Dev Tools / AI / Database | [PH](https://www.producthunt.com/products/netlify) |
+| 7 | UXPin Forge | Generate UI from your design system | 136 | Design Tools / UX | [PH](https://www.producthunt.com/products/uxpin) |
+| 8 | **Dreambase Data Agent Skills** | Analytical skills for data agents on Supabase | 97 | Analytics / Dev Tools | [PH](https://www.producthunt.com/products/dreambase-ai) |
+| 9 | Picsart CLI | Picsart's power right from your AI chat box | 92 | Design Tools / Marketing / AI | [PH](https://www.producthunt.com/products/picsart) |
+| 10 | Compact Message Composer by CometChat | Modern chat out of the box | 88 | Messaging / Dev Tools / SDK | [PH](https://www.producthunt.com/products/cometchat) |
+| 11 | Redesign by Nodewave | Free open-source: stop designing, describe | 87 | Design Tools / AI | [PH](https://www.producthunt.com/products/redesign-by-nodewave) |
+| 12 | ZenTrack | Notes, money, and health. Sorted | 86 | Android / Health / Productivity | [PH](https://www.producthunt.com/products/zentrack-finances-streaks-health) |
+| 13 | **Devin for Terminal** | Local CLI coding agent with Devin Cloud integration | 83 | SE / Dev Tools / AI | [PH](https://www.producthunt.com/products/devin-by-cognition) |
+| 14 | Plannotator | Annotate any doc/URL/folder, send feedback to agents | 81 | Writing / Education / AI | [PH](https://www.producthunt.com/products/plannotator) |
+| 15 | **noirdoc** | PII guard for [[Claude Code]] | 81 | Open Source / Privacy / Dev Tools | [PH](https://www.producthunt.com/products/noirdoc) |
+
+> **04-29 主題：「給 Coding Agent 配套品」生態擴張 + AI 評估標準化**
+> - **#4 KarmaBox + #13 Devin for Terminal + #15 noirdoc 三聯**：3 個 [[Claude Code]] / Codex 配套品同日上榜——**Coding agent 配套品從可選變必備**
+> - **#1 Plurai 榜首**（361 票）：vibe-train evals + guardrails；對應 [[AI 品質共謀]] 的商業解
+> - **#5 CodeHealth MCP Server**：MCP 形式提供——延續 [[Skill vs Bash vs MCP]] 「MCP 包驗證好的邏輯」原則
+> - **#8 Dreambase Skills**：Skill 從 coding 擴展到 data analytics
+> - **#9 Picsart CLI**：呼應 [[src-claude-for-creative-work]] 04-28 主題（創意工具+AI），但走 CLI 路線
+
+## 2026-04-28
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | SureThing.io | Autonomous agent that communicates results like a human | 239 | Productivity / AI | [PH](https://www.producthunt.com/products/surething-io) |
+| 2 | Clera | An AI agent matching candidates to right roles | 236 | Hiring / iMessage / Tech | [PH](https://www.producthunt.com/products/clera) |
+| 3 | Social Fetch | Pull real-time data from any social platform via API | 168 | API / Social Media | [PH](https://www.producthunt.com/products/social-fetch) |
+| 4 | Actian VectorAI DB | Portable vector database for AI agents beyond cloud | 149 | Dev Tools / AI / Database | [PH](https://www.producthunt.com/products/actian) |
+| 5 | Lovable mobile app | Your ideas don't wait for you to sit at a desk | 120 | Android / Design Tools / Dev | [PH](https://www.producthunt.com/products/lovable) |
+| 6 | OrcaSheets AI Reports | Query data to build dashboards and generate reports | 109 | Analytics / Marketing | [PH](https://www.producthunt.com/products/orcasheets) |
+| 7 | Famnest | Private family hub for schedules, health, shared bills | 106 | iOS / Privacy | [PH](https://www.producthunt.com/products/famnest) |
+| 8 | SimCam | Test camera features in iOS simulator | 105 | iOS / Dev Tools / AI | [PH](https://www.producthunt.com/products/simcam-2) |
+| 9 | The Agentic Sales Engine by Crono | Sales teams + AI agents work side by side | 104 | Sales / AI | [PH](https://www.producthunt.com/products/crono-4) |
+| 10 | **MaxHermes by Minimax** | AI agent that **builds skills from every task you give it** | 96 | Productivity / AI | [PH](https://www.producthunt.com/products/maxhermes-by-minimax) |
+| 11 | WUPHF by Nex.ai | AI employees who build their own knowledge base | 90 | Open Source / AI | [PH](https://www.producthunt.com/products/wuphf-2) |
+| 12 | Voice Agents by MindPal | 24/7 client-facing AI voice agents | 89 | SaaS / AI | [PH](https://www.producthunt.com/products/mindpal-ai) |
+| 13 | Curflow | Draw a gesture for Mac to execute | 89 | Mac / Productivity | [PH](https://www.producthunt.com/products/curflow) |
+| 14 | Oly | Multi-channel listing sync for luxury fashion resellers | 84 | Pitch London | [PH](https://www.producthunt.com/products/oly) |
+| 15 | **Devin for Terminal** | CLI agent that keeps working when you close laptop | 84 | SE / Dev Tools / AI | [PH](https://www.producthunt.com/products/devin-1-2-by-congition) |
+
+> **04-28 主題：AI agent 平台化 + 自我學習 skill 概念**
+> - **#10 MaxHermes by Minimax「builds skills from every task」**：[[Qwen]] 同類中國 AI 公司 Minimax 出場——直接以「自動建立 skill」為賣點，呼應 [[綜整-AI協作工程的六大趨勢]] 趨勢五 + 趨勢六（Lifelong AI Agent）
+> - **#15 Devin for Terminal**（與 04-29 #13 同產品連兩日榜）：Cognition 的 Devin 從 cloud-only → local CLI + cloud hybrid
+> - **#1 + #2 vertical agent 雙榜首**：通用 LLM → vertical agent 是商業化主軸
+> - **#11 WUPHF by Nex.ai**：完全呼應 [[LLM Wiki]] / 趨勢六「Lifelong AI Agent」——商業 SaaS 版本
+> - **#9 + #12** 業務銷售 vertical 連兩品
 
 ## 2026-04-27
 

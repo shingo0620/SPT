@@ -1,15 +1,42 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-04
 type: source
-sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md, reddit-til-2026-04-25.md, reddit-til-2026-04-26.md, reddit-til-2026-04-27.md, reddit-til-2026-04-28.md, reddit-til-2026-04-29.md]
+sources: [reddit-til-2026-04-14.md, reddit-til-2026-04-18.md, reddit-til-2026-04-19.md, reddit-til-2026-04-20.md, reddit-til-2026-04-21.md, reddit-til-2026-04-22.md, reddit-til-2026-04-23.md, reddit-til-2026-04-24.md, reddit-til-2026-04-25.md, reddit-til-2026-04-26.md, reddit-til-2026-04-27.md, reddit-til-2026-04-28.md, reddit-til-2026-04-29.md, reddit-til-2026-04-30.md]
 created: 2026-04-14
-updated: 2026-04-29
+updated: 2026-04-30
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 4 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-30
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | Tim Hortons 創辦人 Tim Horton 死於酒駕——車速過快、用藥、酒測值兩倍法定上限 | 16,586 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Tim_Horton#Death_and_aftermath) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz8gvy/) |
+| 2 | 1863 年 7 月 2 日蓋茨堡之役，第一明尼蘇達步兵團單日損失 82% 戰力——美軍至今單日交戰最大單位損失 | 9,564 | ✅ | [CivilWarMed](https://www.civilwarmed.org/1st-minnesota-at-gettysburg/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szl0ao/) |
+| 3 | 美國許多州法律禁止車廠直接賣車給消費者（必須透過經銷商） | 8,220 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Direct-to-consumer_automobile_selling_in_the_United_States) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz5qql/) |
+| 4 | 演員 Richard Kelton 在拍片時因一氧化碳中毒身亡，Universal Studios 因拖車通風系統不當僅被罰 720 美元 | 5,630 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Richard_Kelton) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz92ve/) |
+| 5 | 鱷魚是爬蟲類中少見會照顧新生兒的——母鱷用嘴巴叼著幼鱷下水、餵食，照顧期超過 1 年 | 5,107 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Crocodile#Egg-laying_&_nesting) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szg9vs/) |
+| 6 | 1832 年前，英格蘭一座無居民的小山「Old Sarum」可派 2 名國會議員——曾是城鎮但被棄置，山主保留任命權，這 2 個席次公開買賣 | 3,612 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Old_Sarum_(UK_Parliament_constituency)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szohn3/) |
+| 7 | 海灘男孩（Beach Boys）解雇父親（過度干涉的經理人），父親隨即組音色相似的「The Sunrays」報復 | 3,314 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Murry_Wilson) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szimnq/) |
+| 8 | 英格蘭與威爾斯有「Sheep Worrying」刑罪——若遛狗讓狗追趕、騷擾、咬羊則違法；某些情況下農夫可合法射殺威脅羊群的狗 | 2,720 | ✅ | [National Sheep Assoc](https://nationalsheep.org.uk/for-the-public/culture/sheep-worrying/sheep-worrying/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szc1cd/) |
+| 9 | Prader-Willi 症候群：基因疾病導致 ghrelin（飢餓荷爾蒙）過高，孩童食慾無饜易致肥胖；照顧者常需鎖食物 | 2,656 | ✅ | [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/21016-prader-willi-syndrome) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz14vk/) |
+| 10 | Apollo 15 唯一在月面用過的私人手錶——指揮官 David Scott 個人 Bulova（NASA Omega Speedmaster 鏡片掉了當備用），2015 年拍出 162.5 萬美元 | 1,701 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Bulova) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz09i7/) |
+| 11 | Robert Louis Stevenson 1881 年是有紀錄首位用兵人玩具規則做兵棋的人（未出版）；H. G. Wells 1913 年《Little Wars》正式出版微型兵棋規則 | 1,366 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Miniature_wargame#History) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1sz3kq5/) |
+| 12 | EPCOT 原是 Walt Disney 構想的放射城市——含主題樂園、旅館、營地、會議中心、住宅、高爾夫、工業區、機場、單軌；地下道路讓「行人為王」（未實現） | 908 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/EPCOT_(concept)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szsrrp/) |
+| 13 | 獅心王 Richard 被擄勒贖期間，英格蘭暫時成為神聖羅馬帝國附庸國 | 668 | ⚠️ | [Medievalists](https://www.medievalists.net/2014/08/kidnapped-king-richard-germany-1192-1194/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szdgm8/) |
+| 14 | @ 符號至少從 1345 年就存在；西班牙葡萄牙做為「arroba」（重量單位）；1971 年 Ray Tomlinson 選它作 email 分隔符進入數位世界 | 637 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/At_sign) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szg0x4/) |
+| 15 | 利比里亞是商船最常用的方便旗，但利比里亞航運註冊處實由美國公司在維吉尼亞 Dulles 經營 | 588 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Liberian_companies) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1szp13g/) |
+
+> **04-30 主題：制度奇景與歷史側寫**
+> - **#3 美國車廠不能直銷 + #15 利比里亞方便旗實由美國公司管**：兩則「制度設計被產業利益形塑」的案例——前者是經銷商遊說的勝利、後者是國家主權被外包的歷史現象（Liberia 1949 年起把船舶註冊外包給美國 Liberian International Ship & Corporate Registry）。
+> - **#6 Old Sarum「腐敗選區」**：英國史上著名「rotten borough」之一——19 世紀大改革法案（1832 Reform Act）解決的就是這類「選區人口為零卻能派議員」的怪象。
+> - **#1 Tim Horton 死亡** vs **#5 鱷魚育兒**：罕見的「品牌真實創辦人故事」與「動物行為反直覺」並列。Tim Horton 是冰球員，1974 年 47 歲時車禍身亡；Tim Hortons 連鎖店仍以他命名。
+> - **#13 ⚠️ 英格蘭附庸於 HRE**：Richard the Lionheart 1192-1194 被神聖羅馬帝國皇帝 Henry VI 擄獲，**勒贖 15 萬馬克**（英王國年收入兩倍）；技術上 Richard 確曾向 Henry 「臣服」（liege homage）但英格蘭是否真為「附庸國」歷史學家有爭議——這是「形式 vs 實質」的典型問題。
+> - **#11 文學家做兵棋**：Stevenson + Wells 的兵棋設計史——本日唯一遊戲設計類條目，與 [[MDA 框架]] / [[src-遊戲引擎的未來]] 主題相關。
 
 ## 2026-04-29
 

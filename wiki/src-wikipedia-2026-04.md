@@ -1,15 +1,115 @@
 ---
 title: Wikipedia Featured 月報 — 2026-04
 type: source
-sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md, wikipedia-featured-2026-04-26.md, wikipedia-featured-2026-04-27.md, wikipedia-featured-2026-04-28.md, wikipedia-featured-2026-04-29.md]
+sources: [wikipedia-featured-2026-04-15.md, wikipedia-featured-2026-04-16.md, wikipedia-featured-2026-04-17.md, wikipedia-featured-2026-04-18.md, wikipedia-featured-2026-04-19.md, wikipedia-featured-2026-04-20.md, wikipedia-featured-2026-04-21.md, wikipedia-featured-2026-04-22.md, wikipedia-featured-2026-04-23.md, wikipedia-featured-2026-04-24.md, wikipedia-featured-2026-04-25.md, wikipedia-featured-2026-04-26.md, wikipedia-featured-2026-04-27.md, wikipedia-featured-2026-04-28.md, wikipedia-featured-2026-04-29.md, wikipedia-featured-2026-04-30.md]
 created: 2026-04-15
-updated: 2026-04-30
+updated: 2026-05-01
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 4 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-04-30
+
+### 今日精選文章
+**[330 West 42nd Street](https://en.wikipedia.org/wiki/330_West_42nd_Street)** —— 曼哈頓 Hell's Kitchen 區 485 ft（148 m）33 層摩天樓。Raymond Hood 與 J. André Fouilhoux 設計，混合 International Style、Art Deco、Art Moderne 風格；1930-1931 興建，原為 McGraw-Hill 集團總部。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Nahui Ollin](https://en.wikipedia.org/wiki/Nahui_Ollin) | **620,773** |
+| 2 | [2026 West Bengal Legislative Assembly election](https://en.wikipedia.org/wiki/2026_West_Bengal_Legislative_Assembly_election) | 283,555 |
+| 3 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 265,032 |
+| 4 | [Michael (2026 film)](https://en.wikipedia.org/wiki/Michael_(2026_film)) | 210,652 |
+| 5 | [Jaafar Jackson](https://en.wikipedia.org/wiki/Jaafar_Jackson) | 155,035 |
+| 6 | [The Boys season 5](https://en.wikipedia.org/wiki/The_Boys_season_5) | 146,139 |
+| 7 | [HMS Trump](https://en.wikipedia.org/wiki/HMS_Trump) | 131,414 |
+| 8 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 130,145 |
+| 9 | [2026 Tamil Nadu Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) | 125,975 |
+| 10 | [Blog](https://en.wikipedia.org/wiki/Blog) | 113,714 |
+
+### 歷史上的今天
+- **2021**：以色列 Lag B'Omer 朝聖 Rabbi Shimon bar Yochai 墓，群眾踩踏 45 死
+- **2014**：中國新疆烏魯木齊爆炸案，3 死 79 傷
+- **2009**：荷蘭男子高速駕車衝撞女王日遊行隊伍，企圖殺害皇室
+- **2004**：The New Yorker 線上發表 Abu Ghraib 監獄美軍虐待伊拉克囚犯的文章與照片
+- **2000**：波蘭修女 Faustina Kowalska 因耶穌異象啟發 Divine Mercy 信仰被教宗 John Paul II 封聖
+
+> **04-30 主題：Nahui Ollin 病毒擴散最高峰 + Abu Ghraib 22 週年**
+> - **#1 Nahui Ollin 620,773 瀏覽——前一日 140k 的 4.4 倍**：本月最強 Wikipedia 病毒擴散事件達到峰值——這個墨西哥 1920s 藝術家從 04-26 月報的「連十二日榜首」到 04-30 突破 60 萬日瀏覽。背後可能是 TikTok / Instagram 病毒迷因或紀錄片首映。
+> - **#3 + #4 + #5 Michael 三聯仍續**：MJ + Michael 2026 film + Jaafar Jackson 連 5+ 日 Top 5；Michael 2026 film 擴散持續但已從 333k（04-28 高峰）回落至 210k——傳記片宣傳期過峰。
+> - **#7 HMS Trump 131k**：英國 1944 年下水的 T 級潛艇 HMS Trump；可能因 2026 美國政治氛圍引發詞 Wikipedia 流量爆發（原本是冷僻軍艦條目）。
+> - **#10 Blog 113k**：「Blog」這個基礎概念條目進入 Top 10——罕見現象，可能與某新聞事件討論「blogger 仍重要嗎」有關。
+> - **歷史今日 2004 Abu Ghraib**：22 週年；這個事件對 2000s 美國軍事道德形象的長期影響仍是 Wikipedia 流量持續來源。
+> - **資料查核備註**：本月 Wikipedia「2026 影片條目」+「歷史人物」+「政治選舉」三類流量佔 Top 10 半數——反映 Wikipedia 流量受「當下發生事」與「迷因病毒擴散」雙重推動。
+
+## 2026-04-29
+
+### 今日精選文章
+**[1998–99 Gillingham F.C. season](https://en.wikipedia.org/wiki/1998%E2%80%9399_Gillingham_F.C._season)** —— 英式足球 Gillingham F.C. 1998-99 賽季參加 Football League Second Division（第三層）。簽下兩位破紀錄轉會費前鋒、前 8 場只贏 1 場、後續 17 場不敗、第 4 名打進升級附加賽；半準決勝退 Preston North End、決賽 Wembley vs Manchester City——比賽剩不到 10 分鐘領先 2-0，連失兩球，PK 戰落敗。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 264,743 |
+| 2 | [Michael (2026 film)](https://en.wikipedia.org/wiki/Michael_(2026_film)) | 252,395 |
+| 3 | [Jaafar Jackson](https://en.wikipedia.org/wiki/Jaafar_Jackson) | 173,863 |
+| 4 | [Sabethes cyaneus](https://en.wikipedia.org/wiki/Sabethes_cyaneus) | 167,497 |
+| 5 | [Nathan Lee Chasing His Horse](https://en.wikipedia.org/wiki/Nathan_Lee_Chasing_His_Horse) | 160,627 |
+| 6 | [Cottingley Fairies](https://en.wikipedia.org/wiki/Cottingley_Fairies) | 156,209 |
+| 7 | [OPEC](https://en.wikipedia.org/wiki/OPEC) | 156,191 |
+| 8 | [Michael Olise](https://en.wikipedia.org/wiki/Michael_Olise) | 151,700 |
+| 9 | [Nahui Ollin](https://en.wikipedia.org/wiki/Nahui_Ollin) | 140,534 |
+| 10 | [2026 West Bengal Legislative Assembly election](https://en.wikipedia.org/wiki/2026_West_Bengal_Legislative_Assembly_election) | 132,774 |
+
+### 歷史上的今天
+- **2015**：印尼處決 Bali Nine 主謀（2005 年企圖偷渡 8.3 公斤海洛因到澳洲）
+- **2011**：William 王子與 Catherine Middleton 西敏寺結婚
+- **2006**：氣旋 Mala 緬甸 Thandwe 登陸，37 死
+- **1997**：化學武器公約生效（87 簽約國）
+- **1995**：北韓平壤 Rungrado 1st of May Stadium 165,000 觀眾——**Ric Flair vs Antonio Inoki 主賽 Collision in Korea，史上最多觀眾的職業摔角賽事**
+
+> **04-29 主題：Michael 三聯持續 + 摔角史紀錄**
+> - **MJ + Jaafar + Michael 2026 film 仍 Top 1-3**——擴散末期但仍主導
+> - **#9 Nahui Ollin 140k 入 Top 9**——進入長尾，但 04-30 又會跳到 620k 的最高峰
+> - **歷史今日 1995 Ric Flair vs Inoki**：北韓 165,000 觀眾——史上觀眾數最多職業摔角賽事——冷戰末期文化奇景
+> - **資料查核備註**：本日精選 Gillingham 1998-99 屬於英式足球冷門條目；Wikipedia featured 篩選機制偏好「敘事完整 + 來源充足」而非「主題知名」
+
+## 2026-04-28
+
+### 今日精選文章
+**[This Side of the Moon](https://en.wikipedia.org/wiki/This_Side_of_the_Moon)** —— Elizabeth Cook 第三張錄音室專輯，2005-05-17 由 Hog Country Production 發行。前作 Hey Y'all（2002, Warner Bros.）銷量慘淡未獲鄉村電台播放；Cook 2003 年自願離開 Warner Bros.，把在 Nashville Music Row 的失望經驗作為本專輯靈感。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Michael (2026 film)](https://en.wikipedia.org/wiki/Michael_(2026_film)) | **333,042** |
+| 2 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 312,623 |
+| 3 | [Jaafar Jackson](https://en.wikipedia.org/wiki/Jaafar_Jackson) | 229,845 |
+| 4 | [Euphoria (American TV series)](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)) | 191,186 |
+| 5 | [Limonene](https://en.wikipedia.org/wiki/Limonene) | 163,072 |
+| 6 | [Apex (2026 film)](https://en.wikipedia.org/wiki/Apex_(2026_film)) | 162,581 |
+| 7 | [Neatsville, Kentucky](https://en.wikipedia.org/wiki/Neatsville%2C_Kentucky) | 162,035 |
+| 8 | [Nahui Ollin](https://en.wikipedia.org/wiki/Nahui_Ollin) | 137,954 |
+| 9 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 135,296 |
+| 10 | [2026 West Bengal Legislative Assembly election](https://en.wikipedia.org/wiki/2026_West_Bengal_Legislative_Assembly_election) | 129,236 |
+
+### 歷史上的今天
+- **2008**：芝加哥 Trump International Hotel and Tower（1,388 ft / 423.2 m）開幕，當時擁有全球地面以上最高住宅
+- **1999**：加拿大亞伯達省 Taber 高中發生加國 20 多年來首起致命校園槍擊
+- **1996**：澳洲 Port Arthur 大屠殺，35 死 23 傷——直接推動嚴格槍枝管制立法
+- **1988**：阿羅哈航空 243 號班機空中爆裂式減壓，1 名空服員被吸出機外死亡
+- **1983**：西德新聞雜誌 Stern 刊登所謂「希特勒日記」摘錄，後證實為偽造
+
+> **04-28 主題：Michael 2026 film 上線首日衝榜首 + 槍擊與航空意外密集日**
+> - **#1 Michael 2026 film 333k 首次超 MJ 312k**——傳記片瀏覽首次超本尊
+> - **#5 Limonene 163k**：化學單體進入 Top 5——少見高瀏覽
+> - **歷史今日多起暴力事件密集**：1996 Port Arthur + 1999 Taber + 1988 Aloha 243
 
 ## 2026-04-27
 
