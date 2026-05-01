@@ -193,3 +193,4 @@ OMX 對 Codex 就像：
 - [[綜整-AI協作工程的六大趨勢]]（趨勢一「環境比模型聰明」與趨勢二「上下文管理」的活生生案例）
 - [[OpenAI]]（OMX 寄生於 Codex 之上）
 - [[Claude Code]]（與 OMX 形成對照——Anthropic 與 OpenAI 兩大 coding agent 生態系的 harness 工具）
+- [[src-codeburn]]（互補關係：oh-my-codex 是行為層工具鏈、codeburn 是跨 16 工具的成本觀測層）

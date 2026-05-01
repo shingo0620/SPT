@@ -2,6 +2,82 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-01] synthesis | C 批：W17 週綜整 + 2026-04 月綜整建立
+
+**動機**：05-01 lint 第二次 A+B 批修正完成後，C 批列為「使用者裁量何時做」的綜整缺口——W17（04-20 ~ 04-26）已完整結束（當前處於 W18，依 feedback「週綜整只能在下一週開始後回看」可做）；2026-04 月已過完（04-30）可做月綜整。使用者批准接續執行。
+
+**新建 [[週綜整-2026-W17]]**——成熟營運週：
+- 規模指標 W17 末約 82 頁（W16 末 52 頁 + 30）：18 個新實體/概念 + 8 個新 source
+- 六大主題線：
+  1. AI 廠商三方陣營資金重組（Amazon $5B + Google $40B 雙金主）
+  2. AI 模型密集發布日 04-24（GPT-5.5 + DeepSeek V4 + Anthropic postmortem 同日 HN 前 3）
+  3. Apple CEO 交接（John Ternus 接 Tim Cook，HN #1 2,061 分 + Wikipedia 熱門 #4）
+  4. AI 品質共謀概念誕生（敏捷三叔 → SBE 解方）
+  5. Multica/Devv.AI 開源案例 + LLM Wiki 概念主流化（HN #6 145 分）
+  6. Skill 生態跨平台共振（04-26 GH Trending 5/15 為 Skill）
+- 矛盾事件：⚠️ skills.sh fallback 假象（事後 05-01 校正，本綜整明確標注撤回）+ 04-25 lint 誤判 raw 重複檔
+- 與 W16 結構性對比：起點建構 → 成熟營運的轉變
+
+**新建 [[月綜整-2026-04]]**——首月完整盤點：
+- 規模：87 頁（41 source + 24 entity + 17 concept + 2 synthesis + 1 comparison + 7 月報 + 4 skill 解析），18 個工作天
+- 七大主題線：
+  1. AI 協作工程方法論完整建構（從三大師到三層拆解的概念演進路徑）
+  2. Claude Code 生態系完整覆蓋（含 OpenClaw 競品案例）
+  3. AI 廠商三方陣營資金重組（W17 主軸延續至月末，含 04-30 8 個 MCP connector）
+  4. AI 模型 / Coding Agent 賽道密集發布
+  5. LLM Wiki 概念主流化的完整擴散弧（個人帖文 → 個人實作 → OSS 實作 → HN 主流 → Karpathy CLAUDE.md repo 主流原則）
+  6. 遊戲設計子知識庫獨立發展 + AI 視頻工作流橋接
+  7. 每日新知自動化制度的完整建立與校正（含 skills.sh fallback 12 日假象事件）
+- 17 個概念貢獻列表（按主題分群：AI 協作工程 7 / 知識管理 2 / 商業 2 / 遊戲設計 5 / 程式語言 1）
+- 重大跨來源連動事件按月日彙整（7 個典型案例）
+- 月度規則演化（18 天內 7 條穩定下來）
+- 月度矛盾與修正事件（5 個主要事件，含 skills.sh fallback 假象為最大資料完整性事件）
+
+**影響頁面**：
+- 新建：[[週綜整-2026-W17]]、[[月綜整-2026-04]]
+- 更新：[[index]]（新增「月綜整」分節 + 週綜整加 W17）
+
+**未做（保留至 W19 / 5 月）**：
+- W18 週綜整：當前 W18 仍進行中（04-27 ~ 05-03），依 feedback 等 W19 開始（05-04 起）
+- [[src-skills-trending-2026-05]] 月報持續追蹤——05-01 首日基線已建
+
+---
+
+## [2026-05-01] lint | A+B 批修正：fallback 殘留清理 + 雙向 cross-ref 補齊 + 冗餘 raw 清除
+
+**Lint 健康檢查發現**（2026-05-01 第二次）：
+
+- 🔴 高優先：`index.md:69` 與 `skills.sh.md` 中仍有 fallback 假象殘留（「連 10 日精選」「04-18 + 04-19 連兩日」）——前次 fallback 修正未涵蓋
+- 🟡 中優先：3 個冗餘 raw（vault sync 拉回的 URL 標籤檔，git 已追蹤）+ 2 個孤立頁面（[[src-codeburn]]、[[src-skills-trending-2026-05]]）+ 1 個真斷鏈（`[[Sonnet 4.6|Sonnet]]` 對應檔不存在）
+- 🟢 低優先：W17 週綜整 + 2026-04 月綜整可開始做（保留至下次處理）
+
+**A 批（fallback 殘留 + 冗餘清理）**：
+1. `index.md:69` ast-grep 條目：「連 10 日精選 / S 曲線」→ 「2026-04-18 唯一一次精選，安裝數 2,941 → 4,073（擴散驅動為 GH Trending Skill 生態爆發 + Claude Code 文化普及）」
+2. `skills.sh.md`：「04-18（連兩日至 04-19）」→「04-18（唯一一次；04-19 起 skills.sh 停發新 pick）」+ 既知問題區加 ⚠️ 詳述 fallback 假象
+3. `git rm` 3 個冗餘 raw：`Untitled 2.md`（196B URL，對應 [[src-codeburn]]）、`forrestchangandrej-karpathy-skills A single CLAUDE.md file...md`（219B URL，對應 [[src-andrej-karpathy-skills]]）、`我似乎已经看见了，游戏引擎的未来！.md`（976B YouTube metadata，對應 [[src-遊戲引擎的未來]]）
+
+**B 批（雙向 cross-ref + 修斷鏈）**：
+
+4. `src-oh-my-codex.md` 相關頁面加 [[src-codeburn]]（互補：行為層 vs 觀測層）
+5. `src-skill-ast-grep.md` 相關頁面加 [[src-skills-trending-2026-05]]（05-01 觀察 ast-grep 已不在 Top 10）
+6. `skills.sh.md` 相關頁面加 [[src-skills-trending-2026-05]] + 標注 picks 已停滯
+7. `src-skills-picks-2026-04.md` 校正聲明區末加「📊 後續追蹤改用 [[src-skills-trending-2026-05]]」
+8. `src-agent-model-body-harness.md:161` 移除 `[[Sonnet 4.6|Sonnet]]` 斷鏈（內文是 Sonnet 4.5，wiki 沒有 Sonnet 模型實體頁；改純文字）
+
+**vault 端清理提醒**：sync-vault.sh push 對 raw/ 不帶 `--delete`——上述 3 個冗餘檔需**手動清 vault 端**，否則下次 pull 會回來（前車之鑑：2026-04-30 同樣警示）。
+
+**保留作為合法 source 的全文 raw**（之前疑似冗餘但驗證後皆有對應 wiki frontmatter 指向）：
+- `Untitled 1.md`（12,831 byte）→ [[src-agent-model-body-harness]]
+- `Using Claude Code-Session Management and 1M Context.md`（8,881 byte）→ [[src-Claude Code Session管理]]
+- `multica-aimultica...md`（9,212 byte）→ [[src-multica-github-readme]]
+- `(96) 如何把💡靈感變成遊戲？...md`（19,694 byte）→ [[src-遊戲發想四問]]
+
+**影響頁面**：
+- 修改：[[index]]、[[skills.sh]]、[[src-oh-my-codex]]、[[src-skill-ast-grep]]、[[src-skills-picks-2026-04]]、[[src-agent-model-body-harness]]
+- 刪除：3 個冗餘 raw 檔（git rm）
+
+---
+
 ## [2026-05-01] feat | 新增 skills.sh Trending Top 10 自動化來源（第 8 個 daily 來源）
 
 **動機**：[[src-skills-picks-2026-04]] 校正後（編輯精選自 04-19 停發），需要另一個資料管道追蹤 skills.sh 上 skill 的真實 organic 流行度。`/trending` 頁面按 installs 降序提供 Top 10+，與 picks（編輯選擇）形成對比。

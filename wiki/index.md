@@ -14,7 +14,7 @@
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 
-> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5）；ast-grep 安裝數從 2,941（04-18 被 skills.sh 選中後）增至 4,073（04-30），擴散 +1,132（⚠️ 先前「連十三日精選」說法已撤回——skills.sh 04-19 起停發新 pick）
+> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5）；ast-grep 安裝數從 2,941（04-18 被 skills.sh 選中後）增至 4,073（04-30）+ 4,138（05-02），擴散 +1,197（⚠️ 先前「連十三日精選」說法已撤回——skills.sh 04-19 起停發新 pick；後續追蹤改用 [[src-skills-trending-2026-05]]）。Lint 第二次（2026-05-01）：A 批 fallback 殘留清理 + B 批雙向 cross-ref 補齊完成。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -66,7 +66,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **連 10 日精選**紀錄、04-27 達 3,711 裝（+128，二次跳升），從 S 曲線修正為多事件階梯式擴散（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）+ 4,138（05-02），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
 - [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
 
 ## 實體
@@ -140,6 +140,11 @@
 - [[三大知識管理系統比較]] — LLM Wiki vs QMD vs GBrain 並排比較（來源數：1）
 - [[綜整-AI協作工程的六大趨勢]] — 六大結構性趨勢 + 五個應強化方向，綜合 13 個來源（來源數：13）
 
+### 月綜整
+
+- [[月綜整-2026-04]] — 知識庫首月，從 0 建到 87 頁；AI 廠商三方陣營資金重組 + Apple CEO 交接 + LLM Wiki 概念主流化擴散弧 + ⚠️ skills.sh fallback 假象校正（來源：跨頁整理）
+
 ### 週綜整（每週橫向 + 縱向，完整週過完才做）
 
+- [[週綜整-2026-W17]] — 成熟營運週（04-20 ~ 04-26），18 個新實體/概念建立，外部 AI 模型密集發布日 + Anthropic 雙金主 + LLM Wiki 上 HN 主流（來源：跨頁整理）
 - [[週綜整-2026-W16]] — 知識庫起點週（04-13 init → 04-19 規模達 52 頁），AI 協作工程方法論成形（來源：跨頁整理）

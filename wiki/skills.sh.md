@@ -37,7 +37,7 @@ wiki/src-skills-picks-YYYY-MM.md     ← 當月月報索引
 
 | skill | 2026 精選日 | 安裝數 | wiki 頁 |
 |-------|------------|--------|---------|
-| ast-grep | 04-18（連兩日至 04-19） | 2,941 | [[src-skill-ast-grep]] |
+| ast-grep | 04-18（唯一一次；04-19 起 skills.sh 停發新 pick） | 2,941 | [[src-skill-ast-grep]] |
 | 3b1b-style-animation-skill | 04-17 | 1 | [[src-skill-3b1b-style-animation-skill]] |
 | character-arc | 04-16 | 248 | [[src-skill-character-arc]] |
 | alphafold | 04-15 | 24 | — |
@@ -61,7 +61,7 @@ wiki/src-skills-picks-YYYY-MM.md     ← 當月月報索引
 ## 已知資料品質問題
 
 - **2026-04-17 fetch bug**：raw 檔的「Skill README」內容錯置為 04-18 的 pick（ast-grep）——已在 [[src-skills-picks-2026-04]] 與相關 ingest 記錄註明，依 frontmatter `published` 與「今日精選」欄位為準
-- **連兩日同 skill 案例**：04-18 與 04-19 精選皆為 ast-grep；後者在月報中需註記而非新建獨立頁
+- ⚠️ **2026-04-19 起 skills.sh 停發新 pick**（2026-05-01 發現）：`/picks` 頁面只有 04-13 ~ 04-18 共 6 筆 pick，04-19 之後全部空白。`scripts/fetch-skills-picks.sh` 舊版 fallback 邏輯把「找不到當日 pick」靜默替換為「最新一筆（ast-grep）」，造成 04-19 ~ 04-30 raw 全部「連 N 日 ast-grep」**假象**。原本「連兩日同 skill 案例：04-18 與 04-19」之說法已撤回——04-19 已是 fallback 結果，不是 skills.sh 編輯選擇。安裝數變化是真實的（從 ast-grep 頁面即時擷取），但「skills.sh 連續精選」為誤判。腳本 fallback 已於 05-01 修正（標記 `is_fresh_pick: false`）。詳見 [[src-skills-picks-2026-04]] 校正聲明。
 
 ## 與 [[Claude Code]] 生態的關係
 
@@ -71,7 +71,8 @@ wiki/src-skills-picks-YYYY-MM.md     ← 當月月報索引
 
 ## 相關頁面
 
-- [[src-skills-picks-2026-04]]（月報索引）
+- [[src-skills-picks-2026-04]]（月報索引；04-19 起停發後該管道已停滯）
+- [[src-skills-trending-2026-05]]（2026-05-01 起新增 organic Top 10 追蹤——按 installs 降序，與 picks 編輯精選形成對比）
 - [[src-skill-ast-grep]] / [[src-skill-3b1b-style-animation-skill]] / [[src-skill-character-arc]]
 - [[Claude Code]]（skill 主要執行平台）
 - [[Skill vs Bash vs MCP]]（skill 在 LLM agent 工具光譜中的定位）

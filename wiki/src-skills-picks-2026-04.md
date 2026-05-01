@@ -40,6 +40,8 @@ tags: [skills-sh, agent-skills, monthly-digest]
 
 以下 04-19 ~ 04-30 所有「連 N 日精選」「擴散 S 曲線」「anchor skill」「預測命中」**論述都是基於誤判**——skills.sh 自 04-19 起停發新 pick，本表的「連續精選」是 fetcher 靜默 fallback 造成。**保留下方原始論述作為歷史紀錄**（理解當時推論邏輯如何被誤導），但**不應作為實證依據**。真正可信的數據是 ast-grep **安裝數從 2,941（04-18）增至 4,073（04-30）+ 4,138（05-02）**——這個成長為 ast-grep 自身擴散（GitHub Trending 04-26 Skill 生態爆發、Claude Code skills 文化普及），與 skills.sh 持續精選**無關**。
 
+> 📊 **後續追蹤改用 [[src-skills-trending-2026-05]]**——按 installs 降序的 organic Top 10，與 picks（編輯精選）形成對比。05-01 首日觀察 ast-grep 已不在 Top 10（排在 #11+），進一步確認本頁「連十三日」論述的虛構性。
+
 ---
 
 ## ⚠️ 以下為基於誤判的歷史論述（保留作為紀錄）
