@@ -145,7 +145,7 @@ tags: [github, trending, monthly-digest]
 | 15 | [mcp-chat](https://github.com/maile456/mcp-chat) | 把 IDE 中的 AI（Copilot/Cursor/Windsurf）變成 ChatGPT + OpenAI API——一次對話無限調用 | 9 | Vue | ⚠️ **可能繞過 IDE AI 訂閱限制**——把 Copilot/Cursor 私有 API 當作後端輸出，存在 ToS 風險 |
 
 > **04-26 主題：Skill 生態爆發 + 盜版工具浪潮**
-> 1. **Skill 生態日**：#1 ppt-image-first、#8 claude-image、#9 tbm-recommender、#10 agentmako、#13 PPT-Visual-Replica——**5/15 為 Skill 或 MCP 生態工具**，是本月以來「最 Skill 化的一日」；對應 [[src-skills-picks-2026-04]] ast-grep 連九日精選的長尾擴散
+> 1. **Skill 生態日**：#1 ppt-image-first、#8 claude-image、#9 tbm-recommender、#10 agentmako、#13 PPT-Visual-Replica——**5/15 為 Skill 或 MCP 生態工具**，是本月以來「最 Skill 化的一日」；同期 [[src-skill-ast-grep]] 安裝數持續成長（⚠️ 原引用「連九日精選」已撤回——詳見 [[src-skills-picks-2026-04]] 校正聲明）
 > 2. **PPT image-first sub-niche 形成**：#1（112 ⭐）+ #13（10 ⭐）兩個獨立實作同日上榜——「先給圖、再產 PPT」的工作流取代了傳統文字大綱輸入；上游可能是 Codex CLI 04-24 image-input 能力解鎖
 > 3. **盜版浪潮**：#4 + #6 同帳號連發 DaVinci / Premiere Pro 破解 repo——GitHub Trending 演算法弱點再現，**❌ 標注延續 04-25「Coin Flashing Tool」連七日盜版示警的同類問題**
 >

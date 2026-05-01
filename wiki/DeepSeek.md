@@ -31,7 +31,7 @@ tags: [deepseek, ai-company, llm, china, open-source]
 - **PH #2**（206 票）：[[src-producthunt-2026-04]] 04-24 — 「開源時代的 1M context 智能」
 - **GitHub Trending #1**（512 stars）：[[src-github-trending-2026-04]] 04-24 — `deepseek_v4_rolepaly_instruct` 角色扮演 prompt 集首發
 - **GitHub Trending #7**（30 stars）：同日 — `deepseek-v4-deep-dive` 73 頁 PPT 解讀
-- **連帶效應**：[[src-skill-ast-grep]] 連 7 日精選 + 04-24 安裝數 +186 加速擴散——推論與 V4 1M context 引發「大 codebase 結構化搜尋」需求密度上升相關
+- **連帶效應**：[[src-skill-ast-grep]] 04-24 安裝數單日 +186（最大日漲幅）——推論與 V4 1M context 引發「大 codebase 結構化搜尋」需求密度上升相關（⚠️ 原本「連 7 日精選」說法已撤回——skills.sh 04-19 起停發新 pick，安裝數成長為 ast-grep 自身擴散，非 skills.sh 持續曝光所致）
 
 ## 核心策略
 

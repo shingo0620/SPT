@@ -2,6 +2,26 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-01] fix | skills.sh fetcher fallback 假象修正
+
+**問題發現**：使用者觀察「skill picks 似乎連續多日內容相同」——驗證後確認 skills.sh `/picks` 頁面實際只有 04-13 ~ 04-18 共 6 筆 pick，**04-19 起未發布新 pick**。`scripts/fetch-skills-picks.sh` 的 fallback 靜默把「找不到當日 pick」替換為「最新一筆 ast-grep」，造成 raw 連續 12 日相同。
+
+**問題影響**：本知識庫 04-19 ~ 04-30 所有「ast-grep 連 N 日精選」「skills.sh 歷來最長紀錄」「擴散 S 曲線完整呈現」「anchor skill 候選」「預測命中」**都是基於誤讀的虛構論述**——實際上 skills.sh 沒有任何「連續精選」行為，安裝數成長為 ast-grep 自身擴散（GitHub Trending Skill 生態爆發 + Claude Code 文化普及）。
+
+**修正動作**：
+1. `scripts/fetch-skills-picks.sh`：fallback 邏輯改寫——找不到當日 pick 時寫入 `is_fresh_pick: false` + title 標明「無新 pick」+ ⚠️ 警示文字；測試擷取 05-02 確認新邏輯正確（ast-grep 安裝數 4,138）
+2. [[src-skills-picks-2026-04]]：頂部加校正聲明 + 表格 04-19~04-30 條目加 ⚠️ 標註 + 12 個區塊標題加「⚠️ 推論失效」 + 中間切版加「以下為基於誤判的歷史論述」分區
+3. [[src-skill-ast-grep]]：「連十三日精選」改為「2026-04-18 唯一一次」；「擴散階段曲線」加 2026-05-01 重大修正聲明；「anchor skill 候選」概念撤回
+4. [[DeepSeek]]：「連 7 日精選 + 04-24 安裝數 +186 加速」改為「04-24 安裝數單日 +186」+ ⚠️ 撤回說明
+5. [[src-github-trending-2026-04]]：「ast-grep 連九日精選的長尾擴散」改為「同期安裝數持續成長」+ 校正引用
+6. [[index]]：「連十三日精選 + 累積破千」改為「ast-grep 安裝數從 2,941 → 4,073，擴散 +1,132」+ 撤回說明
+
+**Memory 教訓**：新建 `feedback_silent_fallback_creates_phantom.md`——「抓取腳本的靜默 fallback 會製造資料假象」；MEMORY.md 索引更新
+
+**保留有效觀察**：ast-grep 安裝數縱向變化是真實的（從 ast-grep 頁面即時抓），04-24 +186 與 [[DeepSeek]] V4 / GitHub Trending Skill 生態爆發的時間相關性仍可成立——只是驅動因素不是「skills.sh 持續精選」。
+
+---
+
 ## [2026-05-01] ingest | 04-30 daily 7 來源月報補完 + andrej-karpathy-skills + codeburn
 
 **ingest 兩個新 source 頁**：

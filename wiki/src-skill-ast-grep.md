@@ -9,14 +9,20 @@ tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 
 # Skill — ast-grep（AST 結構化代碼搜尋）
 
-> skills.sh Pick of the Day — 2026-04-18（連續 04-19~04-30 再度精選，**連十三日**——本月與歷來最長紀錄再刷新）
+> skills.sh Pick of the Day — **2026-04-18 唯一一次**（⚠️ 先前「連十三日精選」記錄為 fetcher fallback 假象——skills.sh 自 04-19 起停發新 pick，[[src-skills-picks-2026-04]] 已加校正聲明）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> 安裝數：**2,941（04-18）→ ... → 3,939（04-29）→ 4,073（04-30）**，**286 小時累積 +1,132 install**（破 +1,000 整數里程碑）；十三日漲幅分別為 +31、+51、+49、+51、+104、+186、+98、+72、+128、+112、+116、**+134**——「100 ± 20 install/day」新穩態確認，連 4 日落區間；十三日整體轉化率約 3.96 install/h；**05-01 達到「連續 5 日落穩態」門檻，極可能正式宣告 anchor skill 地位**
+> **安裝數縱向追蹤**（從 ast-grep skill 頁面即時擷取，與 skills.sh 連續精選無關）：**2,941（04-18 被選日）→ ... → 4,073（04-30）→ 4,138（05-02）**——12 日累積 +1,132 install，整體轉化率約 3.96 install/h
+> **真實擴散驅動因素**（修正後解讀）：
+> - **04-18 skills.sh Pick of the Day** 為 04-18 ~ 04-23 的初期擴散提供底噪
+> - **04-23 起單日成長從 +50 跳到 +104~+186** 推測為外部事件——可能是 04-24 [[DeepSeek]] V4 發布（1M context）引發大 codebase 結構化搜尋需求
+> - **04-26 GitHub Trending 5/15 為 Skill 生態工具**——「Skill 化共振」帶動 ast-grep 作為代表性 skill 的曝光
+> - **04-28 ~ 04-30 持續 +110/day** 反映 [[Claude Code]] skills 文化的長尾普及，與 skills.sh 持續精選**無關**
+> - 因此原推論「連 N 日精選 → S 曲線 → anchor skill」**結構錯誤**，但「擴散曲線多事件驅動」的觀察仍有效——只是驅動因素不是 skills.sh 持續精選，而是 GitHub Trending Skill 生態 + Claude Code 文化普及
 > 作者：ast-grep 官方（非社群 fork）
 > 授權資訊：skill frontmatter 未明示 license
 >
-> **擴散階段曲線修正**（2026-04-29 更新）：04-26 曾判斷為「穩態 → 突破 → 加速峰 → 緩降 → 回歸近穩態」，但 04-27 實際 +128 推翻；04-28 +112 與 04-29 +116 確認**多事件驅動的階梯式擴散 → 進入新穩態**。更合理模型：原始 +50/day 穩態反映「skills.sh 首頁基礎曝光」；新 +110/day 穩態反映「skills.sh 連續精選 + GitHub Trending Skill 生態活躍 + Claude Code skills 文化普及」三層疊加效果。**下日預測（04-30）**：+90~130 區間（70% 信心）；累積破 +1,000 預期確認；若連續 5 日落穩態，可宣告 ast-grep 為「skills.sh 生態的 anchor skill」。
+> ⚠️ **2026-05-01 重大修正**：先前數版「擴散階段曲線」分析建立在「skills.sh 連 N 日精選」的錯誤前提上。實際上 skills.sh 自 04-19 起未發布新 pick；fetcher fallback 造成 raw 連續 N 日相同的假象。**安裝數縱向變化是真實的**（從 ast-grep 頁面即時抓），但「skills.sh 連續精選驅動擴散」是錯的。修正後解讀：擴散主要由 04-26 GitHub Trending Skill 生態爆發 + 04-24 [[DeepSeek]] V4 發布 + Claude Code skills 文化普及共同推動，與 skills.sh 持續精選無關。「anchor skill 候選」概念也應撤回——skills.sh 沒有任何候選機制，是我用「連續精選」假象推論出的虛構地位。
 
 ## 一句話定位
 

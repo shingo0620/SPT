@@ -14,7 +14,7 @@
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 
-> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5），ast-grep 連十三日精選 + 累積 +1,132 install 破千
+> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5）；ast-grep 安裝數從 2,941（04-18 被 skills.sh 選中後）增至 4,073（04-30），擴散 +1,132（⚠️ 先前「連十三日精選」說法已撤回——skills.sh 04-19 起停發新 pick）
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）

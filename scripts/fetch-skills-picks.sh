@@ -84,7 +84,9 @@ for e in entries:
         }
         break
 
-# 如果找不到當天的，取第一個（最新的）
+# 如果找不到當天的 pick：明確標記為「無新 pick」+ 仍保留最新 pick 的安裝數作為追蹤
+# （注意：先前 fallback 會偽裝為當日 pick 造成連續多日相同的假象——已修正）
+is_fresh_pick = today_pick is not None
 if not today_pick:
     e = entries[0]
     today_pick = {
@@ -115,27 +117,38 @@ if not readme and skill_readmes:
 # --- 4. 產生輸出 ---
 lines = []
 lines.append("---")
-lines.append(f'title: "skills.sh Pick of the Day — {today_pick["date"]}"')
+if is_fresh_pick:
+    lines.append(f'title: "skills.sh Pick of the Day — {today_pick["date"]}"')
+else:
+    lines.append(f'title: "skills.sh — {date} 無新 pick（顯示最新 {today_pick["date"]} {skill_name} + 即時安裝數）"')
 lines.append(f'source: "https://skills.sh/picks"')
 lines.append(f'author:')
 lines.append(f'  - "skills.sh"')
 lines.append(f'published: {today_pick["date"]}')
 lines.append(f'created: {date}')
+lines.append(f'is_fresh_pick: {str(is_fresh_pick).lower()}')
 lines.append(f'tags:')
 lines.append(f'  - "skills-sh"')
 lines.append(f'  - "agent-skills"')
 lines.append(f'  - "daily-digest"')
+if not is_fresh_pick:
+    lines.append(f'  - "no-new-pick"')
 lines.append("---")
 lines.append("")
-lines.append(f'# skills.sh Pick — {today_pick["date"]}')
+if is_fresh_pick:
+    lines.append(f'# skills.sh Pick — {today_pick["date"]}')
+else:
+    lines.append(f'# skills.sh — {date}（無新 pick）')
+    lines.append("")
+    lines.append(f'> ⚠️ skills.sh 在 {date} 沒有發布新的 Pick of the Day。本檔顯示最新一筆（{today_pick["date"]} {skill_name}）作為**安裝數即時追蹤**——勿視為當日新精選。')
 lines.append("")
-lines.append("## 今日精選")
+lines.append("## 最新精選" if not is_fresh_pick else "## 今日精選")
 lines.append("")
 lines.append(f'- **Skill**：{skill_name}')
 lines.append(f'- **來源**：{source}')
 lines.append(f'- **GitHub**：https://github.com/{source}')
 lines.append(f'- **頁面**：https://skills.sh/{source}/{skill_name}')
-lines.append(f'- **安裝數**：{today_pick["installs"]:,}')
+lines.append(f'- **安裝數**：{today_pick["installs"]:,}（擷取於 {date}）')
 lines.append(f'- **安裝指令**：`npx skills add https://github.com/{source} --skill {skill_name}`')
 lines.append(f'- **簡介**：{today_pick["blurb"]}')
 lines.append("")
@@ -169,5 +182,6 @@ if other_picks:
 with open(outfile, "w") as f:
     f.write("\n".join(lines))
 
-print(f"已儲存：{outfile}（skill: {skill_name}, installs: {today_pick['installs']:,}）")
+status = "新 pick" if is_fresh_pick else f"無新 pick，fallback 至 {today_pick['date']}"
+print(f"已儲存：{outfile}（{status}, skill: {skill_name}, installs: {today_pick['installs']:,}）")
 PYEOF
