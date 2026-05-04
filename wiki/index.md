@@ -14,7 +14,7 @@
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 
-> 月報 2026-05-01 已更新至 04-30 區塊（HN/GH Trending/PH/Wikipedia/skills-picks/reddit-til/eli5）；ast-grep 安裝數從 2,941（04-18 被 skills.sh 選中後）增至 4,073（04-30）+ 4,138（05-02），擴散 +1,197（⚠️ 先前「連十三日精選」說法已撤回——skills.sh 04-19 起停發新 pick；後續追蹤改用 [[src-skills-trending-2026-05]]）。Lint 第二次（2026-05-01）：A 批 fallback 殘留清理 + B 批雙向 cross-ref 補齊完成。
+> 月報 2026-05-02 ingest：5 月新月報已建立（reddit-til/eli5/hn/gh-trending/ph/wikipedia/skills-picks），含 05-01 首日資料；ast-grep 安裝數從 2,941（04-18 skills.sh 選中後）增至 4,073（04-30）→ 4,173（05-01），擴散 +1,232（⚠️「連十三日精選」說法為 fetcher fallback 假象已撤回——skills.sh 04-19 起停發新 pick；後續主追蹤改用 [[src-skills-trending-2026-05]]）。Lint 第二次（2026-05-01）：A 批 fallback 殘留清理 + B 批雙向 cross-ref 補齊完成。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -53,6 +53,19 @@
 
 ### 每日新知（月報）
 
+#### 2026-05（當月）
+
+- [[src-reddit-til-2026-05]] — Reddit r/todayilearned 2026 年 5 月（含事實查核）
+- [[src-reddit-eli5-2026-05]] — Reddit r/explainlikeimfive 2026 年 5 月
+- [[src-hn-2026-05]] — Hacker News 2026 年 5 月
+- [[src-github-trending-2026-05]] — GitHub Trending 2026 年 5 月
+- [[src-producthunt-2026-05]] — Product Hunt 2026 年 5 月
+- [[src-wikipedia-2026-05]] — Wikipedia Featured 2026 年 5 月
+- [[src-skills-picks-2026-05]] — skills.sh Picks 2026 年 5 月（延續無新 pick 狀態，僅追蹤 ast-grep 安裝數）
+- [[src-skills-trending-2026-05]] — skills.sh Trending Top 10 月報 2026 年 5 月（按 installs 降序，05-01 起新增追蹤）
+
+#### 2026-04
+
 - [[src-reddit-til-2026-04]] — Reddit r/todayilearned 2026 年 4 月（含事實查核）
 - [[src-reddit-eli5-2026-04]] — Reddit r/explainlikeimfive 2026 年 4 月
 - [[src-hn-2026-04]] — Hacker News 2026 年 4 月
@@ -60,7 +73,6 @@
 - [[src-producthunt-2026-04]] — Product Hunt 2026 年 4 月
 - [[src-wikipedia-2026-04]] — Wikipedia Featured 2026 年 4 月
 - [[src-skills-picks-2026-04]] — skills.sh Picks 2026 年 4 月（月報索引）⚠️ 04-19 起 skills.sh 停發新 pick；表中 04-19~04-30 為 fetcher fallback 假象，已撤回相關推論
-- [[src-skills-trending-2026-05]] — skills.sh Trending Top 10 月報 2026 年 5 月（按 installs 降序，05-01 起新增追蹤）
 
 ### Skill 解析
 
@@ -103,6 +115,7 @@
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
 - [[Manim]] — Python 數學動畫引擎，3Blue1Brown 開發並開源，ML/教育內容事實標準（來源數：1）
 - [[Redis]] — antirez 建立的 in-memory data structure store，本月因 DeepSeek V4 llama.cpp 實驗被提及（來源數：1）
+- [[Zed]] — 高效能 Rust native 開源程式編輯器，2026-05-01 發布 1.0；編輯器戰局與 Cursor/VS Code/JetBrains 競爭（來源數：1）
 
 ## 概念
 

@@ -2,6 +2,98 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-04] lint | P1-P4 修正（Shai-Hulud 幻覺 + 冗餘 raw 清理 + 5 月月報 cross-ref + Zed 實體頁）
+
+**觸發**：`/llm-wiki lint`，全量掃描 100 wiki 頁 + raw 完整性 + 5 月新月報 cross-ref 機會
+
+**P1 修正：移除 `[[npm Shai-Hulud worm]]` 幻覺懸空連結**
+- 位置：`wiki/src-hn-2026-05.md:38`、`wiki/log.md`（兩處 2026-05-02 ingest 段）
+- 問題：05-02 ingest 寫月報時，憑記憶聲稱「與 04 月『[[npm Shai-Hulud worm]]』事件呼應」——**整個 wiki（含 04 月所有月報、log）從未提及 Shai-Hulud**，是 LLM 幻覺
+- 修正：改為 plain text 並標明真實時間「Shai-Hulud 是 2024-09 npm worm 事件名稱（wiki 未獨立記錄），本次 PyPI 包採用相同命名暗示同類惡意手法」
+
+**P2 清理：刪除冗餘 raw 檔（已 wc + diff 驗證）**
+- 刪除 `raw/我似乎已经看见了，游戏引擎的未来！.md`（16 行 URL 標籤檔，疑為 Obsidian markdown.new 抓取）
+- 保留 `raw/yt-我似乎已经看见了游戏引擎的未来.md`（517 行完整逐字稿，已對應 [[src-遊戲引擎的未來]]）
+- 依「URL 標籤檔（短）vs 完整 metadata（長）必須區分」原則處理
+
+**P3 清理：刪除 3 個 0 行空殼 raw 檔**
+- `raw/Untitled 2.md`（0 行）
+- `raw/When Vibe Coding Fails When To Buy Versus When To Build.md`（0 行）
+- `raw/forrestchangandrej-karpathy-skills A single CLAUDE.md file...md`（0 行；對應 [[src-andrej-karpathy-skills]] 已 ingest）
+- 都是 vault iCloud 同步異常產生的空殼，無實質內容
+
+**P4 補強：5 月月報 cross-ref + 新建 [[Zed]] 實體頁**
+- `src-hn-2026-05`：
+  - #4 Apple Claude.md 洩漏 → 補 [[Apple]] + [[Claude Code]] wikilink
+  - #11 Grok 4.3 → 補 [[Anthropic]]、[[OpenAI]] wikilink
+- `src-producthunt-2026-05`：
+  - #1 + #4 agent SaaS → 補 [[AI 輔助軟體工程]] cross-ref
+  - #2 Zed 1.0 → 補 [[Zed]] wikilink + 移除錯誤的 [[src-mattpocock-skills|Cursor]]（Cursor 不是 mattpocock）
+  - #6 Genspark for Word → 補 [[Anthropic]] / [[OpenAI]] 文書工具競爭
+- `src-github-trending-2026-05`：
+  - #11 AIS-OS → 補 [[Claude Code]] wikilink
+- 新建 [[Zed]] 實體頁：編輯器戰局重要實體（Rust native + 開源 + 多人協作 1.0 發布），含與 Cursor/VS Code/JetBrains 對照表 + 與 [[src-agent-model-body-harness]] 的「Body」概念連結
+
+**Index 更新**：
+- 「實體 → 工具與平台」加入 [[Zed]]
+
+**待 ingest（lint 範圍外，下次 ingest 處理）**：
+- 遠端 2 個未 merge commits：`d770376 daily sources 2026-05-02`、`0133ad1 daily sources 2026-05-03`，含 12+ 個新 raw 檔
+- W18（04-27 ~ 05-03）已過完，今日 W19 第一天可建 [[週綜整-2026-W18]]（使用者裁量）
+
+**驗證**：100 wiki 頁→101 頁（新建 [[Zed]]）；P1 懸空連結 0；空殼/冗餘 raw 清理完成
+
+**結束**：執行 `sync-vault.sh push`
+
+## [2026-05-02] ingest | 2026-05-01 daily 8 來源月報建立（5 月首日）
+
+**觸發**：`/llm-wiki ingest`，偵測 raw/ 中 8 個 2026-05-01 來源（GitHub Actions 04-30 22:00 抓取已 push、本地 untracked 兩 reddit 檔合併）
+
+**前置**：`sync-vault.sh pull` 同步 vault remote 至本地
+
+**處理來源（8 個）**：
+- `raw/reddit-til-2026-05-01.md`、`raw/reddit-eli5-2026-05-01.md`
+- `raw/hn-top-2026-05-01.md`、`raw/github-trending-2026-05-01.md`
+- `raw/producthunt-2026-05-01.md`、`raw/wikipedia-featured-2026-05-01.md`
+- `raw/skills-picks-2026-05-01.md`（fetcher 修正後標 `is_fresh_pick: false`，仍 fallback 顯示 04-18 ast-grep）
+- `raw/skills-trending-2026-05-01.md`（已於 05-01 由 [[src-skills-trending-2026-05]] 建立首日基線，本次 ingest 不重複處理）
+
+**新建 5 月月報（7 頁）**：
+- [[src-reddit-til-2026-05]] — 15 條 TIL，14 ✅ + 1 ⚠️（#3 Nzou 母象保育旅行部落格為主要來源）
+- [[src-reddit-eli5-2026-05]] — 15 題 ELI5，14 ✅ + 1 ⚠️（#8 雇主偏好外籍勞工，網路討論常帶意識形態）
+- [[src-hn-2026-05]] — 15 條 HN Top（最高分 #5 NSA Room 641A 657 分；#15 PyTorch Lightning malware 431 分採 Shai-Hulud 主題命名，致敬 2024-09 npm worm 事件）
+- [[src-github-trending-2026-05]] — 15 條中真正有價值僅 5 條，**3 條 ❌（#10 BTC flash 詐騙、#14 LSFG 盜版、#15 Photoshop 盜版）+ 5 條 ⚠️（spam/SEO keyword stuffing）**——GitHub Trending 信號品質下降趨勢延續
+- [[src-producthunt-2026-05]] — 15 件中 8 件 AI/agent（53%）；**#2 Zed 1.0 開源編輯器發布**（166 票）；macOS menu bar privacy 工具同質化
+- [[src-wikipedia-2026-05]] — 精選「Crusading movement」十字軍運動；Nahui Ollin 持續霸榜（816,860 瀏覽）；Michael Jackson 傳記電影三相關頁同上
+- [[src-skills-picks-2026-05]] — 延續無新 pick 狀態，本月精選表為空；ast-grep 安裝數縱向追蹤表 4,073（04-30）→ 4,173（05-01）+100/日
+
+**事實查核摘要**：
+- Reddit TIL 15 條：14 ✅、1 ⚠️
+- Reddit ELI5 15 條：14 ✅、1 ⚠️
+- GitHub Trending 15 條：5 ✅、5 ⚠️、3 ❌、2 無描述標 ⚠️
+- HN/PH/Wikipedia/skills-picks：低風險索引型來源，區塊級查核
+- skills-trending：無查核（純安裝數排行）
+
+**跨來源連動**：
+- **whatcable USB-C inspector**（GitHub Trending #1 + HN #12）——Show HN → trending 的雙源強信號
+- **mattpocock 系列**——GitHub Trending #2 dictionary-of-ai-coding + skills.sh trending #8 grill-me，作者持續產出
+- **Shai-Hulud malware 主題**——HN #15 PyTorch Lightning（AI 訓練 library）採用 2024-09 npm Shai-Hulud worm 同名手法（wiki 未獨立記錄該事件）
+- **AI agent SaaS vs skill 雙市場**——PH 2026-05-01 agent 產品 53% 對應 skills.sh trending Top 4 infsh-skills 自家 AI 媒體 skill 霸榜
+
+**fetcher 修正驗證**：
+- skills.sh fetcher 已正確處理「無新 pick」回傳——`is_fresh_pick: false` 加 `no-new-pick` tag，避免重蹈 04-19~04-30「連十二日 ast-grep 假象」
+- ast-grep 安裝數縱向真實（4,073→4,173 +100），但這是該 skill 自身擴散，**不是 skills.sh 編輯選擇**
+
+**index 更新**：
+- 「每日新知（月報）」新分 2026-05 與 2026-04 兩節
+- 月報摘要段更新為「2026-05-02 ingest」狀態，ast-grep 累積擴散 +1,232（自 04-18 起）
+
+**未做**：
+- W18 週綜整不做——今天 2026-05-02 仍在 W18（04-27 ~ 05-03）內，依「週綜整只能在下一週開始後回看」原則，等到 W19 開始（05-04）後才回看 W18
+- 2026-05 月綜整不做——5 月才剛開始
+
+**結束**：執行 `sync-vault.sh push`
+
 ## [2026-05-01] synthesis | C 批：W17 週綜整 + 2026-04 月綜整建立
 
 **動機**：05-01 lint 第二次 A+B 批修正完成後，C 批列為「使用者裁量何時做」的綜整缺口——W17（04-20 ~ 04-26）已完整結束（當前處於 W18，依 feedback「週綜整只能在下一週開始後回看」可做）；2026-04 月已過完（04-30）可做月綜整。使用者批准接續執行。
