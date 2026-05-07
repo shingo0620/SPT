@@ -14,7 +14,9 @@
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 
-> 月報 2026-05-02 ingest：5 月新月報已建立（reddit-til/eli5/hn/gh-trending/ph/wikipedia/skills-picks），含 05-01 首日資料；ast-grep 安裝數從 2,941（04-18 skills.sh 選中後）增至 4,073（04-30）→ 4,173（05-01），擴散 +1,232（⚠️「連十三日精選」說法為 fetcher fallback 假象已撤回——skills.sh 04-19 起停發新 pick；後續主追蹤改用 [[src-skills-trending-2026-05]]）。Lint 第二次（2026-05-01）：A 批 fallback 殘留清理 + B 批雙向 cross-ref 補齊完成。
+> 月報 2026-05-04 ingest：5 月月報補完 05-02、05-03 兩日（共 14+ 個 daily raw + bug-hunter 手動 source）；ast-grep 安裝數 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03），日增 100→90→61 進入自然衰減平台期。**重大事件 5/3**：skills.sh trending `infsh-skills` repo 改名 `inference-skills` 觸發單日 −7,000 安裝重置（非真實流失）；GitHub Trending 信號崩壞日（11/15 ❌ 詐騙/外掛/盜版）；xixu-me/skills 4 件占 Top 10 #7-#10。lint P1-P4 修正完成（前次）。
+
+> 月報 2026-05-07 ingest：5 月月報補完 05-04、05-05、05-06 三日（共 24 個 daily raw）。**重大發現**：（1）**ast-grep 衰減假設失效**——5/4-5/6 日增 +106/+116/+157 V 字反彈，[[週綜整-2026-W18]] 的「自然平台期」推論被推翻；（2）**Inference.sh install 24h 完全恢復**（5/3 20.5k → 5/4 31.4k +10.8k 同步躍升），確認改名是統計層級重置；（3）**find-skills 4 日 +60% 暴漲**（11.7k → 18.6k），可能解釋 ast-grep 連動加速；（4）HN 5/5 #12 **Bun 從 Zig 遷至 Rust 666 分**（語言生態地震）+ HN 5/6 #5 **Cloudflare agents 可建帳號 + 買域名 + 部署 518 分**；（5）PH 5/5-5/6 agent ROI / parallel agents / 成本優化（Kilo Code v7 / Waydev Agent / WOZCODE）；（6）GitHub Trending **#9 rihebty/flow-kit 整合 8 個 skill 框架**（bmad/spec-kit/OpenSpec/GSD/claude-task-master/superpowers/gstack/skills）。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -78,8 +80,9 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）+ 4,138（05-02），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）→ 4,324（05-03）→ **4,703（05-06，5/4-5/6 V 字反彈推翻 W18 衰減假設**），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及 + find-skills 暴漲帶動發現（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
 - [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
+- [[src-bug-hunter]] — bug-hunter（codexstar69）：跨 7+ agent 平台的 adversarial multi-agent bug hunter + auto-fix skill；首個明確「multi-agent + adversarial」設計（來源數：1，僅 URL 標籤）
 
 ## 實體
 
@@ -103,6 +106,7 @@
 - [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI（來源數：0，LLM 跨來源歸納）
 - [[月之暗面]] — Moonshot AI / Kimi 模型線，本月因 Attention Residuals 復現專案進入追蹤（來源數：1）
 - [[OpenAI]] — GPT 系列、Codex 開發者工具、ChatGPT 消費級產品，2026-04-22 ChatGPT Images 2.0、04-24 GPT-5.5 + Codex 3.0（來源數：0，LLM 跨來源歸納）
+- [[Inference.sh]] — AI 媒體 skill 主要發行者，5 件 skill 占 skills.sh trending Top 1-5；2026-05-03 GitHub repo 從 `infsh-skills` 改名 `inference-skills` 觸發單日 −7,000 安裝重置；**5/4 install 單日 +10.8k 完全恢復至 31.4k 確認是統計層級事件**（來源數：6） 
 - [[拉瑞安工作室]] — Larian Studios，博德之門 3 開發商（來源數：1）
 
 ### 工具與平台
@@ -159,5 +163,6 @@
 
 ### 週綜整（每週橫向 + 縱向，完整週過完才做）
 
+- [[週綜整-2026-W18]] — 驗證與校正週（04-27 ~ 05-03），主動撤回 W17 累積 12 日 fetcher fallback 假象 + Anthropic Creative Work 8 connector + Inference.sh 改名事件 + GitHub Trending 信號崩壞 + agent VM 浪潮 + Zed 1.0（來源：跨頁整理）
 - [[週綜整-2026-W17]] — 成熟營運週（04-20 ~ 04-26），18 個新實體/概念建立，外部 AI 模型密集發布日 + Anthropic 雙金主 + LLM Wiki 上 HN 主流（來源：跨頁整理）
 - [[週綜整-2026-W16]] — 知識庫起點週（04-13 init → 04-19 規模達 52 頁），AI 協作工程方法論成形（來源：跨頁整理）

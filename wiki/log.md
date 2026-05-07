@@ -2,6 +2,159 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-07] ingest | 5 月月報補完 05-04、05-05、05-06 三日（24 個 daily raw）
+
+**觸發**：`/llm-wiki ingest`，`git status` 顯示 raw/ 中 5/4-5/6 共 6 個 reddit 檔未追蹤（git fetch 未拉），其餘已 commit 但 wiki 未 ingest
+
+**Pull-before**：執行 `scripts/sync-vault.sh pull`，105 + 183 檔同步成功
+
+**處理範圍**：8 個來源 × 3 日 = 24 個 daily raw + 1 個遞延 ingest（W18 已完成）
+
+**逐源變動**：
+- [[src-skills-picks-2026-05]]：本月精選表保持「無新 fresh pick」（5/4-5/6 全 `is_fresh_pick: false`），ast-grep 安裝數追蹤表追加 4/30 起 7 個資料點，**新增「W18 預測校正」段**（衰減 100→90→61 反彈為 +106→+116→+157）
+- [[src-skills-trending-2026-05]]：新增 5/4、5/5、5/6 Top 10 表，**重點觀察**：（a）Inference.sh 5/3→5/4 同步躍升 +10.8k 確認統計重置（b）find-skills 5/3→5/6 暴漲 +60%（c）mattpocock 5/4 三件登榜 → 5/5 全跌出（d）microsoft-foundry / azure-deploy 5/5 重返
+- [[src-wikipedia-2026-05]]：新增 3 日；印度泰米爾納德邦選舉熱度持續 + Maurice Suckling（Nelson 叔父）+ 1979 Thatcher 首相紀念日 + 2023 King Charles III 加冕日紀念
+- [[src-hn-2026-05]]：新增 3 日；**5/5 #12 Bun Zig→Rust 遷移 666 分** + **5/6 #5 Cloudflare agents 自主買域名 518 分** + 5/4 GameStop 555 億併 eBay 430 分 + 5/4 Talking to 35 Strangers at Gym 539 分
+- [[src-producthunt-2026-05]]：新增 3 日；**Coding agent IDE 戰：5/5 #1 Kilo Code v7 parallel agents** + agent 經濟主題（5/6 pay.sh 自主 API 付費 / Superset 2.0 100s agents / WOZCODE 砍 CC 成本 50%） + 延續 Codex Pets / CC trading cards 開發者文化遊戲化
+- [[src-github-trending-2026-05]]：新增 3 日；信號劣化延續但 5/5 較佳；**5/6 #9 rihebty/flow-kit 整合 8 個 skill 框架（bmad/spec-kit/OpenSpec/GSD/claude-task-master/superpowers/gstack/skills）✨** + 5/4 WeritoP 帳號雙件刷榜 + 3 日 4+ 件 Polymarket/Kalshi prediction market bots
+- [[src-reddit-til-2026-05]]：新增 3 日 × 15 = 45 條 TIL；亮點：巴黎聖母院 18 萬蜜蜂存活火災 / Eminem 100kg 失認 / Trojan War $309 票房 / Bangladesh Bank fandation 拼錯救 10 億 / Fight Club Meat Loaf 學導演 / 1978 首封 spam email
+- [[src-reddit-eli5-2026-05]]：新增 3 日 × 15 = 45 條問題；亮點：牛從草取蛋白質、量子糾纏無 FTL、新奧爾良 vs 荷蘭低海平面、3x 槓桿 ETF decay
+
+**index.md 更新**：
+- 月報 ingest 註記新增第二段（2026-05-07）
+- [[src-skill-ast-grep]] 條目更新為 4,703（5/6）+「V 字反彈推翻 W18 衰減假設」
+- [[Inference.sh]] 條目更新為 6 個來源（含 5/4 install 完全恢復事實）
+
+**未做事項**：
+- 不創建新 entity 頁——find-skills 暴漲、Kilo Code、WOZCODE、pay.sh 等都僅 1 個來源；待累積 2+ 來源後再考慮
+- W19（05-04 ~ 05-10）週綜整：W19 仍進行中（05-07 為週四），按 memory rule「只在下一週開始後回看」，待 05-11+ 再做
+- 不修改 [[週綜整-2026-W18]] 中的「衰減平台期」推論——標為時間性記錄，後續 W19 綜整中說明驗證結果
+
+**Push-after**：待用戶確認後執行 `scripts/sync-vault.sh push`
+
+**統計**：8 個 source 月報修改 + 1 個 index 修改 = 9 個 wiki 檔修改；未新建頁
+
+**影響頁面**：[[src-skills-picks-2026-05]]、[[src-skills-trending-2026-05]]、[[src-wikipedia-2026-05]]、[[src-hn-2026-05]]、[[src-producthunt-2026-05]]、[[src-github-trending-2026-05]]、[[src-reddit-til-2026-05]]、[[src-reddit-eli5-2026-05]]、[[index]]
+
+---
+
+## [2026-05-04] lint + synthesis | P1+P2+P3+P5+P8 修正（懸空連結 + 冗餘 raw + Inference.sh 實體 + W18 週綜整）
+
+**觸發**：`/llm-wiki lint` 全量掃描 + 使用者批准全部修正（all）
+
+**P1 修正：`[[Code Review已死]]` 懸空連結 × 3**
+- 位置：`wiki/src-bug-hunter.md` 第 31, 52, 63 行
+- 實際頁名：`src-Code Review已死`（缺 `src-` 前綴）
+- 修正：3 處 `[[Code Review已死]]` → `[[src-Code Review已死]]`
+
+**P2 修正：`[[src-Multica-devv-ai盡調|Multica]]` 大小寫錯誤**
+- 位置：`wiki/src-producthunt-2026-05.md:42` 1 處
+- 實際頁名：`src-multica-devv-ai盡調`（小寫 `m`）
+- 修正：`[[src-Multica-devv-ai盡調|Multica]]` → `[[src-multica-devv-ai盡調|Multica]]`
+- 同步修正 log.md 兩處同錯（雖然 log 規則不要求，但避免歷史誤導）
+
+**P3 清理：本地刪除 4 個 vault 拉回的冗餘 raw 檔**
+- 刪除 `raw/Untitled 2.md`、`When Vibe Coding Fails...md`、`forrestchang...md`（3 個 0 行空殼）
+- 刪除 `raw/我似乎已经看见了，游戏引擎的未来！.md`（16 行 URL 標籤檔，完整版 yt-... 517 行已 ingest）
+- ⚠️ **未斷根**：sync-vault.sh push 對 raw/ 不 --delete，下次 pull 仍會拉回——使用者需到 Obsidian iCloud vault 端手動刪除這 4 個檔（已記錄為待處理項目）
+
+**P5 新建 [[Inference.sh]] 組織實體頁**
+- 達成 2+ 來源建頁門檻（skills-trending-2026-05-01/02/03 三日連續 5 件 skill 占 Top 1-5 + 5/3 重大改名事件）
+- 內容涵蓋：5 大核心 skill 表 + 改名事件時序表 + 與 [[Anthropic]] Creative Work 的 timing 關係 + 競爭者比較（xixu-me、vercel-labs、microsoft）
+- 在 [[src-skills-trending-2026-05]] 開頭加入 cross-ref 指向 [[Inference.sh]]
+
+**P8 新建 [[週綜整-2026-W18]]（W18: 04-27 ~ 05-03）**
+- 規模指標：W17 末 ~82 頁 → W18 末 102 頁（+20）；source +16、entity +3、concept +1、synthesis +2
+- 三大宏觀主題：
+  1. **自我校正是知識庫核心能力**——W17 fetcher fallback 假象的撤回 + W18 末 Inference.sh 改名事件的解讀；資料管道層級陷阱
+  2. **Agent 抽象進化（Model + Body + Harness）**——[[src-agent-model-body-harness]] 三層拆解 → [[src-bug-hunter]] adversarial multi-agent → agent VM 浪潮的 Body 層雲端化
+  3. **AI agent 基礎設施市場成形**——PH 5/1-5/3 連 3 日 agent 工具 + [[Anthropic]] Creative Work 8 connector 雙向擴張
+- 跨來源連動：[[Zed]] 1.0 + Inference.sh 與 Anthropic Creative Work timing + Shai-Hulud 主題校正
+- ast-grep 縱向追蹤：2,941（04-18）→ 4,324（W18 末），累積 +1,383（16 日）；W18 進入自然衰減平台期
+
+**index 更新**：
+- 「實體 → 工具與平台」加入 [[Inference.sh]]（雖屬組織但放在 AI/skill 工具脈絡更清晰）
+- 「週綜整」加入 [[週綜整-2026-W18]] 於 W17 之上
+
+**驗證**：
+- 102 wiki 頁 → 104 頁（新建 [[Inference.sh]]、[[週綜整-2026-W18]]）
+- P1 + P2 內容頁懸空連結 0
+- 4 個冗餘 raw 本地清理完成（vault 端待手動）
+
+**結束**：執行 `sync-vault.sh push`
+
+## [2026-05-04] ingest | 2026-05-02 + 05-03 daily 14 來源 + bug-hunter（5 月月報補完前 3 日）
+
+**觸發**：`/llm-wiki ingest`，偵測：
+- 14 個 daily raw（hn/gh-trending/ph/wikipedia/skills-picks/skills-trending × 2 天 + reddit-til/eli5 × 2 天）
+- 1 個手動 raw：`raw/bug-hunter.md`（GitHub URL 標籤）
+
+**前置**：`sync-vault.sh pull` 同步 vault remote；vault iCloud 同步把前次 lint 刪除的 4 個 raw 又拉回（已知行為）
+
+**處理結果（7 個 5 月月報全部追加 5/3 + 5/2 區塊；新建 1 source）**：
+
+- [[src-reddit-til-2026-05]] 5/3 + 5/2 — TIL 30 條，2 ⚠️、其餘 ✅
+- [[src-reddit-eli5-2026-05]] 5/3 + 5/2 — ELI5 30 題全 ✅
+- [[src-hn-2026-05]] 5/3 + 5/2 — HN Top 30 條
+- [[src-github-trending-2026-05]] 5/3 + 5/2 — **5/3 信號崩壞日**（11 ❌ + 3 ⚠️ + 1 ⚠️ 灰色），5/2 中度健康（6/15 ✅）
+- [[src-producthunt-2026-05]] 5/3 + 5/2 — agent 工具基礎設施連發（VM/engineering/conflict detection）
+- [[src-wikipedia-2026-05]] 5/3 + 5/2 — Nahui Ollin 5/3 終結霸榜，由 Spirit Airlines 取代
+- [[src-skills-picks-2026-05]] 5/2 + 5/3 仍無新 pick；ast-grep 安裝數縱向追蹤更新
+- [[src-skills-trending-2026-05]] **5/3 重大事件日**：infsh-skills → inference-skills 改名 + 安裝數重置
+- [[src-bug-hunter]] 新建（codexstar69/bug-hunter）：跨 7+ agent 平台的 adversarial multi-agent bug hunter + auto-fix skill
+
+**事實查核摘要**：
+- Reddit TIL 30 條：28 ✅ + 2 ⚠️（5/3 #4 Cheeseface dog 維基爭議性條目、5/3 #13 Daylyt rapper 對白來源是娛樂網站）
+- Reddit ELI5 30 題：全 ✅
+- GitHub Trending 5/2：6 ✅ + 6 ⚠️ + 1 ❌；5/3：1 ⚠️（gimgyeon/loader-openclaw-skills）+ 11 ❌（10 條 FPS 遊戲外掛 SEO + 1 條 LLM API 灰色）+ 3 ⚠️
+- HN/PH/Wikipedia/skills-picks：低風險索引型來源，區塊級查核
+
+**重大跨來源事件（5/3）**：
+
+1. **infsh-skills → inference-skills 重大改名事件**（[[src-skills-trending-2026-05]]）
+   - 5/2 仍稱 `infsh-skills`，5 件 skill 安裝數 27.5k+
+   - 5/3 改稱 `inference-skills`，安裝數同步降至 20.5k+（單日 −7,000）
+   - **不是真實流失**——是 repo URL 改名導致 skills.sh 重新統計
+   - 命名統一：`infsh-` → `inference-`，與 [[Anthropic]] / [[OpenAI]] 等明確品牌風格一致
+
+2. **GitHub Trending 5/3 信號徹底崩壞日**（[[src-github-trending-2026-05]]）
+   - 15 條中 11 條 ❌（10 條西班牙語 FPS 外掛 SEO + 1 條 LLM API 繞過）
+   - hugomessier2015 / fronekzv 帳號重複衝榜（同帳號多件 22 stars 同步進榜）
+   - 「FOR EDUCATIONAL ONLY」「Indetectable」「Research」已成標準 spam 用語
+   - 對應 [[src-multica-devv-ai盡調]] OSS Investment Scorecard 的 Star 健康度 R-1 評分需重新校正
+
+3. **xixu-me/skills 占 Top 10 #7-#10**（[[src-skills-trending-2026-05]]）
+   - 一個帳號 4 件 skill 同日進榜，安裝數 4,948-4,987 極窄區間
+   - 「skill 集合作為單一發行單位」模式重複 inference-skills 策略
+   - 新興「skill 集合發行者」生態
+
+4. **ast-grep 進入自然擴散平台期**（[[src-skills-picks-2026-05]]）
+   - 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03）
+   - 日增 100 → 90 → 61，3 日內衰減近 40%
+   - skills.sh 04-18 精選效應正在收斂
+
+5. **AI agent 基礎設施 PH 連發週**（[[src-producthunt-2026-05]]）
+   - 5/1 Postiz/Buda（agent SaaS）
+   - 5/2 Manus Cloud Computer / explainx ai（VM for agents + skill marketplace）
+   - 5/3 Huddle01 VMs / PandaProbe / Rosentic（VM + engineering 平台 + agent conflict detection）
+   - 與 [[src-multica-devv-ai盡調]] 競爭同一 agent 基礎設施市場
+
+**新增實體 / 概念建議（待累積 2+ 來源再建）**：
+- `Inference.sh / inference-skills` — skills.sh 上 5 件 Top 10 + repo 改名事件，可考慮建組織頁
+- `xixu-me` — skills.sh 上多件 Top 10 新興發行者，待累積
+- `Manus / Huddle01` — agent VM 兩家公司，待累積
+
+**index 更新**：
+- 「Skill 解析」加入 [[src-bug-hunter]]
+- 「每日新知（月報）」摘要段更新為 2026-05-04 ingest 狀態
+- ast-grep 安裝數累積擴散追蹤更新
+
+**未做（lint 範圍外）**：
+- W18（04-27 ~ 05-03）已過完，今日 W19 第一天可建 [[週綜整-2026-W18]]，使用者裁量
+- 4 個從 vault 拉回的 raw 檔（前次 lint 刪除）：「我似乎...」、Untitled 2.md、When Vibe Coding Fails、forrestchang... — 仍待清理（建議直接到 Obsidian vault 端刪除以斷根）
+
+**結束**：執行 `sync-vault.sh push`
+
 ## [2026-05-04] lint | P1-P4 修正（Shai-Hulud 幻覺 + 冗餘 raw 清理 + 5 月月報 cross-ref + Zed 實體頁）
 
 **觸發**：`/llm-wiki lint`，全量掃描 100 wiki 頁 + raw 完整性 + 5 月新月報 cross-ref 機會
