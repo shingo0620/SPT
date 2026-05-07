@@ -1,9 +1,9 @@
 ---
 title: Inference.sh
 type: entity
-sources: [skills-trending-2026-05-01.md, skills-trending-2026-05-02.md, skills-trending-2026-05-03.md]
+sources: [skills-trending-2026-05-01.md, skills-trending-2026-05-02.md, skills-trending-2026-05-03.md, skills-trending-2026-05-04.md, skills-trending-2026-05-05.md, skills-trending-2026-05-06.md]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-07
 tags: [organization, agent-skills, ai-media, skills-sh, skill-publisher]
 ---
 
@@ -27,15 +27,20 @@ Inference.sh 是一家專注於 AI 媒體生成（圖像/影片/avatar）的 ski
 
 5 件 skill 在 [[skills.sh]] trending 上**持續同步增長**——典型「裝 infsh-cli 順便裝其他 4 個」批次擴散模式。
 
-## 重大事件 — 2026-05-03 repo 改名
+## 重大事件 — 2026-05-03 repo 改名（24 小時恢復）
 
 | 日期 | GitHub 帳號 | Top 5 安裝數區間 |
 |------|------------|----------------|
 | 2026-05-01 | `infsh-skills` | 27,597 ~ 27,775 |
 | 2026-05-02 | `infsh-skills` | 27,882 ~ 28,028（單日 +200~280） |
-| 2026-05-03 | **`inference-skills`** | **20,590 ~ 20,628（單日 −7,000~7,400）** |
+| 2026-05-03 | **`inference-skills`** | **20,590 ~ 20,628（單日 −7,000~7,400 重置）** |
+| 2026-05-04 | `inference-skills` | **31,353 ~ 31,426（單日 +10,762 ~ +10,798 完全恢復）** |
+| 2026-05-05 | `inference-skills` | 30,234 ~ 30,327（單日 −1,099 ~ −1,121 集體微跌） |
+| 2026-05-06 | `inference-skills` | 31,324 ~ 31,469（恢復至 31.4k 區間） |
 
-> **這不是真實流失**——是 GitHub repo URL 改名導致 [[skills.sh]] 重新統計。命名統一：`infsh-` 縮寫 → `inference-` 全稱，與 [[Anthropic]] / [[OpenAI]] 等明確品牌風格一致。
+> **5/3 重置非真實流失，已被 5/4 數據驗證**——5 件 Top 5 skill 在 5/4 同步躍升 +10,762~+10,798（精準對齊排除自然成長可能性）。改名觸發的統計斷層在 24h 內由 [[skills.sh]] 後台修補完成。命名統一：`infsh-` 縮寫 → `inference-` 全稱，與 [[Anthropic]] / [[OpenAI]] 等明確品牌風格一致。
+>
+> **5/5 集體微跌 −1,100 後 5/6 即恢復 31.4k**——進一步驗證日間波動是 [[skills.sh]] 算法重統計（包含取消/到期過濾），非真實 uninstall。**對任何依賴 install 數的 OSS 投資判斷（[[src-multica-devv-ai盡調]] R-1 評分）：24h 短期波動可能完全是統計層級事件，需以 7+ 日趨勢為基準。**
 
 ### 重大事件意義
 

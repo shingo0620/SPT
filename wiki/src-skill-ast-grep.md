@@ -1,9 +1,9 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md, skills-picks-2026-05-01.md, skills-picks-2026-05-02.md, skills-picks-2026-05-03.md, skills-picks-2026-05-04.md, skills-picks-2026-05-05.md, skills-picks-2026-05-06.md]
 created: 2026-04-18
-updated: 2026-05-01
+updated: 2026-05-07
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
@@ -12,7 +12,9 @@ tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 > skills.sh Pick of the Day — **2026-04-18 唯一一次**（⚠️ 先前「連十三日精選」記錄為 fetcher fallback 假象——skills.sh 自 04-19 起停發新 pick，[[src-skills-picks-2026-04]] 已加校正聲明）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> **安裝數縱向追蹤**（從 ast-grep skill 頁面即時擷取，與 skills.sh 連續精選無關）：**2,941（04-18 被選日）→ ... → 4,073（04-30）→ 4,138（05-02）**——12 日累積 +1,132 install，整體轉化率約 3.96 install/h
+> **安裝數縱向追蹤**（從 ast-grep skill 頁面即時擷取，與 skills.sh 連續精選無關）：**2,941（04-18）→ 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03）→ 4,430（05-04）→ 4,546（05-05）→ 4,703（05-06）**——19 日累積 +1,762 install
+>
+> ⚠️ **2026-05-07 校正：W18 末「衰減平台期」推論失效**——5/1-5/3 日增 100→90→61 曾被解讀為「自然衰減平台期到來」（記錄於 [[週綜整-2026-W18]] / 5/01 ingest），但 5/4-5/6 反彈為 **+106 → +116 → +157**（V 字反彈），3 日內加速。**僅 3 日數據不足以判斷「衰減」**——需至少 7 日方向一致才能下結論。可能機制：(1) [[src-skills-trending-2026-05]] find-skills 同期 +60% 暴漲（11.7k → 18.6k）讓 ast-grep 被更多人發現，(2) skill discovery 渠道擴大，(3) ast-grep 自身 npm 生態擴散。
 > **真實擴散驅動因素**（修正後解讀）：
 > - **04-18 skills.sh Pick of the Day** 為 04-18 ~ 04-23 的初期擴散提供底噪
 > - **04-23 起單日成長從 +50 跳到 +104~+186** 推測為外部事件——可能是 04-24 [[DeepSeek]] V4 發布（1M context）引發大 codebase 結構化搜尋需求

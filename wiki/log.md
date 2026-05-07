@@ -2,6 +2,53 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-07] lint | P1+P2+P3 全批修正（過時資訊 + 懸空連結 + W19 校正附註）
+
+**觸發**：`/llm-wiki lint` 全量掃描，使用者批准全批執行
+
+**整體健康度**：
+- 106 頁 / 134 唯一 wikilink 目標
+- 孤立頁：0 ✓
+- 缺 frontmatter：0 ✓
+- 未在 index 列出：0 ✓
+- 真實懸空連結（非 log.md）：3 處
+
+**P1-1 修正：[[Inference.sh]] frontmatter 與內文同步**
+- sources 從 3 個 raw（5/01-5/03）擴展為 6 個（含 5/04-5/06）
+- updated: 2026-05-04 → 2026-05-07
+- 重大事件表新增 5/04（+10,800 完全恢復）/ 5/05（−1,100 微跌）/ 5/06（恢復 31.4k）三日數據與校正解讀
+
+**P1-2 修正：[[src-skill-ast-grep]] 安裝數與 W18 衰減推論校正**
+- sources frontmatter 新增 5/01-5/06 共 6 個 raw 檔
+- updated: 2026-05-01 → 2026-05-07
+- 安裝數縱向追蹤從「4,073（04-30）→ 4,138（05-02）」更新為完整 04-18 → 05-06 序列（4,703，19 日累積 +1,762）
+- 加入「W18 衰減平台期」推論失效校正段，記錄 V 字反彈（+106→+116→+157）與可能機制（find-skills 同期 +60% 暴漲帶動）
+
+**P2-1 修正：`wiki/週綜整-2026-W18.md` line 54 諷刺懸空**
+- `[[npm Shai-Hulud worm]]` → `` `npm Shai-Hulud worm` ``（inline code）
+- 諷刺點：原文是「移除幻覺懸空連結」記錄，自身卻又寫了同一個 wikilink
+
+**P2-2 修正：`wiki/週綜整-2026-W18.md` line 90 專案檔誤建為 wiki 頁**
+- `[[CLAUDE.md]]` → `` `CLAUDE.md` ``（inline code）
+- CLAUDE.md 是專案根目錄檔，非 wiki 頁
+
+**P2-3 修正：`wiki/src-wikipedia-2026-05.md` line 45 Vijay (actor) 懸空**
+- `[[Vijay (actor)|Vijay]]` → `Vijay`（純文字，選項 A）
+- 理由：印度區域明星 + 政治人物，wiki 規模對該主題追蹤需求低；單一來源（wikipedia featured）不足以建 entity 頁
+
+**P3-1 補充：`wiki/週綜整-2026-W18.md` 末加 W19 校正附註**
+- W19 進行中（05-04 ~ 05-10）已驗證/推翻 W18 三個推論：
+  1. 「ast-grep 衰減平台期」失效（V 字反彈）
+  2. 「Inference.sh 回升至 27k+」過於保守（實際 5/4 直跳 31.4k）
+  3. find-skills 暴漲 / HN Bun Zig→Rust / HN Cloudflare agents 自主買域名等未預期主題湧現
+- 教訓：3 日數據不足以判斷趨勢；7 日是最低門檻
+
+**Push-after**：執行 `scripts/sync-vault.sh push`
+
+**影響頁面**：[[Inference.sh]]、[[src-skill-ast-grep]]、[[週綜整-2026-W18]]、[[src-wikipedia-2026-05]]
+
+---
+
 ## [2026-05-07] ingest | wshobson/agents（35k stars Claude Code Plugins Marketplace + PluginEval 概念頁）
 
 **觸發**：使用者提供 URL `https://github.com/wshobson/agents` 並要求 ingest

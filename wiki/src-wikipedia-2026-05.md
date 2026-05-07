@@ -42,7 +42,7 @@ tags: [wikipedia, monthly-digest]
 
 ### 當日觀察
 
-- **印度泰米爾納德邦選舉熱度延續**——5/5-5/6 連 2 日 Vijay (actor) + 2026 TN/WB 選舉霸佔 Top 1-3，[[Vijay (actor)|Vijay]] 是當地政壇/影壇雙重明星
+- **印度泰米爾納德邦選舉熱度延續**——5/5-5/6 連 2 日 Vijay (actor) + 2026 TN/WB 選舉霸佔 Top 1-3，Vijay 是當地政壇/影壇雙重明星
 - **Cinco de Mayo（5 月 5 日墨西哥節日）熱度延燒至 5/6**——美國觀察墨西哥裔節日的延後翻找模式
 - **Orthohantavirus #9**——疾病條目進入 Top 10 通常意味疫情新聞；近期需查核（新疫情爆發？）
 - **歷史上今天 1998 iMac G3**——蘋果救星時刻紀念。對應 [[Apple]] 過往 wiki 條目（Apple AI VM 2024 公告等）
