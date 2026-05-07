@@ -2,6 +2,47 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-07] ingest | wshobson/agents（35k stars Claude Code Plugins Marketplace + PluginEval 概念頁）
+
+**觸發**：使用者提供 URL `https://github.com/wshobson/agents` 並要求 ingest
+
+**Pull-before**：執行 `scripts/sync-vault.sh pull`
+
+**來源擷取**：
+- 用 `.agents/skills/llm-wiki/scripts/fetch-url.sh` 擷取至 `raw/github-wshobsonagents-intelligent-automation-and-multi-agent-orchestration-for-claude-code-github.md`
+- 同時用 `gh api` 取得 metadata 補強（stars / forks / contributors / commits）
+
+**核心數據**（2026-05-07 截取）：
+- 34,923 stars / 3,799 forks / 314 watchers / 8 open issues
+- 80 plugins / 185 agents / 153 skills / 16 multi-agent workflows / 100 commands
+- 創建 2025-07-24（~10 個月）；最近推送 2026-05-02（5 天前，模型已適配 Opus 4.7 / Sonnet 4.6 / Haiku 4.5）
+- wshobson 258 commits vs 第二名 9 commits（28× 集中度，bus factor = 1）
+
+**新建頁面**：
+- [[src-wshobson-agents]]（source）——repo 全方位介紹 + OSS Scorecard 評分 + 三大架構特徵（plugin marketplace / three-tier model / PluginEval）+ 25 類 80 plugins 分布 + 與 wiki 既有 skill 集合（[[src-andrej-karpathy-skills]]/[[src-mattpocock-skills]]/[[src-addyosmani-agent-skills]]/[[src-bug-hunter]]）對比 + 與 [[skills.sh]] 生態的關係（不在 trending Top 10 → 主流改走自家 marketplace 的長期信號）
+- [[PluginEval]]（concept）——Claude Code skill 品質評估框架；三層評估（static / LLM judge / Monte Carlo）× 10 維度 × 統計 CI（Wilson / Bootstrap / Clopper-Pearson / Elo）+ 6 個 anti-patterns（OVER_CONSTRAINED 等）+ 4 個品質標章（Platinum/Gold/Silver/Bronze）
+
+**未建頁面**：
+- 未建 [[Seth Hobson]] 或 [[wshobson]] entity 頁——僅 1 個 source，未達 2+ 來源建頁門檻；待累積後考慮
+
+**index.md 更新**：
+- AI 與知識管理區塊新增 [[src-wshobson-agents]] 條目
+- 概念區塊新增 [[PluginEval]] 條目
+
+**跨來源連動**（cross-ref 已加入 src-wshobson-agents.md 與 PluginEval.md）：
+- [[src-andrej-karpathy-skills]]、[[src-mattpocock-skills]]、[[src-addyosmani-agent-skills]]、[[src-bug-hunter]]——與既有 skill 集合對比
+- [[skills.sh]] / [[src-skills-trending-2026-05]]——install 數信號 vs GitHub stars 信號的維度差異
+- [[OSS Investment Scorecard]] / [[src-multica-devv-ai盡調]]——OSS 評估方法論的 skill 版進化
+- [[src-Code Review已死]] / [[src-bug-hunter]] / [[src-agent-model-body-harness]]——Agent Teams plugin 的多 agent 對抗設計同源
+- [[src-Claude Code五個底層概念]] / [[src-codeburn]]——three-tier model strategy 的模型選擇 + 成本觀測
+- [[Skill vs Bash vs MCP]]——skill 評估科學化的進階版
+
+**Push-after**：執行 `scripts/sync-vault.sh push`
+
+**影響頁面**：[[src-wshobson-agents]]（新）、[[PluginEval]]（新）、[[index]]（修改）
+
+---
+
 ## [2026-05-07] ingest | 5 月月報補完 05-04、05-05、05-06 三日（24 個 daily raw）
 
 **觸發**：`/llm-wiki ingest`，`git status` 顯示 raw/ 中 5/4-5/6 共 6 個 reddit 檔未追蹤（git fetch 未拉），其餘已 commit 但 wiki 未 ingest

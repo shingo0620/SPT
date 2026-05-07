@@ -13,6 +13,7 @@
 - [[src-blender-ai-video-workflow]] — 太陽鴿鴿 2026-03-28 影片：Blender + Seedance 2.0 + Nano Banana 2 三步工作流，AI 視頻控制性差的解法（社群比 Anthropic 加入 Blender Dev Fund 早 1 個月）（來源數：1）
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
+- [[src-wshobson-agents]] — wshobson/agents **35k stars**：Claude Code Plugins Marketplace（80 plugins / 185 agents / 153 skills / 16 workflows / 100 commands）+ three-tier model strategy + PluginEval 統計級評估框架；個人專案 bus factor = 1（來源數：1）
 
 > 月報 2026-05-04 ingest：5 月月報補完 05-02、05-03 兩日（共 14+ 個 daily raw + bug-hunter 手動 source）；ast-grep 安裝數 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03），日增 100→90→61 進入自然衰減平台期。**重大事件 5/3**：skills.sh trending `infsh-skills` repo 改名 `inference-skills` 觸發單日 −7,000 安裝重置（非真實流失）；GitHub Trending 信號崩壞日（11/15 ❌ 詐騙/外掛/盜版）；xixu-me/skills 4 件占 Top 10 #7-#10。lint P1-P4 修正完成（前次）。
 
@@ -134,6 +135,7 @@
 - [[AI 品質共謀]] — AI 同時寫 code 與測試時形成的隱形同源誤解，CI 綠燈下的幻覺式品質（來源數：1）
 - [[Specification by Example]] — SBE 需求工程方法論，「從例子建立規格、規格即測試、測試即活文件」——AI 品質共謀的核心解方（來源數：0，LLM 跨來源歸納）
 - [[Scope Creep 守恆律]] — AI 降低實作成本後，省下的時間被更多想法、抽象化與 structural diff 吃掉的反模式（來源數：1）
+- [[PluginEval]] — Claude Code skill 品質評估框架（三層評估 × 10 維度 × 統計 CI）；wshobson/agents 內建，**第一個科學化 skill 評估系統**（來源數：1）
 
 ### 商業與顧客管理
 
