@@ -1,9 +1,9 @@
 ---
 title: Multi-Agent 失敗分類學（MAST）
 type: concept
-sources: [src-mast.md]
+sources: [src-mast.md, sequoia-ascent-2026-summary-karpathy.md]
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-11
 tags: [multi-agent, mas, failure-taxonomy, mast, anti-pattern, llm-systems]
 ---
 
@@ -149,6 +149,22 @@ MAST 的價值在於**首次提供量化基準**：
 
 ---
 
+## Karpathy 在 Sequoia 2026 的對位
+
+[[src-karpathy-sequoia-ascent-2026]]（2026-04-30）多處呼應 MAST：
+
+| Karpathy 觀點 | MAST 對應 |
+|--------------|----------|
+| 「MenuGen 支付 bug：agent 用 email 配對 Stripe + Google」 | FM-1.4 Information Withholding（agent 沒主動問「用什麼 ID 連結」）+ FM-1.1 Disobey Specification（沒實作 persistent user ID）|
+| 「Agent 負責填空，你負責判斷該畫哪些空格」 | FC1 51.7% 設計失敗——人類仍需設計 spec |
+| 「Hire by adversarial multi-agent project」 | FC2 + FC3 = 48% 的失敗可透過 adversarial 設計暴露 |
+| 「Vibe Coding raise floor / Agentic Engineering raise ceiling」 | MAST 量化了「ceiling」的具體障礙 |
+| 「Jagged Intelligence」 | 解釋為何同一模型在 MAS 中 41-86.7% 失敗：on/off the model's rails |
+
+→ **MAST 是 Karpathy「Agentic Engineering 是專業學科」論點的學術依據**。
+
+---
+
 ## 來源
 
-本概念由 [[src-mast]]（Cemri et al., arXiv:2503.13657, EMNLP 2025）提出。
+本概念由 [[src-mast]]（Cemri et al., arXiv:2503.13657, EMNLP 2025）提出。Karpathy Sequoia 訪談對位由 [[src-karpathy-sequoia-ascent-2026]] 補充。

@@ -20,6 +20,8 @@
 > 月報 2026-05-07 ingest：5 月月報補完 05-04、05-05、05-06 三日（共 24 個 daily raw）。**重大發現**：（1）**ast-grep 衰減假設失效**——5/4-5/6 日增 +106/+116/+157 V 字反彈，[[週綜整-2026-W18]] 的「自然平台期」推論被推翻；（2）**Inference.sh install 24h 完全恢復**（5/3 20.5k → 5/4 31.4k +10.8k 同步躍升），確認改名是統計層級重置；（3）**find-skills 4 日 +60% 暴漲**（11.7k → 18.6k），可能解釋 ast-grep 連動加速；（4）HN 5/5 #12 **Bun 從 Zig 遷至 Rust 666 分**（語言生態地震）+ HN 5/6 #5 **Cloudflare agents 可建帳號 + 買域名 + 部署 518 分**；（5）PH 5/5-5/6 agent ROI / parallel agents / 成本優化（Kilo Code v7 / Waydev Agent / WOZCODE）；（6）GitHub Trending **#9 rihebty/flow-kit 整合 8 個 skill 框架**（bmad/spec-kit/OpenSpec/GSD/claude-task-master/superpowers/gstack/skills）。
 
 > 月報 2026-05-09 ingest：5 月月報補完 05-07、05-08 兩日（共 16 個 daily raw）。**重大事件**：（1）**HN 5/8 三線重大事件**：[[Cloudflare]] 裁員 20% 1,069 分（與 5/6 「agents 自主買域名」形成戲劇性反差，「人類員工 → AI 員工」轉型訊號）+ Canvas/ShinyHunters 駭事件 839 分（跨 Wikipedia/ELI5 三平台同步連動）+ Dirtyfrag Universal Linux LPE 726 分；（2）**HN 5/7 開源硬體與 agent 工具鏈**：Valve 釋出 Steam Controller CAD 1,634 分 + SQLite 獲美國國會圖書館認證 484 分 + DeepMind AlphaEvolve（Gemini coding agent for science）+ Agent-harness-kit MCP scaffolding；（3）**PH 5/8 YC Application 季啟動**：15 件中 11 件帶 YC Application 標籤——Monid 2.0「OpenRouter for agent tools」+ Minions「Hermes agent mission control」+ Kuku「open-source local second brain」(呼應 LLM Wiki) + Fabraix「Find gaps in your AI agents before users do」(呼應 [[AI 品質共謀]])；（4）**PH 5/7 Anthropic 進攻金融服務**：Claude Agents for Financial Services（KYC/pitches/closing books）+ GPT-5.5 Instant 同日對打 + FlowMarket「AI agents 之間生成 B2B deals 的 socialnet」開創 agent-to-agent 商業層；（5）**skills.sh trending 二度大跌**：inference-skills 五件 5/8 單日 -2,800/skill 同步下跌（不同於 5/3 改名重置）+ find-skills 5/7 跌出榜外（5 日 hype curve 急轉）+ mattpocock 兩件穩定回到 #9/#10；（6）**ast-grep 持續加速突破 5,000**：5/4-5/8 五日 +106/+116/+157/+170/+163，9 日累積 +963（4,073 → 5,036）證實「organic 擴散」（非 hype）；（7）**GitHub Trending 信號崩壞日 #3+#4 連兩日**：5/7 五帳號 polymarket bot 7 件 + 5/8 三帳號 0-desc 7 件刷榜+ TRX-Drainer-Tool 偷錢工具上榜揭示演算法漏洞；亮點 ✨ 5/8 #7 mitsuhiko/pi-ds4（[[Armin Ronacher]] 在 Pi 上跑 DeepSeek V4，與 [[antirez]] 4/26 llama.cpp 實驗形成 indie 邊緣設備跑大模型軸）；（8）**Wikipedia 跨平台連動**：5/8 ShinyHunters 條目進 Top 3（呼應 HN）+ Hantavirus 雙條目進榜（疫情訊號）。
+
+> 月報/文章 2026-05-11 ingest：（A）**5 月月報補完 05-09、05-10 兩日 reddit**（til + eli5，4 個 raw；其他來源 hn/github/pH/wiki/skills 自 5/9 起 GitHub Actions 尚未抓）——傳統 TIL/ELI5 風格回歸（歷史/科學/動物冷知識為主，無重大資安/AI 滲透）。（B）**7 個獨立來源 ingest**：① ⭐ **[[src-karpathy-sequoia-ascent-2026]]**——Karpathy 2026-04-30 Sequoia 訪談（Software 3.0 / Agentic Engineering / Jagged Intelligence / Verifiability / Ghosts vs Animals / 「外包思考不外包理解」），**Karpathy 親自把 [[LLM Wiki]] 列為「以前不可能、現在自然」的代表——本 wiki 專案正是該方法論的實踐**；② **[[src-armin-agent-design-hard]]**——Armin Ronacher agent 工程實戰（SDK 選擇、cache points、reinforcement injection、virtual fs、Claude Code TodoWrite = echo tool 洞察）；③ **[[src-graphify]]**——safishamsi/graphify 46k stars，codebase → knowledge graph 跨 17 平台 skill，[[LLM Wiki]] 模式的程式碼特化自動版；④ **[[src-anthropic-managed-agents]]**——Anthropic Managed Agents PM 視角，確認 Anthropic 6 產品線（含 Claude Cowork / Claude Security）；⑤ **[[src-gemma4-mtp]]**——Gemma 4 MTP drafters 3x inference 加速；⑥ **[[src-forbes-vibe-coding-buy-vs-build]]**——vibe coding 失敗時 buy vs build（低風險自建 / 高風險 system of record 應買）；⑦ **[[src-claude-family]]**——5 個 Claude 產品工作流定位速查。（C）**新建 entity**：[[Armin Ronacher]]（2 source）；更新 [[Andrej Karpathy]]（5 source，加 Software 3.0 等概念表）。（D）**反向更新**：[[Multi-Agent 失敗分類學]] 加 Karpathy Sequoia 對位段。**待後續（lint 範圍）**：W19 綜整待補 5/9-5/10 其他來源後完整；Software 3.0 / Jagged Intelligence / Verifiability 是否值得獨立概念頁；[[Skill vs Bash vs MCP]] 待加 Mario Zechner「不用 MCP」反觀點段。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -40,6 +42,16 @@
 - [[src-addyosmani-agent-skills]] — Addy Osmani 的 20 個 Production-Grade Agent Skill，覆蓋完整 SDLC 6 階段，支援 8 個主流 agent 平台（來源數：1）
 - [[src-obsidian-llm-wiki]] — aster-life/obsidian-llm-wiki：Obsidian + Claude Code 的 LLM Wiki 懶人包，架構與本 wiki 高度對齊（來源數：1）
 - [[src-mast]] — UC Berkeley Cemri et al. (EMNLP 2025) 多 agent LLM 系統失敗分類學：14 模式 / 3 類，1,642 traces 標註，整體失敗率 41-86.7%，補上「LLM 幻覺出 bug」知識缺口的學術版（來源數：1）
+- [[src-karpathy-sequoia-ascent-2026]] — ⭐ Karpathy 2026-04-30 Sequoia AI Ascent 訪談：Software 3.0 / Agentic Engineering / Jagged Intelligence / Verifiability / Ghosts vs Animals / 「你可以外包思考，但不能外包理解」；**Karpathy 親自把 [[LLM Wiki]] 列為「以前不可能、現在自然」的代表案例**（來源數：3）
+- [[src-armin-agent-design-hard]] — Armin Ronacher 2025-11-21：agent 工程實戰心得——SDK 選擇 / cache points / reinforcement injection / virtual fs / output tool / Haiku-Sonnet tool calling；[[Claude Code]] TodoWrite「本質是 echo tool」洞察（來源數：1）
+- [[src-graphify]] — safishamsi/graphify **46k stars**：codebase → knowledge graph 的跨 17 平台 skill（tree-sitter + GraphRAG + Leiden）；[[LLM Wiki]] 模式的「程式碼特化自動版」（來源數：2）
+- [[src-anthropic-managed-agents]] — Anthropic 2026-04-29：Claude Managed Agents（beta，cloud-hosted agent APIs）的 PM 視角；「build with what we ship」+ 確認 Anthropic 6 產品線（Claude/Code/Cowork/Security/Skills/Managed Agents）（來源數：1）
+- [[src-gemma4-mtp]] — Google 2026-05-05：Gemma 4 Multi-Token Prediction drafters（speculative decoding）最高 3x inference 加速；Gemma 4 已 60M+ downloads（來源數：1）
+- [[src-claude-family]] — LinkedIn 風格 5 個 Claude 產品工作流定位速查（Chat thinks / Skills standardize / Projects persist / Code builds / Cowork automates）（來源數：1）
+
+### 商業與策略
+
+- [[src-forbes-vibe-coding-buy-vs-build]] — Jordan Zamir (Turnstile CEO) 2026-04-30：vibe coding 失敗時 buy vs build——軟體景觀劇烈分化，低風險工具 AI 自建 / 高風險 system of record（billing/tax/ledger）需 100% 準確應該買（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -92,7 +104,8 @@
 
 ### 人物
 
-- [[Andrej Karpathy]] — 深度學習實作者與教育者，LLM Wiki 提出者（來源數：3）
+- [[Andrej Karpathy]] — 深度學習實作者與教育者，LLM Wiki 提出者；提出 Software 3.0 / Agentic Engineering / Jagged Intelligence / Ghosts vs Animals（來源數：5）
+- [[Armin Ronacher]] — Flask/Jinja2/Pocoo 創辦人（mitsuhiko），現於 Earendil 做 agent engineering；agent 設計實戰 + indie edge LLM（pi-ds4）；反 MCP 過度工程（來源數：2）
 - [[Tobi Lütke]] — Shopify CEO，QMD 提出者（來源數：1）
 - [[Garry Tan]] — YC 總裁，GBrain 建立者（來源數：1）
 - [[Marc LeBlanc]] — 遊戲設計師，MDA 框架共同創建者（來源數：1）
@@ -169,6 +182,7 @@
 
 ### 週綜整（每週橫向 + 縱向，完整週過完才做）
 
+- [[週綜整-2026-W19]] — Agentic Engineering 學科化週（05-04 ~ 05-10），MAST 論文 + Karpathy Sequoia + Armin agent design + Anthropic Managed Agents + graphify 五篇核心來源打透「agent 工程從手藝升格學科」+ Cloudflare 裁員 vs agents 自主買域名反差 + ShinyHunters 三平台連動 + indie edge LLM 軸成形（⚠️ 5/9-5/10 僅 reddit，其他來源待補）（來源：跨頁整理）
 - [[週綜整-2026-W18]] — 驗證與校正週（04-27 ~ 05-03），主動撤回 W17 累積 12 日 fetcher fallback 假象 + Anthropic Creative Work 8 connector + Inference.sh 改名事件 + GitHub Trending 信號崩壞 + agent VM 浪潮 + Zed 1.0（來源：跨頁整理）
 - [[週綜整-2026-W17]] — 成熟營運週（04-20 ~ 04-26），18 個新實體/概念建立，外部 AI 模型密集發布日 + Anthropic 雙金主 + LLM Wiki 上 HN 主流（來源：跨頁整理）
 - [[週綜整-2026-W16]] — 知識庫起點週（04-13 init → 04-19 規模達 52 頁），AI 協作工程方法論成形（來源：跨頁整理）

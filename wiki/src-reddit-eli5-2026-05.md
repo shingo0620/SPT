@@ -1,15 +1,73 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-05
 type: source
-sources: [reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
+sources: [reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-11
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 5 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-10
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 翻過來時為何胃酸不會漏出？（上方賁門括約肌 + 下方幽門括約肌雙端閉合 + 胃壁肌肉收縮維持密閉；劇烈嘔吐才強制突破） | 795 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8v772/) |
+| 2 | 為何航油比汽柴油少被討論？電動客機未來可行嗎？（航煤年消耗量小於汽柴油；電池 ~250 Wh/kg vs 航煤 12,000 Wh/kg 差 50 倍——電動客機短期難實現） | 685 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8c7m6/) |
+| 3 | 過失殺人 vs 謀殺差別？（謀殺需「預謀（malice aforethought）」；過失殺人是無預謀但仍致死，例如激情鬥毆 vs 計畫性殺人） | 229 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t87zdv/) |
+| 4 | 英文為何那麼多無聲字母？（歷史拼字凍結 + Great Vowel Shift（1400-1700）發音變了拼字沒變 + 法文/拉丁外來語保留原拼） | 171 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8j2d6/) |
+| 5 | 為何不能大量養刺蝟野放？（英國刺蝟數量危機真實存在；但圈養缺乏覓食技能、抗病力、社群結構——直接野放存活率極低，保育需棲地復育而非「量產」） | 172 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t92ven/) |
+| 6 | 計算機如何算非完美平方數開方？（Newton-Raphson 迭代：x_{n+1} = (x_n + N/x_n)/2，誤差平方下降；硬體常用 CORDIC 或查表） | 164 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t88wip/) |
+| 7 | 天王星 90° 側翻軌道為何 45 億年沒長新極？（角動量守恆；自轉軸方向在無外力下保持，「極」是相對自轉軸定義） | 154 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8vp1o/) |
+| 8 | 日本地震為何使一天減 1 微秒？（質量重新分布改變地球轉動慣量；2011 東日本地震使地軸偏 ~17 cm，自轉週期縮 ~1.8 μs） | 145 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t93mn9/) |
+| 9 | 近親繁殖為何造成出生缺陷？（隱性致病等位基因兩個都拿到的機率指數升高；近親共享更多基因 → 同型合子（homozygous）有害基因機率增加） | 142 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8ak1t/) |
+| 10 | 宇宙膨脹但銀河仍會相撞？（局部重力束縛 > 哈伯膨脹；星系團內部不膨脹，團之間才膨脹；仙女座與銀河系 40 億年後相撞例證） | 105 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8ssyz/) |
+| 11 | 為何 Corvus 屬（烏鴉、渡鴉等）在南美洲沒有？（生物地理：南美長期島嶼化，連通巴拿馬地峽時南美已有 jay 屬鴉科填位；競爭排除） | 94 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8ldd2/) |
+| 12 | 現代客機可 auto land 為何不總用？（需 CAT III ILS 精度 + 飛行員資格 + 機場設備；天氣好時人工降落更靈活；auto land 是「能見度極差」備案） | 63 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t93zel/) |
+| 13 | 為何疤痕褪色有淺有深？（黑色素細胞活性差異；發炎後色素沉著（PIH）多在深色皮膚，色素脫失（hypopigmentation）多在淺色皮膚） | 39 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t8bpiz/) |
+| 14 | 板塊到底是什麼？在哪？（岩石圈分 ~15 主要板塊，厚 ~100 km；無法直接看見整片，但 GPS、地震波層析、海底擴張帶實證；冰島是大西洋中洋脊穿陸地的可見處） | 35 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t895t6/) |
+| 15 | 符號學（semiotics）：若一個符號表意指自身以外的意義，是否有「表意自身」的符號？（自指符號如「這句話」、Hofstadter 自指、Peirce 三分類） | 32 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t86oty/) |
+
+> **05-10 觀察**：
+>
+> - **#1 翻過來胃酸不漏 795 分**——典型「直覺反差」生理題；上下括約肌雙重密閉
+> - **#2 航油 vs 電動客機 685 分**——能量密度物理約束題；50 倍能量密度差是電池無法跨越的根本門檻
+> - **#8 日本地震減一微秒**——天體力學日常化；2011 大地震是 ELI5 經典反問題
+> - **#10 宇宙膨脹但銀河相撞**——尺度悖論：局部 vs 宇宙尺度物理規律差異
+> - **#15 符號學自指**——哲學深度題進入 Top 15；ELI5 偶爾的「跳出生活實用」純抽象題
+> - 信號特徵：傳統 ELI5 風格（自然科學 + 生物 + 物理），無重大時事連動
+
+## 2026-05-09
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何建議睡 8 小時當一個睡眠週期是 90 分鐘？應該是 7.5 或 9 小時？8 小時不就睡到一半被叫醒？（90 分鐘是平均值有 ±20 分鐘個體差異；8 小時 ≈ 5.3 週期，接近 7.5×1.07，足夠多數人完整週期內醒） | 1,343 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7egm2/) |
+| 2 | 為何分貝（decibel）採對數刻度？（人耳感知亦為對數；linear scale 從 vacuum 60 dB 到 jet 140 dB 會是 10^8 倍而不可讀；對數壓縮使工程可用） | 976 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7cbvc/) |
+| 3 | 世界上為何有這麼多肉？（工業化畜牧：美國每年 ~95 億隻雞、1.2 億隻豬、3,300 萬隻牛；CAFO 集中飼養、複合飼料、自動屠宰；「看不到牲畜」是現代供應鏈設計刻意隱藏） | 785 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7vtvz/) |
+| 4 | 為何老化後背痛常見？（椎間盤水分減少、彈性下降；脊椎小面關節磨耗；肌肉量自然流失 → 支撐能力降；累積壓力 + 自然退化） | 784 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7dyph/) |
+| 5 | 為何開啟 .jpg/.exe 等檔顯示亂碼（ÿÛ C §¶¸º...）？（檔案是二進位；文字編輯器把每個 byte 強行解讀為文字編碼字元；非可印字元變亂碼或被替換為 □） | 313 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7a6it/) |
+| 6 | 16 進位如何運作？FF 為何 = 255？1000 為何 = 4096？（每位代表 16^n；FF = 15×16 + 15 = 255；1000 = 16^3 = 4096；本質與十進位一樣，只是基底改變） | 294 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t79lci/) |
+| 7 | 為何螃蟹進得了陷阱卻出不來？（陷阱設計：入口為單向漏斗式；進入時順向擠壓，出去時方向不確定 + 視覺感知差導致找不到原路） | 243 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7imzw/) |
+| 8 | 為何會突然對某物過敏？（如 32 歲對海鮮）（免疫系統對某抗原長期累積暴露後可能改變反應，從耐受變致敏；機制不完全清楚但案例廣泛） | 180 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7w5am/) |
+| 9 | 氧氣比氮氣重為何不沉到大氣底層？（氣體分子高速隨機運動，溫差導致對流混合；密度差不足以克服熱動能，混合均勻是 metastable equilibrium） | 139 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7ji2t/) |
+| 10 | 1940s 老影片為何有黑點/線一閃即逝？（膠片化學顯影瑕疵、灰塵、發霉、拷貝時靜電；多次拷貝累積；現代修復可去除） | 122 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7p94r/) |
+| 11 | 核電廠為何冷卻蒸氣回水再加熱，而非「保持蒸氣」？（Rankine 循環需相變：液態水加熱成蒸氣的「相變潛熱」是發電效率關鍵；保持蒸氣狀態的「加熱再膨脹」效率遠低於相變循環） | 120 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t81xkl/) |
+| 12 | 乳液如何吸收進皮膚？搓揉為何幫助？（油性成分透過角質層脂質間隙滲透；摩擦提升局部溫度與血流，加速分子擴散；過度塗未必更吸收——超過皮膚承載量則停留表面） | 104 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7e4z7/) |
+| 13 | 過敏（allergy）vs 不耐（intolerance）差別？（過敏是免疫系統 IgE 抗體反應，可致命；乳糖不耐是消化酵素（lactase）不足，僅腸胃不適——機制完全不同） | 51 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7sv34/) |
+| 14 | 數位簽章如何證明特定人簽署？（非對稱加密：私鑰簽署 + 公鑰驗證；雜湊保證內容未被竄改；憑證鏈（CA）綁定公鑰與身份） | 43 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7fuoe/) |
+| 15 | 食物熱量如何被定義/計算？精度如何？（彈式量熱計直接燃燒；間接 Atwater 因子：碳水 4、蛋白 4、脂肪 9 kcal/g；標籤值容忍 ±20% 誤差） | 34 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t7djj2/) |
+
+> **05-09 觀察**：
+>
+> - **#1 8 小時 vs 90 分鐘睡眠週期 1,343 分**——典型「常識被質疑」題；高分證明這是長年困擾大眾的疑惑
+> - **#3 為何有這麼多肉 785 分**——CAFO 工業畜牧供應鏈題；體現都市世代與食物源的脫節
+> - **#6 + #5 二進位 / 16 進位**雙件——程式設計入門題在 ELI5 持續熱門，證明非工程師對「電腦底層」的好奇
+> - **#11 核電廠 Rankine 循環**——熱力學「為何不直接保持蒸氣」是熱機設計反直覺題
+> - **#15 食物熱量 ±20% 誤差**——FDA 允許的標籤誤差遠大於消費者想像；對「精準計算熱量」減肥法的根本性質疑
+> - 信號特徵：傳統 ELI5「日常物理 + 生物 + 工程」均衡分布，無重大時事連動
 
 ## 2026-05-08
 

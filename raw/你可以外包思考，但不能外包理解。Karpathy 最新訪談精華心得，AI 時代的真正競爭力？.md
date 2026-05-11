@@ -1,0 +1,1 @@
+[你可以外包思考，但不能外包理解。Karpathy 最新訪談精華心得，AI 時代的真正競爭力？](https://raymondhouch.com/lifehacker/digital-workflow/outsource-thinking-not-understanding-karpathy/)

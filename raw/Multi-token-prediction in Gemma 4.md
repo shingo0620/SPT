@@ -1,0 +1,1 @@
+[Multi-token-prediction in Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)

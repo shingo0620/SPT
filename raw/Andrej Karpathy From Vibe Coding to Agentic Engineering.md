@@ -1,0 +1,1 @@
+[Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://youtu.be/96jN2OCOfLs)

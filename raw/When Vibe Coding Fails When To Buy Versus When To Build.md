@@ -1,0 +1,1 @@
+[When Vibe Coding Fails: When To Buy Versus When To Build](https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/30/when-vibe-coding-fails-when-to-buy-versus-when-to-build/)

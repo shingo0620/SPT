@@ -1,15 +1,74 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-05
 type: source
-sources: [reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
+sources: [reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-11
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 5 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-10
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 「Great Male Renunciation」18 世紀末西方男性集體放棄鮮豔色彩、首飾與多樣服飾，改穿實用衣物與黑色西裝；現代「男性 = 嚴肅深色」審美的歷史轉折點 | 12,745 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Great_Male_Renunciation) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8q83f/) |
+| 2 | Jaws 原著作者 Peter Benchley 為 Spielberg 寫了 3 個版本劇本，全被否或大改；爭吵結局大爆炸不寫實後被趕出片場 | 5,007 | ✅ | [Far Out Magazine](https://faroutmagazine.co.uk/three-steven-spielberg-movie-adaptations-authors-hated/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8nd57/) |
+| 3 | 泰國文化中「腳是身體最髒部位」，用腳指向人或物極為失禮 | 4,929 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Culture_of_Thailand) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8p775/) |
+| 4 | 「史上最暢銷遊戲」歸屬之爭：Tetris（合計各版本 520M）vs Minecraft（350M）——權威來源各持一方 | 4,791 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_video_games) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8qukc/) |
+| 5 | 1215 年《大憲章》部分條款在 21 世紀英國法律仍有效（少數條目未被廢除） | 3,792 | ✅ | [UK Parliament](https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartaclauses/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8aaoo/) |
+| 6 | 1980 年代 H. David Werder 為抗議汽油價在桿頂上坐 **439 天 11 小時 6 分** | 3,480 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Pole_sitting) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8uryb/) |
+| 7 | 金魚「3 秒記憶」是迷思——實際可保留長達 6 個月記憶 | 3,024 | ✅ | [AMNH](https://www.amnh.org/learn-teach/curriculum-collections/young-naturalist-awards/goldfish-as-a-model-for-understanding-learning-and-memory-more-complex-than-you-think) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8dpdk/) |
+| 8 | 藍鯨細胞數約是人類 1,000 倍但癌症發生率並未較高——「Peto's Paradox」科學家未解之謎 | 2,861 | ✅ | [NCBI/PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3060950/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8zucx/) |
+| 9 | NBA shot clock 起源於 1950-11-22 史上最低分賽事：Fort Wayne Pistons 19-18 擊敗 Minneapolis Lakers，第四節僅 3-1 | 2,491 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Shot_clock#History) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8w42j/) |
+| 10 | & 符號實際是拉丁文「et」（意「and」）的連字（ligature）；因此「etc.」也可寫作「&c.」 | 1,622 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Et_cetera) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8ror6/) |
+| 11 | 義大利保持「世界史最大審判」紀錄：Maxi Trial 1986-1992，475 名被告，總刑期 2,665 年（不含無期徒刑）；於特別建造的地堡審理 | 1,416 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Maxi_Trial) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t88yk0/) |
+| 12 | 1880 年代人造奶油為提升銷量染成黃色——原為白色像 lard；酪農業遊說禁染色，W.E. Dennison 改賣「人造奶油 + 黃色染料膠囊」讓消費者自行混合 | 916 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Margarine) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t93e80/) |
+| 13 | Mount Pelée 1902 噴發殺死 28,000 人；其中許多是運補給的救援者 | 888 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pel%C3%A9e) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8crjp/) |
+| 14 | 溜溜球至少有 2,400 年歷史——西元前 440 年希臘陶器繪有男孩玩 yo-yo；但古希臘人怎麼稱呼它已不可考 | 675 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Yo-yo) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8wfx4/) |
+| 15 | 「光照派（Illuminati）統治世界」陰謀論其實是 1960 年代意外發明的——源於 Robert Anton Wilson 等人的玩笑 | 600 | ✅ | [BBC Future](https://www.bbc.co.uk/future/article/20170809-the-accidental-invention-of-the-illuminati-conspiracy) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t8qw68/) |
+
+> **05-10 觀察**：
+>
+> - **#1 Great Male Renunciation 12,745 分**——服裝史轉折，呼應現代「男性審美單調化」批評
+> - **#4 Tetris vs Minecraft 暢銷之爭**——統計方法論題：「全版本合計」vs「單一發行」誰算數
+> - **#7 + #8 動物迷思反轉雙件**：金魚記憶 + 藍鯨癌症——兩件都是「對動物的常識被推翻」題
+> - **#11 Maxi Trial**——黑手黨史與司法史交集；2,665 年總刑期是現代司法極限案例
+> - **#15 Illuminati 1960s 起源**——陰謀論研究經典；「玩笑變現實」社會學案例
+> - 信號特徵：本日無重大資安/AI 主題穿透，純粹「歷史/文化冷知識」傳統 TIL 風格回歸
+
+## 2026-05-09
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 自 2014 年起，活動家在紐約緩步建立去中心化路由器網絡（NYC Mesh），讓居民完全免費上網 | 16,746 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/NYC_Mesh) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t79nxm/) |
+| 2 | 大航海時代船員迷信「女性對海袒胸可平息海浪」——船首女像（figurehead）半裸的傳統由來 | 13,227 | ⚠️ | [The Dockyard](https://thedockyard.co.uk/news/what-do-figureheads-on-ships-represent/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7gfhz/) |
+| 3 | 「Spirit Effect」：Spirit Airlines 進入新航線會迫使其他航空降價，使一般美國人能負擔機票 | 10,653 | ✅ | [CNN](https://www.cnn.com/2025/08/17/business/spirit-airlines-air-fare-impact) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7wudu/) |
+| 4 | Machiavelli 用盡心力想重獲 Medici 信任卻徒勞；終其一生只獲一本書約。Medici 再次被推翻後，他又因「太親近 Medici」被新政權拒於門外 | 6,599 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli#Exile_and_later_years) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7i53e/) |
+| 5 | Trimethylaminuria（魚臭症）：代謝障礙導致無法分解 TMA，這種化合物經汗、尿、唾液排出，使人散發腐魚味 | 4,966 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Trimethylaminuria) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7dn95/) |
+| 6 | 寒冷削弱鼻腔免疫力——鼻腔組織溫度下降 5°C 即可使免疫反應降低近半，所以冬天更容易感冒 | 4,896 | ✅ | [Healthline](https://www.healthline.com/health-news/scientists-finally-figure-out-why-youre-more-likely-to-get-sick-in-cold-weather) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t83id1/) |
+| 7 | 2005 Katrina 颶風 3 週後 Rita 颶風催生美國史上最大都市撤離之一（約 300 萬人）——**撤離過程死亡人數多於風暴本身** | 3,595 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Rita_evacuation) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7b0db/) |
+| 8 | Merriam's kangaroo rat 一生無需喝水——從食物中取得所有水分 | 2,558 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Kangaroo_rat) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7hlxz/) |
+| 9 | NASA Gallaudet Eleven 計畫：招募 11 名聾人研究失重，因聾使他們免於暈動症；其中一個船上實驗因研究人員自己暈船而被迫中止，受試者卻完全無感 | 2,389 | ✅ | [NASA](https://www.nasa.gov/missions/project-mercury/how-11-deaf-men-helped-shape-nasas-human-spaceflight-program/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t80fzn/) |
+| 10 | 三哩島核事故唯一可測量的健康影響是事件後當地居民的壓力反應 | 1,992 | ⚠️ | [NEI](https://www.nei.org/resources/fact-sheets/lessons-from-1979-accident-at-three-mile-island) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7egq2/) |
+| 11 | 1948 年英國電影《孤雛淚》（Oliver Twist）在以色列與埃及被禁——**理由相反**：以色列認為 Alec Guinness 演 Fagin 反猶；埃及覺得演得**太同情**了 | 1,337 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Oliver_Twist_(1948_film)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7cskq/) |
+| 12 | 同卵雙胞胎指紋不同——子宮中微小條件差異影響手指皮膚發育，相同指紋的機率「近乎為零」 | 1,060 | ✅ | [Healthline](https://www.healthline.com/health/do-identical-twins-have-the-same-fingerprints) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7d25m/) |
+| 13 | 俄勒岡州偷車賊偷走超市外 SUV 後發現 4 歲男孩在後座；返還孩子並教訓母親不該獨留小孩，威脅報警後再次開走；車後被找到但賊未被捕 | 967 | ⚠️ | [People.com](https://people.com/crime/car-thief-returns-to-scene-of-crime-to-yell-at-vehicle-owner-for-leaving-4-year-old-son-inside/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t84hkn/) |
+| 14 | 1677 年英國博物學家 Robert Plot 發表牛津附近發現的「大型骨骼」插圖，認為是巨人的骨頭——後辨識為 **Megalosaurus 股骨**，據信是史上**第一筆**有紀錄的恐龍骨頭發現 | 899 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Robert_Plot) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7c4p4/) |
+| 15 | Alice Cooper 1989 年「Poison」MV 有日夜兩版——夜場版以裸上身模特替代著衣版 | 895 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Poison_(Alice_Cooper_song)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t7kh9z/) |
+
+> **05-09 觀察**：
+>
+> - **#1 NYC Mesh 16,746 分**——去中心化基礎設施對抗大型 ISP 案例；呼應 W18 [[antirez]] / [[Armin Ronacher]] indie 邊緣設備跑大模型軸（自治化主題）
+> - **#7 Hurricane Rita 撤離死人多過颶風**——典型「政策反效果」題：為避難造成更大傷亡
+> - **#9 Gallaudet Eleven**——「劣勢即優勢」題；聾人因失去前庭功能成為太空人候選的歷史光榮
+> - **#10 三哩島⚠️**——「唯一可測健康影響為壓力」是 NEI（核能行業組織）立場；學術界對甲狀腺癌等仍有爭議，需標明來源立場
+> - **#2 船首女像⚠️**——廣傳海員迷信但「裸胸=平息海浪」具體史料偏弱；確實存在 figurehead 半裸傳統，但因果敘述可能後人附會
+> - **#13 Oregon 偷車賊⚠️**——People.com 軼事報導風格，難以驗證細節
+> - 信號特徵：傳統 TIL 風格回歸（vs 5/7-5/8 大量資安/科技滲透），純歷史/醫學/動物冷知識為主
 
 ## 2026-05-08
 

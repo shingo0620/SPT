@@ -2,6 +2,59 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-11] ingest | 5/9-5/10 reddit + 7 篇 Agentic Engineering 文章 + W19 綜整
+
+**觸發**：`/llm-wiki ingest`，使用者選擇全範圍：5/9-5/10 reddit daily + 高價值文章（Karpathy + Sequoia）+ 舊 URL 標籤檔 + CLAUDE Family + W19 綜整
+
+**前置同步**：`sync-vault.sh pull`（109 + 226 檔同步成功）
+
+**先 commit 上次未 commit 的 5/9 工作**：commit `d2608c6 feat: ingest 2026-05-07~08 daily + MAST 多 agent 失敗分類學論文`（15 檔，1,246 insertions；含 src-mast / Multi-Agent 失敗分類學 / MAST raw + 12 個月報/index/log）；pre-commit hook 自動跑 sync push
+
+**A. 5/9 + 5/10 reddit daily 月報補完**：
+- `src-reddit-til-2026-05` — 5/9（NYC Mesh 16,746 / Spirit Effect / Machiavelli-Medici / Hurricane Rita 撤離死人多過颶風 / Gallaudet Eleven NASA 聾人實驗；⚠️ 船首女像迷信 / 三哩島健康影響 / Oregon 偷車賊）+ 5/10（Great Male Renunciation 12,745 / Tetris vs Minecraft 暢銷之爭 / Maxi Trial 史上最大審判 / Illuminati 1960s 起源；⚠️ Mount Pelée 28,000 死數字爭議）
+- `src-reddit-eli5-2026-05` — 5/9（8 小時 vs 90 分鐘睡眠週期 1,343 / 為何有這麼多肉 CAFO / 二進位/16 進位雙件 / 核電廠 Rankine 循環 / 食物熱量 ±20% 誤差）+ 5/10（翻過來胃酸不漏 795 / 航油 vs 電動客機 50 倍能量密度 / 日本地震減一微秒 / 符號學自指）
+- 信號特徵：傳統 TIL/ELI5 風格回歸（vs 5/7-5/8 大量資安/科技滲透），純歷史/醫學/動物/物理冷知識；⚠️ 5/9-5/10 其他 6 來源（hn/github/pH/wiki/skills-picks/skills-trending）GitHub Actions 尚未抓，僅 reddit 兩來源
+
+**B. CLAUDE Family.md（76 行現成內容）**：
+- 新建 [[src-claude-family]]——LinkedIn 風格 5 個 Claude 產品工作流定位速查（Chat thinks / Skills standardize / Projects persist / Code builds / Cowork automates）；後經 [[src-anthropic-managed-agents]] raw 確認 Claude Cowork 為真實產品，更正「待查證」標註為「已確認」
+
+**C. 高價值 URL 文章 ingest（4 篇）**：
+1. ⭐⭐ **[[src-karpathy-sequoia-ascent-2026]]**（fetch karpathy.bearblog.dev + raymondhouch.com 中文摘要 + YouTube 標籤）——Karpathy 2026-04-30 Sequoia AI Ascent 訪談 12 核心觀點：December 2025 agentic inflection point / Software 3.0（context = 新程式）/ MenuGen 軟體應該消失 / Verifiability（LLM 自動化可驗證任務）/ Jagged Intelligence 兩軸 / Vibe Coding raise floor vs Agentic Engineering raise ceiling / Hiring 應改變（adversarial multi-agent project）/ Founders 找未訓練的可驗證領域 / Agent-Native Infrastructure / Ghosts not Animals / 「你可以外包思考，但不能外包理解」+ 中文版「三件 AI 偷不走的事：理解力/品味/好奇心」。⭐ **Karpathy 親自把 [[LLM Wiki]] 列為「以前不可能、現在自然」的代表案例——本 wiki 專案正是該方法論的實踐**
+2. ⭐ **[[src-armin-agent-design-hard]]**（fetch lucumr.pocoo.org）——Armin Ronacher 2025-11-21 agent 工程實戰：SDK 選擇（直接 SDK > Vercel AI SDK）/ Anthropic 顯式 cache 管理 / reinforcement injection / failure isolation（subagent + context editing）/ virtual fs 作共享狀態 / output tool 困難 / Haiku-Sonnet 是最佳 tool callers / testing & evals 最難解；**洞察：Claude Code 的 TodoWrite 本質是 echo tool**；推薦 Mario Zechner「不用 MCP」觀點
+3. **[[src-anthropic-managed-agents]]**（fetch claude.com）——Anthropic 2026-04-29 Managed Agents PM 視角：cloud-hosted agent APIs / 「build with what we ship」/ use cases（adoption analytics / dev sentiment monitoring / demo building）；**確認 Anthropic 6 產品線：Claude / Code / Cowork / Security / Skills / Managed Agents（beta）**
+4. **[[src-gemma4-mtp]]**（fetch blog.google）——Google 2026-05-05 Gemma 4 Multi-Token Prediction drafters：speculative decoding 最高 3x inference 加速；Gemma 4 已 60M+ downloads；KV cache 共享 + edge models clustering 優化
+
+**D. 其他 URL 標籤檔 ingest（2 篇）**：
+5. **[[src-graphify]]**（gh api 取 README，因檔名過長 fetch-url.sh 失敗改手動）——safishamsi/graphify **46k stars**：codebase → knowledge graph 跨 17 平台 skill（tree-sitter + GraphRAG + Leiden）；⭐ **[[LLM Wiki]] 模式的程式碼特化自動版**；⚠️ 5 週 46k stars 增速異常 + fork/star 比偏低 + PyPI squatting 警示（正版 `graphifyy`）
+6. **[[src-forbes-vibe-coding-buy-vs-build]]**（fetch forbes.com）——Jordan Zamir (Turnstile CEO) 2026-04-30：vibe coding 失敗時 buy vs build——軟體景觀劇烈分化，低風險工具 AI 自建 / 高風險 system of record（billing/tax/ledger）需 100% 準確應該買；⚠️ 作者利益相關（Turnstile 是 quote-to-cash SaaS）
+
+**E. 新建 / 更新 entity**：
+- 新建 [[Armin Ronacher]]（2 source：agent-design-is-still-hard + github-trending-2026-05-08 pi-ds4）——Flask/Jinja2/Pocoo 創辦人，現於 Earendil 做 agent engineering；反 MCP 過度工程；indie edge LLM
+- 更新 [[Andrej Karpathy]]（3 → 5 source）——加 Software 3.0 / Agentic Engineering / Jagged Intelligence / Ghosts vs Animals 概念表 + Sequoia 訪談段
+
+**F. 反向更新**：
+- [[Multi-Agent 失敗分類學]] 加「Karpathy 在 Sequoia 2026 的對位」段（MenuGen 支付 bug = FM-1.4 + FM-1.1；adversarial 面試 = FC2+FC3=48%；Jagged Intelligence = on/off rails）
+- [[src-claude-family]] 更正 Claude Cowork 標註（待查證 → 已確認真實產品）
+
+**G. W19 週綜整**：
+- 新建 [[週綜整-2026-W19]]（05-04 ~ 05-10）——「Agentic Engineering 學科化週」；四大主軸：① agent 工程學科化（MAST + Karpathy + Armin + Managed Agents + graphify 五篇收斂）② 人類員工 → AI 員工轉型訊號（Cloudflare 裁員 vs agents 買域名 + Claude Agents for Financial Services + FlowMarket）③ 訊號品質持續惡化（GitHub Trending #3+#4 + skills.sh trending 二度大跌 + find-skills hype curve 急轉 vs ast-grep organic 突破 5,000）④ indie edge LLM 軸成形（pi-ds4 + Gemma 4 MTP + Inference.sh + antirez）
+- ⚠️ 5/9-5/10 其他來源缺漏，W20 補齊後可回頭補充本綜整對應日期
+
+**Index 更新**：
+- AI 與知識管理區塊新增 7 個 source 頁；新增「商業與策略」子分類（forbes-vibe-coding）
+- 人物區塊新增 [[Armin Ronacher]]；[[Andrej Karpathy]] 更新（5 source + 概念）
+- 週綜整區塊新增 [[週綜整-2026-W19]]
+- 引言追加「月報/文章 2026-05-11 ingest」段
+
+**待後續（lint 範圍）**：
+- 5/9-5/10 的 hn/github/pH/wiki/skills 五來源待 GitHub Actions 補抓後 ingest
+- Software 3.0 / Jagged Intelligence / Verifiability 是否值得各自獨立概念頁
+- [[Skill vs Bash vs MCP]] 待加 Mario Zechner「不用 MCP」反觀點段；[[AI 品質共謀]] 可再加 Karpathy MenuGen 案例
+- 3 個重複 URL 標籤檔（forrestchang / Untitled 2 / 我似乎已经看见了）+ 已 ingest 的 URL 標籤檔（Why Do Multi-Agent / Andrej Karpathy From Vibe Coding 等）需 vault 端清理判斷
+- [[週綜整-2026-W19]] 待 W20 補回 5/9-5/10 完整資料
+
+**結束**：執行 `sync-vault.sh push`（commit pre-hook 自動）
+
 ## [2026-05-09] ingest | MAST 多 agent 失敗分類學論文（B 路線：補上「LLM 幻覺 Bug」知識缺口）
 
 **觸發**：A 路線 daily 補完後，使用者選擇 B1 路線——只做 Multi-Agent LLM Systems Fail（arxiv 論文）+ 順勢新建概念頁
