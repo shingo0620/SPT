@@ -58,7 +58,6 @@ tags: [vibe-coding, buy-vs-build, saas, technical-debt, business-strategy]
 - **[[AI 品質共謀]]**：95% 準確度的「rounding error vs mischarge」對比是品質共謀的商業後果版
 - **[[src-karpathy-sequoia-ascent-2026]]**：Karpathy 的「Vibe Coding raise floor / Agentic Engineering raise ceiling」與此文「prototype delusion vs production-grade」同構；MenuGen 支付 bug 正是此文「高風險系統需 100% 準確」的具體案例
 - **[[Multi-Agent 失敗分類學]]**：「prototype 看起來像解決方案但 edge cases 崩潰」對應 MAST 的 FM-1.1 / FC3
-- **[[src-When Vibe Coding Fails]]**（本頁，若 lint 發現重複標籤需合併）
 
 ## 觀察
 

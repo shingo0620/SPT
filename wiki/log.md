@@ -2,6 +2,40 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-11] lint | P1 懸空連結 + P2 缺漏實體 + P3 過時資訊（全批執行）
+
+**觸發**：`/llm-wiki lint` 全量掃描，使用者批准全批執行（"all"）
+
+**整體健康度**：
+- 115 內容頁（117 含 index + log）
+- 孤立頁：0 ✓
+- 缺 frontmatter：0 ✓
+- 未在 index 列出：0 ✓
+- 真實懸空連結（非 log.md）：4 處
+- 「帶反斜線懸空連結」（`Andrej Karpathy\` 等）為 lint 腳本對表格 escaped pipe `\|` 的解析誤判，非真懸空，未處理
+
+**P1 — 懸空連結修正（4 處）**：
+- P1-1：`src-claude-family.md` 移除 `[[Claude.md]]`（wiki 無此頁，CLAUDE.md 是專案根目錄檔；句中改為 `[[src-claude-for-creative-work]]` 與 `[[src-anthropic-managed-agents]]`）——本次 ingest 新引入的錯誤，W18 lint 已修過同類 `[[CLAUDE.md]]`
+- P1-2：`src-forbes-vibe-coding-buy-vs-build.md` 移除 `[[src-When Vibe Coding Fails]]（本頁，若 lint 發現重複標籤需合併）` 整行——自指錯誤（本頁實際名 src-forbes-vibe-coding-buy-vs-build），多餘的自我提示
+- P1-3：`src-claude-family.md` `[[ChatGPT]]` → 純文字 `ChatGPT`（passing mention）
+- P1-4：`src-hn-2026-05.md` `[[Steam Deck]]` → 純文字 `Steam Deck`（passing mention）
+
+**P2 — 缺漏實體（1 處）**：
+- 新建 [[Cloudflare]] entity 頁——被 6+ 處 wikilink（[[週綜整-2026-W19]] ×3 + index + src-producthunt-2026-05 + src-hn-2026-05）；內容：2026-05-06 「Agents can now create Cloudflare accounts, buy domains, and deploy」（HN 518 分）+ 2026-05-07 裁員 ~20%（1,100+ 人，HN 1,069 分當日最高）的戲劇性反差；串「人類員工 → AI 員工」轉型敘事（呼應 [[綜整-AI協作工程的六大趨勢]] 趨勢三 + Donely「Closed-loop AI employees」+ FlowMarket「agent-to-agent B2B deals」+ pay.sh「autonomous payment」+ [[Anthropic]] Claude Agents for Financial Services）；⚠️ 標明「員工被裁是為 agents 上崗」的因果是社群/媒體敘事框架，Cloudflare 官方未如此表述
+- index.md「實體 → 組織」新增 [[Cloudflare]] 條目
+
+**P3 — 過時資訊同步（2 處）**：
+- P3-1：[[src-skill-ast-grep]] 安裝數補 5/7（4,873）/ 5/8（5,036，突破 5,000 milestone）；sources frontmatter 加 skills-picks-2026-05-07/08；updated 2026-05-07 → 2026-05-11；「W18 衰減平台期失效」校正段更新為「5/4-5/8 五日 +106/+116/+157/+170/+163 持續加速確認 organic 擴散，vs find-skills hype curve 5/7 跌出榜外」；同步更新 index.md line 99 ast-grep 摘要
+- P3-2：[[Inference.sh]] 重大事件表補 5/7（~31.3k 微跌）/ 5/8（~28.5k，-8.9% 二度大跌）兩列；sources frontmatter 加 skills-trending-2026-05-07/08；updated 2026-05-07 → 2026-05-11；加「5/8 二度大跌（無外部觸發 vs 5/3 改名）」分析段 + 回答「是否回升至 27.5k」（答案：5/4-5/8 穩定在 28.5k-31.4k，比原 27.5k 更高的平台）；更新 ast-grep 對比段（5,036 vs 28,663）
+
+**P4 — 低優先觀察（未處理）**：
+- 12 個 URL 標籤檔已全部對應 ingest——依「raw/ 不可變」原則保留，是來源溯源的一部分；其中 `Untitled 2.md`（= codeburn URL）/ `forrestchang...md`（= karpathy-skills URL）/ `我似乎已经看见了...md`（= 遊戲引擎的未來 URL）是「同一來源既有標籤又有完整 fetch 版」的重複，若想精簡可在 Obsidian/vault 端移除標籤檔，git 中保留無妨
+- lint 腳本對 escaped pipe `\|` 的解析問題是工具本身問題，非 wiki 內容問題
+
+**影響頁面**：[[src-claude-family]]、[[src-forbes-vibe-coding-buy-vs-build]]、[[src-hn-2026-05]]、[[Cloudflare]]（新）、[[src-skill-ast-grep]]、[[Inference.sh]]、[[index]]、[[log]]
+
+**結束**：執行 `sync-vault.sh push`（commit pre-hook 自動）
+
 ## [2026-05-11] ingest | 5/9-5/10 reddit + 7 篇 Agentic Engineering 文章 + W19 綜整
 
 **觸發**：`/llm-wiki ingest`，使用者選擇全範圍：5/9-5/10 reddit daily + 高價值文章（Karpathy + Sequoia）+ 舊 URL 標籤檔 + CLAUDE Family + W19 綜整

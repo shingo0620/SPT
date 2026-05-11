@@ -96,7 +96,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）→ 4,324（05-03）→ **4,703（05-06，5/4-5/6 V 字反彈推翻 W18 衰減假設**），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及 + find-skills 暴漲帶動發現（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）→ 4,703（05-06）→ **5,036（05-08，突破 5,000；5/4-5/8 五日 +106/+116/+157/+170/+163 持續加速確認 organic 擴散，vs find-skills hype curve 5/7 跌出榜外**），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及 + find-skills 暴漲帶動發現（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
 - [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
 - [[src-bug-hunter]] — bug-hunter（codexstar69）：跨 7+ agent 平台的 adversarial multi-agent bug hunter + auto-fix skill；首個明確「multi-agent + adversarial」設計（來源數：1，僅 URL 標籤）
 
@@ -118,9 +118,10 @@
 
 - [[Anthropic]] — Claude 模型系列與 Claude Code 開發商（來源數：0，LLM 跨來源歸納）
 - [[Apple]] — 2026-04-20 Tim Cook → John Ternus CEO 交接事件為本月追蹤焦點（來源數：2）
+- [[Cloudflare]] — 網路基礎設施公司；2026-05 「裁員 20%（1,100+ 人）× agents 自主買域名上崗」戲劇性反差，「人類員工 → AI 員工」轉型標誌性事件（來源數：3）
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
 - [[DeepSeek]] — 杭州幻方量化旗下 AI，2026-04-24 V4 發布為本月關鍵事件（HN/PH/GitHub Trending 三榜聯動）（來源數：0，LLM 跨來源歸納）
-- [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI（來源數：0，LLM 跨來源歸納）
+- [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI；Gemma 4 開源（60M+ downloads）+ MTP drafters 3x inference 加速（來源數：1）
 - [[月之暗面]] — Moonshot AI / Kimi 模型線，本月因 Attention Residuals 復現專案進入追蹤（來源數：1）
 - [[OpenAI]] — GPT 系列、Codex 開發者工具、ChatGPT 消費級產品，2026-04-22 ChatGPT Images 2.0、04-24 GPT-5.5 + Codex 3.0（來源數：0，LLM 跨來源歸納）
 - [[Inference.sh]] — AI 媒體 skill 主要發行者，5 件 skill 占 skills.sh trending Top 1-5；2026-05-03 GitHub repo 從 `infsh-skills` 改名 `inference-skills` 觸發單日 −7,000 安裝重置；**5/4 install 單日 +10.8k 完全恢復至 31.4k 確認是統計層級事件**（來源數：6） 

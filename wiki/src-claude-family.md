@@ -54,7 +54,7 @@ tags: [claude, anthropic, product-positioning, workflow]
 ### 5. Claude Projects — Context Keeper
 
 - **範例**：管理含上百份文件的產品發布專案 → Projects 記住一切、上下文跨 session 持續
-- 觀察：[[Anthropic]] 用以對比 [[ChatGPT]] 的「Projects」功能，皆屬「context 持久化」競爭
+- 觀察：[[Anthropic]] 用以對比 ChatGPT 的「Projects」功能，皆屬「context 持久化」競爭
 
 ## 商業敘事策略
 
@@ -64,7 +64,7 @@ tags: [claude, anthropic, product-positioning, workflow]
 2. **錯誤敘事**：「多數團隊把 Chat 當萬用工具，所以撞牆」——暗示讀者「你正在錯誤使用」
 3. **解方矩陣**：5 產品 = 5 個工作流階段（思考 / 標準化 / 持久化 / 建構 / 自動化）——LinkedIn 演算法偏愛「N 個要點」格式
 
-這對應 wiki 既有 [[Claude.md]] 與 [[src-claude-for-creative-work]] 的 [[Anthropic]] 對外溝通模式：強調「正確使用 Claude」而非「Claude 比 X 強」。
+這對應 wiki 既有 [[src-claude-for-creative-work]] 與 [[src-anthropic-managed-agents]] 的 [[Anthropic]] 對外溝通模式：強調「正確使用 Claude」而非「Claude 比 X 強」。
 
 ## 跨 wiki 連動
 
