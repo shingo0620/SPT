@@ -1,15 +1,72 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-05
 type: source
-sources: [reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
+sources: [reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 5 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-08
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 完全失明者「看到的不是黑暗虛空，而是 nothing」如何解釋？（沒有對比經驗就無「黑色」概念；像「用手肘看世界」——不是黑、不是白，是「沒有視覺通道」） | 851 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t73dsa/) |
+| 2 | 千年前城市僅有現代人口的 1/50 為何能繁榮？（城市定義不同；人口集中即為城市，農業生產力 + 貿易網絡規模相對足夠） | 475 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6rwge/) |
+| 3 | 潛艇如何加壓？空氣從哪來？（液態氧、CO2 洗滌、電解海水製氧；密閉空間維持 1 atm 而非加壓，與深海潛水艇不同概念） | 215 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6razr/) |
+| 4 | 政府合約投標為何要保密、拍賣為何公開？（拍賣目標往「上」推升價格；政府合約往「下」拉低價格——若公開最低價競賽會誘導低於成本投標、傷害品質） | 195 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6z2mp/) |
+| 5 | 路面坑洞如何越來越大？（水滲入裂縫凍結膨脹 → 周圍瀝青剝落 → 車輛碾壓邊緣加劇 → 雪球效應） | 145 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6i3sa/) |
+| 6 | 球面上三角形內角和為何 > 180°？（球面是正曲率空間；測地線並非直線；球面三角形的「直角 + 直角 + 直角 = 270°」可在 1/8 球面構造） | 100 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6e85u/) |
+| 7 | El Reno 龍捲風為何不被列為 EF5？（EF 分級基於可觀測損害；El Reno 主要在開放鄉村，缺乏結構物作為損害指標——雖然移動速度與直徑歷史性極端） | 75 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6lp54/) |
+| 8 | 為何提升處理器時脈大幅增加熱輸出而非線性增加耗電？（功耗 ∝ 頻率 × 電壓²；高頻需更高電壓穩定運作 → 平方倍增；leakage 與切換損耗指數成長） | 51 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6k07v/) |
+| 9 | 陀螺儀 vs 加速度計差別？（加速度計測線性加速度與重力方向；陀螺儀測角速度——iPhone 兩者皆有，互補感測） | 49 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6mj1c/) |
+| 10 | 喝酒時為何特別想抽菸？（酒精降低 nicotine 受體閾值 + 多巴胺通路加成；同時也是長期共現形成的條件反射） | 48 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6il9a/) |
+| 11 | DNA 如何告訴細胞要長成手指、鼻子等 3D 形狀？（DNA 編碼蛋白質與調控；morphogen 梯度 + 細胞間訊號 + 接觸抑制；發育生物學是訊號網絡而非藍圖） | 47 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t72fsr/) |
+| 12 | 蘋果嫁接如何運作？為何必要？（接穗（scion）保留品種特性，砧木（rootstock）控制根系與生長力；蘋果樹不會純種繁殖——種子產生不同果實） | 43 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6mgmh/) |
+| 13 | 矽肺/石綿肺塵纖維為何被視為「toxin」而非機械刺激物？（雖然機制是物理刮傷，但長期不可清除導致永久性纖維化和癌變——醫學分類「toxic」依長期生物效應，不只急性化學作用） | 30 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6u7jt/) |
+| 14 | 太陽變黑洞有精確質量門檻嗎？（Tolman-Oppenheimer-Volkoff 上限約 2-3 太陽質量；超過此核心會塌縮成黑洞；「拿走質量」黑洞**不會**反向變回恆星——蒸發走霍金輻射） | 33 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6wr0s/) |
+| 15 | 資料外洩後我們的資料去哪？（暗網/論壇販售；身份盜用、信用詐欺；公司端清除外洩資料無意義——已複製不可回收） | 32 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6nfps/) |
+
+> **05-08 觀察**：
+>
+> - **#1 完全失明者「看到 nothing」851 分**——感知哲學經典題；「沒有視覺通道」與「黑色」的本體論差異
+> - **#15 資料外洩後續**——呼應 5/8 HN #6 Canvas/ShinyHunters 駭事件；ELI5 與 HN 同日同題
+> - **#11 DNA → 3D 形狀**——發育生物學的「訊號網絡」答案，反直覺：沒有「藍圖」只有「梯度」
+> - **#14 黑洞質量門檻 + 不可逆**——量子場論基礎物理題；「拿走質量黑洞變回恆星」直覺被推翻
+> - **#7 El Reno 龍捲風 EF 分級悖論**——EF 是「損害評級」而非「強度評級」的分類學限制
+> - **#8 處理器頻率 vs 熱**——對應 5/8 GitHub Trending #4 duguying/100M 訓練 0.1B LLM 與底層運算成本
+
+## 2026-05-07
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | Zero-Click 駭客攻擊如何在不點擊下執行？（漏洞利用：訊息解析時觸發；如 iMessage 或 WhatsApp 的解碼器漏洞——訊息「敲門」即觸發 buffer overflow / use-after-free） | 443 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5w4ef/) |
+| 2 | 為何浮橋不普遍？（深海風浪會放大；錨定點承受巨大應力；維護成本高；現有少數案例如 Hood Canal Bridge 僅在保護水域可行——Morocco-Spain / Ireland-Scotland 海況過於極端） | 355 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5v3es/) |
+| 3 | Gabriel's Horn 數學悖論：3D 形狀有限體積但無限表面積？（積分：1/x² 在 1 到無限積分收斂；1/x 積分發散；幾何擴展為「填滿油漆」需要有限油漆但「外漆塗滿」需要無限） | 334 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t63l6l/) |
+| 4 | 兩點間無限長度悖論（Zeno's Paradox）？（無窮級數收斂：1/2 + 1/4 + 1/8 + ... = 1；無限多步驟可能在有限總長內完成——數學基礎是 ε-δ 收斂） | 265 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5mk0x/) |
+| 5 | 物種 DNA 多接近才能交配？（取決於染色體配對與蛋白質相容性；獅虎接近 1-2% 差異可雜交；猿猴與人類差異 1-1.5% 但細胞層級不相容——非單純「百分比」） | 201 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5qehn/) |
+| 6 | 為何電腦需要 boot ROM？（CPU 上電後需要起始指令位址但 RAM 空白；ROM 提供初始化代碼，OS 啟動後 BIOS 失去控制權但仍處理硬體中斷與 ACPI） | 145 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5vkf0/) |
+| 7 | 畢氏定理可用於其他指數嗎？（a^n + b^n = c^n 對 n>2 無正整數解——**費馬大定理**！Wiles 1995 證明；幾何意義轉至高維時不成立） | 114 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5f1cn/) |
+| 8 | 為何小孩學語言比成人輕鬆？（神經可塑性 + critical period 假說；母語習得後語言處理區固化；成人需用顯式記憶系統處理語法） | 91 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5tkjr/) |
+| 9 | 電阻器的功能是？（限流：保護元件 + 設定電流分配 + 訊號分壓——非「消耗多餘電壓」而是「定義電路工作點」） | 58 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t64ccs/) |
+| 10 | 蜂群「群體心智」如何運作？真的共享意識嗎？（化學訊號 + 簡單規則的湧現現象；個體行為決定群體模式但無共享主觀經驗；蟻巢通訊靠 pheromone trail） | 50 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5sl4r/) |
+| 11 | 為何競爭不能抵消通膨？（競爭壓低個別商品價格但不對抗總體貨幣供給；M2 上升 → 整體價格水平上升；個別市場效率不能解通膨總量問題） | 51 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t65let/) |
+| 12 | 巴士方向盤為何特別大？（齒輪比 + 力矩；液壓助力前的設計遺留；提供更精細控制與更大力矩——大車輪轉向需要更多扭矩） | 43 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t6adhf/) |
+| 13 | 腫瘤如何在身體中成長？（基因突變累積導致免疫逃避 + 細胞週期失控 + angiogenesis 血管生成；不是「免疫累了」而是「腫瘤偽裝成自體細胞」） | 29 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5qbuc/) |
+| 14 | 粒子加速器如何「創造」新粒子？（E=mc² 高能碰撞 → 部分能量轉成質量；非「製造」是「能量重新分配」；標準模型粒子在能量足夠時自然出現） | 26 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t63axb/) |
+| 15 | 宇宙初期重力如何凝聚氣體？（量子起伏放大 → 密度小擾動 → 重力加速凝聚 + 暗物質支架——CMB 各向異性是直接證據） | 23 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t5yzmp/) |
+
+> **05-07 觀察**：
+>
+> - **#1 Zero-Click 駭客 443 分**——資安最高熱題；對應 5/8 HN #6 Canvas 被駭、5/8 HN #13 Dirtyfrag Linux LPE、5/2 HN #15 PyTorch Lightning malware；「不點擊也被入侵」恐慌延燒
+> - **#3-4 / #14-15 數學物理題密集**——Gabriel's Horn、Zeno's Paradox、E=mc²、宇宙初期重力凝聚——當日是「反直覺數理日」
+> - **#5 物種雜交 DNA 距離**——「接近 1-2% 即可雜交」這個直覺答案被細節推翻：細胞層級相容性比 SNP 距離更關鍵
+> - **#7 費馬大定理 ELI5**——n=2 vs n>2 在現代代數幾何視角下完全不同，從畢氏定理一路到 Wiles 1995 證明
+> - **#11 通膨 vs 競爭**——常見誤解：「競爭壓低價格→可解通膨」忽略貨幣供給總量
 
 ## 2026-05-06
 

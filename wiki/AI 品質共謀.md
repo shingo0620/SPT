@@ -75,6 +75,7 @@ tags: [AI, 測試, 軟體品質, 反模式, anti-pattern]
 - **[[AI 輔助軟體工程]]**：結構化方法論中包含雙重 review——AI 品質共謀是當「雙重 review」省略時的典型失效模式
 - **[[src-Code Review已死]] 的 Swiss-cheese 五層信任模型**：AI 品質共謀對應「第一層（code 審查）失效」的擴散版——不只 review，連測試本身都是同一個 swiss cheese
 - **[[src-AI-Agent避坑指南]] 的上下文隔離**：避坑指南針對「單 agent 多任務」的 context bleed；AI 品質共謀則是「單 agent 跨角色（coder + tester）」的 context bleed
+- **[[Multi-Agent 失敗分類學|MAST]]（學術版）**：UC Berkeley Cemri et al. (EMNLP 2025) 的 [[src-mast]] 把「同源誤解 → 驗證失敗」現象學術化為 FC3 Task Verification（16.5%）；[[AI 品質共謀]] 是 [[src-mast|MAST]] FC3 的工程描述版，**結構同構**：都指向「驗證鏈條失效」是核心問題，差別在 MAST 用 1,642 traces 量化、AI 品質共謀用實務語言定義
 
 ## 近似概念
 

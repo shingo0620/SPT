@@ -2,6 +2,109 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-09] ingest | MAST 多 agent 失敗分類學論文（B 路線：補上「LLM 幻覺 Bug」知識缺口）
+
+**觸發**：A 路線 daily 補完後，使用者選擇 B1 路線——只做 Multi-Agent LLM Systems Fail（arxiv 論文）+ 順勢新建概念頁
+
+**前置動作**：依 ingest 流程使用 `fetch-url.sh` 抓取 arxiv abstract（成功）+ `WebFetch` 補完 HTML 全文版本內容（取得 14 個 FM 詳細列表 + 流行率 + 範例）
+
+**來源**：
+- arXiv:2503.13657（v1 2025-03 / v2 2025-04 / v3 2025-10）— **EMNLP 2025**
+- 作者：Mert Cemri et al. 13 人（UC Berkeley + Sky Computing Lab）
+- 大咖陣容：Matei Zaharia（Databricks/Spark）+ Ion Stoica（Berkeley/Spark/Ray）+ Joseph E. Gonzalez（Ray/vLLM）+ Dan Klein + Kurt Keutzer 等
+
+**核心發現摘要**：
+- **MAST 14 失敗模式 / 3 大類**：FC1 system design 51.7% / FC2 inter-agent misalignment 31.35% / FC3 task verification 16.5%
+- 跨 7 主流 MAS 框架：ChatDev / MetaGPT / HyperAgent / AppWorld / AG2 / Magentic-One / OpenManus
+- **整體失敗率 41-86.7%**——多 agent 系統並非「比單 agent 好」的預設假設
+- 1,642 traces 標註；人類 κ=0.88、LLM-as-Judge κ=0.77
+- **單一 FM 最高 = FM-2.6 Reasoning-Action Mismatch（13.2%）**——agent 想一套做另一套（對應使用者 query「LLM 幻想出不存在的 bug」結構性現象）
+- 同 base model 在好設計下提升 15.6%——「環境比模型聰明」學術證據
+
+**新建頁面**：
+1. **[[src-mast]]**（來源摘要頁）—— 完整的論文摘要 + 14 FM 詳細列表 + 7 框架表 + 統計數據 + 對 query「LLM 幻覺出不存在的 bug」的明確回應
+2. **[[Multi-Agent 失敗分類學]]**（概念頁）—— MAST 結構樹 + 三類失敗本質差異 + 「LLM 幻覺 Bug 在 MAST 的定位」專節 + 與 wiki 8+ 既有概念的系統對位
+
+**反向連結更新**（最關鍵 2 處）：
+- **[[AI 品質共謀]]**：追加「MAST 學術版」段落——MAST FC3（16.5%）= AI 品質共謀的學術化版本
+- **[[src-bug-hunter]]**：追加「MAST 學術正當性」段落——FC2 + FC3 共佔 48% 是 bug-hunter「multi-agent adversarial」設計的學術依據
+
+**Index 更新**：
+- 「來源摘要 → AI 與知識管理」加入 [[src-mast]]
+- 「概念 → AI 與知識管理」加入 [[Multi-Agent 失敗分類學]]
+
+**對使用者前次 query 的回應**：
+- 上次 query「LLM 自己幻想出根本不存在的 bug」指出 wiki 知識缺口
+- MAST 提供**部分但重要的補充**：論文明確說「不是 hallucinating bugs」（多數失敗是 design failures），但 FM-2.6（13.2% 最高）+ FC3（16.5%）結構上仍對應「幻覺 bug」現象
+- **學術 vs 實務差距**：MAST 是系統論述，個體 agent 幻覺是微觀症狀；需要架構級 + 個體級雙重解方
+- 知識缺口部分補完（多 agent 視角），單 agent 視角的「LLM 幻覺 Bug」概念頁仍可在未來新論文進來時建立
+
+**待補（未來 lint 範圍）**：
+- 反向更新 [[Scope Creep 守恆律]] / [[src-andrej-karpathy-skills]] / [[src-Code Review已死]] / [[綜整-AI協作工程的六大趨勢]] 加入 MAST 對應段落
+- 5 個其他 URL 標籤檔（Armin Ronacher / Gemma 4 / Anthropic agentic / Forbes vibe coding / safishamsi graphify）+ CLAUDE Family.md 仍未處理
+- 3 個重複 URL 標籤檔（forrestchang / Untitled 2 / 我似乎已经看见了）需 vault 端清理
+
+**結束**：執行 `sync-vault.sh push`
+
+## [2026-05-09] ingest | 5 月月報補完 05-07、05-08 兩日（A 路線 daily 補完）
+
+**觸發**：`/llm-wiki ingest`，使用者選擇「A 後 B」路線——先 daily 補完，再做 multi-agent 學術論文
+
+**前置同步**：執行 `sync-vault.sh pull` 從 Obsidian vault 拉回最新 raw（依 user memory `feedback_ingest_sync_vault`）
+
+**待 ingest 偵測**：git untracked + git diff origin/main raw/——識別出：
+- A. **5/7 + 5/8 兩日 daily raw 共 16 個**（已 commit 至 main 但尚未 ingest）
+- B. **6 個 URL 標籤檔**（需先 fetch URL）：Why Do Multi-Agent LLM Systems Fail? / Agent Design Is Still Hard (Armin Ronacher) / Multi-token-prediction in Gemma 4 / Product development in the agentic era / When Vibe Coding Fails / safishamsi/graphify
+- C. **CLAUDE Family.md**（76 行 LinkedIn 風格 5 個 Claude 產品定位）
+- D. **3 個重複/已 ingest URL 標籤檔**（forrestchang/Untitled 2/我似乎已经看见了——對應 [[src-andrej-karpathy-skills]] / [[src-codeburn]] / [[src-遊戲引擎的未來]]，待 vault 端清理）
+
+**A 路線執行範圍**：5/7 + 5/8 兩日 8 來源月報補完
+
+**8 月報更新**：
+1. `src-reddit-til-2026-05` — 兩日 30 條（5/7 含 Krakatoa 310dB ⚠️ + Delta 1141 CVR + 1888 Karl Benz 第一張駕照 + Joan Ginther ⚠️；5/8 含 Ötzi + William Marshal + HIV/AIDS 1909 起源 + F-111 ⚠️校正 + CD 孔徑 = Dubbeltje ⚠️）
+2. `src-reddit-eli5-2026-05` — 兩日 30 條（5/7 #1 Zero-Click 駭客 443 分呼應 5/8 HN Canvas 駭事件；5/8 完全失明者「nothing」851 分 + #15 資料外洩跨平台連動）
+3. `src-hn-2026-05` — 兩日 30 條：
+   - **5/8 三線重大事件**：#7 Cloudflare 裁員 20% **1,069 分**（與 5/6 #5 「agents 自主買域名」反差呼應）+ #6 Canvas/ShinyHunters 駭 839 分 + #13 Dirtyfrag Universal Linux LPE 726 分 + #10 Maybe you shouldn't install new software 704 分（供應鏈攻擊警告軸）+ #12 Cliff Stoll Cuckoo's Egg 復活 714 分 + #14 Show HN: Git for AI Agents
+   - **5/7**：#6 Valve Steam Controller CAD **1,634 分** + #12 Appearing productive 1,435 分 + #10 SQLite Library of Congress 認證 484 分 + #11 Krugman 油期貨內幕交易 + #2 DeepMind AlphaEvolve（Gemini coding agent）+ #13 Agent-harness-kit MCP scaffolding（呼應 [[src-agent-model-body-harness]]）
+4. `src-github-trending-2026-05` — 信號崩壞日 #3+#4：
+   - **5/7**：5 帳號 polymarket bot 7 件刷榜 + ❌NamKhoa-07 ethereum 暴破 + ❌BertecKol bitcoin flash 詐騙 + ❌blcktuzinLab TON sniper bot；亮點 ✅ wojtczyk/trust（Coding Rust like 1989）+ iam567/LifeManga（iOS GPT-Image manga）
+   - **5/8**：❌Roblox executor + ❌Kahoot hack + ❌Tamil 盜版 + ❌**TRX-Drainer-Tool 偷錢工具上榜**（揭示演算法對「明顯惡意」缺乏過濾）+ 3 帳號 7 件 0-desc 刷榜（nacateeeeee/HristoIgnev/joeyleal283）；亮點 ✨ #7 **mitsuhiko/pi-ds4**（[[Armin Ronacher]] 在 Pi 跑 DeepSeek V4，與 [[antirez]] 4/26 llama.cpp 實驗形成「indie 邊緣設備跑大模型」軸）
+5. `src-producthunt-2026-05` — 兩日 30 件：
+   - **5/8 YC Application 季啟動**：15 件中 11 件帶 YC Application 標籤；#2 Monid 2.0「OpenRouter for agent tools」292 分 + #3 Minions「Hermes agent mission control」218 分 + #4 Kuku「open-source local second brain」（⭐呼應 [[LLM Wiki]]）+ #14 Fabraix「Find gaps in AI agents before users do」（⭐呼應 [[AI 品質共謀]] + [[src-bug-hunter]] 對抗性設計商業化）+ #9 APIEval-20 開放 benchmark
+   - **5/7**：#1 FlowMarket「AI agents B2B socialnet」306 分（agent-to-agent 商業層）+ **#2 Claude Agents for Financial Services 173 分（[[Anthropic]] 進攻 finance 行業 agent）** + #3 GPT-5.5 Instant 151 分（同日對打）+ #4 MESA Shopify workflow agent + 5 件 Pitch Tel Aviv
+6. `src-wikipedia-2026-05` — 5/8 精選 First Treaty of London (1358 百年戰爭) + **#3 ShinyHunters 條目同步進榜（跨 HN/ELI5 三平台連動）** + Hantavirus 雙條目（疫情訊號）+ 歷史 2025 教宗 Leo XIV 紀念；5/7 精選 Truganini + #1 Ted Turner 837k 紀念峰值 + 印度 TN 選舉軸延續
+7. `src-skills-trending-2026-05` — ⚠️ 重大事件：
+   - **5/7 find-skills 跌出榜外**（5/3-5/6 連 4 日加速 +59% → 單日跌出，5 日 hype curve 急轉）
+   - **5/7 mattpocock 兩件 ✨ 重返榜**（grill-me + improve-codebase-architecture，間隔 2 日回歸）
+   - **5/8 inference-skills 五件二度大跌**（單日 -2,800/skill，-8.9%；不同於 5/3 改名重置，無明顯外部觸發）
+8. `src-skills-picks-2026-05` — ast-grep 持續加速：
+   - 5/7 +170 → 5/8 +163；**突破 5,000 milestone（5/8 達 5,036）**
+   - 9 日累積 +963（4,073 → 5,036），日均 +107
+   - 對比 find-skills hype curve（5 日急漲後跌出）：**ast-grep 是「真實 organic 擴散」（非 hype）**
+
+**新建概念/實體**：本次無（皆為月報增量更新）
+
+**Index 更新**：
+- `index.md` 引言追加「月報 2026-05-09 ingest」段落，包含 8 大重大發現摘要
+
+**待 ingest（lint 範圍外，B 路線預留）**：
+- 6 個 URL 標籤檔需 fetch（其中 ⭐ 高價值兩篇與 [[AI 品質共謀]] / Karpathy LLM coding pitfalls 知識缺口直接相關）：
+  1. ⭐ **Why Do Multi-Agent LLM Systems Fail?** ([arxiv:2503.13657](https://arxiv.org/abs/2503.13657))——直接補上 wiki「LLM 幻覺 Bug」知識缺口（前次 query 指出）
+  2. ⭐ **Agent Design Is Still Hard** ([Armin Ronacher blog](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/))——同 5/8 GitHub Trending #7 mitsuhiko/pi-ds4 作者
+  3. Multi-token-prediction in Gemma 4 (Google blog)
+  4. Product development in the agentic era (Anthropic blog)
+  5. When Vibe Coding Fails (Forbes)
+  6. safishamsi/graphify (GitHub repo)
+- CLAUDE Family.md 76 行（LinkedIn 風格 5 個 Claude 產品定位，可能值得收）
+- W19（5/4-5/10）下週日 5/10 結束後可建 [[週綜整-2026-W19]]
+
+**驗證**：
+- 月報 8 份均已新增 5/7 + 5/8 兩日內容（依「新到舊排列」記憶規則插入最上方）
+- 事實查核完成（reddit-til 5/7 #1 Krakatoa / #9 monogamy / #10 East Germany / #11 Swansea / #14 Joan Ginther 標 ⚠️ + 校正；5/8 #8 F-111 / #10 Joe Coleman / #12 Alabama / #14 Dubbeltje / #15 Andrew Jackson 標 ⚠️）
+- 跨來源連動已標出（5/8 ShinyHunters 三平台軸 + Cloudflare 裁員/agents 反差軸 + AI 品質共謀 wiki 概念呼應）
+
+**結束**：執行 `sync-vault.sh push`
+
 ## [2026-05-07] lint | P1+P2+P3 全批修正（過時資訊 + 懸空連結 + W19 校正附註）
 
 **觸發**：`/llm-wiki lint` 全量掃描，使用者批准全批執行

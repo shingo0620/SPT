@@ -1,9 +1,9 @@
 ---
 title: skills.sh Trending Top 10 月報 — 2026-05
 type: source
-sources: [skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
+sources: [skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [skills-sh, agent-skills, trending, monthly-digest]
 ---
 
@@ -14,6 +14,93 @@ tags: [skills-sh, agent-skills, trending, monthly-digest]
 > 與 [[src-skills-picks-2026-04]]（編輯精選，已停發）的對比：trending 反映 organic 流行度，是 skills.sh 上「真正最受歡迎」skills 的縱向追蹤。
 
 > **2026-05-04 更新**：Inference.sh 改名事件已建立 [[Inference.sh]] 組織實體頁——記錄品牌統一時程、5 件 Top 5 skill、與 [[skills.sh]] / [[src-claude-for-creative-work]] 的生態連動
+
+> **2026-05-09 更新**：5/7-5/8 兩日觀察到 **find-skills 跌出榜外**（5/6 #6 18,648 → 5/7 起消失）+ **inference-skills 五件二度下跌**（5/7 微跌 -50/skill、5/8 大幅 -2,800/skill）；mattpocock 兩件（grill-me + improve-codebase-architecture）穩定回到 #9/#10——「organic 衰減 + 第二次統計重置」雙線並存
+
+## 2026-05-08 — inference-skills 二次大跌（單日 -2,800/skill）+ find-skills 持續缺席
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | [ai-video-generation](https://skills.sh/inference-skills/skills/ai-video-generation) | inference-skills/skills | **28,663** | ↓↓ 5/7 31,393 → 28,663（單日 **-2,730，-8.7%**） |
+| 2 | [ai-image-generation](https://skills.sh/inference-skills/skills/ai-image-generation) | inference-skills/skills | 28,547 | ↓↓ 5/7 31,336 → 28,547（單日 **-2,789，-8.9%**） |
+| 3 | ↑ [ai-avatar-video](https://skills.sh/inference-skills/skills/ai-avatar-video) | inference-skills/skills | 28,522 | ↑ 5/7 #4 → #3（同步集體跌但相對排名上） |
+| 4 | ↓ [agent-tools](https://skills.sh/inference-skills/skills/agent-tools) | inference-skills/skills | 28,520 | ↓ 5/7 #3 → #4 |
+| 5 | [infsh-cli](https://skills.sh/inference-skills/skills/infsh-cli) | inference-skills/skills | 28,517 | 持平 #5（−2,757） |
+| 6 | [wonda-cli](https://skills.sh/degausai/wonda/wonda-cli) | degausai/wonda | 8,635 | ↓ 5/7 8,762 → 8,635（−127；輕微回調） |
+| 7 | [just-scrape](https://skills.sh/scrapegraphai/just-scrape/just-scrape) | scrapegraphai/just-scrape | 7,894 | ↑ 5/7 7,092 → 7,894（+802） |
+| 8 | ↑ [soultrace](https://skills.sh/soultrace-ai/soultrace-skill/soultrace) | soultrace-ai/soultrace-skill | 7,553 | ↑ 5/7 6,846 → 7,553（+707；持續恢復） |
+| 9 | ↓ [[src-mattpocock-skills\|grill-me]] | mattpocock/skills | 5,868 | ↓ 5/7 6,529 → 5,868（−661） |
+| 10 | ↓ [improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture) | mattpocock/skills | 5,156 | ↓ 5/7 5,835 → 5,156（−679） |
+
+⬇️ **跌出榜外**（5/7 在榜 → 5/8 跌出）：無新跌出（find-skills 已連 2 日跌出）
+
+> **05-08 觀察**——⚠️ **inference-skills 第二次大跌事件**（不同於 5/3 改名重置）：
+>
+> ### 1. **inference-skills 五件單日 -2,800/skill 同步下跌**
+>
+> - 縱向：5/3 改名後 ~20.5k → 5/4 31.4k 急速恢復 → 5/5-5/6 平穩 ~30-31k → 5/7 微跌 ~31.3k → **5/8 -8.9% 大跌至 ~28.5k**
+> - 不像 5/3 那樣是 GitHub repo URL 改名，這次無明顯外部觸發
+> - **可能機制**：(1) skills.sh 統計算法二次調整 (2) inference-skills GitHub 端再次操作 (3) install 計算口徑變更（如刪除舊 install 數據）
+> - **lint 提醒**：依 [[週綜整-2026-W18]] 教訓，「-2,800/skill 同步下跌」應視為**統計層級事件**而非真實 churn
+>
+> ### 2. **find-skills 跌出榜外連 2 日**
+>
+> - 5/6 #6 18,648 → 5/7 跌出 Top 10（推測 #11+）→ 5/8 仍跌出
+> - **5 日驟漲（5/3 11.7k → 5/6 18.6k +59%）後一日驟跌**——典型 hype curve 後段
+> - 對應 [[src-skills-picks-2026-05]] ast-grep 數據：是否同步減速需 5/9 觀察
+>
+> ### 3. **mattpocock 兩件穩定回到 #9/#10**
+>
+> - grill-me 5,868 + improve-codebase-architecture 5,156——非 inference-skills 的 organic skill 在「噪音事件」下相對排名上升
+> - 5/4 三件全進 Top 10 → 5/5 三件全跌出 → 5/7-5/8 兩件回歸——**mattpocock 的「PRD/Issue/Plan」應用領域有持續用戶基數**
+>
+> ### 4. **wonda-cli 持平 + just-scrape / soultrace 加速**
+>
+> - just-scrape +802、soultrace +707——「web scraping skill」+「agent observability skill」兩條軌道平穩成長
+
+## 2026-05-07 — find-skills 跌出榜外日 + mattpocock 兩件回歸
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | ↑ [ai-video-generation](https://skills.sh/inference-skills/skills/ai-video-generation) | inference-skills/skills | 31,393 | ↑ 5/6 #2 → #1（−32；ai-image vs ai-video 第三次互換） |
+| 2 | ↓ [ai-image-generation](https://skills.sh/inference-skills/skills/ai-image-generation) | inference-skills/skills | 31,336 | ↓ 5/6 #1 → #2（−133） |
+| 3 | ↑ [agent-tools](https://skills.sh/inference-skills/skills/agent-tools) | inference-skills/skills | 31,282 | ↑ 5/6 #4 → #3（−47） |
+| 4 | ↓ [ai-avatar-video](https://skills.sh/inference-skills/skills/ai-avatar-video) | inference-skills/skills | 31,278 | ↓ 5/6 #3 → #4（−65） |
+| 5 | [infsh-cli](https://skills.sh/inference-skills/skills/infsh-cli) | inference-skills/skills | 31,274 | 持平 #5（−50） |
+| 6 | ✨ [wonda-cli](https://skills.sh/degausai/wonda/wonda-cli) | degausai/wonda | 8,762 | ↑ 5/6 #8 8,577 → #6（+185；找回排名） |
+| 7 | [just-scrape](https://skills.sh/scrapegraphai/just-scrape/just-scrape) | scrapegraphai/just-scrape | 7,092 | ↓ 5/6 #7 8,857 → #7（−1,765；大幅波動但仍 Top 10） |
+| 8 | [soultrace](https://skills.sh/soultrace-ai/soultrace-skill/soultrace) | soultrace-ai/soultrace-skill | 6,846 | ↓ 5/6 #9 7,190 → #8（−344） |
+| 9 | ✨ [[src-mattpocock-skills\|grill-me]] | mattpocock/skills | 6,529 | ✨ **重返榜**（5/4 #8 5,372 → 5/5-5/6 跌出 → 5/7 #9 6,529 回歸；3 日內 +1,157） |
+| 10 | ✨ [improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture) | mattpocock/skills | 5,835 | ✨ **重返榜**（5/4 #9 4,693 → 5/5-5/6 跌出 → 5/7 #10 5,835 回歸） |
+
+⬇️ **跌出榜外**（5/6 在榜 → 5/7 跌出）：
+- **find-skills**（5/6 #6 18,648）⚠️ 從 5/3-5/6 連 4 日加速擴散後**單日跌出 Top 10**——重大轉折
+- microsoft-foundry（5/6 #10 6,762）—— 連 2 日跌出
+
+> **05-07 觀察**——**find-skills 急轉直下日**：
+>
+> ### 1. **find-skills 跌出榜外，5 日 hype curve 終結**
+>
+> - 縱向：5/3 11,707 → 5/4 13,939（+19%）→ 5/5 15,318（+10%）→ 5/6 18,648（+22% 加速）→ 5/7 跌出 Top 10
+> - **「-3,000+ install 一日」單日跌幅異常巨大**——若是 organic 流失需要 install 計數方式變更解釋（如清理 spam install）
+> - **可能機制**：(1) skills.sh 統計重置（如 5/3 改名事件的 inference-skills 五件 -7k 模式）(2) Vercel-labs 渠道結束推送 (3) 真實流失但異常大
+> - **教訓**：5/6 的「find-skills 異常跳升 +21.7%」觀察被本日**完全推翻**——警示「單日異常變化」不可作為持續趨勢推論
+>
+> ### 2. **mattpocock 兩件 ✨ 重返榜**
+>
+> - grill-me 5/4 #8 → 5/7 #9（隔 2 日回歸 +1,157）
+> - improve-codebase-architecture 5/4 #9 → 5/7 #10（隔 2 日回歸 +1,142）
+> - 第三件 grill-with-docs 仍未回——三件中**第 3 件擴散弱**
+>
+> ### 3. **inference-skills 五件第二日微跌**
+>
+> - 5/6 → 5/7 五件均小幅減（-32 至 -65/skill）；統計噪音範圍
+> - 這個「微跌」是 5/8 大跌的前兆
+>
+> ### 4. **just-scrape 大幅波動 -1,765 但仍 #7**
+>
+> - 5/6 8,857 → 5/7 7,092 install 大幅變化但排名持平
+> - 反映 install 計數可能有「校正/重置」每日波動
 
 ## 2026-05-06 — find-skills 暴漲日
 

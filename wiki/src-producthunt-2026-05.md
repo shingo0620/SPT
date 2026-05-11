@@ -1,15 +1,109 @@
 ---
 title: Product Hunt 月報 — 2026-05
 type: source
-sources: [producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
+sources: [producthunt-2026-05-08.md, producthunt-2026-05-07.md, producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 5 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-08 — YC Application 季 + Agent 工具鏈細分（11/15 帶 YC Application 標籤）
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | RankSpot | 由深度競品分析驅動的 AI SEO Blog | 342 | Marketing / SEO / YC Application | [PH](https://www.producthunt.com/products/rankspot) |
+| 2 | **Monid 2.0** | OpenRouter for agent tools——agent 工具的 OpenRouter | 292 | Dev Tools / AI / YC Application | [PH](https://www.producthunt.com/products/monid) |
+| 3 | **Minions** | Open source mission control for Hermes agent——Hermes agent 的開源任務中心 | 218 | Open Source / GitHub / YC Application | [PH](https://www.producthunt.com/products/minions) |
+| 4 | **Kuku: open source** | Your open-source, local second brain for every AI | 153 | Text Editors / SaaS / YC Application | [PH](https://www.producthunt.com/products/kuku) |
+| 5 | GitHired | 用 proof of work 找 100x 工程師而非 resume keyword | 143 | Hiring / GitHub / YC Application | [PH](https://www.producthunt.com/products/githired-2) |
+| 6 | Flare | AI-native voice-first social app for GenZ | 135 | Social Media / AI / YC Application | [PH](https://www.producthunt.com/products/flare-9) |
+| 7 | Fluent Frame | 像出貨功能一樣快地出貨精緻產品影片 | 126 | Social Media / Marketing / YC Application | [PH](https://www.producthunt.com/products/fluent-frame) |
+| 8 | Ara | Agentic Wispr flow computer-use-agent living in your notch（Mac 瀏海中的 agent） | 108 | Open Source / Dev Tools / Computers | [PH](https://www.producthunt.com/products/dereference-the-100x-ide) |
+| 9 | **APIEval-20** | An open benchmark for AI agents that test APIs——AI agent 測 API 的開放 benchmark | 105 | API / Dev Tools / AI | [PH](https://www.producthunt.com/products/kushoai) |
+| 10 | Google Health | A new relationship with your health | 99 | Android / Health / AI | [PH](https://www.producthunt.com/products/google) |
+| 11 | Contral | The agent which teaches while you build | 97 | Education / Dev Tools / YC Application | [PH](https://www.producthunt.com/products/contral) |
+| 12 | Sutra | Decision Intelligence for hardware teams | 91 | Hardware / Change Management / YC Application | [PH](https://www.producthunt.com/products/sutra-4) |
+| 13 | Donely Knowledge Layer | Queryable company knowledge base + Closed-loop AI employees | 91 | YC Application | [PH](https://www.producthunt.com/products/donely) |
+| 14 | **Fabraix** | Find gaps in your AI agents before users do——在使用者前找到 AI agent 的漏洞 | 91 | Dev Tools / AI / YC Application | [PH](https://www.producthunt.com/products/nyx-4) |
+| 15 | SuperIsland | Dynamic Island for macOS with Extensions | 88 | Productivity / Music / YC Application | [PH](https://www.producthunt.com/products/superisland) |
+
+> **05-08 觀察**：
+>
+> ### YC Application 季全面啟動
+>
+> - **15 件中 11 件帶 YC Application 標籤**——YC W26 申請季開始（4-6 月通常為 W 批次申請密集期）；上榜為 YC 申請者「公開亮相 + 收集流量證據」傳統管道。對比 5/6 PH 全 0 件 YC Application 標籤——一日內結構性轉變
+>
+> ### Agent 工具鏈細分大爆發（4 件直接相關）
+>
+> - **#2 Monid 2.0「OpenRouter for agent tools」（292 分）**——元層次工具：給 agent 用的「工具路由器」；類比 LLM router 但對應 tools。**生態演化訊號**：tool 已多到需要路由
+> - **#3 Minions「mission control for Hermes agent」（218 分）**——Hermes 是 OpenAI 的 agent 平台；Minions 是其開源管理面板。對應 [[綜整-AI協作工程的六大趨勢]] 的「agent 控制台」軌道
+> - **#9 APIEval-20「open benchmark for agents that test APIs」**——對應 [[PluginEval]] 的「agent 評估」框架競爭者；**開放 benchmark** 的方向呼應 4 月 [[src-wshobson-agents]] 的 PluginEval 統計級評估
+> - **#14 Fabraix「Find gaps in your AI agents before users do」**——⭐ **直接呼應 [[AI 品質共謀]]**：AI agent 自己會漏掉的場景，需要外部工具找出；**正是「不同 agent 角色＝不同視角」對抗性設計的商業化**——同 [[src-bug-hunter]] 的 multi-agent adversarial 思路
+>
+> ### 知識管理工具持續演化
+>
+> - **#4 Kuku「open-source local second brain」（153 分）**——⭐ 直接呼應 [[LLM Wiki]] 概念；「local second brain for every AI」是「每個 AI 都需要自己記憶層」的 indie 解法。對比 5/6 PH #1 Kanwas（團隊大腦）——個人 vs 團隊雙軌
+> - **#13 Donely Knowledge Layer「Queryable company knowledge base + Closed-loop AI employees」**——把知識管理 + agent 結合成「閉環 AI 員工」；對應 [[Cloudflare]] 5/8 HN #7 裁員 20% + 5/6 HN #5 「agents 自主買域名 + 部署」的轉型訊號——**人類員工 → AI 員工** 過渡敘事商業化
+>
+> ### 影像/影片創意工具
+>
+> - **#7 Fluent Frame「ship product videos as fast as you ship features」**——對應 [[src-claude-for-creative-work]] / [[src-blender-ai-video-workflow]] 的 AI 影片生態
+> - **#11 Contral「agent teaches while you build」**——教學型 coding agent，對應教育 + agent 軌道
+
+## 2026-05-07 — Anthropic 推 Finance Agents + GPT-5.5 Instant + agent socialnet
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | **FlowMarket** | A social network of AI agents generating B2B deals——AI agents 互相生成 B2B 交易的社交網路 | 306 | Sales / Marketing / AI | [PH](https://www.producthunt.com/products/flowmarket-2) |
+| 2 | **[[Claude Code|Claude Agents for Financial Services]]** | Finance agent templates for pitches, KYC, and closing books——金融服務的 agent 模板 | 173 | Fintech / Investing / AI | [PH](https://www.producthunt.com/products/claude-code) |
+| 3 | **GPT‑5.5 Instant** | Smarter, more personal answers as ChatGPT's new default | 151 | Productivity / AI / Bots | [PH](https://www.producthunt.com/products/openai) |
+| 4 | **MESA** | Describe your Shopify workflow. MESA builds it. | 134 | AI / E-Commerce / No-Code | [PH](https://www.producthunt.com/products/mesa) |
+| 5 | Lingo.dev v1 | Localization engineering platform for consistent translation | 132 | API / Dev Tools / AI | [PH](https://www.producthunt.com/products/lingodotdev) |
+| 6 | ExploreYC | Your data layer for Y Combinator's startup ecosystem | 113 | Dev Tools / AI / Data | [PH](https://www.producthunt.com/products/yc-company-explorer) |
+| 7 | reMarkable Paper Pure | The reMarkable 2 successor goes back to basics | 101 | Productivity / Hardware | [PH](https://www.producthunt.com/products/remarkable-paper-pro) |
+| 8 | ProductClank | Borrow Distribution, Not Capital | 100 | Marketing / Growth / Pitch Tel Aviv | [PH](https://www.producthunt.com/products/productclank) |
+| 9 | Google Pomelli Catalog | Turn a product catalog into branded campaign assets | 100 | Design / Photography / E-Commerce | [PH](https://www.producthunt.com/products/google) |
+| 10 | Lovie Formation - Incorporation MCP | Incorporate your next company easily. | 94 | SaaS / Dev Tools / AI | [PH](https://www.producthunt.com/products/lovie-the-ai-native-formation-mcp) |
+| 11 | Propello | Create the pipeline you never had | 94 | Marketing / Growth / Pitch Tel Aviv | [PH](https://www.producthunt.com/products/propello) |
+| 12 | Gyro Autopilot - Easy Flight Refunds | 100s of Dollars Could Be Sitting in Your Inbox 📥 | 85 | Travel / AI / Pitch Tel Aviv | [PH](https://www.producthunt.com/products/gyro-autopilot) |
+| 13 | Genrate.ai | The military-grade recon machine for revenue teams. | 84 | Sales / BI / Pitch Tel Aviv | [PH](https://www.producthunt.com/products/genrate-ai) |
+| 14 | Seemore Data | 40% autonomous cost reduction on Snowflake environments | 80 | Analytics / AI / Pitch Tel Aviv | [PH](https://www.producthunt.com/products/seemore-data) |
+| 15 | Memory Tags | Scan text to make flashcards and improve your memory | 79 | iOS / Productivity / Education | [PH](https://www.producthunt.com/products/memory-tags) |
+
+> **05-07 觀察**：
+>
+> ### Anthropic 進攻金融服務 + OpenAI 模型升級同日
+>
+> - **#2 Claude Agents for Financial Services（173 分）**——⭐ 重大事件：[[Anthropic]] 推垂直行業（finance）agent 模板；KYC、pitches、closing books——**Anthropic 從通用 model → 行業 agent 解決方案**戰略轉型。PH 頁面為 `/products/claude-code` 顯示是 Claude Code 平台延伸
+> - **#3 GPT-5.5 Instant（151 分）**——[[OpenAI]] ChatGPT 新預設模型；「Smarter, more personal」訴求；對應 4 月 GPT-5.5 + Codex 3.0 連發節奏。**Anthropic vs OpenAI 同日對打** PH 第 2-3 名
+> - **#5 Lingo.dev v1**——本地化平台，對應 [[Anthropic]] 的多語言模型擴張
+>
+> ### Agent socialnet 新概念
+>
+> - **#1 FlowMarket（306 分當日最高）**——「AI agents 之間生成 B2B deals 的社交網路」——**agent-to-agent 商業交易層**新概念；對應 5/6 HN #5 Cloudflare agents 自主買域名 + 5/8 PH #2 Monid 2.0「OpenRouter for agent tools」軌道；**「agent 經濟」基礎設施成形**
+>
+> ### Workflow agent 細分
+>
+> - **#4 MESA**「描述 Shopify 工作流，MESA 建造」——垂直平台（Shopify）+ no-code workflow + agent；對應 5/4 PH MESA 軌跡（同一產品再次上榜？或更新版？）
+> - **#10 Lovie Formation Incorporation MCP**——成立公司 = MCP 操作；公司註冊 agent 化
+> - **#14 Seemore Data 40% 自主減 Snowflake 成本**——對應 5/6 PH #9 WOZCODE「Claude Code 成本減 50%」+ 5/4 PH agent ROI 軌；**autonomous cost optimization** 細分
+>
+> ### YC 生態工具
+>
+> - **#6 ExploreYC**——「YC 生態的資料層」；對應 [[OSS Investment Scorecard]] 投研工具趨勢
+> - **多件 Pitch Tel Aviv 標籤**（#8/#11/#12/#13/#14 共 5 件）——以色列創業推介會專場
+>
+> ### 硬體小品
+>
+> - **#7 reMarkable Paper Pure 101 分**——電子紙「回歸基礎」；硬體文創（不加 AI）
+>
+> ### 跨來源連動
+>
+> - 與 5/7 HN #2 AlphaEvolve（DeepMind）+ #13 Agent-harness-kit 形成「**5/7 三大平台 agent 工具同日爆發日**」
 
 ## 2026-05-06
 

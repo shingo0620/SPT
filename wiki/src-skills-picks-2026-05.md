@@ -1,9 +1,9 @@
 ---
 title: skills.sh Picks 月報 — 2026-05
 type: source
-sources: [skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
+sources: [skills-picks-2026-05-08.md, skills-picks-2026-05-07.md, skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 ---
 
@@ -32,14 +32,21 @@ tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 | 2026-05-04 | 4,430 | +106 | **反彈**——推翻「衰減平台」假設 |
 | 2026-05-05 | 4,546 | +116 | 持續加速 |
 | 2026-05-06 | 4,703 | +157 | 加速進一步——3 日 +12.4% |
+| 2026-05-07 | 4,873 | +170 | **持續加速**——日增續創新高 |
+| 2026-05-08 | 5,036 | +163 | **突破 5,000**——歷史里程碑（從 04-18 首次精選 2,941 起 +71%） |
 
-**7 日累積增長**：+630（4,073 → 4,703），日均約 +90。
+**9 日累積增長**：+963（4,073 → 5,036），日均約 +107。
 
-> **W18 預測校正**——[[週綜整-2026-W18]] 中曾預測「5/4 ast-grep 日增將跌至 ~50」並推論「skills.sh pick 效應結束」。**實際 5/4-5/6 數據（+106 / +116 / +157）完全推翻此假設**：3 日內反而加速。校正觀察：
+> **W18 預測校正**——[[週綜整-2026-W18]] 中曾預測「5/4 ast-grep 日增將跌至 ~50」並推論「skills.sh pick 效應結束」。**實際 5/4-5/8 五日數據（+106 / +116 / +157 / +170 / +163）完全推翻此假設**：5 日內持續加速並突破 5,000。校正觀察：
 >
-> - **不是衰減**：先前 100→90→61 的下降可能只是 3 日噪音，非趨勢
-> - **可能機制**：(1) skill discovery 渠道改變（如 [[src-skill-ast-grep]] 在其他社群擴散）（2）find-skills（同期 +60%，見 [[src-skills-trending-2026-05]] 5/6）讓 ast-grep 被更多人發現（3）ast-grep 自身的 npm 生態擴散
-> - **教訓**：**僅 3 日數據不足以判斷「衰減」**——需至少 7 日方向一致才能下結論
+> - **不是衰減**：先前 100→90→61 的下降只是 3 日噪音
+> - **5/4-5/8 五日加速軌跡**：日增 +106 / +116 / +157 / +170 / +163——不僅反彈且**進入更高基線**
+> - **與 [[src-skills-trending-2026-05]] find-skills 軌跡反向對比**：
+>   - find-skills 5/3-5/6 連 4 日加速 → 5/7 跌出榜外（5 日 hype curve 後段急轉）
+>   - ast-grep 5/4-5/8 連 5 日加速 → 仍在加速中（穩定 organic 擴散，無突發 hype）
+>   - 對比意義：**ast-grep 是「真實 organic 擴散」（非 hype），find-skills 可能是「統計重置 + 渠道推送」**
+> - **可能機制**：(1) ast-grep 的 npm 生態擴散自然成長（2）GitHub Trending Skill 生態擴散外溢（3）以 4 月 18 日**唯一一次精選**為起點的長尾延續
+> - **5/9 觀察點**：能否突破 5,200？日增能否維持 +150 以上？find-skills 是否回榜？
 
 > **比較 [[src-skills-trending-2026-05]] 05-01 首日基線**：
 > - ast-grep 4,173 安裝 → 排在 trending Top 10 之外（推測 #11+）

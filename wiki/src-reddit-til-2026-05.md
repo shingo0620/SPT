@@ -1,15 +1,78 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-05
 type: source
-sources: [reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
+sources: [reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 5 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-08
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1991 年阿爾卑斯山登山者發現 Ötzi 冰人——5,300 年自然冰封；最後一餐 ibex 山羊肉與穀類，關節與脊椎周圍有 60+ 個煤灰刺青，隨身有銅斧、燧石刀、生火工具與草編斗篷 | 26,609 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/%C3%96tzi) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6ow6i/) |
+| 2 | 騎士 William Marshal 從無名升至 500 場比武勝者；救過阿基坦的 Eleanor，曾在比武中將獅心王 Richard 卸馬，赴聖地征戰，重訂《大憲章》，70 歲親領衝鋒救英格蘭免於法軍入侵 | 18,603 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6lr0c/) |
+| 3 | HIV/AIDS 起源已被回溯至 1909 年比屬剛果（King Leopold 殖民地）；首位被感染者推測在 1920 年代 | 17,789 | ✅ | [Oxford](https://www.ox.ac.uk/news/2014-10-03-hiv-pandemics-origins-located) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6x606/) |
+| 4 | Victorian 英格蘭刑罰「crank machine」——手搖箱中沙子裝置，每日強迫犯人轉動 6 小時但**完全沒有實際生產用途**——純粹是懲罰勞動 | 11,985 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Crank_machine) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6l3hz/) |
+| 5 | 紐約市警 NYPD 在美國以外 11 個國家設站——反恐情報前哨網絡 | 11,515 | ✅ | [NYC Police Foundation](https://www.nycpolicefoundation.org/ourwork/advance/counterterrorism) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6bn3w/) |
+| 6 | 1908-1940 年間 Sears 透過郵購型錄賣出 70,000+ 件 DIY 整套住宅；含預切木材、釘子、75 頁說明手冊一車送到家。許多「Sears Homes」至今仍在，售價 30-50 萬美金以上 | 8,975 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Sears_Modern_Homes) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6o78h/) |
+| 7 | 2007 年 NBA Draft，Greg Oden 第一順位但只打 3 年；緊接其後被選的四位球員 19 年後仍在 NBA 活躍 | 8,275 | ✅ | [Basketball-Reference](https://www.basketball-reference.com/draft/NBA_2007.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6hr2h/) |
+| 8 | 1986 年病患需心臟移植，4 小時時限內無民航/陸路可達——載上 ~~F-111 Aardvark bomber~~（**校正：F-111 是 supersonic 攻擊機而非轟炸機**），1,400 miles 在 2 小時飛完 | 6,141 | ⚠️ | [Task & Purpose](https://taskandpurpose.com/history/air-force-fb-111a-heart-transplant/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6mxjk/) |
+| 9 | 1983 Ninoy Aquino 被暗殺後，遺體不化妝、不換血衣公開瞻仰；母親 Aurora 對殯儀館說「讓世界看見他們對我兒子做的事」 | 5,850 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Ninoy_Aquino) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6jfzt/) |
+| 10 | 藝術家 Joe Coleman 因表演中胸口綁煙火破幕而出 + 咬掉兩隻活鼠的頭被逮捕；被控「擁有惡魔機器」並被判一年內不得再吃老鼠 | 5,273 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Joe_Coleman_(painter)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6edrt/) |
+| 11 | 1945 年 11 月一群嫁給美軍的英國新娘「圍攻」Eleanor Roosevelt 旅館，因被禁止移民美國 | 4,544 | ✅ | [LA Times](https://www.latimes.com/nation/la-oe-barrett-war-brides-immigration-20141021-story.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6d6du/) |
+| 12 | 美國內戰後向英國索賠：英船廠造的南軍戰艦造成損害——初始要求「20 億美金或加拿大」，仲裁後 1873 年以 1,550 萬美金結案 | 3,503 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Alabama_Claims) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6z435/) |
+| 13 | Henrietta Wood 1848 年被釋放，1853 年又被綁架重新為奴；內戰後成功告綁架者，全白陪審團判賠 2,500 美金（已知美國史上奴隸制相關最大民事賠償），用此款資助兒子在 Northwestern 法學院 | 2,789 | ✅ | [Smithsonian](https://www.smithsonianmag.com/history/henrietta-wood-sued-reparations-won-180972845/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6iz8t/) |
+| 14 | CD（與 DVD/Blu-Ray）中央孔徑大小由首席工程師把荷蘭 10 cent 硬幣（Dubbeltje）放桌上決定——「就用這個尺寸」 | 1,754 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Dubbeltje) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6xqz1/) |
+| 15 | Andrew Jackson 是唯一向外國君主正式宣誓效忠的美國總統——曾誓守護西班牙國王，數年後親率軍入侵西班牙佛羅里達促成併吞 | 1,672 | ⚠️ | [First Tribe Nation](https://www.firsttribenation.com/post/andrew-jackson-sworn-citizen-of-spain-voids-indian-removal-act) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6lgon/) |
+
+> **05-08 觀察**：
+>
+> - **#1 Ötzi 26,609 分**——典型「考古軼事」高分題，與 5/7 #1 Krakatoa 同模式（自然/科學歷史奇聞）
+> - **#2 William Marshal 騎士傳奇 18,603 分**——一人多面：戰鬥家、外交家、《大憲章》制定者；典型「歷史人物超出原先認知」題
+> - **#3 HIV 起源 King Leopold 殖民地 1909**——疾病史與殖民史交織；Oxford 學術來源可信
+> - **#4 Victorian crank machine + #6 Sears Homes** 雙件 19-20 世紀社會制度題：刑罰勞動 vs 大眾消費
+> - **#10 Joe Coleman ⚠️**——「擁有惡魔機器」罪名來源待查；Joe Coleman 為知名 performance artist 但具體案件細節需更權威來源
+> - **#12 Alabama Claims ⚠️**——「20 億美金或加拿大」的初始要求 Wikipedia 未明確列出，標準教科書亦不強調此點，可能為 Reddit 簡化版本
+> - **#14 CD 孔徑 = Dubbeltje ⚠️**——廣傳的工程都市傳說，多版本敘事；Wikipedia 條目支持但細節「總工程師」vs「Sony 工程師」描述不一
+> - **#8 F-111 ⚠️校正**：F-111 Aardvark 是攻擊機/戰術轟炸機（supersonic 戰鬥轟炸機）而非戰略轟炸機；標題「F-111 Aardvark bomber」過度簡化但事件本身真實
+> - **跨來源連動**：5/8 HN #6 Canvas/ShinyHunters 駭事件 + 5/8 Wikipedia Top 3 ShinyHunters 同步聯動——資安事件穿透多平台
+
+## 2026-05-07
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1883 年 Krakatoa 爆發估計達 310 dB——「史上最響聲音」，遠超 194 dB 典型空氣聲音上限 | 26,759 | ⚠️ | [Audiology.org](https://www.audiology.org/the-loudest-known-sound-ever/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5qcyk/) |
+| 2 | Delta 1141 班機 1988 墜毀後，駕駛艙語音紀錄器（CVR）內容過於令人尷尬——機組起飛前討論調酒、約會、開玩笑「若墜機媒體會有一些可口素材」——直接導致法律限制 CVR 公開發布 | 15,435 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_1141) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5evwc/) |
+| 3 | 北美原本擁有原生竹林，從紐約延伸至佛羅里達，西至俄亥俄州、橫至德州——「river cane」生態系 | 10,108 | ✅ | [NPS](https://www.nps.gov/articles/000/rivercane.htm) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5vn72/) |
+| 4 | Michael McKean（《絕命律師》Chuck McGill / 《This Is Spinal Tap》David St. Hubbins）2010 年 Celebrity Jeopardy! 累積 $1,115,400，**史上最高益智節目參賽者收入之一** | 9,953 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Michael_McKean) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5p4s4/) |
+| 5 | 1888 年德國發明家 Karl Benz 因鄰居抱怨「Motorwagen」噪音與氣味，向巴登大公國申請書面公路駕駛許可——大公當局核發了**世界第一張駕駛執照** | 9,250 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Driver%27s_license#History) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5hhw7/) |
+| 6 | 1917 年超過 10,000 名非裔美國人沿紐約第五大道**完全靜默遊行**抗議私刑；是美國史上最早的大規模民權抗議之一，但教科書鮮少提及 | 8,129 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Silent_Parade) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5sieb/) |
+| 7 | Lewis & Clark 探險隊醫療包含 50 打瀉藥（thunderclapper），含汞量超過 50%；汞含量曾被考古學家用來驗證探險營地 | 6,834 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Rush#Corps_of_Discovery) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t6099p/) |
+| 8 | Y 染色體會隨年齡消失——70 歲男性中約 35% 在部分細胞中失去 Y 染色體，失去比例介於 4-70% | 3,485 | ✅ | [Cell](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00456-7) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t66ep2/) |
+| 9 | 人類在哺乳類一夫一妻排行榜上位於海狸之下、貓鼬之上 | 3,446 | ⚠️ | [Guardian](https://www.theguardian.com/science/2025/dec/10/humans-rank-among-leading-monogamous-mammals-study-finds) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5t7bs/) |
+| 10 | 東德要求公民出國西德時必須留下近親作為「擔保物」（人質），降低叛逃機率 | 3,355 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Crossing_the_inner_German_border#Border_crossing_regulations) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5vskz/) |
+| 11 | Swansea 大學研究：高壓水流蓮蓬頭可省水達 56% | 2,749 | ⚠️ | [Tablet Magazine](https://www.tabletmag.com/sections/science/articles/make-americas-showers-great-again) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5mzv4/) |
+| 12 | 2015 年 California 一名理髮師在剃鬍時企圖殺害顧客，割其喉嚨；法院判 10 年監禁 | 1,506 | ✅ | [Reuters](https://www.reuters.com/article/world/uk/california-barber-who-slashed-customers-throat-gets-10-years-in-prison-idUSKBN0OR2Z5/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5gfbl/) |
+| 13 | 1866 年加州礦工把人頭骨擺在地下惡作劇地質學家 Josiah Whitney——他公開宣稱這是兩百萬年前北美人類存在的證據；Whitney 直到死前仍不接受是惡作劇，即使**首次氟分析骨骼方法**證實是近代骨頭 | 1,476 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Calaveras_Skull) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t69x98/) |
+| 14 | Joan Ginther——Stanford 統計學家，**四次中樂透共贏 2,100 萬美金**；計算為「1 in 18 septillion」事件（24 個 0） | 1,455 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Joan_R._Ginther) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5rir7/) |
+| 15 | 70 歲退休者完成醫學院學位；許多醫學院年齡上限 35-40 歲，美國醫學生平均入學 24 歲、畢業 28 歲 | 1,138 | ✅ | [CNN](https://edition.cnn.com/2024/09/07/asia/older-medical-school-graduate-intl-hnk) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t5ttvc/) |
+
+> **05-07 觀察**：
+>
+> - **#1 Krakatoa 310 dB ⚠️**——「史上最響聲音」誇大流傳；194 dB 是空氣中聲波物理上限，超過此值不再是真實聲音而是壓力衝擊波。310 dB 是反推距離 100 英里外測得 175 dB 的「等效音壓」估算，並非可作「最響聲音」精確比較
+> - **#2 Delta 1141 → Sterile Cockpit Rule** ✅——導致 FAA 起飛/降落 10,000 ft 以下禁聊規則的關鍵案例，駕駛艙資源管理（CRM）教學經典
+> - **#9 人類 monogamy 排名 ⚠️**——研究方法（哺乳類分類學依據）有爭議；簡化為「排行榜」忽略了配對行為頻譜的複雜性
+> - **#10 East Germany hostage 系統 ⚠️**——將出境管制簡化為「人質」過於戲劇化；GDR 確實限制核心家庭出境，但「collateral hostage」措辭超出史實
+> - **#11 Swansea 高壓蓮蓬頭省水 56% ⚠️**——來源 Tablet Magazine 是政治評論而非工程期刊；「省水 56%」具體數字未經獨立工程驗證
+> - **#13 Calaveras Skull ✅**——19 世紀古生物學知名 hoax；首次科學氟測定法（fluorine analysis）的應用案例
+> - **#14 Joan Ginther ⚠️**——「Stanford 統計學家」屬實但「1 in 18 septillion」假設完全隨機；Ginther 可能利用 Texas 彩票印刷批次規律與商店進貨時序，並非純機率事件
+> - **#7 Lewis & Clark 汞瀉藥** + **#13 1866 hoax skull** 兩件 19 世紀美西開拓主題
 
 ## 2026-05-06
 

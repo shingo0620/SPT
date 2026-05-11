@@ -1,15 +1,72 @@
 ---
 title: GitHub Trending 月報 — 2026-05
 type: source
-sources: [github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
+sources: [github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 5 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-08 ⚠️ 信號崩壞日（6 日中第 4 次）— Roblox/Kahoot/TRX drainer 灰色 + nacateeeeee/HristoIgnev/joeyleal283 三帳號 0 desc 刷榜
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~Angus184527/Atingle-Executor~~ | ~~531~~ | ~~C++~~ | ❌ Roblox script injector & executor（遊戲外掛工具） | ❌ | [GitHub](https://github.com/Angus184527/Atingle-Executor) |
+| 2 | ~~nooncheetahstart/Kahoot-tools-AI~~ | ~~106~~ | ~~Python~~ | ❌ Kahoot 課堂測驗答案破解工具 | ❌ | [GitHub](https://github.com/nooncheetahstart/Kahoot-tools-AI) |
+| 3 | ~~Tremorfitzapplaud/1tamilmv-telegram-bot~~ | ~~105~~ | ~~Python~~ | ❌ 1tamilmv 印度盜版電影站 Telegram bot | ❌ | [GitHub](https://github.com/Tremorfitzapplaud/1tamilmv-telegram-bot) |
+| 4 | duguying/100M | 37 | Python | training your 0.1B llm from zero——教育用 0.1B LLM training repo | ✅ | [GitHub](https://github.com/duguying/100M) |
+| 5 | ~~Kimberlyarichrdqnat51296/TRX-Drainer-Tool~~ | ~~37~~ | ~~Python~~ | ❌ TRX Drainer Tool——「自動化 TRX 與 TRC20 token drainer for TRON 錢包」**直接的偷錢工具**（含 TronLink/Trust Wallet 相容、stealth energy-optimized 路由） | ❌ | [GitHub](https://github.com/Kimberlyarichrdqnat51296/TRX-Drainer-Tool) |
+| 6 | GordenSun/CuiMao | 35 | HTML | 「眼睛跟著鼠標旋轉」小 toy 專案 | ✅ | [GitHub](https://github.com/GordenSun/CuiMao) |
+| 7 | **mitsuhiko/pi-ds4** | **34** | **TypeScript** | **Armin Ronacher（Flask/sentry/lucumr 作者）的 Raspberry Pi 上跑 deepseek-v4 metal 本地推論專案** | ✅✨ | [GitHub](https://github.com/mitsuhiko/pi-ds4) |
+| 8 | iphoenixon/youtube-sandbox | 25 | — | 無描述 | ⚠️ | [GitHub](https://github.com/iphoenixon/youtube-sandbox) |
+| 9 | nacateeeeee/NutriSense | 23 | — | 無描述（同帳號 2 件） | ⚠️ | [GitHub](https://github.com/nacateeeeee/NutriSense) |
+| 10 | nacateeeeee/equitry | 23 | — | 無描述 | ⚠️ | [GitHub](https://github.com/nacateeeeee/equitry) |
+| 11 | HristoIgnev/agentic-planet | 23 | — | 無描述（同帳號 3 件） | ⚠️ | [GitHub](https://github.com/HristoIgnev/agentic-planet) |
+| 12 | HristoIgnev/Partition | 23 | — | 無描述 | ⚠️ | [GitHub](https://github.com/HristoIgnev/Partition) |
+| 13 | joeyleal283-prog/Urbency | 23 | — | 無描述（同帳號 2 件） | ⚠️ | [GitHub](https://github.com/joeyleal283-prog/Urbency) |
+| 14 | HristoIgnev/LeadPulse-AI-Autonomous-Lead-Engagement-Scoring-Ecosystem | 23 | — | 名稱浮誇但 0 描述 | ⚠️ | [GitHub](https://github.com/HristoIgnev/LeadPulse-AI-Autonomous-Lead-Engagement-Scoring-Ecosystem) |
+| 15 | joeyleal283-prog/eta-engine | 23 | — | 無描述 | ⚠️ | [GitHub](https://github.com/joeyleal283-prog/eta-engine) |
+
+> **05-08 觀察**——**信號崩壞日 #4，但 #7 出現重要 ✨ 信號**：
+>
+> - 15 條中：3 ❌（Roblox executor、Kahoot hack、Tamil 盜版 bot、TRX drainer 4 件）+ 1 ❌偷錢工具明確 + 7 ⚠️（5 件 0-desc 帳號刷榜：nacateeeeee × 2、HristoIgnev × 3、joeyleal283-prog × 2）+ **2 ✅**（duguying/100M、CuiMao toy）+ **1 ✨**（pi-ds4）
+> - **#7 mitsuhiko/pi-ds4 ✅✨ 重要**：[[Armin Ronacher]]（Flask/Jinja2 作者，知名 Python 開發者）在 Raspberry Pi 上**本地跑 DeepSeek V4** metal 推論——對應 [[antirez]] 4/26 的 DeepSeek V4 llama.cpp 實驗；**邊緣設備跑大模型** indie hacker 文化擴散
+>   - 連動：mitsuhiko 同時是待 ingest 的「Agent Design Is Still Hard」blog 作者（lucumr.pocoo.org），下次 ingest 處理時可建立 [[Armin Ronacher]] 實體頁
+> - **3 帳號 7 件 0 desc 刷榜延續**：nacateeeeee（NutriSense + equitry 2 件）、HristoIgnev（agentic-planet + Partition + LeadPulse 3 件）、joeyleal283-prog（Urbency + eta-engine 2 件）——這個模式從 5/3 西班牙 FPS 外掛多帳號刷榜開始，到 5/7 polymarket bot 多帳號刷榜，**「同帳號刷多 repo」已成 GitHub Trending 系統性 spam 機制**
+> - **#5 TRX-Drainer-Tool ❌ 上榜重大警訊**——直接命名「Drainer Tool」、明確標籤「auto-withdraw-bot, drain-bot, drain-protocol」、自陳「stealth-mode + multi-wallet sweeping + trust wallet 相容」——這已是公開的偷錢工具，GitHub Trending 演算法竟讓其上榜揭示**演算法對「明顯惡意」缺乏過濾**
+
+## 2026-05-07 ⚠️ 信號崩壞日（6 日中第 3 次）— Polymarket bot 西文圈再現 + WAF bypass + bitcoin flash 詐騙
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~NamKhoa-07/wallet-recovery-seed~~ | ~~363~~ | ~~Python~~ | ❌ Ethereum 錢包暴破工具（baked from pyethrecover/pyethereum），含 brute force + wordlist；NamKhoa-07 帳號 5/6 #1 用 Voidstrap roblox 灰色版上榜——**同帳號跨類型刷榜** | ❌ | [GitHub](https://github.com/NamKhoa-07/wallet-recovery-seed) |
+| 2 | ~~SXai-lab/prediction-market-arbitrage~~ | ~~133~~ | ~~TS~~ | ⚠️ Polymarket arbitrage bot（描述為 SEO 關鍵字 5 次重複） | ⚠️ | [GitHub](https://github.com/SXai-lab/prediction-market-arbitrage) |
+| 3 | ~~SXai-lab/prediction-market-copytrade~~ | ~~132~~ | ~~TS~~ | ⚠️ Polymarket copy trade（同帳號刷榜，相同 SEO 疊字模式） | ⚠️ | [GitHub](https://github.com/SXai-lab/prediction-market-copytrade) |
+| 4 | ~~JeanDupuis68/polymarket-arbitrage~~ | ~~119~~ | ~~TS~~ | ⚠️ 第二帳號 Polymarket 同類型 bot 同 SEO 疊字模式 | ⚠️ | [GitHub](https://github.com/JeanDupuis68/polymarket-arbitrage) |
+| 5 | ~~JeanDupuis68/polymarket-copytrade~~ | ~~118~~ | ~~TS~~ | ⚠️ JeanDupuis68 第二件 Polymarket bot | ⚠️ | [GitHub](https://github.com/JeanDupuis68/polymarket-copytrade) |
+| 6 | iam567/LifeManga | 96 | Swift | iOS swift swiftui openai gpt-image manga ai-art——AI 漫畫應用 | ✅ | [GitHub](https://github.com/iam567/LifeManga) |
+| 7 | wojtczyk/trust | 51 | Rust | TRUST – 「Coding Rust like it's 1989」TUI / Cargo / ratatui retro IDE 風格 | ✅ | [GitHub](https://github.com/wojtczyk/trust) |
+| 8 | ~~BertecKol/Bertex-Here~~ | ~~46~~ | ~~—~~ | ❌ Bitcoin flash 假交易工具（標籤 fake-btc-transaction、btc-flash-payments 等） | ❌ | [GitHub](https://github.com/BertecKol/Bertex-Here) |
+| 9 | ~~Polymarket-Devnova2-Bot/Polymarket-Copy-Trading-Bot~~ | ~~41~~ | ~~TS~~ | ⚠️ 第三帳號 Polymarket bot（5 個帳號刷榜） | ⚠️ | [GitHub](https://github.com/Polymarket-Devnova2-Bot/Polymarket-Copy-Trading-Bot) |
+| 10 | ~~blcktuzinLab/ton-sniper-bot~~ | ~~40~~ | ~~TS~~ | ❌ TON 區塊鏈 token sniper bot（STON.fi、DeDust）；non-custodial 但「social-sniper」標籤明確為搶跑工具 | ❌ | [GitHub](https://github.com/blcktuzinLab/ton-sniper-bot) |
+| 11 | ~~Polymarket-Devnova2-Bot/Polymarket-Trading-Bot-Weather~~ | ~~40~~ | ~~TS~~ | ⚠️ 同帳號第二件 Polymarket bot | ⚠️ | [GitHub](https://github.com/Polymarket-Devnova2-Bot/Polymarket-Trading-Bot-Weather) |
+| 12 | ~~Polymarket-Devnova2-Bot/Polymarket-Trading-Bot-Sports~~ | ~~40~~ | ~~TS~~ | ⚠️ 同帳號第三件 Polymarket bot——共 3 件 | ⚠️ | [GitHub](https://github.com/Polymarket-Devnova2-Bot/Polymarket-Trading-Bot-Sports) |
+| 13 | seencxy/MoreStar | 36 | — | 無描述 | ⚠️ | [GitHub](https://github.com/seencxy/MoreStar) |
+| 14 | Sayhi-bzb/AIEden | 32 | TS | 「an LLM-native world and civilization」描述模糊但概念有趣 | ✅ | [GitHub](https://github.com/Sayhi-bzb/AIEden) |
+| 15 | ~~m-sec-org/wafkiller~~ | ~~28~~ | ~~Go~~ | ⚠️「Make WAF Bypassing Great Again!」——資安研究 vs 攻擊工具雙用，但行銷措辭偏向後者 | ⚠️ | [GitHub](https://github.com/m-sec-org/wafkiller) |
+
+> **05-07 觀察**——**信號崩壞日 #3，灰色比例極高**：
+>
+> - 15 條中：3 ❌（wallet-recovery 暴破、bitcoin flash 詐騙、TON sniper bot）+ 7 ⚠️（5 帳號 polymarket bot 共 7 件、wafkiller、無描述）+ **3 ✅**（LifeManga、wojtczyk/trust、AIEden）+ **2 ⚠️**（描述模糊）
+> - **Polymarket bot 多帳號刷榜全面爆發**：SXai-lab × 2 + JeanDupuis68 × 2 + Polymarket-Devnova2-Bot × 3 = **5 帳號 7 件**——「prediction-market-arbitrage / copy-trading」整類已被 SEO 刷榜佔領
+> - **NamKhoa-07 帳號跨類型刷榜**：5/6 #1 Voidstrap（Roblox 灰色）+ 5/7 #1 wallet-recovery-seed（ethereum 暴破）；同帳號跨領域刷榜模式
+> - **#7 wojtczyk/trust ✅✨**：TUI cargo IDE「Coding Rust like it's 1989」復古設計品味——對應 [[Zed]] 1.0 的 Rust native + 5/4 GitHub #4 m-cusi/PyShield 的 retro 風格軌跡
+> - **#6 iam567/LifeManga ✅**：iOS GPT-Image 2 manga 應用——對應 [[src-claude-for-creative-work]] AI 創意 connector + 4 月 GitHub Trending 「claude-image」skill 軌
+> - **#15 m-sec-org/wafkiller ⚠️**：標題「Make WAF Bypassing Great Again!」措辭可疑；雖然 WAF bypass 是合法滲透測試領域，但 trending 上以這種行銷措辭呈現偏向攻擊工具
 
 ## 2026-05-06 ⚠️ 信號劣化延續
 

@@ -1,15 +1,91 @@
 ---
 title: Wikipedia Featured 月報 — 2026-05
 type: source
-sources: [wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
+sources: [wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-09
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 5 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-08
+
+### 今日精選文章
+
+**[First Treaty of London / Treaty of Windsor](https://en.wikipedia.org/wiki/First_Treaty_of_London)**——1358 年 5 月 8 日於 Windsor 城堡簽訂；終結當時 21 年的英法衝突（後稱百年戰爭）。由英王 Edward III 與法王 John II 簽訂，後者當時是英國俘虜（1356 Battle of Poitiers 被擒）。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Ted Turner](https://en.wikipedia.org/wiki/Ted_Turner) | 490,930 |
+| 2 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | **410,426** |
+| 3 | **[ShinyHunters](https://en.wikipedia.org/wiki/ShinyHunters)** | **281,672** |
+| 4 | [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) | 213,285 |
+| 5 | [2026 Tamil Nadu Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) | 190,611 |
+| 6 | [Vijay (actor)](https://en.wikipedia.org/wiki/Vijay_(actor)) | 173,413 |
+| 7 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 155,424 |
+| 8 | **[MV Hondius hantavirus outbreak](https://en.wikipedia.org/wiki/MV_Hondius_hantavirus_outbreak)** | 130,871 |
+| 9 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 129,301 |
+| 10 | [Mortal Kombat II (film)](https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)) | 128,093 |
+
+### 歷史上的今天
+
+- **2025**：Cardinal Robert Francis Prevost 當選教宗 Leo XIV——首位美國出生教宗、首位 Augustinian Order、繼 Francis 後第二位美洲教宗
+- **1987**：英國 SAS 在北愛爾蘭 Loughgall 伏擊 Provisional IRA，擊斃 8 名 IRA 成員與 1 平民
+- **1984**：蘇聯宣布抵制洛杉磯夏季奧運，理由是「安全顧慮」
+- **1976**：Great American Revolution——首座垂直迴圈鋼造雲霄飛車，於加州 Six Flags Magic Mountain 開幕
+- **1972**：Black September 4 名成員劫持 Sabena 571 班機，要求釋放 315 名巴勒斯坦恐怖分子囚犯
+
+### 當日觀察
+
+- **#3 ShinyHunters 281,672 瀏覽 ⭐ 跨來源連動**——⭐ **跨平台連動高峰**：5/8 HN #6 Canvas/ShinyHunters 駭事件 839 分 → Wikipedia ShinyHunters 條目同日進入 Top 3 → 5/8 ELI5 #15「資料外洩後資料去哪？」三平台同日呼應
+- **#2 + #8 Hantavirus 雙條目進榜**——Orthohantavirus 410,426（次高）+ MV Hondius hantavirus outbreak 130,871——說明**最近有疫情報導**驅動關注；MV Hondius 是船舶 hantavirus 爆發案例
+- **歷史上 2025 教宗 Leo XIV 當選**——首位美國出生教宗紀念日；對應 [[Apple]] / [[Google]] 等美國科技敘事的「美國第一次」軌道
+- **#1 Ted Turner（CNN 創辦人）瀏覽延續**——5/6 訃聞日 837k → 5/7 837k → 5/8 491k 仍 Top 1，三日紀念熱度
+- **#10 Mortal Kombat II 電影 128,093**——電影上映前後熱度
+
+## 2026-05-07
+
+### 今日精選文章
+
+**[Truganini](https://en.wikipedia.org/wiki/Truganini)**——塔斯馬尼亞原住民女性，曾被廣泛但**不正確地**描述為「最後一位塔斯馬尼亞原住民」。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Ted Turner](https://en.wikipedia.org/wiki/Ted_Turner) | **837,142** |
+| 2 | [Vijay (actor)](https://en.wikipedia.org/wiki/Vijay_(actor)) | 372,661 |
+| 3 | [2026 Tamil Nadu Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) | 275,753 |
+| 4 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 238,210 |
+| 5 | [R. B. Choudary](https://en.wikipedia.org/wiki/R._B._Choudary) | 199,245 |
+| 6 | [The Boys season 5](https://en.wikipedia.org/wiki/The_Boys_season_5) | 182,924 |
+| 7 | [Chief Minister of Tamil Nadu](https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu) | 178,418 |
+| 8 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 173,654 |
+| 9 | [Jane Fonda](https://en.wikipedia.org/wiki/Jane_Fonda) | 163,045 |
+| 10 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 138,010 |
+
+### 歷史上的今天
+
+- **2023**：印度 Tanur 觀光船翻覆造成至少 22 人死亡
+- **2010**：Neanderthal 基因組初稿公布，證明大多數現代人類有 Neanderthal 祖先
+- **2009**：紐西蘭 Napier 警方對前陸軍人員家中展開 40 小時圍困，該人在執行搜查令時對警員開槍
+- **1999**：Kosovo 戰爭：NATO 轟炸貝爾格萊德時誤炸中國駐南斯拉夫大使館
+- **1991**：馬來西亞 Sungai Buloh 煙火工廠起火爆炸 26 人死亡
+
+### 當日觀察
+
+- **#1 Ted Turner 837,142 瀏覽（5 月最高紀錄）**——CNN 創辦人 5/6 訃聞，5/7 紀念熱度峰值；有線電視時代 icon
+- **#4 Orthohantavirus 238,210**——疾病條目連 2 日進前 4，**5/8 達 410k 為次高**——疫情新聞驅動關注；後續需查核新疫情爆發
+- **#2-7 印度泰米爾納德邦選舉軸線連 3 日**——Vijay (actor) 跨影壇/政壇雙重明星；Tamilaga Vettri Kazhagam 政黨；TN 選舉熱度延續
+- **#6 The Boys season 5**——5 月新一季上線
+- **#9 Jane Fonda**——具體事件待查核（80+ 高齡演員，可能有近期事件）
+- **歷史上 1999 NATO 誤炸中國使館**——27 周年紀念；中美關係軸
+- **歷史上 2010 Neanderthal 基因組初稿**——人類起源研究里程碑
 
 ## 2026-05-06
 

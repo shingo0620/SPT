@@ -62,6 +62,7 @@ tags: [agent-skill, multi-agent, security, bug-hunting, auto-fix]
 
 - **[[src-Code Review已死]]**——Spec-driven + Swiss-cheese 五層信任模型；bug-hunter 把「找 bug + 修 bug」交給 multi-agent，但 `safe branch` 保留人類最終審查
 - **[[AI 品質共謀]]**——AI 同時寫 code 與 test 容易形成「同源誤解」；bug-hunter 的對抗性設計是潛在解方（不同 agent 角色＝不同視角）
+- **[[Multi-Agent 失敗分類學|MAST]] / [[src-mast]]**——UC Berkeley 學術論文（EMNLP 2025）為 bug-hunter 設計提供**學術正當性**：FC2 Inter-Agent Misalignment（31.35%）+ FC3 Task Verification（16.5%）共佔 ~48% 失敗，正是「不同視角 agent 互審」可改善的範圍。bug-hunter 雖未引用 MAST，但結構上是 MAST 倡議的工程化回應
 - **[[Skill vs Bash vs MCP]]**——這個 skill 顯然走 **Skill 模式**（封裝完整 workflow），跨 harness 是賣點
 - **[[src-codeburn]]** — token 觀測 dashboard；bug-hunter 的 multi-agent 設計顯然 token-heavy，與成本觀測形成對照
 

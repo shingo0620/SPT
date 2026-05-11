@@ -18,6 +18,8 @@
 > 月報 2026-05-04 ingest：5 月月報補完 05-02、05-03 兩日（共 14+ 個 daily raw + bug-hunter 手動 source）；ast-grep 安裝數 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03），日增 100→90→61 進入自然衰減平台期。**重大事件 5/3**：skills.sh trending `infsh-skills` repo 改名 `inference-skills` 觸發單日 −7,000 安裝重置（非真實流失）；GitHub Trending 信號崩壞日（11/15 ❌ 詐騙/外掛/盜版）；xixu-me/skills 4 件占 Top 10 #7-#10。lint P1-P4 修正完成（前次）。
 
 > 月報 2026-05-07 ingest：5 月月報補完 05-04、05-05、05-06 三日（共 24 個 daily raw）。**重大發現**：（1）**ast-grep 衰減假設失效**——5/4-5/6 日增 +106/+116/+157 V 字反彈，[[週綜整-2026-W18]] 的「自然平台期」推論被推翻；（2）**Inference.sh install 24h 完全恢復**（5/3 20.5k → 5/4 31.4k +10.8k 同步躍升），確認改名是統計層級重置；（3）**find-skills 4 日 +60% 暴漲**（11.7k → 18.6k），可能解釋 ast-grep 連動加速；（4）HN 5/5 #12 **Bun 從 Zig 遷至 Rust 666 分**（語言生態地震）+ HN 5/6 #5 **Cloudflare agents 可建帳號 + 買域名 + 部署 518 分**；（5）PH 5/5-5/6 agent ROI / parallel agents / 成本優化（Kilo Code v7 / Waydev Agent / WOZCODE）；（6）GitHub Trending **#9 rihebty/flow-kit 整合 8 個 skill 框架**（bmad/spec-kit/OpenSpec/GSD/claude-task-master/superpowers/gstack/skills）。
+
+> 月報 2026-05-09 ingest：5 月月報補完 05-07、05-08 兩日（共 16 個 daily raw）。**重大事件**：（1）**HN 5/8 三線重大事件**：[[Cloudflare]] 裁員 20% 1,069 分（與 5/6 「agents 自主買域名」形成戲劇性反差，「人類員工 → AI 員工」轉型訊號）+ Canvas/ShinyHunters 駭事件 839 分（跨 Wikipedia/ELI5 三平台同步連動）+ Dirtyfrag Universal Linux LPE 726 分；（2）**HN 5/7 開源硬體與 agent 工具鏈**：Valve 釋出 Steam Controller CAD 1,634 分 + SQLite 獲美國國會圖書館認證 484 分 + DeepMind AlphaEvolve（Gemini coding agent for science）+ Agent-harness-kit MCP scaffolding；（3）**PH 5/8 YC Application 季啟動**：15 件中 11 件帶 YC Application 標籤——Monid 2.0「OpenRouter for agent tools」+ Minions「Hermes agent mission control」+ Kuku「open-source local second brain」(呼應 LLM Wiki) + Fabraix「Find gaps in your AI agents before users do」(呼應 [[AI 品質共謀]])；（4）**PH 5/7 Anthropic 進攻金融服務**：Claude Agents for Financial Services（KYC/pitches/closing books）+ GPT-5.5 Instant 同日對打 + FlowMarket「AI agents 之間生成 B2B deals 的 socialnet」開創 agent-to-agent 商業層；（5）**skills.sh trending 二度大跌**：inference-skills 五件 5/8 單日 -2,800/skill 同步下跌（不同於 5/3 改名重置）+ find-skills 5/7 跌出榜外（5 日 hype curve 急轉）+ mattpocock 兩件穩定回到 #9/#10；（6）**ast-grep 持續加速突破 5,000**：5/4-5/8 五日 +106/+116/+157/+170/+163，9 日累積 +963（4,073 → 5,036）證實「organic 擴散」（非 hype）；（7）**GitHub Trending 信號崩壞日 #3+#4 連兩日**：5/7 五帳號 polymarket bot 7 件 + 5/8 三帳號 0-desc 7 件刷榜+ TRX-Drainer-Tool 偷錢工具上榜揭示演算法漏洞；亮點 ✨ 5/8 #7 mitsuhiko/pi-ds4（[[Armin Ronacher]] 在 Pi 上跑 DeepSeek V4，與 [[antirez]] 4/26 llama.cpp 實驗形成 indie 邊緣設備跑大模型軸）；（8）**Wikipedia 跨平台連動**：5/8 ShinyHunters 條目進 Top 3（呼應 HN）+ Hantavirus 雙條目進榜（疫情訊號）。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -37,6 +39,7 @@
 - [[src-multica-github-readme]] — Multica 官方 GitHub README（2026-04-21）：8 種 CLI 支援、Next.js 16 + Go + PostgreSQL/pgvector 技術棧、vs Paperclip 對比（來源數：1）
 - [[src-addyosmani-agent-skills]] — Addy Osmani 的 20 個 Production-Grade Agent Skill，覆蓋完整 SDLC 6 階段，支援 8 個主流 agent 平台（來源數：1）
 - [[src-obsidian-llm-wiki]] — aster-life/obsidian-llm-wiki：Obsidian + Claude Code 的 LLM Wiki 懶人包，架構與本 wiki 高度對齊（來源數：1）
+- [[src-mast]] — UC Berkeley Cemri et al. (EMNLP 2025) 多 agent LLM 系統失敗分類學：14 模式 / 3 類，1,642 traces 標註，整體失敗率 41-86.7%，補上「LLM 幻覺出 bug」知識缺口的學術版（來源數：1）
 
 ### 遊戲設計與開發
 
@@ -136,6 +139,7 @@
 - [[Specification by Example]] — SBE 需求工程方法論，「從例子建立規格、規格即測試、測試即活文件」——AI 品質共謀的核心解方（來源數：0，LLM 跨來源歸納）
 - [[Scope Creep 守恆律]] — AI 降低實作成本後，省下的時間被更多想法、抽象化與 structural diff 吃掉的反模式（來源數：1）
 - [[PluginEval]] — Claude Code skill 品質評估框架（三層評估 × 10 維度 × 統計 CI）；wshobson/agents 內建，**第一個科學化 skill 評估系統**（來源數：1）
+- [[Multi-Agent 失敗分類學]] — MAST 14 模式 / 3 類；FC1 系統設計 51.7% / FC2 跨 agent 對齊 31.35% / FC3 任務驗證 16.5%；對「LLM 幻覺出 bug」query 的學術回應——多 agent 系統視角下是「FM-2.6 reasoning-action mismatch + FC3 verification 失敗」組合症狀（來源數：1）
 
 ### 商業與顧客管理
 
