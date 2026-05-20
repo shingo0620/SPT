@@ -1,7 +1,7 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-05
 type: source
-sources: [reddit-til-2026-05-18.md, reddit-til-2026-05-17.md, reddit-til-2026-05-16.md, reddit-til-2026-05-15.md, reddit-til-2026-05-14.md, reddit-til-2026-05-13.md, reddit-til-2026-05-12.md, reddit-til-2026-05-11.md, reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
+sources: [reddit-til-2026-05-19.md, reddit-til-2026-05-18.md, reddit-til-2026-05-17.md, reddit-til-2026-05-16.md, reddit-til-2026-05-15.md, reddit-til-2026-05-14.md, reddit-til-2026-05-13.md, reddit-til-2026-05-12.md, reddit-til-2026-05-11.md, reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [reddit, todayilearned, monthly-digest]
@@ -10,6 +10,28 @@ tags: [reddit, todayilearned, monthly-digest]
 # Reddit r/todayilearned — 2026 年 5 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-19
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 圖書館貓 Browser——2010 由德州 White Settlement 圖書館收養，2016 被地方政府驅逐引發反彈，最終全數通過准其留下；牠活得比投票驅逐牠的議員還久 | 27,505 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Browser_(cat)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th8lpe/) |
+| 2 | 陰蒂是唯一已知「唯一目的就是提供愉悅」的人類器官，有超過 10,000 條神經纖維 | 20,773 | ✅ | [OHSU](https://news.ohsu.edu/2022/10/27/pleasure-producing-human-clitoris-has-more-than-10-000-nerve-fibers) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thcmgw/) |
+| 3 | 歡迎清教徒並在他們挨餓時餵食者之子（Metacomet/「King Philip」）被砍頭、頭顱插在矛上 20 年，地點正是首次感恩節之地 | 12,613 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Metacomet) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tguw4c/) |
+| 4 | 南韓黑色行動部隊 Unit 684：31 名初始成員 7 死於嚴酷訓練；24 名倖存者叛變殺守衛、劫巴士衝首爾被軍方攔下，20 人死於槍戰、其餘遭處決 | 10,865 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Unit_684) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th2fwk/) |
+| 5 | 鯰魚是唯一由 USDA（而非 FDA）監管的海鮮——檢查方式更像肉類家禽而非魚 | 7,478 | ✅ | [Mercatus](https://www.mercatus.org/economic-insights/expert-commentary/catfish-other-cronyism-meat) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th8jgk/) |
+| 6 | 1922 NYC「草帽暴動」——男人在社會可接受日期（9/15）後仍戴草帽引發，持續 8 天，多人被捕受傷；青少年幫派持大棍痛打不交帽者 | 5,399 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Straw_Hat_Riot) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th0q0w/) |
+| 7 | Sundarbans 有逾 3,000 名「老虎寡婦」——丈夫被虎殺的女性常被社區排斥，因迷信認為她們是不祥之兆 | 4,555 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Tiger_attacks_in_the_Sundarbans) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th8gq1/) |
+| 8 | 二戰英軍製造 5 百萬塊感染炭疽孢子的亞麻籽餅（Operation Vegetarian），計畫投德國滅其牛供應，恐殺死數百萬平民 | 3,981 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Operation_Vegetarian) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tgztoc/) |
+| 9 | 一片起司蛋糕的潛在能量卡路里多於等量的硝化甘油 | 2,742 | ✅ | [Invention&Tech](https://www.inventionandtech.com/content/big-bang-1) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th47t1/) |
+| 10 | 貝加爾湖「Baikal Zen」現象——周圍冰融化比石頭下方快，使岩石看似凍在小冰柱上 | 2,716 | ✅ | [My Modern Met](https://mymodernmet.com/lake-baikal-zen/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th0cd6/) |
+| 11 | Carfentanil（fentanyl 超強效類似物）——比海洛因強約 4,000 倍、比 fentanyl 強 100 倍，僅核准大型動物獸用但出現在非法毒品中，需極大量 naloxone 才能逆轉 | 2,636 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Carfentanil) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tgouke/) |
+| 12 | 雄性 antechinus（有袋類）首個交配季全數「交配至死」——非停歇交配壓力使無一雄性存活；雌性則可活多個交配季 | 2,430 | ✅ | [Curious/Science AU](https://curious.science.org.au/video/mating-death) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thcpec/) |
+| 13 | 奧匈帝國在 Brusilov 攻勢中損失驚人的全軍 50-60% | 1,373 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Brusilov_offensive) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thhc37/) |
+| 14 | 2001 世界大賽後 Yankees 球員 Enrique Wilson 提早飛回多明尼加；若 Yankees 贏、他留下參加遊行，就會搭上墜毀全亡的 American Airlines 587 班機 | 1,332 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/2001_World_Series#Aftermath_and_Legacy) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1th9c27/) |
+| 15 | 32-bit 時間將於 2038 用完，64-bit 時間約 2,920 億年後才用完 | 1,122 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Year_2038_problem) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thlykx/) |
+
+> **查核備註 #13**：「全軍 50-60%」屬誇大——Brusilov 攻勢（1916）奧匈損失極慘（約 75 萬至 150 萬含戰俘），是其東線最大災難之一，但「整支軍隊 50-60%」需視「軍」的定義；對特定方面軍接近，對全國總兵力則偏高。
 
 ## 2026-05-18
 

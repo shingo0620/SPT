@@ -61,6 +61,7 @@ tags: [人物, AI, 深度學習, 教育者]
 - [[src-karpathy筆記實作]]
 - [[src-LLM Wiki]]
 - [[src-andrej-karpathy-skills]]
+- [[src-karpathy-12-claude-rules]] — 由 Karpathy 1 月抱怨衍生的 4 規則再擴充為 12 規則 CLAUDE.md 模板（第三方實測）
 
 ### 概念頁
 - [[LLM Wiki]]

@@ -1,15 +1,19 @@
 ---
 title: "Claude Family — 5 個 Claude 產品的工作流定位"
 type: source
-sources: [CLAUDE Family.md]
+sources: [CLAUDE Family.md, assets/claude-ecosystem-5-products-20260507.png]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-19
 tags: [claude, anthropic, product-positioning, workflow]
 ---
 
 # Claude Family — 5 個 Claude 產品的工作流定位
 
 > 來源：LinkedIn 風格行銷文（作者署名 jamesCodeLab）；定位為「實務用戶如何挑選 Claude 產品」的速查表，非 [[Anthropic]] 官方對外文件。
+>
+> 配圖（2026-05-07 ingest）：`raw/assets/claude-ecosystem-5-products-20260507.png` — 同主題視覺資訊圖「Claude Ecosystem: Chat vs Cowork vs Code vs Skills vs Projects」，七面向（What it is / Role / Capabilities / Use / Set up / Replaces / Workflow）對比。
+
+![Claude Ecosystem 5 產品對比](../raw/assets/claude-ecosystem-5-products-20260507.png)
 
 ## 核心主張
 
@@ -26,6 +30,20 @@ tags: [claude, anthropic, product-positioning, workflow]
 | 3 | [[Claude Code]] | Engineering Agent | 除錯、建構、重構、測試；多檔案程式理解 | 創意發想、非技術任務 |
 | 4 | Claude Skills | Capability Extender | 模板、重複任務、一致重複工作流 | 一次性或探索性任務 |
 | 5 | Claude Projects | Context Keeper | 持續專案、長期記憶 + 上下文 | 快速一次性任務 |
+
+## 配圖補充：Set up 時間與「取代什麼」
+
+視覺資訊圖比上方表格多出三個面向（取自 2026-05-07 配圖）：
+
+| 產品 | Set up | 取代（Replaces） |
+|------|--------|------------------|
+| Chat | ~1 min | Google + 基本寫作工具 |
+| Cowork | ~3 min | Stack Overflow + 手動除錯 |
+| Code | ~3 min | Slack + docs + 來回溝通 |
+| Projects | ~3 min | 凌亂資料夾 + 遺失的上下文 |
+| Skills | ~3 min | 手動重複工作 |
+
+> 「取代什麼」欄位是行銷敘事重點——把每個 Claude 產品定位為某個既有工作習慣的替代品，強化「不只是聊天工具」的訊息。對應 [[src-anthropic-founders-playbook]] 三工具分工（Chat/Cowork/Claude Code）的官方版切分。
 
 ## 各產品具體場景
 

@@ -1,0 +1,1 @@
+[Codex是新一代作業系統？新創CEO實測6種AI工作流，他為何甘願從Claude Code投奔Codex？|數位時代 BusinessNext](https://www.bnext.com.tw/article/90960/ai-agent-desktop-operating-system-codex-vs-claude)

@@ -2,6 +2,37 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-19] ingest | 大批補齊 5/9-5/18 八來源月報 + 4 篇 obsidian 文章 + W20 綜整
+
+**觸發**：`/llm-wiki ingest`，使用者選「全部一次處理完」。pull-before（sync-vault pull）後偵測到大量積壓。
+
+**處理範圍**：
+- **8 來源月報補齊**（增量追加至既有月報，新到舊插入）：
+  - reddit-til 5/11-5/19（9 日 × 15 則，逐則事實查核，多數 ✅；⚠️ 標注 1794 法語 11%、Banquet of Chestnuts、狗降食物過敏 90%、Nooksack Giant、Brusilov 50-60% 等）
+  - reddit-eli5 5/11-5/19（9 日 × 15 題，問題翻譯 + 答案精華）
+  - hn 5/9-5/18（10 日 Top 15，每日表格 + 觀察）
+  - github-trending 5/9-5/18（10 日，逐條 ❌/⚠️/✅/✨ 查核；5/14 盜版洪水日 11/15 ❌）
+  - producthunt 5/9-5/18（10 日 Top 15 + 觀察）
+  - wikipedia 5/9-5/18（10 日精選文章 + Top 10 + 歷史上的今天）
+  - skills-picks 5/9-5/12（ast-grep 安裝數追蹤 5,156→5,414；5/13 起 fetcher 失效）
+  - skills-trending 5/9-5/12（inference URL 二次改名 + agentspace-so 五件刷榜異象；5/13 起 fetcher 失效）
+- **4 篇 obsidian 文章新建 source 頁**：
+  - [[src-karpathy-12-claude-rules]]（Mnimiy 12 規則 CLAUDE.md，延伸 [[src-andrej-karpathy-skills]]）
+  - [[src-雷蒙-不需要-agent-team]]（Conway/Brooks/Coase 論證個體不需 multi-agent）
+  - [[src-codex-代理人桌面作業系統]]（Every CEO 投奔 Codex；fetch-url.sh 成功擷取 bnext 原文）
+  - [[src-anthropic-founders-playbook]]（Anthropic 官方手冊；原 PDF 擷取失敗，改用 bnext 中文導讀 fetch；英文 PDF 細節待補）
+- **配圖**：`Pasted image 20260507125336.png` → 移至 `raw/assets/claude-ecosystem-5-products-20260507.png`，補入 [[src-claude-family]]（5 產品對比視覺圖 + Set up/Replaces 補充表）
+- **新建 [[週綜整-2026-W20]]**（05-11~05-17）：AI 反思週 + 代理人桌面 OS 爭霸週；⭐ 核心發現「多 agent 鏈式誤差三來源匯流」（MAST 學術 / 雷蒙個體 / Codex 企業 3% 誤差）
+- **反向連結**：[[Andrej Karpathy]] + [[src-andrej-karpathy-skills]] 加入 12 規則引用
+
+**規模**：內容頁 ~115 → 120（+4 source +1 synthesis）
+
+**待後續（W21 / lint 範圍）**：
+- ⚠️ **skills fetcher 失效**：picks/trending raw 自 5/13 起未抓到，待手動跑 `fetch-skills-*.sh` 驗證 skills.sh 改版 vs 腳本問題
+- Founder's Playbook 英文 36 頁 PDF 細節待補擷取（目前 bnext 中文導讀為主）
+- 新概念候選：agentic technical debt / agent management interface / agent-readability（W20 三文章分散提及，待評估獨立建頁）
+- [[Multi-Agent 失敗分類學]] 可加 W20 三來源匯流段；[[Skill vs Bash vs MCP]] 待加 Karpathy 規則 5 對位
+
 ## [2026-05-11] lint | P1 懸空連結 + P2 缺漏實體 + P3 過時資訊（全批執行）
 
 **觸發**：`/llm-wiki lint` 全量掃描，使用者批准全批執行（"all"）

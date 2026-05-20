@@ -47,7 +47,11 @@
 - [[src-graphify]] — safishamsi/graphify **46k stars**：codebase → knowledge graph 的跨 17 平台 skill（tree-sitter + GraphRAG + Leiden）；[[LLM Wiki]] 模式的「程式碼特化自動版」（來源數：2）
 - [[src-anthropic-managed-agents]] — Anthropic 2026-04-29：Claude Managed Agents（beta，cloud-hosted agent APIs）的 PM 視角；「build with what we ship」+ 確認 Anthropic 6 產品線（Claude/Code/Cowork/Security/Skills/Managed Agents）（來源數：1）
 - [[src-gemma4-mtp]] — Google 2026-05-05：Gemma 4 Multi-Token Prediction drafters（speculative decoding）最高 3x inference 加速；Gemma 4 已 60M+ downloads（來源數：1）
-- [[src-claude-family]] — LinkedIn 風格 5 個 Claude 產品工作流定位速查（Chat thinks / Skills standardize / Projects persist / Code builds / Cowork automates）（來源數：1）
+- [[src-claude-family]] — LinkedIn 風格 5 個 Claude 產品工作流定位速查（Chat thinks / Skills standardize / Projects persist / Code builds / Cowork automates）（來源數：2，含 5 產品對比視覺圖）
+- [[src-karpathy-12-claude-rules]] — Mnimiy(@Mnilax) 把 [[src-andrej-karpathy-skills|forrestchang 4 規則]] 擴充為 12 規則 CLAUDE.md 模板，補 2026-05 agent 編排問題（token 預算/checkpoint/fail-loud），實測錯誤率 41%→3%（⚠️ 個人 self-report）（來源數：1）
+- [[src-雷蒙-不需要-agent-team]] — 雷蒙：個體工作者不需結構性 multi-agent；用 Conway's Law/Brooks's Law/Coase 交易成本論證「部門牆是迫不得已非美好設計」，AI 無此極限——管成果不管流程（來源數：1）
+- [[src-codex-代理人桌面作業系統]] — 數位時代/Every CEO Dan Shipper 從 Claude Code 投奔 Codex：「agent management interface 新作業系統」四家押注（Anthropic/OpenAI/xAI/Google）+ KPI 3% 誤差讓代理人鏈下游全歪 + 文件讀者從「人」變「人透過代理人」（來源數：1）
+- [[src-anthropic-founders-playbook]] — Anthropic 官方《The Founder's Playbook》：AI 原生新創 4 階段（Idea/MVP/Launch/Scale）+ 3 工具（Chat/Cowork/Code）；MVP 階段「先建 CLAUDE.md 防 agentic technical debt」官方背書（來源數：2，bnext 中文導讀為主）
 
 ### 商業與策略
 
@@ -183,6 +187,7 @@
 
 ### 週綜整（每週橫向 + 縱向，完整週過完才做）
 
+- [[週綜整-2026-W20]] — AI 反思週 + 代理人桌面 OS 爭霸週（05-11 ~ 05-17），⭐「多 agent 鏈式誤差」三來源匯流（MAST 學術 / 雷蒙個體 Conway+Brooks / Codex 企業 3% 誤差）+ HN 反思潮（AI psychosis 1574 / 回去手寫程式 / AI 不會更快）+ CLAUDE.md 規則化（4→12 規則 + Founder's Playbook 官方背書）+ Local AI 運動 + GitHub 5/14 盜版洪水日（11/15 ❌）（來源：跨頁整理）
 - [[週綜整-2026-W19]] — Agentic Engineering 學科化週（05-04 ~ 05-10），MAST 論文 + Karpathy Sequoia + Armin agent design + Anthropic Managed Agents + graphify 五篇核心來源打透「agent 工程從手藝升格學科」+ Cloudflare 裁員 vs agents 自主買域名反差 + ShinyHunters 三平台連動 + indie edge LLM 軸成形（⚠️ 5/9-5/10 僅 reddit，其他來源待補）（來源：跨頁整理）
 - [[週綜整-2026-W18]] — 驗證與校正週（04-27 ~ 05-03），主動撤回 W17 累積 12 日 fetcher fallback 假象 + Anthropic Creative Work 8 connector + Inference.sh 改名事件 + GitHub Trending 信號崩壞 + agent VM 浪潮 + Zed 1.0（來源：跨頁整理）
 - [[週綜整-2026-W17]] — 成熟營運週（04-20 ~ 04-26），18 個新實體/概念建立，外部 AI 模型密集發布日 + Anthropic 雙金主 + LLM Wiki 上 HN 主流（來源：跨頁整理）

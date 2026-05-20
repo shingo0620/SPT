@@ -1,7 +1,7 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-05
 type: source
-sources: [reddit-eli5-2026-05-18.md, reddit-eli5-2026-05-17.md, reddit-eli5-2026-05-16.md, reddit-eli5-2026-05-15.md, reddit-eli5-2026-05-14.md, reddit-eli5-2026-05-13.md, reddit-eli5-2026-05-12.md, reddit-eli5-2026-05-11.md, reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
+sources: [reddit-eli5-2026-05-19.md, reddit-eli5-2026-05-18.md, reddit-eli5-2026-05-17.md, reddit-eli5-2026-05-16.md, reddit-eli5-2026-05-15.md, reddit-eli5-2026-05-14.md, reddit-eli5-2026-05-13.md, reddit-eli5-2026-05-12.md, reddit-eli5-2026-05-11.md, reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [reddit, explainlikeimfive, monthly-digest]
@@ -10,6 +10,26 @@ tags: [reddit, explainlikeimfive, monthly-digest]
 # Reddit r/explainlikeimfive — 2026 年 5 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-19
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 預測的超級聖嬰（super El Niño）對美國實際代表什麼？（改變噴流路徑——南方更濕多雨/洪水、北方偏暖乾燥；具體看區域，加州冬季雨增、太平洋西北偏乾） | 1,638 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1th0adg/) |
+| 2 | 為何醫療程序前不能吃喝？（麻醉/鎮靜時嘔吐物可能吸入肺造成吸入性肺炎；空腹確保胃排空。血檢空腹是為基準值準確） | 971 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgnttb/) |
+| 3 | 為何我們不能自己賣自己的資料賺錢？（資料的價值在「聚合」——單一個人資料幾乎無價值；平台靠規模 + 即時行為定向才有價，個人無法複製此基礎設施） | 799 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1th3vr9/) |
+| 4 | 羊那麼多，羊肉為何那麼貴？（多數羊養來產羊毛/種羊非肉用；羊生長慢、飼料轉換率低、屠宰肉產出率低；英國多出口/進口紐澳羊肉） | 620 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thhoj2/) |
+| 5 | 纖維為何既是腹瀉成因又是解藥？（可溶性纖維吸水成膠固化軟便治腹瀉；不可溶性纖維加速腸蠕動、過量致腹瀉——兩種纖維作用相反） | 385 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgo5xo/) |
+| 6 | 頭部受傷後嘔吐為何是嚴重警訊？（顱內壓升高刺激腦幹嘔吐中樞——可能腦出血/腫脹；嘔吐是 ICP 上升的早期指標） | 366 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgrcdl/) |
+| 7 | 打噴嚏前鼻子的感覺是什麼？（三叉神經偵測刺激物觸發噴嚏反射弧；累積到閾值前的「預備期」感覺） | 313 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1th9ga6/) |
+| 8 | 為何會老死？細胞不斷替換，為何身體最終放棄？（端粒縮短限制分裂、DNA 損傷累積、幹細胞耗竭、表觀遺傳漂移——「修復系統本身也會老化」） | 174 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thjpll/) |
+| 9 | 講台雙麥克風交叉有非美觀理由嗎？（冗餘備援——一支故障另一支接手；交叉擴大收音角度涵蓋說話者頭部轉動） | 122 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1th6s6k/) |
+| 10 | 為何耳機只能連兩個裝置不能更多？（藍牙多點連線受晶片資源/頻寬限制；維持多個同步連線耗電且複雜，廠商通常限 2 個） | 58 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgyqnd/) |
+| 11 | 痛為何這樣運作？大腦為何不直接關掉劇痛？（痛是保護訊號——強迫你停止傷害行為、保護傷處；若能關掉會反覆受傷。慢性痛是此系統失調） | 48 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1th6vdw/) |
+| 12 | 癌細胞如何形成？輻射如何消滅它們？（DNA 突變累積讓細胞失控分裂；輻射破壞快速分裂細胞的 DNA，癌細胞因分裂快更易受損） | 24 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgowem/) |
+| 13 | 為何碰燙傷旁邊的皮膚比碰燙傷本身更痛？（重度燒傷可能破壞該處神經末梢致麻木；周圍未全毀的神經因發炎致敏更敏感） | 22 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgsa5j/) |
+| 14 | 為何還無法造出室溫超導體？（超導需電子配對成 Cooper pair，熱振動會打散；高溫超導機制未完全理解，已知材料需極端壓力/低溫） | 22 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgpsrc/) |
+| 15 | 大腦為何有時冒出你不要的擾人念頭？（「intrusive thoughts」——大腦模擬危險情境的副產品；站懸崖想跳是「call of the void」，是評估風險的安全機制非真實衝動） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thjlpi/) |
 
 ## 2026-05-18
 

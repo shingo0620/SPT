@@ -172,6 +172,7 @@ forrestchang（Jiayuan Pan）是 [[Multica]] 開發者之一——本 README 直
 
 ## 相關頁面
 
+- [[src-karpathy-12-claude-rules]] — **本 repo 4 規則的延伸**：Mnimiy（@Mnilax）實測後加 8 條成 12 規則，補 2026-05 agent 編排問題（token 預算/checkpoint/fail-loud）
 - [[Andrej Karpathy]]（觀察源頭，本 wiki 重要實體）
 - [[Claude Code]]（目標環境）
 - [[src-Harness Engineering]]（CLAUDE.md = 認知框架 harness 的學術版本）
