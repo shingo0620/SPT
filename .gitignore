@@ -21,3 +21,10 @@ tsconfig.tsbuildinfo
 .replit
 replit.nix
 .gstack/
+
+# Agent skills（安裝目標，版本由 skills-lock.json 鎖定）
+.agents/
+
+# Claude Code 本地設定與 skill 安裝連結（本機路徑、權限白名單，不入庫）
+.claude/settings.local.json
+.claude/skills/

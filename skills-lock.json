@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "llm-wiki": {
+      "source": "shingo0620/my-llm-wiki",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "f8ff210fe4d1a6821b9795c40171018bb753a613da358e4ad52418f14a841f50"
+    }
+  }
+}
