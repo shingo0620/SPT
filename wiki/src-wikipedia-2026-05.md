@@ -1,15 +1,285 @@
 ---
 title: Wikipedia Featured 月報 — 2026-05
 type: source
-sources: [wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
+sources: [wikipedia-featured-2026-05-18.md, wikipedia-featured-2026-05-17.md, wikipedia-featured-2026-05-16.md, wikipedia-featured-2026-05-15.md, wikipedia-featured-2026-05-14.md, wikipedia-featured-2026-05-13.md, wikipedia-featured-2026-05-12.md, wikipedia-featured-2026-05-11.md, wikipedia-featured-2026-05-10.md, wikipedia-featured-2026-05-09.md, wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-19
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 5 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-18
+
+### 今日精選文章
+
+**[Sursock bronze](https://en.wikipedia.org/wiki/Sursock_bronze)**——又稱 Sursock 雕像，公元 2 世紀的鍍金青銅雕塑群（Jupiter Heliopolitanus），是 Baalbek 邪教崇拜雕像的微縮版。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Aaron Rai](https://en.wikipedia.org/wiki/Aaron_Rai) | 613,044 |
+| 2 | **[Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026)** | 589,937 |
+| 3 | [Gina Carano](https://en.wikipedia.org/wiki/Gina_Carano) | 520,590 |
+| 4 | [Ronda Rousey](https://en.wikipedia.org/wiki/Ronda_Rousey) | 426,617 |
+| 5 | [Dara (Bulgarian singer)](https://en.wikipedia.org/wiki/Dara_(Bulgarian_singer)) | 247,323 |
+| 6 | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) | 210,271 |
+| 7 | [Murder of Dominic Russo and Davion Flanagan](https://en.wikipedia.org/wiki/Murder_of_Dominic_Russo_and_Davion_Flanagan) | 204,816 |
+| 8 | [MVP MMA: Rousey vs. Carano](https://en.wikipedia.org/wiki/MVP_MMA%3A_Rousey_vs._Carano) | 186,535 |
+| 9 | [Karuppu (film)](https://en.wikipedia.org/wiki/Karuppu_(film)) | 167,871 |
+| 10 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 147,265 |
+
+### 歷史上的今天
+- **2009**：斯里蘭卡軍隊擊斃 LTTE 領袖兼創辦人 Velupillai Prabhakaran，結束 26 年內戰
+- **2013**：公開同志 Mark Carson 在紐約遭仇恨犯罪殺害
+
+> **05-18 觀察**：MMA 主導日——Rousey vs. Carano 表演賽帶動 Gina Carano(520k)+Ronda Rousey(426k)+賽事頁三項進榜；Eurovision 2026(589k) 連續多日高居榜首（決賽週）；Aaron Rai 高爾夫奪冠登頂
+
+## 2026-05-17
+
+### 今日精選文章
+
+**[All Hell Breaks Loose (Charmed)](https://en.wikipedia.org/wiki/All_Hell_Breaks_Loose_(Charmed))**——美國奇幻劇《聖女魔咒》第三季第 22 集兼季終，由 showrunner Brad Kern 編劇。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | **[Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026)** | **528,304** |
+| 2 | [Delta Goodrem](https://en.wikipedia.org/wiki/Delta_Goodrem) | 247,414 |
+| 3 | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) | 208,919 |
+| 4 | [Karuppu (film)](https://en.wikipedia.org/wiki/Karuppu_(film)) | 186,849 |
+| 5 | [Victoria Swarovski](https://en.wikipedia.org/wiki/Victoria_Swarovski) | 169,583 |
+| 6 | [Murder of Dominic Russo and Davion Flanagan](https://en.wikipedia.org/wiki/Murder_of_Dominic_Russo_and_Davion_Flanagan) | 167,907 |
+| 7 | [Gina Carano](https://en.wikipedia.org/wiki/Gina_Carano) | 142,053 |
+| 8 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 141,046 |
+| 9 | [Off Campus](https://en.wikipedia.org/wiki/Off_Campus) | 128,723 |
+| 10 | [Dara (Bulgarian singer)](https://en.wikipedia.org/wiki/Dara_(Bulgarian_singer)) | 125,546 |
+
+### 歷史上的今天
+- **2004**：麻州成為美國首個合法化同性婚姻的州
+- **2014**：寮國北部軍機墜毀，17 死 1 生還
+
+> **05-17 觀察**：Eurovision 2026 決賽日衝上 528k；Delta Goodrem/Victoria Swarovski/Dara（Eurovision 相關藝人）連帶進榜——歐洲歌唱大賽的單日流量集中效應
+
+## 2026-05-16
+
+### 今日精選文章
+
+**[Erik Campbell (Final Destination)](https://en.wikipedia.org/wiki/Erik_Campbell_(Final_Destination))**——《絕命終結站：血脈》（2025，系列第 6 部）角色。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Iceman (Drake album)](https://en.wikipedia.org/wiki/Iceman_(Drake_album)) | 259,180 |
+| 2 | [Andy Burnham](https://en.wikipedia.org/wiki/Andy_Burnham) | 202,483 |
+| 3 | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) | 199,269 |
+| 4 | [Karuppu (film)](https://en.wikipedia.org/wiki/Karuppu_(film)) | 174,712 |
+| 5 | [Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026) | 159,761 |
+| 6 | [Maid of Honour (album)](https://en.wikipedia.org/wiki/Maid_of_Honour_(album)) | 141,290 |
+| 7 | [Drake (musician)](https://en.wikipedia.org/wiki/Drake_(musician)) | 133,793 |
+| 8 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 129,596 |
+| 9 | [Off Campus](https://en.wikipedia.org/wiki/Off_Campus) | 126,765 |
+| 10 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 119,029 |
+
+### 歷史上的今天
+- **1975**：經公投錫金王國併入印度成為錫金邦
+- **1977**：第一家 Chuck E. Cheese 開幕（首家結合食物與娛樂的家庭餐廳）
+
+> **05-16 觀察**：Drake 新專輯《Iceman》發行帶動 Drake 相關三項（專輯/歌手/Maid of Honour）；Eurovision 持續預熱
+
+## 2026-05-15
+
+### 今日精選文章
+
+**[Operation Brevity](https://en.wikipedia.org/wiki/Operation_Brevity)**——二戰西部沙漠戰役 1941 年 5 月中的攻擊，由英國中東司令 Archibald Wavell 構思。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Wes Streeting](https://en.wikipedia.org/wiki/Wes_Streeting) | 227,168 |
+| 2 | [Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026) | 190,314 |
+| 3 | [V. D. Satheesan](https://en.wikipedia.org/wiki/V._D._Satheesan) | 185,105 |
+| 4 | [Andy Burnham](https://en.wikipedia.org/wiki/Andy_Burnham) | 181,194 |
+| 5 | [Josh Simons](https://en.wikipedia.org/wiki/Josh_Simons) | 141,834 |
+| 6 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 132,534 |
+| 7 | [Off Campus](https://en.wikipedia.org/wiki/Off_Campus) | 127,542 |
+| 8 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 123,925 |
+| 9 | **[Thucydides Trap](https://en.wikipedia.org/wiki/Thucydides_Trap)** | 120,270 |
+| 10 | [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) | 117,672 |
+
+### 歷史上的今天
+- **2024**：斯洛伐克總理 Robert Fico 遇刺受傷送醫
+- **2004**：兵工廠成為英格蘭頂級聯賽首支整季不敗完賽球隊
+
+> **05-15 觀察**：英國工黨政治人物群（Wes Streeting/Andy Burnham/Josh Simons）+ #9 Thucydides Trap（修昔底德陷阱）+ #10 習近平同框——英國黨內動態 + 中美地緣政治討論
+
+## 2026-05-14
+
+### 今日精選文章
+
+**[Talyllyn Railway](https://en.wikipedia.org/wiki/Talyllyn_Railway)**——威爾斯窄軌鐵路，1865 通車，是全球首條由志工保存營運的鐵路。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Brandon Clarke](https://en.wikipedia.org/wiki/Brandon_Clarke) | 328,132 |
+| 2 | [Jason Collins](https://en.wikipedia.org/wiki/Jason_Collins) | 274,077 |
+| 3 | [Donald Gibb](https://en.wikipedia.org/wiki/Donald_Gibb) | 224,865 |
+| 4 | [The Boys season 5](https://en.wikipedia.org/wiki/The_Boys_season_5) | 214,292 |
+| 5 | [The Punisher: One Last Kill](https://en.wikipedia.org/wiki/The_Punisher%3A_One_Last_Kill) | 200,715 |
+| 6 | [Wes Streeting](https://en.wikipedia.org/wiki/Wes_Streeting) | 198,815 |
+| 7 | [Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026) | 144,080 |
+| 8 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 138,588 |
+| 9 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 136,059 |
+| 10 | [Dileep Raj](https://en.wikipedia.org/wiki/Dileep_Raj) | 128,222 |
+
+### 歷史上的今天
+- **2010**：英國政治人物 Stephen Timms 在伊斯蘭極端分子刺殺中倖存
+- **1980**：薩爾瓦多內戰：難民試圖越過 Sumpul 河逃離時遭屠殺
+
+> **05-14 觀察**：影視內容主導（The Boys S5/Punisher）+ Brandon Clarke/Jason Collins 體育人物；新聞與娛樂混合
+
+## 2026-05-13
+
+### 今日精選文章
+
+**[Splatoon 3: Side Order](https://en.wikipedia.org/wiki/Splatoon_3:_Side_Order)**——任天堂 Splatoon 3 的 2024 單人模式 DLC 擴充包。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Brandon Clarke](https://en.wikipedia.org/wiki/Brandon_Clarke) | 582,581 |
+| 2 | [Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026) | 195,847 |
+| 3 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 138,925 |
+| 4 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 138,880 |
+| 5 | [Sheryl Underwood](https://en.wikipedia.org/wiki/Sheryl_Underwood) | 137,434 |
+| 6 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 137,187 |
+| 7 | [Tony Hinchcliffe](https://en.wikipedia.org/wiki/Tony_Hinchcliffe) | 126,526 |
+| 8 | [Hayden Panettiere](https://en.wikipedia.org/wiki/Hayden_Panettiere) | 118,435 |
+| 9 | [C. Joseph Vijay](https://en.wikipedia.org/wiki/C._Joseph_Vijay) | 193,020 |
+| 10 | [Eileen Wang](https://en.wikipedia.org/wiki/Eileen_Wang) | 115,307 |
+
+### 歷史上的今天
+- **2017**：WannaCry 勒索病毒攻擊全球逾 40 萬台電腦
+- **2014**：土耳其史上最嚴重礦災爆炸
+
+> **05-13 觀察**：Orthohantavirus（漢他病毒）連續多日進榜——延續 5 月初 MV Hondius 漢他病毒爆發的持續關注；Brandon Clarke 連兩日居首
+
+## 2026-05-12
+
+### 今日精選文章
+
+**[Golden Bough (Aeneid)](https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid))**——Virgil《埃涅阿斯紀》（公元前 29-19 年）描述的奇幻物件，特洛伊英雄入冥界的通行證。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [C. Joseph Vijay](https://en.wikipedia.org/wiki/C._Joseph_Vijay) | 327,967 |
+| 2 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 216,463 |
+| 3 | [Sheryl Underwood](https://en.wikipedia.org/wiki/Sheryl_Underwood) | 174,316 |
+| 4 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 164,353 |
+| 5 | [John Worboys](https://en.wikipedia.org/wiki/John_Worboys) | 159,835 |
+| 6 | [Euphoria (American TV series)](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)) | 154,498 |
+| 7 | [Tony Hinchcliffe](https://en.wikipedia.org/wiki/Tony_Hinchcliffe) | 136,768 |
+| 8 | [Yahoo](https://en.wikipedia.org/wiki/Yahoo) | 130,849 |
+| 9 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 130,762 |
+| 10 | [List of Euphoria episodes](https://en.wikipedia.org/wiki/List_of_Euphoria_episodes) | 127,312 |
+
+### 歷史上的今天
+- **2022**：Event Horizon Telescope 發布人馬座 A*（銀河系中心黑洞）首張影像
+- **2017**：WannaCry 勒索病毒攻擊起始
+
+> **05-12 觀察**：印度泰米爾影星 Vijay（C. Joseph Vijay）連日高居榜首——其政治轉型（TVK 黨）引發關注；Euphoria 第三季回歸帶動影集相關頁
+
+## 2026-05-11
+
+### 今日精選文章
+
+**[Japan Cup](https://en.wikipedia.org/wiki/Japan_Cup)**——日本 Group 1 賽馬，每年 11 月最後週日於東京競馬場舉行。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | **[Vijay (actor)](https://en.wikipedia.org/wiki/Vijay_(actor))** | **731,537** |
+| 2 | [Chief Minister of Tamil Nadu](https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu) | 322,104 |
+| 3 | [Sean Strickland](https://en.wikipedia.org/wiki/Sean_Strickland) | 272,291 |
+| 4 | [UFC 328](https://en.wikipedia.org/wiki/UFC_328) | 272,167 |
+| 5 | [Mother's Day](https://en.wikipedia.org/wiki/Mother's_Day) | 255,057 |
+| 6 | [Khamzat Chimaev](https://en.wikipedia.org/wiki/Khamzat_Chimaev) | 251,269 |
+| 7 | [Backlash (2026)](https://en.wikipedia.org/wiki/Backlash_(2026)) | 240,286 |
+| 8 | [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) | 215,195 |
+| 9 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 209,374 |
+| 10 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 167,739 |
+
+### 歷史上的今天
+- **2022**：巴勒斯坦裔美籍記者 Shireen Abu Akleh 採訪時遭擊斃
+- **2022**：緬甸內戰 Mondaing 政府軍殺害 37 名手無寸鐵平民
+
+> **05-11 觀察**：Vijay(731k) 單日爆量登頂 + Tamil Nadu 首長頁——印度泰米爾政治娛樂交織；UFC 328（Strickland/Chimaev）格鬥賽事 + Mother's Day 母親節季節性高峰
+
+## 2026-05-10
+
+### 今日精選文章
+
+**[Ben&Ben](https://en.wikipedia.org/wiki/Ben&Ben)**——菲律賓馬尼拉獨立民謠流行樂團，2016 由 Guico 雙胞胎兄弟組成。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) | 463,431 |
+| 2 | [Suvendu Adhikari](https://en.wikipedia.org/wiki/Suvendu_Adhikari) | 250,096 |
+| 3 | [Vijay (actor)](https://en.wikipedia.org/wiki/Vijay_(actor)) | 211,152 |
+| 4 | [Backlash (2026)](https://en.wikipedia.org/wiki/Backlash_(2026)) | 206,683 |
+| 5 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 195,118 |
+| 6 | [2026 United Kingdom local elections](https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections) | 189,292 |
+| 7 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 185,557 |
+| 8 | [Mortal Kombat II (film)](https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)) | 180,291 |
+| 9 | [Chief Minister of Tamil Nadu](https://en.wikipedia.org/wiki/Chief_Minister_of_Tamil_Nadu) | 158,777 |
+| 10 | [Wade Wilson (criminal)](https://en.wikipedia.org/wiki/Wade_Wilson_(criminal)) | 136,781 |
+
+### 歷史上的今天
+- **2013**：紐約世界貿易中心一號大樓成為西半球最高建築
+- **2017**：敘利亞內戰：SDF 在美軍協助下推進
+
+> **05-10 觀察**：David Attenborough 100 歲生日連兩日進榜（對應 5/9 HN #12）；WWE Backlash 2026 賽事 + Mortal Kombat II 電影娛樂軸
+
+## 2026-05-09
+
+### 今日精選文章
+
+**[The Great Mecca Feast](https://en.wikipedia.org/wiki/The_Great_Mecca_Feast)**——George Krugers 1928 默片紀錄片，分四幕記錄荷屬東印度穆斯林的麥加朝聖。Krugers 假扮穆斯林進入長期禁非穆斯林的麥加拍攝。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | **[David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough)** | **788,980** |
+| 2 | [2026 United Kingdom local elections](https://en.wikipedia.org/wiki/2026_United_Kingdom_local_elections) | 361,227 |
+| 3 | [Orthohantavirus](https://en.wikipedia.org/wiki/Orthohantavirus) | 296,006 |
+| 4 | **[ShinyHunters](https://en.wikipedia.org/wiki/ShinyHunters)** | 295,250 |
+| 5 | [Mortal Kombat II (film)](https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)) | 203,695 |
+| 6 | [2026 Tamil Nadu Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Tamil_Nadu_Legislative_Assembly_election) | 199,082 |
+| 7 | [Suvendu Adhikari](https://en.wikipedia.org/wiki/Suvendu_Adhikari) | 195,236 |
+| 8 | [Reform UK](https://en.wikipedia.org/wiki/Reform_UK) | 172,549 |
+| 9 | [Vijay (actor)](https://en.wikipedia.org/wiki/Vijay_(actor)) | 169,833 |
+| 10 | [Richard Attenborough](https://en.wikipedia.org/wiki/Richard_Attenborough) | 166,762 |
+
+### 歷史上的今天
+- **2023**：巴基斯坦前總理 Imran Khan 被捕引發暴動
+- **2001**：迦納 Accra 球場警方施放催淚瓦斯引發踩踏，126 死
+
+> **05-09 觀察**：David Attenborough 100 歲生日(788k) 居首 + 弟 Richard Attenborough 連帶進榜；#4 ShinyHunters 延續 5/8 Canvas 駭事件的關注（對應 [[src-hn-2026-05]] 5/8）
 
 ## 2026-05-08
 

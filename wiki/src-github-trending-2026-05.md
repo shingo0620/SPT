@@ -1,15 +1,270 @@
 ---
 title: GitHub Trending 月報 — 2026-05
 type: source
-sources: [github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
+sources: [github-trending-2026-05-18.md, github-trending-2026-05-17.md, github-trending-2026-05-16.md, github-trending-2026-05-15.md, github-trending-2026-05-14.md, github-trending-2026-05-13.md, github-trending-2026-05-12.md, github-trending-2026-05-11.md, github-trending-2026-05-10.md, github-trending-2026-05-09.md, github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-19
 tags: [github, trending, monthly-digest]
 ---
 
 # GitHub Trending — 2026 年 5 月
 
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
+>
+> ⚠️ **5 月持續性信號崩壞**：GitHub Trending（依新建 repo 日星數）長期被遊戲外掛、盜版軟體、加密詐騙 bot、SEO 刷榜帳號佔據高星位。每日表格保留全 15 列以利追溯，重點以 ❌（詐騙/惡意）/ ⚠️（灰色/刷榜）/ ✅（合法）/ ✨（值得關注）標注。**真實有價值的合法 repo 多集中在中低星區**。
+
+## 2026-05-18 ⚠️ 信號崩壞延續 — smallcode 小模型 agent ✨ + 盜版/灰色佔前三
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | **Doorman11991/smallcode** | 333 | JavaScript | AI coding agent 針對小型 LLM 優化，4B-active 模型達 87% benchmark | ✅✨ | [GitHub](https://github.com/Doorman11991/smallcode) |
+| 2 | ~~xw7872081123/wallpaper-engine-steam~~ | 236 | TypeScript | ❌ Wallpaper Engine Steam workshop bypass | ❌ | [GitHub](https://github.com/xw7872081123/wallpaper-engine-steam) |
+| 3 | ~~thongthaibm/Lossless-Scaling-LSFG~~ | 235 | C# | ⚠️ Lossless Scaling 灰色破解分發 | ⚠️ | [GitHub](https://github.com/thongthaibm/Lossless-Scaling-LSFG) |
+| 4 | ~~lynote-ai/humanize-text~~ | 93 | Python | ⚠️ AI text humanization——繞過 AI 偵測工具 | ⚠️ | [GitHub](https://github.com/lynote-ai/humanize-text) |
+| 5 | ~~huey1in/WindsurfX~~ | 30 | Python | ⚠️ Windsurf 批量自動註冊機 | ⚠️ | [GitHub](https://github.com/huey1in/WindsurfX) |
+| 6 | chungyuandye/NTOU_Thesis | 27 | TeX | 國立臺灣海洋大學碩博論文 LaTeX 模板 | ✅ | [GitHub](https://github.com/chungyuandye/NTOU_Thesis) |
+| 7 | **robzolkos/pi-lifeline** | 24 | TypeScript | 小型 autoresearch 模型「打電話求助」大模型——edge AI 協作 | ✅✨ | [GitHub](https://github.com/robzolkos/pi-lifeline) |
+| 8 | rusty4444/gatekeeper-ha | 20 | Python | Home Assistant 的 QR code 臨時訪客存取 | ✅ | [GitHub](https://github.com/rusty4444/gatekeeper-ha) |
+| 9 | **ganimjeong/Harness-for-codex** | 20 | Shell | Codex harness——一致的 AI 輔助開發工作流 | ✅✨ | [GitHub](https://github.com/ganimjeong/Harness-for-codex) |
+| 10 | agridyne/dotfiles-dt | 19 | N/A | 個人 desktop dotfiles | ✅ | [GitHub](https://github.com/agridyne/dotfiles-dt) |
+| 11 | ~~theermia/SPlusTunnel~~ | 19 | Python | ⚠️ 用 SoroushPlus 語音通話基建做網路隧道（伊朗繞牆，灰色） | ⚠️ | [GitHub](https://github.com/theermia/SPlusTunnel) |
+| 12 | yashwanthadventure/Brain_Tumor | 18 | Jupyter | 腦瘤 MRI 分類學生專案 | ✅ | [GitHub](https://github.com/yashwanthadventure/Brain_Tumor) |
+| 13 | julianommartins/tech-interview-handbook | 18 | N/A | 葡語技術面試/system design 指南 | ✅ | [GitHub](https://github.com/julianommartins/tech-interview-handbook) |
+| 14 | shuaizai88/chatbi | 16 | Vue | AI 問數系統（類 SQLBot/chatbi） | ✅ | [GitHub](https://github.com/shuaizai88/chatbi) |
+| 15 | limin112/wechat-publish-template | 15 | HTML | 微信發文模板 | ✅ | [GitHub](https://github.com/limin112/wechat-publish-template) |
+
+> **05-18 觀察**——**Agent harness/edge AI 合法信號回升**：
+> - **#1 smallcode ✨**：小型 LLM 專用 coding agent（4B-active 87% benchmark）——對應 5/11-5/17 HN「Local AI 為常態」+「Apple Silicon 比 OpenRouter 貴」的本地化主軸
+> - **#7 pi-lifeline + #9 Harness-for-codex ✨**：「小模型 phone-a-friend 大模型」+「Codex harness」——agent 工程化、本地/雲協作的 indie hacker 文化
+> - 前 5 名仍有 4 件灰色/盜版/繞偵測（wallpaper bypass、LSFG 破解、humanize-text、WindsurfX 註冊機）——信號崩壞未根治
+
+## 2026-05-17 信號略改善 — 學生 ML 專案洪水 + vibe-observer ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~sachmalan/kalshi-trading-bot~~ | 78 | TypeScript | ⚠️ Kalshi 交易 bot（SEO 疊字描述） | ⚠️ | [GitHub](https://github.com/sachmalan/kalshi-trading-bot) |
+| 2 | **AIchovy/vibe-observer** | 62 | Rust | Claude Code Tracer & Observer——觀測 vibe coding 行為 | ✅✨ | [GitHub](https://github.com/AIchovy/vibe-observer) |
+| 3 | varshini11ravi/Sentiment-Analysis | 56 | Python | 學生情感分析專案（0 desc） | ⚠️ | [GitHub](https://github.com/varshini11ravi/Sentiment-Analysis) |
+| 4 | greatvishal27-rc/AI-Resume_Analyzer | 54 | Python | 學生 AI 履歷分析（0 desc） | ⚠️ | [GitHub](https://github.com/greatvishal27-rc/AI-Resume_Analyzer) |
+| 5 | Stevia-S/MultiClass-LungDisease-Detection-Using-XAI | 51 | Python | 可解釋深度學習肺病 CT 偵測 | ✅ | [GitHub](https://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI) |
+| 6 | rakeshbtechx-rx/LSTM-Next-Word-Predictor | 51 | Jupyter | LSTM 字詞預測學生專案（0 desc） | ⚠️ | [GitHub](https://github.com/rakeshbtechx-rx/LSTM-Next-Word-Predictor) |
+| 7 | amaravijayalakshmi216-collab/crop-recommendation-system | 48 | Python | 作物推薦學生專案（0 desc） | ⚠️ | [GitHub](https://github.com/amaravijayalakshmi216-collab/crop-recommendation-system) |
+| 8 | ip-arch/NESLab | 47 | C++ | NES 嵌入式系統教材 | ✅ | [GitHub](https://github.com/ip-arch/NESLab) |
+| 9 | **zhiyingzzhou/renewlet** | 45 | TypeScript | 自託管訂閱管理工具（SaaS/AI/雲服務續費追蹤） | ✅✨ | [GitHub](https://github.com/zhiyingzzhou/renewlet) |
+| 10 | LiuMengxuan04/shushu-internship-tool | 36 | Python | 「把岗位变项目，项目变简历，简历变面试」求職工具 | ✅ | [GitHub](https://github.com/LiuMengxuan04/shushu-internship-tool) |
+| 11 | sameerhussain790/EYE-VIGIL-SMART-DRIVE | 33 | Python | 駕駛疲勞偵測學生專案（0 desc） | ⚠️ | [GitHub](https://github.com/sameerhussain790/EYE-VIGIL-SMART-DRIVE) |
+| 12 | Toolsai/notebooklm-studio-Skill | 26 | Python | NotebookLM studio skill（0 desc） | ⚠️ | [GitHub](https://github.com/Toolsai/notebooklm-studio-Skill) |
+| 13 | rajchandran006-ops/RFD-Classification-Machine-Learning-Project | 26 | Jupyter | RFD 分類 ML 學生專案 | ✅ | [GitHub](https://github.com/rajchandran006-ops/RFD-Classification-Machine-Learning-Project) |
+| 14 | ronaldo-avalos/Maya | 24 | Swift | Swift 專案（0 desc） | ⚠️ | [GitHub](https://github.com/ronaldo-avalos/Maya) |
+| 15 | rusty4444/ha-linked-cards | 19 | JavaScript | Home Assistant 共享 dashboard 卡片模板 | ✅ | [GitHub](https://github.com/rusty4444/ha-linked-cards) |
+
+> **05-17 觀察**——**印度學生 ML 專案洪水 + agent 觀測工具**：
+> - **學生 ML 專案佔據 #3-#7、#11、#13**——大量 0-desc 的印度系帳號 ML 課堂作業（Sentiment/Resume/LSTM/crop/lung/RFD）；可能是課程同步推送造成的「群刷」，非真實流行
+> - **#2 vibe-observer ✨**：「Claude Code Tracer & Observer」——觀測 AI coding agent 行為的工具，對應 5/12 PH「AI Agent 分析」、5/18 vibe coding 工程化軸
+> - **#9 renewlet ✨**：自託管訂閱管理——對應 5/17 HN「AI 訂閱是企業炸彈」同主題（管理爆量 SaaS/AI 訂閱）
+
+## 2026-05-16 ⚠️ 信號崩壞日 — GTA/R6 cheat + SeedVault 詐騙佔前四
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~SubamanojJ-2004/gta-5-mod-menu~~ | 485 | N/A | ❌ GTA V mod menu（ESP/aimbot 外掛） | ❌ | [GitHub](https://github.com/SubamanojJ-2004/gta-5-mod-menu) |
+| 2 | ~~RastProxy88/Vivid-R6-Cracked-2026~~ | 326 | C++ | ❌ Rainbow Six Siege 記憶體外掛（ESP/aimbot） | ❌ | [GitHub](https://github.com/RastProxy88/Vivid-R6-Cracked-2026) |
+| 3 | ~~akuma815/WindowsDelta~~ | 92 | N/A | ❌ Roblox 執行器/注入器 | ❌ | [GitHub](https://github.com/akuma815/WindowsDelta) |
+| 4 | ~~hvsk24/SeedVault~~ | 92 | N/A | ❌ 種子短語產生器 + 餘額檢查器——加密錢包盜竊工具 | ❌ | [GitHub](https://github.com/hvsk24/SeedVault) |
+| 5 | **shootthesound/comfyui-mesh** | 33 | Python | 將 FLUX.2 拆到雙 GPU（LAN/同機）NVENC 即時壓縮 | ✅✨ | [GitHub](https://github.com/shootthesound/comfyui-mesh) |
+| 6 | ~~try-to/gopay_account_auto~~ | 25 | N/A | ⚠️ GoPay 錢包自動註冊與紅包領取 | ⚠️ | [GitHub](https://github.com/try-to/gopay_account_auto) |
+| 7 | **mrdoob/reframe** | 24 | JavaScript | three.js 作者 mrdoob 的影片裁框匯出 MP4 webapp | ✅✨ | [GitHub](https://github.com/mrdoob/reframe) |
+| 8 | matthart1983/diskwatch | 22 | Rust | 單機唯讀磁碟診斷 TUI | ✅ | [GitHub](https://github.com/matthart1983/diskwatch) |
+| 9 | zimingttkx/QuantumFlow | 21 | Python | 分散式 LLM 推論排程框架（多後端） | ✅ | [GitHub](https://github.com/zimingttkx/QuantumFlow) |
+| 10 | Code-Leafy/G2rayXCodeLeafy | 19 | Shell | 0 desc（疑刷榜） | ⚠️ | [GitHub](https://github.com/Code-Leafy/G2rayXCodeLeafy) |
+| 11 | Modulus010/thesis-builder | 16 | Python | Markdown 寫論文自動生成合規 Word（NEU thesis compiler） | ✅ | [GitHub](https://github.com/Modulus010/thesis-builder) |
+| 12 | johunsang/tauri-dev-screen-cli | 14 | JavaScript | 檢視/截圖/控制 Tauri 開發畫面的 CLI | ✅ | [GitHub](https://github.com/johunsang/tauri-dev-screen-cli) |
+| 13 | nuraddin-abdusharipov/collabrate-1 | 13 | HTML | 0 desc（同帳號 3 件刷榜） | ⚠️ | [GitHub](https://github.com/nuraddin-abdusharipov/collabrate-1) |
+| 14 | nuraddin-abdusharipov/haresog | 13 | HTML | 0 desc（同帳號刷榜） | ⚠️ | [GitHub](https://github.com/nuraddin-abdusharipov/haresog) |
+| 15 | nuraddin-abdusharipov/Html | 13 | HTML | 0 desc（同帳號刷榜） | ⚠️ | [GitHub](https://github.com/nuraddin-abdusharipov/Html) |
+
+> **05-16 觀察**——**前四全 ❌（遊戲外掛 ×3 + 加密竊取 ×1）**：
+> - **#4 SeedVault ❌ 重大警訊**——「種子短語產生器 + 餘額檢查器」是典型的加密錢包盜竊工具（暴力產生助記詞掃描有餘額的錢包），延續 5/8 TRX-Drainer、5/13 Flash-USDT 的「明顯惡意上榜」問題
+> - **#7 mrdoob/reframe ✨ + #5 comfyui-mesh ✨**：three.js 作者 mrdoob 的小工具 + FLUX.2 雙 GPU 拆分——少數真實開發者信號
+> - **nuraddin-abdusharipov 三件 0-desc 刷榜**——延續「同帳號刷多 repo」系統性 spam
+
+## 2026-05-15 信號改善 — Android testing skills + 多 agent skill 生態
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~CometBisonCrack/LockDown-Browser-Bypass-Tool~~ | 155 | C# | ⚠️ LockDown 考試瀏覽器繞過工具 | ⚠️ | [GitHub](https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool) |
+| 2 | **skydoves/android-testing-skills** | 71 | Shell | Android 測試 skill 集（Compose UI/AndroidX/JVM/ADB）——知名 Android 開發者 skydoves | ✅✨ | [GitHub](https://github.com/skydoves/android-testing-skills) |
+| 3 | husu/loom | 39 | N/A | 寫接口文件的 AI Agent（vibe coding + Mock 工具） | ✅ | [GitHub](https://github.com/husu/loom) |
+| 4 | nkzw-tech/codiff | 31 | TypeScript | 快速本地 diff viewer | ✅ | [GitHub](https://github.com/nkzw-tech/codiff) |
+| 5 | daehyeonmun2021/react-native-skia-lab | 28 | TypeScript | react-native-skia 精美 demo | ✅ | [GitHub](https://github.com/daehyeonmun2021/react-native-skia-lab) |
+| 6 | **basionwang-bot/HermesPet** | 24 | Swift | 「讓 AI 住在 MacBook 瀏海裡」桌面 AI 伴侶 | ✅✨ | [GitHub](https://github.com/basionwang-bot/HermesPet) |
+| 7 | **verge402/verge** | 24 | TypeScript | AI agent 的 HTTP 402 facilitator（Base 鏈，USDC 400ms 結算） | ✅✨ | [GitHub](https://github.com/verge402/verge) |
+| 8 | ynsmroztas/nextssrf | 24 | Python | Next.js CVE-2026-44578 SSRF 掃描器/exploit（資安雙用） | ⚠️ | [GitHub](https://github.com/ynsmroztas/nextssrf) |
+| 9 | paraiconicity/graphis | 23 | OCaml | 檢視 OCaml heap 物件圖並輸出 graphviz | ✅ | [GitHub](https://github.com/paraiconicity/graphis) |
+| 10 | K1XE/InterviewForge | 23 | Python | 本地面試錄音審查報告（Codex skill + CLI） | ✅ | [GitHub](https://github.com/K1XE/InterviewForge) |
+| 11 | richard-kim-79/archora-skills | 21 | N/A | 學術研究 agent skills（Claude Code 等相容） | ✅ | [GitHub](https://github.com/richard-kim-79/archora-skills) |
+| 12 | ~~AmyraxVPN-Main/AmyraxVPN-RELAY~~ | 20 | HTML | ⚠️ VPN relay（繞牆，灰色） | ⚠️ | [GitHub](https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY) |
+| 13 | ~~2951461586/mulerun-pool~~ | 19 | Python | ⚠️ MuleRun Outlook 註冊機 + API key pool proxy | ⚠️ | [GitHub](https://github.com/2951461586/mulerun-pool) |
+| 14 | 5p00kyy/club-5060ti | 18 | Shell | RTX 5060 Ti 本地 LLM recipes/benchmarks | ✅ | [GitHub](https://github.com/5p00kyy/club-5060ti) |
+| 15 | ~~GhostGem-A/Web3-Casino~~ | 17 | TypeScript | ⚠️ Web3 賭場（0 desc） | ⚠️ | [GitHub](https://github.com/GhostGem-A/Web3-Casino) |
+
+> **05-15 觀察**——**Agent skills 合法生態爆發**：
+> - **多 agent skill repo 同日上榜**：#2 android-testing-skills（skydoves）+ #11 archora-skills（學術研究）+ #10 InterviewForge（Codex skill）——對應 [[src-skills-trending-2026-05]] skills.sh 生態 + GitHub 上的「skills 標準化」運動
+> - **#7 verge HTTP 402 ✨**：「agent 的 HTTP 402 付費協定」——對應 5/14 HN「Claude for Small Business」agent 商業化 + x402 微支付主題
+> - **#6 HermesPet ✨**：對應 5/15 raw 中 basionwang「讓 AI 住瀏海」——桌面 AI 伴侶持續是 indie 熱點
+
+## 2026-05-14 ⚠️⚠️ 盜版軟體洪水日 — 10/15 是「XXX-2026-Full-Cracked」
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~S4rdenz/gta-5-mod-menu~~ | 516 | N/A | ❌ GTA V FiveM mod menu（ESP/aimbot 外掛） | ❌ | [GitHub](https://github.com/S4rdenz/gta-5-mod-menu) |
+| 2 | ~~B3hnamR/PsiphonOverMITM~~ | 298 | PowerShell | ⚠️ Psiphon over MITM 繞牆（0 desc） | ⚠️ | [GitHub](https://github.com/B3hnamR/PsiphonOverMITM) |
+| 3 | ~~Juwluuu/Subnautica-2-Release~~ | 61 | C++ | ⚠️ Subnautica 2 盜版分發 | ⚠️ | [GitHub](https://github.com/Juwluuu/Subnautica-2-Release) |
+| 4 | cat9999aaa/thinshell | 59 | N/A | 0 desc（thinshell） | ⚠️ | [GitHub](https://github.com/cat9999aaa/thinshell) |
+| 5 | **Callous-0923/agent-study** | 55 | HTML | 28 章 AI Agent 全棧課程（ReAct/Claude Code 逆向/MCP/A2A/RAG/DSPy） | ✅✨ | [GitHub](https://github.com/Callous-0923/agent-study) |
+| 6 | ~~rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED~~ | 43 | N/A | ❌ Lightroom 盜版 | ❌ | [GitHub](https://github.com/rubybeeguide56/Lightroom-Classic-2026-Full-CRACKED) |
+| 7 | ~~scarletskinksewer89/Affinity-Designer-2-Full-Cracked~~ | 43 | N/A | ❌ Affinity Designer 盜版 | ❌ | [GitHub](https://github.com/scarletskinksewer89/Affinity-Designer-2-Full-Cracked) |
+| 8 | ~~Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime~~ | 43 | N/A | ❌ Microsoft 365 盜版 | ❌ | [GitHub](https://github.com/Feathershustare/Microsoft-365-2026-Full-Cracked-Lifetime) |
+| 9 | ~~femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked~~ | 42 | N/A | ❌ 4K Video Downloader 盜版 | ❌ | [GitHub](https://github.com/femtotaxioscillator/4K-Video-Downloader-2026-Full-Cracked) |
+| 10 | ~~Sharefilabel/Adobe-After-Effects-2026-Full-Cracked~~ | 42 | N/A | ❌ After Effects 盜版 | ❌ | [GitHub](https://github.com/Sharefilabel/Adobe-After-Effects-2026-Full-Cracked) |
+| 11 | ~~Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked~~ | 42 | N/A | ❌ Substance 3D Painter 盜版 | ❌ | [GitHub](https://github.com/Featheryeneedle/Adobe-Substance-3D-Painter-2026-Full-Cracked) |
+| 12 | ~~BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer~~ | 41 | N/A | ❌ Adobe Fresco 盜版 | ❌ | [GitHub](https://github.com/BlendAdministrator/Adobe-Fresco-2026-Full-Cracked-Producer) |
+| 13 | ~~PatronCompress/AutoCAD-2026-Full-Cracked~~ | 40 | N/A | ❌ AutoCAD 盜版 | ❌ | [GitHub](https://github.com/PatronCompress/AutoCAD-2026-Full-Cracked) |
+| 14 | ~~SeniorBattle/CS2-External-Cheat-2026~~ | 38 | N/A | ❌ CS2 外掛（aimbot/ESP/wallhack） | ❌ | [GitHub](https://github.com/SeniorBattle/CS2-External-Cheat-2026) |
+| 15 | ~~labelprosecutorwatt/FL-Studio-2026-Full-Cracked-Edition~~ | 35 | N/A | ❌ FL Studio 盜版 | ❌ | [GitHub](https://github.com/labelprosecutorwatt/FL-Studio-2026-Full-Cracked-Edition) |
+
+> **05-14 觀察**——**史上最嚴重信號崩壞日：15 條中 11 ❌**：
+> - **盜版軟體洪水**：#6-#13 + #15 連續 9 件「XXX-2026-Full-Cracked」（Lightroom/Affinity/MS365/4K Video/After Effects/Substance/Fresco/AutoCAD/FL Studio）——同一波 SEO 詐騙群利用 GitHub Trending 散布惡意軟體（多半含 malware loader）
+> - **唯一合法亮點 #5 agent-study ✨**：28 章 AI Agent 全棧課程，含「Claude Code 逆向」「MCP/A2A 協定」「DSPy」——中文 AI Agent 教育的高品質開源資源
+> - **教訓**：此日凸顯 GitHub Trending 演算法對「Full-Cracked」批量帳號毫無過濾——若以本榜選工具極度危險
+
+## 2026-05-13 ⚠️ 信號崩壞 — polymarket/USDT 詐騙 + invisible_playwright 灰色 + pgGraph ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~GAwesome-Bot/polymarket-trading-bot-v2~~ | 150 | JavaScript | ⚠️ Polymarket 交易 bot（SEO 疊字） | ⚠️ | [GitHub](https://github.com/GAwesome-Bot/polymarket-trading-bot-v2) |
+| 2 | ~~PlaceNL2026/best-of-algorithmic-trading~~ | 148 | TypeScript | ⚠️ 演算法交易 SEO 關鍵字清單 | ⚠️ | [GitHub](https://github.com/PlaceNL2026/best-of-algorithmic-trading) |
+| 3 | **v12-security/pocs** | 109 | C | 「poc it like it's hot」資安 PoC 集 | ✅ | [GitHub](https://github.com/v12-security/pocs) |
+| 4 | HermesLoop/Public | 84 | N/A | 0 desc（Hermes agent 相關？） | ⚠️ | [GitHub](https://github.com/HermesLoop/Public) |
+| 5 | GordenSun/LearningCell | 77 | TypeScript | 細胞 3D 模型展示（延續細胞視覺化軌） | ✅ | [GitHub](https://github.com/GordenSun/LearningCell) |
+| 6 | ~~LeronMex/Flash-USDT-Online-Sender~~ | 56 | N/A | ❌ Flash USDT 假交易詐騙工具 | ❌ | [GitHub](https://github.com/LeronMex/Flash-USDT-Online-Sender) |
+| 7 | ~~feder-cr/invisible_playwright~~ | 48 | Python | ⚠️ 修補 Firefox + Playwright 繞 reCAPTCHA v3/FingerprintPro | ⚠️ | [GitHub](https://github.com/feder-cr/invisible_playwright) |
+| 8 | **simonlin1212/TradingAgents-astock** | 48 | Python | A 股多 agent 投研框架（7 分析師辯論決策） | ✅✨ | [GitHub](https://github.com/simonlin1212/TradingAgents-astock) |
+| 9 | **Evokoa/pgGraph** | 42 | Rust | 為現有 Postgres 資料加上開源圖資料庫能力 | ✅✨ | [GitHub](https://github.com/Evokoa/pgGraph) |
+| 10 | WantongC/journal-adapt-writing-skill | 26 | N/A | 從期刊論文學寫作慣例，逐節改寫稿件的 skill | ✅ | [GitHub](https://github.com/WantongC/journal-adapt-writing-skill) |
+| 11 | Mar7thLover/March7thHoney-Public | 26 | N/A | 0 desc（崩鐵相關？） | ⚠️ | [GitHub](https://github.com/Mar7thLover/March7thHoney-Public) |
+| 12 | NJU-PCALab/L2P | 25 | N/A | L2P：解鎖像素生成潛能（研究） | ✅ | [GitHub](https://github.com/NJU-PCALab/L2P) |
+| 13 | easyeda/online-gencad-viewer | 20 | TypeScript | 線上 GenCAD PCB 檔檢視器 | ✅ | [GitHub](https://github.com/easyeda/online-gencad-viewer) |
+| 14 | SGloria/research-paper-pipeline | 15 | Python | 0 desc（研究論文 pipeline） | ⚠️ | [GitHub](https://github.com/SGloria/research-paper-pipeline) |
+| 15 | JoeYing1019/ODE | 15 | Python | On-Policy Data Evolution 多模態深度搜尋 agent | ✅ | [GitHub](https://github.com/JoeYing1019/ODE) |
+
+> **05-13 觀察**——**詐騙交易 bot + 合法研究/agent 混雜**：
+> - **#6 Flash-USDT ❌**——典型加密「假轉帳」詐騙工具；延續 5/14 SeedVault、5/8 TRX-Drainer 詐騙軸
+> - **#8 TradingAgents-astock ✨ + #9 pgGraph ✨**：A 股多 agent 投研框架 + Postgres 圖資料庫——真正的開發者信號
+> - **#7 invisible_playwright ⚠️**：繞 reCAPTCHA v3 + FingerprintPro——對應 5/9 HN「Google 破壞 reCAPTCHA」，反偵測軍備競賽
+> - **journal/research skills（#10、#15）**——學術寫作 agent skill 持續出現
+
+## 2026-05-12 ⚠️ 信號崩壞 — 遊戲外掛/HWID spoof 高星 + agentara/chrisbanes skills ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~RadianceToadAmend/ARC-Raiders-External-Tool~~ | 521 | C++ | ❌ ARC Raiders 外掛（UE5 記憶體讀取/radar） | ❌ | [GitHub](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool) |
+| 2 | ~~patchfighterway90/cs2-external-overlay~~ | 519 | Python | ❌ CS2 外部 overlay 外掛 | ❌ | [GitHub](https://github.com/patchfighterway90/cs2-external-overlay) |
+| 3 | ~~ywnd1144/Gopay_plus_automatic~~ | 416 | Python | ⚠️ GoPay 自動化（0 desc，疑灰色） | ⚠️ | [GitHub](https://github.com/ywnd1144/Gopay_plus_automatic) |
+| 4 | ~~ltyzen/KMSAutoTool~~ | 140 | C++ | ⚠️ Windows/Office KMS 啟用（盜版授權） | ⚠️ | [GitHub](https://github.com/ltyzen/KMSAutoTool) |
+| 5 | **agentara/skills** | 138 | HTML | AI builder 的原創實用 skills | ✅✨ | [GitHub](https://github.com/agentara/skills) |
+| 6 | TheRunicDev/MaaNTE | 136 | N/A | 《異環》遊戲自動化助手（MAAFramework 驅動） | ✅ | [GitHub](https://github.com/TheRunicDev/MaaNTE) |
+| 7 | ~~sunyouzhi2003/LSFG-Desktop~~ | 128 | C++ | ⚠️ Lossless Scaling 灰色分發 | ⚠️ | [GitHub](https://github.com/sunyouzhi2003/LSFG-Desktop) |
+| 8 | Nick-Baumann/Gobby | 122 | TypeScript | 「GRRRBLEHHH!」（描述不明） | ⚠️ | [GitHub](https://github.com/Nick-Baumann/Gobby) |
+| 9 | ~~mark9-droid/TomodachiPC~~ | 113 | C++ | ⚠️ Tomodachi Life PC（任天堂模擬器灰色） | ⚠️ | [GitHub](https://github.com/mark9-droid/TomodachiPC) |
+| 10 | ~~manojmidhul92-art/Umbrella-HWID~~ | 109 | C++ | ❌ HWID changer 繞 Vanguard/EAC/BattlEye 反作弊 | ❌ | [GitHub](https://github.com/manojmidhul92-art/Umbrella-HWID) |
+| 11 | ~~PHjont/Wallpaper-Engine-Live-wallpaper-engine~~ | 105 | C++ | ⚠️ Wallpaper Engine 灰色分發 | ⚠️ | [GitHub](https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine) |
+| 12 | **chrisbanes/skills** | 100 | N/A | Kotlin/Jetpack Compose/Android 開發 skills（知名 Android 開發者 chrisbanes） | ✅✨ | [GitHub](https://github.com/chrisbanes/skills) |
+| 13 | ~~yaassin12/DeepSeek-V4-Pro-App~~ | 87 | C++ | ⚠️ 「DeepSeek V4 Pro」假桌面應用（疑冒名） | ⚠️ | [GitHub](https://github.com/yaassin12/DeepSeek-V4-Pro-App) |
+| 14 | ZJunCher/xiaoyan-ai-dev-assistant | 62 | Java | RAG 混合檢索 + 多輪記憶 AI 研發助手 | ✅ | [GitHub](https://github.com/ZJunCher/xiaoyan-ai-dev-assistant) |
+| 15 | LeromNeri/NexonD-Here | 52 | N/A | 0 desc | ⚠️ | [GitHub](https://github.com/LeromNeri/NexonD-Here) |
+
+> **05-12 觀察**——**遊戲外掛/HWID/盜版授權高星 + Android skills 雙星**：
+> - **#5 agentara/skills + #12 chrisbanes/skills ✨**：知名 Android 開發者 chrisbanes 加入 skills 生態——對應 5/15 skydoves android-testing-skills，「真實開發者建 skills」對比 skills.sh 刷榜
+> - **#10 Umbrella-HWID ❌**：繞反作弊的 HWID spoofer；#1#2 遊戲外掛——5 月遊戲外掛持續佔高星
+> - **#13 DeepSeek-V4-Pro-App ⚠️**：冒「DeepSeek V4」名的假桌面應用——LLM 品牌被冒名打包風險
+
+## 2026-05-11 ⚠️ 信號崩壞 — polymarket bot 三帳號同名刷榜 + Twinkle Hub/skill-review ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~Longbridges/polymarket-kalshi-arbitrage-bot~~ | 151 | TypeScript | ⚠️ Polymarket 套利 bot（SEO 疊字 15 次） | ⚠️ | [GitHub](https://github.com/Longbridges/polymarket-kalshi-arbitrage-bot) |
+| 2 | ~~sanzoI-tech/polymarket-kalshi-arbitrage-bot~~ | 150 | TypeScript | ⚠️ 第二帳號同名 polymarket bot | ⚠️ | [GitHub](https://github.com/sanzoI-tech/polymarket-kalshi-arbitrage-bot) |
+| 3 | **ai-twinkle/Hub** | 106 | N/A | Twinkle Hub——台灣 AI（hub.twinkleai.tw）社群回饋 | ✅✨ | [GitHub](https://github.com/ai-twinkle/Hub) |
+| 4 | ~~Drakkar-Softwares/polymarket-kalshi-arbitrage-bot~~ | 81 | TypeScript | ⚠️ 第三帳號同名 polymarket bot | ⚠️ | [GitHub](https://github.com/Drakkar-Softwares/polymarket-kalshi-arbitrage-bot) |
+| 5 | hero8152/Infinite-Canvas | 64 | HTML | comfyui/API/modelscope 呼叫畫布 | ✅ | [GitHub](https://github.com/hero8152/Infinite-Canvas) |
+| 6 | **simonlin1212/a-stock-data** | 50 | N/A | A 股全棧資料工具包（6 層架構/15 端點/AI Skill） | ✅✨ | [GitHub](https://github.com/simonlin1212/a-stock-data) |
+| 7 | norika1207-lab/alfred-butler | 35 | Python | 0 desc | ⚠️ | [GitHub](https://github.com/norika1207-lab/alfred-butler) |
+| 8 | ~~RadiusTanner94/CapCut-Pro-2026-Full-Cracked-Version~~ | 32 | N/A | ❌ CapCut Pro 盜版 | ❌ | [GitHub](https://github.com/RadiusTanner94/CapCut-Pro-2026-Full-Cracked-Version) |
+| 9 | chris0214/Blender-MMD-Physics-Addons | 19 | Python | Blender 4.2+ MMD 即時物理模擬插件 | ✅ | [GitHub](https://github.com/chris0214/Blender-MMD-Physics-Addons) |
+| 10 | 1TDSPG-26/front-aula5-1sem | 18 | HTML | 0 desc（巴西課程作業） | ⚠️ | [GitHub](https://github.com/1TDSPG-26/front-aula5-1sem) |
+| 11 | **Liu-PenPen/skill-review** | 18 | JavaScript | 給 Skill 做 code review 的 Skill | ✅✨ | [GitHub](https://github.com/Liu-PenPen/skill-review) |
+| 12 | ddeverill/SteamlessController | 16 | C++ | 在非 Steam 遊戲支援 2026 Steam Controller | ✅ | [GitHub](https://github.com/ddeverill/SteamlessController) |
+| 13 | **pydantic/httpx2** | 15 | Python | pydantic 的下一代 Python HTTP client | ✅✨ | [GitHub](https://github.com/pydantic/httpx2) |
+| 14 | Shanyin-ai/Story-to-game | 15 | HTML | 將小說/劇本轉成分支敘事遊戲 JSON 的 AI skill | ✅ | [GitHub](https://github.com/Shanyin-ai/Story-to-game) |
+| 15 | ~~stablemarkk/hash256_miner~~ | 15 | Cuda | ⚠️ HASH256 GPU miner（加密挖礦） | ⚠️ | [GitHub](https://github.com/stablemarkk/hash256_miner) |
+
+> **05-11 觀察**——**polymarket bot 同名三帳號刷榜 + 重要合法信號**：
+> - **polymarket-kalshi-arbitrage-bot 三帳號同名（#1#2#4）**——SEO 疊字描述 15 次，明顯同一群刷榜；延續 5/7 的 polymarket bot 刷榜
+> - **#13 pydantic/httpx2 ✨**：pydantic 團隊推下一代 HTTP client（挑戰 httpx）——重要 Python 生態事件
+> - **#11 skill-review + #6 a-stock-data ✨**：「給 Skill 做 review 的 Skill」+ A 股資料 AI Skill——skills 生態的元工具化
+> - **#3 Twinkle Hub ✨**：台灣 AI 團隊 Twinkle 的社群中心——本地 AI 生態信號
+
+## 2026-05-10 ⚠️ 信號崩壞 — DarkGPT/Roblox 執行器高星 + 3D 細胞視覺化 ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~thakur-works/DarkGPT~~ | 531 | N/A | ⚠️「Darkgpt mod free」（可疑） | ⚠️ | [GitHub](https://github.com/thakur-works/DarkGPT) |
+| 2 | ~~thakur-works/Velocity-Executor~~ | 528 | N/A | ❌ Roblox script executor（同帳號第二件） | ❌ | [GitHub](https://github.com/thakur-works/Velocity-Executor) |
+| 3 | **huangserva/3DCellForge** | 245 | JavaScript | AI 互動式 3D 細胞生成探索工作室 | ✅✨ | [GitHub](https://github.com/huangserva/3DCellForge) |
+| 4 | ~~iampedii/WhiteDNS~~ | 164 | Kotlin | ⚠️ Android DNS tunneling（繞牆，灰色） | ⚠️ | [GitHub](https://github.com/iampedii/WhiteDNS) |
+| 5 | ~~Rhythmplocutter/printer-offline-fix~~ | 122 | PowerShell | ⚠️ SEO spam（「printer offline」疊字） | ⚠️ | [GitHub](https://github.com/Rhythmplocutter/printer-offline-fix) |
+| 6 | **cclank/cell-architecture-studio** | 75 | TypeScript | React + Three.js 互動 3D 細胞結構藝廊 | ✅✨ | [GitHub](https://github.com/cclank/cell-architecture-studio) |
+| 7 | ~~hoaibaone/OP-Auto-Clicker~~ | 56 | C# | ⚠️ 自動點擊器（遊戲外掛灰色，SEO 疊字） | ⚠️ | [GitHub](https://github.com/hoaibaone/OP-Auto-Clicker) |
+| 8 | capitalparser/notebooklm-wiki-pipeline | 38 | N/A | 0 desc（NotebookLM wiki pipeline） | ⚠️ | [GitHub](https://github.com/capitalparser/notebooklm-wiki-pipeline) |
+| 9 | virgo777/buddyme | 32 | Python | 輕量 agent 框架（人格演化/三層 skill/心跳記憶） | ✅ | [GitHub](https://github.com/virgo777/buddyme) |
+| 10 | Octoday-Hub/Embodied-Al | 23 | N/A | 「具身智能知識索引與產業地圖」 | ✅ | [GitHub](https://github.com/Octoday-Hub/Embodied-Al) |
+| 11 | konbakuyomu/smartsearch | 23 | Python | 0 desc | ⚠️ | [GitHub](https://github.com/konbakuyomu/smartsearch) |
+| 12 | 3440869867/image-multi-asset-extractor | 19 | Python | 自動分割多物件素材表為透明 PNG | ✅ | [GitHub](https://github.com/3440869867/image-multi-asset-extractor) |
+| 13 | ~~admin8800/s-ui~~ | 16 | Vue | ⚠️ s-ui（代理面板，繞牆灰色） | ⚠️ | [GitHub](https://github.com/admin8800/s-ui) |
+| 14 | ~~nikzad-avasam/-YT2~~ | 16 | N/A | ⚠️ YouTube 下載器 v2（0 真實 desc） | ⚠️ | [GitHub](https://github.com/nikzad-avasam/-YT2) |
+| 15 | zhengkid/AutoTTS | 15 | Python | 「LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling」研究 | ✅ | [GitHub](https://github.com/zhengkid/AutoTTS) |
+
+> **05-10 觀察**——**3D 細胞視覺化雙件 + DarkGPT/執行器高星**：
+> - **#3 3DCellForge + #6 cell-architecture-studio ✨**：兩件 3D 細胞視覺化（React/Three.js）同日上榜——後續 5/13 LearningCell 延續，「生物視覺化」短期軌跡
+> - **#1 DarkGPT + #2 Velocity-Executor**：thakur-works 同帳號高星（531/528），DarkGPT「mod free」可疑 + Roblox 執行器——灰色高星佔據前二
+> - **#9 buddyme + #10 Embodied-AI**：agent 框架 + 具身智能索引——AI agent 生態持續
+
+## 2026-05-09 ⚠️ 信號崩壞 — cheatvalorantfree/gian-ueii 多帳號 23 星刷榜 + minWM/mercury-skills ✨
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | **nickvasilescu/hermes-desktop-os1** | 122 | Swift | Hermes Agent 的原生 macOS 工作區（Orgo 雲 + SSH） | ✅✨ | [GitHub](https://github.com/nickvasilescu/hermes-desktop-os1) |
+| 2 | GALIAIS/k_i_r_o-register | 87 | Python | 0 desc | ⚠️ | [GitHub](https://github.com/GALIAIS/k_i_r_o-register) |
+| 3 | killervillsy/SessionToJson | 39 | JavaScript | 0 desc | ⚠️ | [GitHub](https://github.com/killervillsy/SessionToJson) |
+| 4 | wangrujun2016/auto-resume | 38 | Python | 0 desc（自動履歷） | ⚠️ | [GitHub](https://github.com/wangrujun2016/auto-resume) |
+| 5 | **cosmicstack-labs/mercury-agent-skills** | 33 | N/A | Mercury/OpenClaw/Hermes Agent 可重用 skill 註冊表 | ✅✨ | [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills) |
+| 6 | **MusiCode1/obsidian-web** | 31 | JavaScript | 在標準瀏覽器跑 Obsidian 桌面 app（無需 Electron） | ✅✨ | [GitHub](https://github.com/MusiCode1/obsidian-web) |
+| 7 | **shengshu-ai/minWM** | 27 | N/A | 極簡優雅的即時互動 world model 框架 | ✅✨ | [GitHub](https://github.com/shengshu-ai/minWM) |
+| 8 | ~~cheatvalorantfree/swabcb...~~ | 23 | N/A | ⚠️ cheatvalorantfree 帳號刷榜（亂碼 repo 名） | ⚠️ | [GitHub](https://github.com/cheatvalorantfree) |
+| 9 | saileaxh/iida-mcp | 23 | Python | IDA-MCP 工具（逆向工程 MCP，kernel access） | ✅ | [GitHub](https://github.com/saileaxh/iida-mcp) |
+| 10 | gian-ueii/ppppp | 23 | N/A | ⚠️ gian-ueii 帳號 0 desc 刷榜 | ⚠️ | [GitHub](https://github.com/gian-ueii/ppppp) |
+| 11 | gian-ueii/electric_counterpoint | 23 | N/A | ⚠️ 同帳號刷榜 | ⚠️ | [GitHub](https://github.com/gian-ueii/electric_counterpoint) |
+| 12 | InventoXtar/naemtnu | 23 | N/A | ⚠️ 0 desc 刷榜 | ⚠️ | [GitHub](https://github.com/InventoXtar/naemtnu) |
+| 13 | yayuvinagrawal-cloud/python | 23 | N/A | ⚠️ 0 desc 刷榜 | ⚠️ | [GitHub](https://github.com/yayuvinagrawal-cloud/python) |
+| 14 | ~~cheatvalorantfree/Shutdown~~ | 23 | N/A | ⚠️ cheatvalorantfree 同帳號第二件 | ⚠️ | [GitHub](https://github.com/cheatvalorantfree/Shutdown) |
+| 15 | Poyeski/gitmap-v16 | 23 | N/A | 0 desc | ⚠️ | [GitHub](https://github.com/Poyeski/gitmap-v16) |
+
+> **05-09 觀察**——**Hermes/Mercury agent 生態 + world model ✨**：
+> - **#1 hermes-desktop-os1 + #5 mercury-agent-skills ✨**：Hermes/Mercury/OpenClaw agent 生態的桌面工作區與 skill 註冊表——對應 5 月 agent 工具鏈細分主軸
+> - **#7 minWM ✨**：極簡 world model 框架——對應 5/16 HN SANA-WM 2.6B world model；「互動式 world model」研究熱點
+> - **#6 obsidian-web ✨**：瀏覽器跑 Obsidian——對應 5/12 HN「Obsidian Plugins 未來」+ 5/18 Files.md
+> - **23 星刷榜群**：cheatvalorantfree ×2、gian-ueii ×2、InventoXtar、yayuvinagrawal——延續「同帳號 23 星齊刷」系統性 spam
 
 ## 2026-05-08 ⚠️ 信號崩壞日（6 日中第 4 次）— Roblox/Kahoot/TRX drainer 灰色 + nacateeeeee/HristoIgnev/joeyleal283 三帳號 0 desc 刷榜
 

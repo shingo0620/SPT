@@ -1,15 +1,182 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-05
 type: source
-sources: [reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
+sources: [reddit-til-2026-05-18.md, reddit-til-2026-05-17.md, reddit-til-2026-05-16.md, reddit-til-2026-05-15.md, reddit-til-2026-05-14.md, reddit-til-2026-05-13.md, reddit-til-2026-05-12.md, reddit-til-2026-05-11.md, reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-11
+updated: 2026-05-19
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 5 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-18
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | Margot Robbie 在《華爾街之狼》試鏡時，臨場掌摑 Leonardo DiCaprio 震驚 Scorsese——兩男隨後爆笑稱讚 | 28,868 | ✅ | [Mashable](https://mashable.com/article/margot-robbie-slap-audition) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfuca8/) |
+| 2 | 美洲人參每磅 $300-$500，盜採者甘冒坐牢風險於 Appalachia 山區竊根 | 13,684 | ✅ | [Smithsonian](https://www.smithsonianmag.com/science-nature/fight-against-ginseng-poaching-great-smoky-mountains-180958858/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfywzu/) |
+| 3 | Prince 是《第五元素》Ruby Rhod 原定人選，因 Gaultier 戲服「太娘」推辭，由 Chris Tucker 接演 | 13,467 | ✅ | [Dazed Digital](https://www.dazeddigital.com/artsandculture/article/35860/1/how-prince-almost-ended-up-in-the-fifth-element) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tg7jis/) |
+| 4 | Coca-Cola 1990 年代「MagiCans」藏現金獎，為防猜重量灌入氯化異味液——有人誤喝後 3 週終止 | 9,527 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/MagiCan) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tgd730/) |
+| 5 | Peter Mayhew（Chewbacca）拍《絕地大反攻》Endor 森林戲時，需亮色背心人員陪同以免被獵人誤認 Bigfoot | 9,485 | ✅ | [WYTV](https://www.wytv.com/news/nugget-of-knowledge-chewbacca-mistaken-for-bigfoot/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tg4qxr/) |
+| 6 | 2001 年 Sharon Stone 安排前夫私訪 LA Zoo 科莫多巨蜥籠，蜥咬其腳企圖吞食，腳掌上半被啃掉 | 9,236 | ✅ | [Smithsonian](https://www.smithsonianmag.com/science-nature/most-infamous-komodo-dragon-encounters-this-century-fatal-attack-8-year-old-boy-zookeeper-bitten-by-battling-animal-5831048/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tgfv6p/) |
+| 7 | 1980-08-19 Saudia Flight 163 起飛 7 分鐘後機艙起火，雖安全降落 Riyadh 但未疏散致 301 人全亡——L-1011 Tristar 最慘事故 | 4,870 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Saudia_Flight_163) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfvcvy/) |
+| 8 | 1997 Georgia 副大使 Makharadze 醉駕撞死 16 歲少女，Georgia 主動放棄外交豁免，他在 North Carolina 服刑 3 年 | 3,680 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Gueorgui_Makharadze) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfvk0f/) |
+| 9 | 《終極追殺令》（1994）中 Gary Oldman 對手下嘶吼「EVERYONE!」的小演員是紐約消防員 Keith Glascoe——7 年後 911 殉職遺體未尋獲 | 2,525 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Keith_A._Glascoe) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfwpx5/) |
+| 10 | LA「Homeboy Industries」是運作 36 年的幫派復健中心，提供就業、住房、諮商、刺青清除 | 2,489 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Homeboy_Industries) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tga4yh/) |
+| 11 | 2005 Nintendo Power 評 Superman 64 為其平台史上最爛遊戲，附註「為何離棄我？」 | 2,466 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/List_of_video_games_notable_for_negative_reception) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tg4ust/) |
+| 12 | 思覺失調症患者吸菸率異常高，研究嘗試開發模擬尼古丁效應的治療 | 2,318 | ✅ | [BrainFacts](https://www.brainfacts.org/archives/2008/smoking-and-schizophrenia) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tgdjmc/) |
+| 13 | 部分甲殼類（Facetotecta）100+ 年研究只發現幼蟲形態、未見成體；已知近親是 Barnacles | 2,053 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Facetotecta) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tggbyq/) |
+| 14 | 藝術家 Thomas Dambo 用回收木造巨型 troll 雕塑，藏匿全球森林如尋寶遊戲 | 2,009 | ✅ | [Cheekwood](https://cheekwood.org/trolls-the-playful-voices-of-nature/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tftjb3/) |
+| 15 | 古埃及乘法演算（倍增-加法）仍在現代 CPU 中常被使用 | 1,827 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tg1z6p/) |
+
+## 2026-05-17
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 一位男子看《古董鑑定秀》發現自家衣櫃多年的 Navajo 毯與 $300K-500K 估價毯相似，鑑定後以 $1.5M 拍出 | 28,123 | ✅ | [CNBC](https://www.cnbc.com/2017/11/20/krytzer-sold-navajo-blanket-thought-to-be-worthless-for-1-point-5-million.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf96mm/) |
+| 2 | Caligula 本名 Gaius，2-3 歲穿母製小軍裝隨父出征，士兵暱稱「Caligula」（小靴子）——他長大後反而討厭此名 | 16,247 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Caligula) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf67af/) |
+| 3 | 馬爾地夫成全球首個世代禁菸國，禁止 2007-01-01 後出生者終身購菸；其電子菸已早全面禁止 | 13,732 | ✅ | [NBC News](https://www.nbcnews.com/world/asia/maldives-becomes-first-country-impose-generational-ban-smoking-rcna241766) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf3m0r/) |
+| 4 | 史達林格勒戰役中，藏稻草下的德軍 Panzer 38(t) 戰車被田鼠咬斷電線大量失效，破壞蘇軍包圍前的關鍵反擊 | 9,353 | ✅ | [RBTH](https://www.rbth.com/history/333340-how-mice-helped-red-army) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf0ouz/) |
+| 5 | 牙齒擁擠與下顎縮小是現代軟食造成的「生活方式疾病」，非單純基因 | 7,003 | ✅ | [Stanford News](https://news.stanford.edu/stories/2020/07/toll-shrinking-jaws-human-health) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf2c76/) |
+| 6 | Spielberg 唯一在片場落淚的場景是《林肯》（2012）中 Day-Lewis 飾林肯向內閣演說推動第 13 修正案的 4 分鐘獨白 | 6,191 | ✅ | [SlashFilm](https://www.slashfilm.com/2122978/steven-spielberg-cried-lincoln-speech-scene-sxsw/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf48uz/) |
+| 7 | 1513 教廷選舉 Cardinal Serra 因被視為「最不可能」而獲多票，差 4 票就當選教宗——選舉人想隱藏真實選擇而誤票 | 5,765 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/1513_conclave) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf6b8w/) |
+| 8 | Plura 洞潛水災難——兩潛水員死亡，其友違反當局警告秘密回收遺體 | 3,417 | ✅ | [BBC](https://www.bbc.co.uk/news/magazine-36097300) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfm6au/) |
+| 9 | 魚雷（torpedo，武器）是以魚雷魟（torpedo ray，魚）命名，不是反過來 | 2,791 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Torpedo#Etymology) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf0e9g/) |
+| 10 | 雄性 serotine 蝙蝠生殖器過大無法插入雌體，改靠擠壓生殖器繁殖——哺乳動物中極罕見 | 1,603 | ✅ | [NHM](https://www.nhm.ac.uk/discover/news/2023/november/serotine-bats-have-sex-unlike-any-other-mammal.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf5wa0/) |
+| 11 | 美國 St. Louis 市 1877 脫離 St. Louis 郡獨立成市，面積限 66 平方哩無法擴張，人口由 1950 峰值 856K 降至 2025 的 278K | 1,444 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/St._Louis) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf599f/) |
+| 12 | Sydney Parramatta Road 沿線 100+ 廢棄店面，當地人形容為「靜脈曲張」「壞日的貝魯特」 | 1,030 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Parramatta_Road) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfdogk/) |
+| 13 | Kate Saunders 為英國首位使用彈射椅的女性（脫困後骨折），重傷帶 28% 燒傷——男用椅設計使較輕女性承受更大加速度 | 1,023 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Cambridge_University_Air_Squadron#Notable_members) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tfnpp1/) |
+| 14 | 印尼火山 Kawah Ijen 因 1,100°C 燃硫於夜間散發明亮藍焰 | 858 | ✅ | [Smithsonian](https://www.smithsonianmag.com/science-nature/why-does-indonesian-volcano-burn-bright-blue-180949576/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tf8l9b/) |
+| 15 | 棋盤遊戲「Risk」的發明人 Albert Lamorisse 同年導演短片《紅氣球》並獲奧斯卡 | 813 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Albert_Lamorisse) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tevf42/) |
+
+## 2026-05-16
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 馬皇后（朱元璋之妻）年輕貧困為餵丈夫偷餅藏胸前被燙傷；丈夫後成皇帝深愛她至終 | 29,497 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Empress_Ma_(Hongwu)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te8rf3/) |
+| 2 | 1794 法國只有 11% 人口流利法語，多數人講 Occitan、Breton、Alsatian 等地方語言；後法語透過強力同化才成主流 | 18,949 | ⚠️ | [AF Berkeley](https://www.afberkeley.org/en/french-wasnt-always-the-language-of-france/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdzi7k/) |
+| 3 | 希伯來語是唯一成功的大規模語言復興案例（2-4 世紀後幾乎消失，19 世紀末重生） | 18,564 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te6uj8/) |
+| 4 | 動畫《涼宮春日的憂鬱》「Endless Eight」連 8 集陷入相同時間循環，每集從零重新製作 | 15,308 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Melancholy_of_Haruhi_Suzumiya_episodes) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te4vi1/) |
+| 5 | 1993 起斯里蘭卡運動隊海外失蹤 47 次，2004 年「23 人手球國家隊」於德國消失——後查斯里蘭卡根本沒有手球協會 | 11,009 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Sri_Lankan_sporting_disappearances) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te8735/) |
+| 6 | 大金字塔在托勒密埃及（300-30 BCE）時期已 2,500 歲，當時人積極研究、紀錄、修復這些古蹟，等於在田野考古學成形前 2 千年實踐考古 | 9,711 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Egyptology) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te0vky/) |
+| 7 | Band-Aid 起源於 1920 J&J 員工 Earle Dickson 為手笨太太 Josephine 自製繃帶——他將紗布綁在外科膠帶上，公司接手商品化 | 8,329 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Band-Aid) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te33k2/) |
+| 8 | Jared Keeso 為 Shoresy 角色手術拔牙，扮演老牌冰球員 | 5,867 | ✅ | [ScreenRant](https://screenrant.com/shoresy-season-4-jared-keeso-tooth-removal-reverse-explainer/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1teig9c/) |
+| 9 | 2002 藝術驚悚片《不可逆轉》前 30 分鐘背景加入 27 Hz 極低頻聲音，刻意誘發觀眾噁心焦慮 | 4,128 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Irr%C3%A9versible) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te008s/) |
+| 10 | Truman 卸任後深度參與自己的總統圖書館，每週 5-6 天工作，親自訓練員工、為來訪學生記者會、接電話導覽 | 2,588 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Harry_S._Truman_Presidential_Library_and_Museum) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tervw1/) |
+| 11 | Beatles 最後一場體育場演唱會（Candlestick Park）有 7,000 張票未售、主辦虧損；他們只演了 33 分鐘 | 1,828 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/The_Beatles%27_1966_US_tour#Final_concert) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1teqnyo/) |
+| 12 | 最大電腦晶片「Wafer Scale Engine 3」——21.5cm 見方單晶片，含 4 兆個電晶體、90 萬核心 | 1,541 | ✅ | [IEEE Spectrum](https://spectrum.ieee.org/cerebras-chip-cs3) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te32f7/) |
+| 13 | 1501 樞機 Cesare Borgia 據傳於梵蒂岡辦「50 名娼妓」狂歡（栗子宴），其父教宗 Alexander VI 親自參與 | 1,516 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Banquet_of_Chestnuts) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te2fql/) |
+| 14 | 法王亨利四世（「賢君」）雖名仁君，仍遭至少 12 次刺殺；新教徒出身改信天主教激怒兩派，最終被天主教徒刺死 | 1,445 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Henry_IV_of_France#Assassination) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te28q7/) |
+| 15 | 副總統 George Clinton 1812 死後遺產極複雜，國會 1813、1814 分別通過兩部法案才解決 | 1,180 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/George_Clinton_(vice_president)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1te3tts/) |
+
+> **查核備註 #2**：「1794 年 11% 流利法語」的精確數字源自 Henri Grégoire 同期調查，學界對統計方法有爭議，但「多數人不流利」屬實。
+> **查核備註 #13**：「Banquet of Chestnuts」事件僅出自教宗禮儀官 Burchard 日記，當代史家未交叉證實，仍有爭議。
+
+## 2026-05-15
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 3 個月大幼兒若與狗同住，食物過敏風險約低 90%（PubMed 2019 研究） | 23,184 | ⚠️ | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31077604/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tczvpi/) |
+| 2 | 中國消費全球 46% 香菸，年達 2.4 兆支 | 18,410 | ✅ | [The Examination](https://www.theexamination.org/articles/how-china-became-addicted-to-its-tobacco-monopoly) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdjgl7/) |
+| 3 | 「Khaleesi」（《冰與火之歌》龍后稱號）自 2014 起進入美國新生兒名 Top 1,000；劇終後熱度下降，仍每年約 120 名女嬰命此名 | 14,202 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Khaleesi_(given_name)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td0gxu/) |
+| 4 | Groupon 拒絕 Google 60 億美元收購、選擇 IPO 後市值 178 億美元——至今市值蒸發 95%+ | 10,859 | ✅ | [TechCrunch](https://techcrunch.com/2023/03/31/groupon-which-has-lost-99-4-of-its-value-since-its-ipo-names-a-new-ceo-based-in-czech-republic/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdts9u/) |
+| 5 | 史上只有 1 人從海平面徒步登頂 Everest——澳洲登山者 Tim Macartney-Snape | 9,598 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Tim_Macartney-Snape) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td0opf/) |
+| 6 | 2010 Flash Crash 罪魁是 31 歲自閉症交易員 Navinder Sarao，在父母家臥室操作賺 $70M，零牢獄但被詐子騙光 | 8,645 | ✅ | [Guardian](https://www.theguardian.com/business/2020/jan/28/navinder-sarao-flash-crash-trader-sentencing) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td7us9/) |
+| 7 | Truman 在 Disneyland 拒坐 Dumbo 飛行象——因大象是共和黨象徵 | 8,427 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Dumbo_the_Flying_Elephant) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td2wk1/) |
+| 8 | 跳傘主傘失敗率約 1/1,000；幾乎所有部署袋內有 AAD 自動部署備傘——2024 年死亡率僅 0.00023% | 5,540 | ✅ | [Skydive New England](https://www.skydivenewengland.com/blog/chances-of-a-parachute-failing/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdnnjd/) |
+| 9 | 大學生 1995 認出新澤西海灘骷髏屬 1844 沉船船員（透過記錄與遺物比對） | 2,978 | ✅ | [NPR](https://www.npr.org/2025/05/23/nx-s1-5409062/sea-captain-new-jersey-remains-19th-century-identified) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td0xnx/) |
+| 10 | San Nicolas Island 的「孤女」獨居 18 年（1835-1853），最後一位 Nicoleño 族人與該語言使用者 | 2,889 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Juana_Maria) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tds97s/) |
+| 11 | 杏仁奶最早出現於 13 世紀；1755 Samuel Johnson 字典已列為「milk」次義 | 2,372 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Almond_milk) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdbvgb/) |
+| 12 | 瑞士禁止活煮龍蝦——動物福利法的明確規範 | 2,368 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lobster) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tdn4vk/) |
+| 13 | FAA 1973 因 Varig Flight 820 廁所菸蒂引發機艙煙霧致迫降事故，遂禁機上廁所吸菸 | 2,056 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Varig_Flight_820) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td4hwn/) |
+| 14 | 毛毛蟲在繭中身體大部分組織液化後重組為蝴蝶 | 1,863 | ✅ | [Missoula Butterfly](https://www.missoulabutterflyhouse.org/notes-from-the-lab-caterpillar-goo/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td3h8v/) |
+| 15 | 1971 Alex Trebek 原為 Hockey Night in Canada 主持人首選——電視台老闆否決，理由「我們不請有鬍子的」 | 1,291 | ✅ | [The Hockey News](https://thehockeynews.com/news/news/how-alex-trebek-almost-became-host-of-hockey-night-in-canada) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1td4uya/) |
+
+> **查核備註 #1**：90% 數字源自 2019 北美 PAFS 大型隊列研究，但「90%」是「相對風險降低」非絕對；不同統計方法數字差異大。
+
+## 2026-05-14
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 鴕鳥場常困於難讓公鴕鳥繁殖——牠們覺得人類照護者比母鴕鳥更有吸引力 | 24,434 | ✅ | [Gizmodo](https://gizmodo.com/that-ostrich-over-there-it-is-totally-into-you-5876033) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc4you/) |
+| 2 | 深水地平線漏油事件後，BP 兩員工被起訴 11 項過失殺人罪——後被撤銷 | 5,543 | ✅ | [Sky News](https://news.sky.com/story/bp-manslaughter-charges-over-oil-disaster-10463865) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcaunf/) |
+| 3 | 貓嚐不出甜味——牠們缺乏功能性甜味受體基因 | 5,086 | ✅ | [Cornell Vet](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/cornell-veterinary-experts-address-feline-nutrition) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tckf6i/) |
+| 4 | Emily 牛逃出屠宰場、在當地居民協助下躲避追捕，成動物權與素食代言「明星」 | 4,857 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Emily_(cow)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc3k61/) |
+| 5 | 柬埔寨王子 Norodom Chantaraingsey 拒向赤柬投降也不流亡，於對抗中失蹤 | 3,654 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Norodom_Chantaraingsey) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tci2vz/) |
+| 6 | 德意志帝國進入一戰時無明確終戰目標——原視為防禦戰，西線早期勝利後才形成 Septemberprogramm 併吞野心 | 3,304 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/War_aims_of_the_First_World_War#German_empire) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcvatz/) |
+| 7 | Judit Polgár 童年最愛 King's Gambit 並以此成為 GM，她終身堅持 e4 開局——「由對手決定接下來如何」 | 2,767 | ✅ | [032c Magazine](https://magazine.032c.com/magazine/chess-grandmaster-judit-polgar) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tch8i7/) |
+| 8 | Nooksack Giant 樹高 465 ft（142 m），是最高有可靠紀錄的樹 | 2,651 | ⚠️ | [Wikipedia](https://en.wikipedia.org/wiki/Nooksack_Giant) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc9eg0/) |
+| 9 | 挪威國慶日以兒童遊行、樂隊、大量冰淇淋慶祝；皇家成員從 Oslo 王宮陽台向學童揮手——而非軍事閱兵 | 2,173 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Constitution_Day_(Norway)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcv3i1/) |
+| 10 | 義和拳之亂（1899-1901）拳民相信透過儀式可獲超自然刀槍不入——「扶清滅洋」口號的核心信念 | 1,794 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Siege_of_the_International_Legations#Boxer_movement) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcrmws/) |
+| 11 | 2018 前 NFL 球員 Rae Carruth（曾雇凶謀殺其孕妻）寫 15 頁信申請對其曾試圖殺害的兒子撫養權 | 1,563 | ✅ | [WFAE](https://www.wfae.org/local-news/2018-02-19/after-nearly-20-years-rae-carruth-speaks-out-in-letter) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc8iav/) |
+| 12 | Project Graham 是維多利亞州 TAC 製作的仿真模型，描繪人若進化能承受車禍——象徵人體在車禍中脆弱 | 1,336 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Project_Graham) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcqyt1/) |
+| 13 | 全球第三大辦公樓位於 Michigan Auburn Hills（Chrysler 總部），僅次 Pentagon 與印度 Surat 鑽石交易所 | 1,288 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/List_of_largest_office_buildings) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tcku8k/) |
+| 14 | 1893 Cleveland 總統在遊艇上秘密手術切除口腔腫瘤——以免引發經濟恐慌時公眾再加恐慌 | 1,080 | ✅ | [Arizona Lib](https://lib.arizona.edu/hsl/materials/collections/secret-illness/cleveland) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc4zyx/) |
+| 15 | 「獵鷹性帽」——馴養鳥對照護者銘印，無法正常交配，研究員製專用帽讓鳥輕鬆交配並採精以助繁殖 | 1,033 | ✅ | [Earth Touch News](https://www.earthtouchnews.com/wtf/wtf/behold-the-falcon-sex-hat-a-species-saving-hump-helmet/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tc7x37/) |
+
+> **查核備註 #8**：Nooksack Giant 紀錄存在但「有可靠紀錄最高」一詞有爭議——19 世紀澳洲尤加利樹有 130-150m 報告，但缺乏官方測量；Nooksack 是西部地區最有檔案的紀錄。
+
+## 2026-05-13
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 英國 20 世紀法律下最年輕被處決女性是 22 歲 Irma Grese「Auschwitz 的鬣狗」；她未滿 18 歲就志願擔任集中營警衛被拒、年滿後再申請 | 15,243 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Irma_Grese) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tba9jf/) |
+| 2 | 消防員 Donald Herbert 火災受困昏迷 1 年後甦醒卻不認得家人，再陷入 9 年最低意識狀態；再度甦醒時，第一句問「妻子在哪？」 | 14,076 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Donald_Herbert_(firefighter)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tb6ed5/) |
+| 3 | 1841 自由黑人 Solomon Northup 在 DC 被綁架賣到 Louisiana 為奴 12 年；獲釋後綁架者被起訴但 DC 法律不允黑人作證告白人，被判無罪 | 9,118 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Northup) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbiqcy/) |
+| 4 | 加拿大首相 Wilfred Laurier 每日搭電車去國會山辦公，與乘客交談以了解民情；他不夠富裕到買 Ottawa 房子，支持者集資為他買房 | 3,971 | ✅ | [Historical Society Ottawa](https://www.historicalsocietyottawa.ca/publications/ottawa-stories/important-public-and-private-buildings-in-the-city/laurier-house) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbq42w/) |
+| 5 | 1996 Michael Jackson 與 Stephen King 合作 40 分鐘 MV「Michael Jackson's Ghosts」——當時最長最貴 MV $15M（今約 $31M），全由 MJ 自付 | 3,493 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Michael_Jackson%27s_Ghosts) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbe4w7/) |
+| 6 | 2013 Jon Stewart 設立動物庇護所，收容從屠宰場與活體市場救出的動物 | 2,878 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Jon_Stewart) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbaxns/) |
+| 7 | 韓國海每年兩次海水退去露出隱藏路徑——只在春夏初發生 40-60 分鐘，可讓人徒步走過連接兩島（珍島離岸現象） | 2,831 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Jindo_(island)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tb2orq/) |
+| 8 | Cheerios 原名「Cheerioats」，因 Quaker Oats 主張對「oats」一詞有權利而被迫改名 | 1,717 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Cheerios) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbale0/) |
+| 9 | 木馬不出現於 Homer 的《伊里亞德》（該書結束於特洛伊滅亡前），僅於《奧德賽》短暫提及；Virgil 約 25 BC《Aeneid》才有詳細記載；原完整版本已失傳 | 1,698 | ✅ | [Satyori](https://satyori.com/mythology/the-trojan-horse) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbhod2/) |
+| 10 | 短尾烏賊用生物發光抵消月光下海底的影子，使捕食者難察覺 | 1,343 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Bobtail_squid) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbl8zi/) |
+| 11 | 1966 年前無法於出生前確認嬰兒是否唐氏症（羊膜穿刺診斷尚未發明） | 1,210 | ✅ | [Embryo ASU](https://embryo.asu.edu/pages/amniocentesis-prior-1980) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbauv4/) |
+| 12 | 紫色幾乎不出現在國旗——因紫染料歷史成本昂貴（地中海海螺）；1 磅紫染料約等於今 $56,000 | 537 | ✅ | [FlagMakers](https://flagmakers.co.uk/blog/resources/what-is-the-rarest-colour-on-national-flags) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbzgla/) |
+| 13 | 「Operation Cat Drop」——撒貓回 Borneo 村落，因蚊蟲噴藥造成鼠害；二戰後英國皇家空軍以降落傘空投貓 | 463 | ✅ | [Wikipedia](https://www.wikipedia.org/wiki/Operation_Cat_Drop) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbv9pj/) |
+| 14 | FAA 成立源自 1956 Grand Canyon 兩架商業客機空中相撞，128 人全亡——促使聯邦民航管理權建立 | 445 | ✅ | [Durango Herald](https://www.durangoherald.com/articles/the-crash-that-started-the-faa/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tbs2pf/) |
+| 15 | 條頓騎士團全稱「The Order of Brothers of the German House of St Mary in Jerusalem」，現仍存為天主教修會 | 408 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Teutonic_Order) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tb3yk6/) |
+
+## 2026-05-12
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 1998 Colorado Aurora 小學生開始買蘇丹奴隸來解放，引全球關注學校仿效——後查明資金實際助長奴隸貿易擴大 | 32,294 | ✅ | [Colorado News](https://www.coloradohistoricnewspapers.org/?a=d&d=ADN19990823-01.2.25) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta9osm/) |
+| 2 | 2005 德國研究員在書邊發現手寫筆記，確認 Leonardo da Vinci 1503 年正為 Lisa del Giocondo 作畫——蒙娜麗莎身分與創作年代之爭終結 | 27,449 | ✅ | [Heidelberg Uni](https://www.uni-heidelberg.de/press/news/press552e.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1taig7s/) |
+| 3 | 文藝復興佛羅倫斯同性戀技術上違法但極普遍，多數男性曾被指控；Savonarola 政權鎮壓後一官員稱「感謝上帝，我們又可以 sodomise 了」 | 15,147 | ✅ | [Warwick PDF](https://warwick.ac.uk/fac/arts/ren/jhu/summerschool2019/reading/things_left_unsaid.pdf) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta9oxx/) |
+| 4 | 日本氣象學家大石和三郎首發現高空急流，但因用世界語 Esperanto 發表而於國外幾乎不被知道 | 10,590 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Jet_stream) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tanp5v/) |
+| 5 | Wyoming 1890 加入聯邦時拒接受禁女性投票條件——「我們寧 100 年不加入也要保住我們的女性」 | 8,534 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Wyoming) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta7ljd/) |
+| 6 | 全美最高票房 R 級電影前 5 名中有 3 部是 Deadpool：Deadpool（#5, $782.6M）、Deadpool 2（#4, $785.8M）、Deadpool & Wolverine（#1, $1.33B） | 8,450 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/List_of_highest-grossing_R-rated_films) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tai8b3/) |
+| 7 | Guillermo del Toro 看《Charlie Kelly: King of the Rats》中 Charlie Day 殺鼠獨白後選他演《環太平洋》——「很有趣但有角色感，他真在哀悼那些鼠」 | 6,337 | ✅ | [IGN](https://sea.ign.com/home/63316/ign-heads-to-the-set-of-pacific-rim) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tanx2w/) |
+| 8 | 林肯是唯一獲過專利的美國總統——一個用於提升淺水中船隻的可調節氣室裝置 | 3,949 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_patent) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta71pr/) |
+| 9 | Brian MacKinnon 蘇格蘭男在同一高中畢業兩次——1980 與 1994，第二次用假名重讀想再進醫學院；1995 醫學院讀到一半被報紙揭發 | 3,372 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Brian_MacKinnon) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tai8xf/) |
+| 10 | 已知最早描寫外星人、外太空、星際戰爭的作品是公元 2 世紀 Lucian of Samosata 的《True Story》——諷刺把奇幻事說成真實的前作 | 3,128 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/A_True_Story) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta4qa1/) |
+| 11 | Hall & Oates 雖極厭惡組合名「Hall & Oates」（「我們從不想要也不喜歡這名字」），2015 仍告 granola 公司「Haulin' Oats」侵權主張為「知名商標」 | 2,500 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Hall_%26_Oates#Name) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tacyiv/) |
+| 12 | 1950 年代地質學家 Marie Tharp 識別大西洋海底大裂谷（支持當時爭議性的大陸漂移論）——男同事貶為「女人話」要她重做所有圖表 | 1,896 | ✅ | [Smithsonian Ocean](https://ocean.si.edu/ecosystems/deep-sea/making-mark-ocean-floor) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tb0y9y/) |
+| 13 | Barbara Blake Hannah 是英國電視首位黑人鏡頭記者——9 個月後因觀眾抱怨「螢幕上不要有黑女人」被解聘 | 1,819 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Barbara_Blake_Hannah) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1taj4r6/) |
+| 14 | 1989 10 歲 Sarah York 成為巴拿馬獨裁者 Noriega 的筆友，受邀訪巴拿馬兩次；今她在 Minnesota Golden Valley 教西班牙文 | 1,457 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Sarah_York) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1taepz4/) |
+| 15 | 熊蜂女王能在水下呼吸至少一週——皇家學會 2025 研究 | 1,051 | ✅ | [Royal Society](https://royalsocietypublishing.org/rspb/article/293/2066/20253141/480715) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ta5tyj/) |
+
+## 2026-05-11
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | New Orleans Mardi Gras 最古老活躍組織 Mistick Krewe of Comus 自 1991 起不再遊行——因拒絕讓非白人加入 | 22,555 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Mistick_Krewe_of_Comus) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9jfya/) |
+| 2 | JFK 多年嚴重慢性背痛——4 次手術（含椎間盤切除、脊椎融合與兩次小手術）仍無法解決 | 11,656 | ✅ | [J Neurosurg](https://thejns.org/spine/view/journals/j-neurosurg-spine/27/3/article-p247.xml) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9iz30/) |
+| 3 | 紐約市估有約 3 百萬隻鼠，幾近人類人口的 1/3 | 6,770 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Rats_in_New_York_City) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9c77g/) |
+| 4 | Spencer Perceval——唯一被暗殺的英國首相——1812 於議會內遭槍殺；外面民眾為謀殺歡呼還想跟凶手握手，需軍隊壓制；凶手 4 日內審判、1 週後絞死 | 6,353 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Spencer_Perceval) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9ls1y/) |
+| 5 | Kristian Laight 持職業拳擊最多輸場紀錄——12 勝 279 敗 9 和 | 4,592 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Kristian_Laight) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9tngw/) |
+| 6 | 《水世界》（1995）多數水中場景由職業衝浪者 Laird Hamilton 替身 Kevin Costner，他騎水上摩托車通勤片場 | 2,258 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Waterworld) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9nh2i/) |
+| 7 | 1939 Sutton Hoo 挖掘出盎格魯撒克遜船墓——金幣、精緻工藝品、拜占庭銀器、標誌頭盔，混合異教與基督教符號——推翻「黑暗時代」觀念 | 2,112 | ✅ | [Britannica](https://www.britannica.com/place/Sutton-Hoo) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9gfno/) |
+| 8 | 1979 義大利龐克 Skiantos 在 Bologna Rock 上台帶廚房煮義大利麵吃完，不演奏；觀眾抗議時主唱罵「你們太蠢不懂前衛藝術」 | 1,807 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Skiantos) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9yznz/) |
+| 9 | 「Humanol」是用液化人脂製成的真實藥品 | 1,449 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Human_fat) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9b4nc/) |
+| 10 | 美雖批准 UN 禁止對平民區使用 napalm，仍保留「在平民集中區的軍事目標若可減少傷亡時的使用權」 | 1,099 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Napalm#United_States) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9sn27/) |
+| 11 | Penlee 救生艇災難：1981-12-19 貨輪 MV Union Star 引擎失效於 Cornwall 海岸，救生艇 RNLB Solomon Browne 救援，16 人（兩船各 8）全亡 | 579 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Penlee_lifeboat_disaster) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9rd3z/) |
+| 12 | Terry Nation 想為 Daleks 開另一節目，1969「Evil of the Daleks」原寫為「最終結局」讓其退出 Doctor Who；計畫失敗後 1972「Day of the Daleks」回歸 | 499 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Dalek#Further_1960s_productions) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9xt6x/) |
+| 13 | 章魚能編輯自己的 RNA 來適應冷水溫——動物界罕見能力，讓牠們快速微調神經系統而不需改變 DNA | 468 | ✅ | [NPR](https://www.npr.org/2023/06/08/1181009210/octopuses-tweak-the-rna-in-their-brains-to-adjust-to-warmer-and-cooler-waters) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9j0a9/) |
+| 14 | 2022 在格陵蘭 Kap København 發現迄今最老 DNA（200 萬年），混合北極與溫帶物種包括乳齒象——當時氣溫比今高 19°C | 398 | ✅ | [NHM](https://www.nhm.ac.uk/discover/news/2022/december/worlds-oldest-dna-represents-two-million-year-old-ecosystem.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9jih9/) |
+| 15 | 藻類 Chlamydomonas reinhardtii 若缺硫，會停止產氧並轉為產氫 | 247 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Chlamydomonas_reinhardtii) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1t9xqiz/) |
 
 ## 2026-05-10
 

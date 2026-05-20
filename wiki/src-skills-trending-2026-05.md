@@ -1,9 +1,9 @@
 ---
 title: skills.sh Trending Top 10 月報 — 2026-05
 type: source
-sources: [skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
+sources: [skills-trending-2026-05-12.md, skills-trending-2026-05-11.md, skills-trending-2026-05-10.md, skills-trending-2026-05-09.md, skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-19
 tags: [skills-sh, agent-skills, trending, monthly-digest]
 ---
 
@@ -16,6 +16,163 @@ tags: [skills-sh, agent-skills, trending, monthly-digest]
 > **2026-05-04 更新**：Inference.sh 改名事件已建立 [[Inference.sh]] 組織實體頁——記錄品牌統一時程、5 件 Top 5 skill、與 [[skills.sh]] / [[src-claude-for-creative-work]] 的生態連動
 
 > **2026-05-09 更新**：5/7-5/8 兩日觀察到 **find-skills 跌出榜外**（5/6 #6 18,648 → 5/7 起消失）+ **inference-skills 五件二度下跌**（5/7 微跌 -50/skill、5/8 大幅 -2,800/skill）；mattpocock 兩件（grill-me + improve-codebase-architecture）穩定回到 #9/#10——「organic 衰減 + 第二次統計重置」雙線並存
+
+> **2026-05-13 更新**：5/9-5/12 四日連續異常事件：(1) **5/9 inference URL 第二次改名**（inference-skills → inference-sh-skills，install 全部 -33%）(2) **5/10 agentspace-so 五件全進榜**（單日推送異象，當日 inference 同步恢復至 32k+）(3) **5/11 agentspace-so 全部跌出**（hype 結束）+ mattpocock 三件全進榜（grill-with-docs ✨ 首次入榜）(4) **5/12 organic 恢復**（soultrace 突破 8k，mattpocock 三件均成長）
+
+> ⚠️ **2026-05-13 fetcher 失效**：skills-trending 與 picks raw 自 5/13 起未抓到，疑似 skills.sh 改版或 fetch 腳本失敗，待修復
+
+## 2026-05-12 — Organic 恢復日 + mattpocock 三件全在榜
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | [ai-image-generation](https://skills.sh/inference-sh-skills/skills/ai-image-generation) | inference-sh-skills/skills | 33,259 | ↓ 5/11 33,290 → 33,259（-31，微跌噪音範圍） |
+| 2 | [ai-video-generation](https://skills.sh/inference-sh-skills/skills/ai-video-generation) | inference-sh-skills/skills | 33,236 | ↑ 5/11 33,228 → 33,236（+8） |
+| 3 | [ai-avatar-video](https://skills.sh/inference-sh-skills/skills/ai-avatar-video) | inference-sh-skills/skills | 33,173 | ↑ 5/11 33,170 → 33,173（+3） |
+| 4 | [agent-tools](https://skills.sh/inference-sh-skills/skills/agent-tools) | inference-sh-skills/skills | 33,155 | ↓ 5/11 33,157 → 33,155（-2） |
+| 5 | [infsh-cli](https://skills.sh/inference-sh-skills/skills/infsh-cli) | inference-sh-skills/skills | 33,152 | ↓ 5/11 33,153 → 33,152（-1） |
+| 6 | ↑ [soultrace](https://skills.sh/soultrace-ai/soultrace-skill/soultrace) | soultrace-ai/soultrace-skill | 8,943 | ↑ 5/11 #8 5,973 → #6（**+2,970**，單日異常大幅成長） |
+| 7 | ↑ [wonda-cli](https://skills.sh/degausai/wonda/wonda-cli) | degausai/wonda | 8,727 | ↑ 5/11 #6 7,038 → #7（+1,689） |
+| 8 | ↑ [[src-mattpocock-skills\|grill-me]] | mattpocock/skills | 7,972 | ↑ 5/11 #7 6,108 → #8（+1,864） |
+| 9 | [grill-with-docs](https://skills.sh/mattpocock/skills/grill-with-docs) | mattpocock/skills | 7,059 | ↑ 5/11 #9 5,371 → #9（+1,688，持平排名但 install 大增） |
+| 10 | [improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture) | mattpocock/skills | 7,006 | ↑ 5/11 #10 5,355 → #10（+1,651） |
+
+⬇️ **跌出榜外**：無新跌出（榜單與 5/11 相同人員）
+
+> **05-12 觀察**——⚠️ **organic 集體大幅成長日**：
+>
+> ### 1. **6-10 名全部 +1,600 以上 install 單日**
+>
+> - soultrace +2,970、wonda-cli +1,689、grill-me +1,864、grill-with-docs +1,688、improve-codebase-architecture +1,651
+> - 「organic skills 同步 +1,500-3,000」並非自然成長，**疑似 skills.sh 統計重置或新一輪 install 數據加註**
+> - 對照 [[src-skills-picks-2026-05]] ast-grep 5/12 +82——個別 skill 的 organic 成長仍維持小幅；只有 Top 10 出現大幅
+>
+> ### 2. **inference 五件高位持平**
+>
+> - 5/11 33,170-33,290 → 5/12 33,152-33,259，五件變動 -31 至 +8 範圍
+> - 自 5/10 32k+ 急速恢復後維持 33k 高原；agentspace-so hype 結束後 organic 五件穩定
+>
+> ### 3. **mattpocock 三件全在榜**
+>
+> - grill-me #8 + grill-with-docs #9 + improve-codebase-architecture #10——5/4 後第二次三件齊聚 Top 10
+> - 三件 install 5/11 → 5/12 都大幅成長（+1,650 至 +1,864），可能是同一波統計重置
+
+## 2026-05-11 — agentspace-so 五件全跌 + mattpocock 三件齊聚 + grill-with-docs ✨ 首入榜
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | [ai-image-generation](https://skills.sh/inference-sh-skills/skills/ai-image-generation) | inference-sh-skills/skills | 33,290 | ↑ 5/10 32,915 → 33,290（+375） |
+| 2 | [ai-video-generation](https://skills.sh/inference-sh-skills/skills/ai-video-generation) | inference-sh-skills/skills | 33,228 | ↑ 5/10 32,860 → 33,228（+368） |
+| 3 | [ai-avatar-video](https://skills.sh/inference-sh-skills/skills/ai-avatar-video) | inference-sh-skills/skills | 33,170 | ↑ 5/10 32,793 → 33,170（+377） |
+| 4 | [agent-tools](https://skills.sh/inference-sh-skills/skills/agent-tools) | inference-sh-skills/skills | 33,157 | ↑ 5/10 32,787 → 33,157（+370） |
+| 5 | [infsh-cli](https://skills.sh/inference-sh-skills/skills/infsh-cli) | inference-sh-skills/skills | 33,153 | ↑ 5/10 32,780 → 33,153（+373） |
+| 6 | ✨ [wonda-cli](https://skills.sh/degausai/wonda/wonda-cli) | degausai/wonda | 7,038 | ✨ 5/10 跌出 → 5/11 #6 回榜（前次 5/9 #6 6,407 → +631） |
+| 7 | ✨ [[src-mattpocock-skills\|grill-me]] | mattpocock/skills | 6,108 | ✨ 5/9-5/10 跌出 → 5/11 #7 回榜 |
+| 8 | ✨ [soultrace](https://skills.sh/soultrace-ai/soultrace-skill/soultrace) | soultrace-ai/soultrace-skill | 5,973 | ✨ 5/10 跌出 → 5/11 #8 回榜（前次 5/9 #8 6,249 → -276） |
+| 9 | ✨ [grill-with-docs](https://skills.sh/mattpocock/skills/grill-with-docs) | mattpocock/skills | 5,371 | ✨ **本月首次入榜**——mattpocock 三件中第 3 件終於進 Top 10 |
+| 10 | ✨ [improve-codebase-architecture](https://skills.sh/mattpocock/skills/improve-codebase-architecture) | mattpocock/skills | 5,355 | ✨ 5/9-5/10 跌出 → 5/11 #10 回榜 |
+
+⬇️ **跌出榜外**（5/10 → 5/11 跌出，共 5 件）：
+- agentspace-so 五件全跌：gpt-image-edit（5/10 #6 4,845）、nano-banana-edit（#7 4,801）、image-edit（#8 4,797）、nano-banana-2（#9 4,788）、flux-2-klein（#10 4,786）
+
+> **05-11 觀察**——⚠️ **agentspace-so 推送結束 + mattpocock 三件齊聚**：
+>
+> ### 1. **agentspace-so 五件全跌出榜（5/10 → 5/11）**
+>
+> - 5/10 #6-#10 agentspace-so 五件（4,785-4,845 範圍）→ 5/11 全部消失
+> - 5 件同步進榜（5/10）→ 5 件同步跌出（5/11），「24 小時觀察期」的渠道推送樣式——非 organic
+> - **可能機制**：(1) agentspace-so 自有渠道推送（如 newsletter / Twitter）讓 5/10 install 集中爆發 (2) skills.sh 演算法給予新 publisher 1 日「首頁曝光配額」(3) install 計數重置
+> - **與 [[Inference.sh]] 對比**：inference 五件 8 天前佔 Top 5 至今未動；agentspace-so 是「閃光式」進榜
+>
+> ### 2. **mattpocock 三件齊聚 Top 10**
+>
+> - grill-me #7 + grill-with-docs #9 ✨（首次）+ improve-codebase-architecture #10
+> - 三件齊聚是 5/4 之後第二次（5/4 為三件中 3 件首聚日）；本次 grill-with-docs 首次入榜為「三件全在 + 第 3 件突破」
+> - grill-with-docs 5,371 是新進榜（之前 5/4 三件中 install 最低）；意義：mattpocock 的「PRD/Plan/Architecture」工具鏈三件全擴散
+>
+> ### 3. **inference-sh-skills 五件單日 +370/skill 集體成長**
+>
+> - 5/10 32,780-32,915 → 5/11 33,153-33,290——五件單日 +370/skill 同步成長
+> - 5/9 改名 URL 後的「重新加速」階段；連 2 日（5/10 起恢復至 32k → 5/11 再增至 33k）
+
+## 2026-05-10 — agentspace-so 五件全進榜異象 + inference 大幅恢復
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | [ai-image-generation](https://skills.sh/inference-sh-skills/skills/ai-image-generation) | inference-sh-skills/skills | 32,915 | ↑↑ 5/9 18,992 → 32,915（**+13,923，+73%**——大幅恢復至類 5/8 水準） |
+| 2 | [ai-video-generation](https://skills.sh/inference-sh-skills/skills/ai-video-generation) | inference-sh-skills/skills | 32,860 | ↑↑ 5/9 18,954 → 32,860（+13,906） |
+| 3 | ↑ [ai-avatar-video](https://skills.sh/inference-sh-skills/skills/ai-avatar-video) | inference-sh-skills/skills | 32,793 | ↑ 5/9 #4 18,931 → #3（+13,862） |
+| 4 | ↓ [agent-tools](https://skills.sh/inference-sh-skills/skills/agent-tools) | inference-sh-skills/skills | 32,787 | ↓ 5/9 #3 18,934 → #4（+13,853） |
+| 5 | [infsh-cli](https://skills.sh/inference-sh-skills/skills/infsh-cli) | inference-sh-skills/skills | 32,780 | 持平 #5（+13,850） |
+| 6 | ✨ [gpt-image-edit](https://skills.sh/agentspace-so/runcomfy-agent-skills/gpt-image-edit) | agentspace-so/runcomfy-agent-skills | 4,845 | ✨ **首次入榜**——agentspace-so 第 1 件 |
+| 7 | ✨ [nano-banana-edit](https://skills.sh/agentspace-so/runcomfy-agent-skills/nano-banana-edit) | agentspace-so/runcomfy-agent-skills | 4,801 | ✨ **首次入榜**——agentspace-so 第 2 件 |
+| 8 | ✨ [image-edit](https://skills.sh/agentspace-so/runcomfy-agent-skills/image-edit) | agentspace-so/runcomfy-agent-skills | 4,797 | ✨ **首次入榜**——agentspace-so 第 3 件 |
+| 9 | ✨ [nano-banana-2](https://skills.sh/agentspace-so/runcomfy-agent-skills/nano-banana-2) | agentspace-so/runcomfy-agent-skills | 4,788 | ✨ **首次入榜**——agentspace-so 第 4 件 |
+| 10 | ✨ [flux-2-klein](https://skills.sh/agentspace-so/runcomfy-agent-skills/flux-2-klein) | agentspace-so/runcomfy-agent-skills | 4,786 | ✨ **首次入榜**——agentspace-so 第 5 件 |
+
+⬇️ **跌出榜外**（5/9 → 5/10 跌出，共 5 件）：
+- wonda-cli（5/9 #6 6,407）、just-scrape（#7 6,294）、soultrace（#8 6,249）、video-edit（#9 4,882）、image-to-video（#10 4,848）——agentspace-so/runcomfy-agent-skills 旗下 video-edit 與 image-to-video 也被同 publisher 的另外 5 件替換
+
+> **05-10 觀察**——⚠️⚠️ **單日連 inference 五件大幅恢復 + agentspace-so 五件首入榜**：
+>
+> ### 1. **inference 五件單日 +13,900/skill 大幅恢復**
+>
+> - 5/9 18,930-18,992 → 5/10 32,780-32,915——**單日 +73%/skill**
+> - 比 5/9 的「-33%/skill」更大、更詭異
+> - **可能機制 A**：URL 重置事件（5/9 改 URL 後 install 計數從 0 重新累計、5/10 補回歷史 install）
+> - **可能機制 B**：skills.sh 統計算法二次調整（5/9 大跌 + 5/10 恢復 = 2 日內完成數據遷移）
+> - **5/13 fetcher 失效後將難以驗證**——這個事件本身是 skills.sh 端的明顯動作
+>
+> ### 2. **agentspace-so 五件全進榜——「閃光式品牌推送」**
+>
+> - 一夜之間 agentspace-so/runcomfy-agent-skills 旗下 5 件全進 Top 10（4,786-4,845）
+> - 五件 install 集中在 60 install 區間——極度同步的成長
+> - **publisher 觀察**：agentspace-so 自 5/9 起就有 video-edit 與 image-to-video（#9 #10）進榜；5/10 換成另 5 件
+> - **「換件」現象**：同一 publisher 一夜換五件 → 不是 organic install，是「skills.sh 演算法給 publisher 配額曝光」或「agentspace-so 內部 install 注水循環不同 skill」
+>
+> ### 3. **6-10 名洗牌**
+>
+> - 5/9 的 #6-#10（wonda-cli + just-scrape + soultrace + agentspace-so 兩件）→ 5/10 #6-#10（agentspace-so 五件）
+> - **organic 老朋友被閃光推送排擠**——但這只是 1 日異象（5/11 立即恢復）
+
+## 2026-05-09 — inference URL 第二次改名（inference-skills → inference-sh-skills）
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | ↑ [ai-image-generation](https://skills.sh/inference-sh-skills/skills/ai-image-generation) | inference-sh-skills/skills | 18,992 | ↑↑ 5/8 #2 28,547 → #1（**-9,555，-33%**；URL 重置） |
+| 2 | ↓ [ai-video-generation](https://skills.sh/inference-sh-skills/skills/ai-video-generation) | inference-sh-skills/skills | 18,954 | ↓↓ 5/8 #1 28,663 → #2（**-9,709，-34%**） |
+| 3 | ↑ [agent-tools](https://skills.sh/inference-sh-skills/skills/agent-tools) | inference-sh-skills/skills | 18,934 | ↑ 5/8 #4 28,520 → #3（-9,586） |
+| 4 | ↑ [ai-avatar-video](https://skills.sh/inference-sh-skills/skills/ai-avatar-video) | inference-sh-skills/skills | 18,931 | ↑ 5/8 #3 28,522 → #4（-9,591） |
+| 5 | [infsh-cli](https://skills.sh/inference-sh-skills/skills/infsh-cli) | inference-sh-skills/skills | 18,930 | 持平 #5（-9,587） |
+| 6 | [wonda-cli](https://skills.sh/degausai/wonda/wonda-cli) | degausai/wonda | 6,407 | ↓ 5/8 #6 8,635 → #6（**-2,228，-26%**） |
+| 7 | [just-scrape](https://skills.sh/scrapegraphai/just-scrape/just-scrape) | scrapegraphai/just-scrape | 6,294 | ↓ 5/8 #7 7,894 → #7（-1,600，-20%） |
+| 8 | [soultrace](https://skills.sh/soultrace-ai/soultrace-skill/soultrace) | soultrace-ai/soultrace-skill | 6,249 | ↓ 5/8 #8 7,553 → #8（-1,304，-17%） |
+| 9 | ✨ [video-edit](https://skills.sh/agentspace-so/runcomfy-agent-skills/video-edit) | agentspace-so/runcomfy-agent-skills | 4,882 | ✨ **首次入榜**——agentspace-so 首件 Top 10 |
+| 10 | ✨ [image-to-video](https://skills.sh/agentspace-so/runcomfy-agent-skills/image-to-video) | agentspace-so/runcomfy-agent-skills | 4,848 | ✨ **首次入榜**——agentspace-so 第 2 件 |
+
+⬇️ **跌出榜外**（5/8 → 5/9 跌出）：
+- grill-me（5/8 #9 5,868）、improve-codebase-architecture（5/8 #10 5,156）—— mattpocock 兩件全跌（重返再跌的循環）
+
+> **05-09 觀察**——⚠️⚠️⚠️ **重大事件：inference URL 第二次改名**：
+>
+> ### 1. **inference-skills/skills → inference-sh-skills/skills**
+>
+> - 5/8 為止 5 件 URL 都是 `skills.sh/inference-skills/skills/...`
+> - 5/9 起 URL 改為 `skills.sh/inference-sh-skills/skills/...`（加了「-sh」字尾，更貼近 inference.sh 品牌）
+> - **這是 5/3 後第二次品牌路徑變更**——5/3 改的是 `infsh-skills` → `inference-skills`，5/9 改為 `inference-sh-skills`
+> - **影響範圍**：5 件 install 數同步 -33%（每件 -9,500 左右）
+> - **不是真實流失**：5/10 立即恢復至 32k+，證實是「URL 重置造成 install 計數短暫跳水」
+> - **教訓**：[[Inference.sh]] 還在頻繁調整品牌路徑，至少出現過 3 個版本（infsh-skills → inference-skills → inference-sh-skills）
+>
+> ### 2. **wonda-cli / just-scrape / soultrace 三件同步 -20%**
+>
+> - 不只 inference 五件，6-8 名也大幅下跌
+> - **可能機制**：(1) skills.sh 統計算法調整，影響全榜 (2) 同日 organic install 異常清理
+>
+> ### 3. **agentspace-so 雙件首次入榜 (#9 #10)**
+>
+> - video-edit 4,882 + image-to-video 4,848——agentspace-so 在前 8 名同步下跌的空檔擠入榜
+> - 「organic 退潮 + 新進湧入」典型替換模式
+> - 但這只是 5/10 「五件全進榜」異象的前哨——agentspace-so 連續 2 日進榜後再消失
 
 ## 2026-05-08 — inference-skills 二次大跌（單日 -2,800/skill）+ find-skills 持續缺席
 

@@ -1,15 +1,177 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-05
 type: source
-sources: [reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
+sources: [reddit-eli5-2026-05-18.md, reddit-eli5-2026-05-17.md, reddit-eli5-2026-05-16.md, reddit-eli5-2026-05-15.md, reddit-eli5-2026-05-14.md, reddit-eli5-2026-05-13.md, reddit-eli5-2026-05-12.md, reddit-eli5-2026-05-11.md, reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-11
+updated: 2026-05-19
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 5 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-18
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何說「on a bus」但「in a car」？（英文介係詞的差異與內部走道空間有關——可走動的交通工具用 on，密閉座艙用 in；「on Earth」是把地球當「平面」） | 971 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfz84r/) |
+| 2 | 兩週前在陽光下整天沒曬傷，今天 1 小時就曬傷？（UV 指數隨太陽角度變化——日期/緯度/雲層/反射差異大；溫度與曬傷無直接關係，但晴空高 UV 指數可在 60 分鐘內造成可見曬傷） | 947 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg92td/) |
+| 3 | 為何人類與動物不運動就生病，但運動如此耗能？（演化期間人類本來就活躍——狩獵採集；「節能」邏輯適用於資源稀缺時短期，長期靜態反而破壞代謝、肌骨、心血管系統） | 326 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg0zm9/) |
+| 4 | 原始碼與一般程式有何不同？（原始碼是人類可讀的指令；編譯後產生二進位執行檔。Morrowind 失原始碼指失去那組 .cpp/.h 檔，重編需逆向工程） | 241 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgb5w1/) |
+| 5 | 什麼決定「吃飽」的量？（胃機械擴張、血糖、激素如 leptin/ghrelin、神經訊號——胃飽脹是即時，其他需時間） | 100 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgbraq/) |
+| 6 | 為何水會「變舊味」？（CO₂ 溶解形成弱碳酸，靜置會釋出讓 pH 升、味道變淡；空氣微生物與灰塵也會進入；不只是塑料問題） | 89 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg87nv/) |
+| 7 | 為何鼻子有兩孔而非像嘴只有一個？（兩孔分時呼吸增加 sniffing 解析度、嗅覺立體感、生病堵塞時備援） | 69 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgjyky/) |
+| 8 | 持有 BTC 與投資 BTC ETF 差別？（持有 BTC = 真正擁有加密幣可轉帳/自託管；ETF = 持有「對 BTC 價格的求償權」由發行機構代管，無錢包私鑰） | 54 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg4vh5/) |
+| 9 | 相機焦距是什麼？什麼是 prime 鏡頭？（焦距 = 鏡頭主平面到感光元件聚焦的距離，影響視角；prime 鏡頭固定焦距，因不用設計變焦結構而更銳利、光圈更大） | 22 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgefd5/) |
+| 10 | 神經科技（Neuralink/Synchron/Medtronic）如何運作？（電極植入腦皮層讀取神經元電位，演算法解碼意圖；輸出至電腦/義肢/治療裝置——BCI 與神經調節是兩大分支） | 6 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfqz54/) |
+| 11 | Facebook 在監看我嗎？（FB/IG 開啟時持續使用相機 API 即使你沒拍照——權限隱含；非「監聽麥克風」但行為資料極詳細） | 2 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgm7p8/) |
+| 12 | 數位足跡來源？（公開記錄、社交媒體、新聞、學術發表、舊郵件地址洩漏——背景調查用聚合工具掃描） | 0 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg64ky/) |
+| 13 | 為何蒸 1 顆蛋比蒸 5 顆蛋需更多水？（多顆蛋本身有熱容，水需先升溫再產生蒸氣——固定蒸氣產量下少蛋反而需更多水補償？實際多因蒸鍋設計與盤面散熱差異） | 0 | ⚠️ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfrvpi/) |
+| 14 | 為何過去 20 年大多玩具的聲音聽起來壓縮粗糙？（低位元率 ADPCM/PCM 在便宜晶片上壓縮率高、ROM 容量小；EU/中國成本壓低生產品質） | 0 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tg1lww/) |
+| 15 | 在 Costco 捐 $5，是否幫他們扣稅？（捐款是消費者自己的——Costco 只是代收代轉，加拿大稅法不允許企業重複扣稅；不會） | 0 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tgbsvn/) |
+
+> **查核備註 #11、#13**：FB 監聽說法雖有部分 API 權限可被濫用、實際監聽很少；#13 機制爭議——可能來自蒸鍋具體設計而非物理「規則」。
+
+## 2026-05-17
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何要去海軍學院/西點軍校而不直接入伍？軍官做什麼？（學院畢業直接任軍官；軍官負責戰略/領導/決策，入伍士兵負責執行任務——軍中職階體系與大學文憑掛勾） | 848 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfekj5/) |
+| 2 | 為何「大號完後」可以多尿一點？（大腸壓迫膀胱解除；副交感神經因排便活化也促排尿——「直腸-膀胱反射」） | 559 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tf5msb/) |
+| 3 | 病毒為何不被視為活物？（無細胞結構、無代謝、無法獨立繁殖——靠寄主機制；介於生命與化學間） | 485 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tffc4r/) |
+| 4 | 女性黃體期演化優勢為何？（為可能懷孕做子宮內膜準備；經前症候群是激素波動副作用而非演化「特徵」——對生殖成功影響不夠負面所以未被汰選） | 432 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfjuae/) |
+| 5 | 超富以債生財，但動用房屋淨值通常不好？（富人有多元收入流分散風險，可承擔利率波動；普通人單一收入若失業則違約直接抵押）| 206 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfendk/) |
+| 6 | 為何不是每個路口都有左轉專用燈？（成本與通行效率取捨；左轉量小路口加燈反而塞車，且新號誌需重整時相） | 174 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tf7e0f/) |
+| 7 | 血壓下降為何引起噁心？（血管擴張→腦/腸供血降低→自律神經反應觸發「迷走神經反射」，包含嘔吐感） | 171 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1texo2x/) |
+| 8 | 「心碎」的物理感受神經學原因？（前扣帶皮層與島葉處理情感與生理痛共用神經迴路——失戀觸發「痛感」訊號）| 92 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tewf90/) |
+| 9 | 牙痛為何特別劇烈？（牙髓密集神經被牙釉/牙本質緊密包圍，腫脹無空間舒緩——壓力激增刺激神經） | 61 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tflfpv/) |
+| 10 | 為何有時睡更久反而更累？（醒在深睡眠週期中段；睡眠週期約 90 分鐘，超過 7.5 或 9 小時剛好醒在 N3 階段最累） | 53 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfmpg0/) |
+| 11 | 肌肉成長/肥大生理機制？（並非「撕裂後重建變大」——是「機械張力」誘發肌纖維增加蛋白合成 + 衛星細胞增殖；微損傷只是次要） | 42 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1teygpf/) |
+| 12 | 陰極保護如何運作？（在金屬上加更易氧化的「犧牲陽極」吸引腐蝕；或外加電流使受保護金屬成陰極——電子流出由犧牲端而非受保護端） | 37 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tf6bqw/) |
+| 13 | Naloxone（鴉片解毒劑）如何作用？（競爭性 μ 鴉片受體拮抗劑；親和力高把鴉片從受體「擠下」立即逆轉呼吸抑制） | 27 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tf4wjd/) |
+| 14 | 怎麼發現殺人鯨可被馴養？（1960 年代海洋公園早期試驗結合動物心理學與操作制約；最早是觀察野生殺人鯨對研究員的好奇心） | 19 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfhjj7/) |
+| 15 | 觀察思緒而非投入其中？（正念訓練的核心；認識思緒是腦自動產生的「事件」而非「我」，讓 PFC 與默認模式網路解耦） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tfe9jg/) |
+
+## 2026-05-16
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何遊戲 Gamma 設定要求調到 logo 剛好可見？（每台螢幕 gamma 反應曲線不同；用「剛好可見」可校準黑色階——確保暗部細節在所有螢幕呈現） | 2,786 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te5374/) |
+| 2 | 螺絲比釘子強，為何建築仍用釘子？（釘子有「剪力」彈性容忍動態載荷如地震；螺絲脆易斷；釘槍 5 秒打 1 顆 vs 螺絲鎖 30 秒——速度與材料總成本決定） | 648 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1teigew/) |
+| 3 | 為何「eleven」與「twelve」不像其他 teen 系列？（古英文「en+lif」「twe+lif」意「one left over」「two left over」，源自 12 進位的日耳曼計數傳統） | 503 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tenfa8/) |
+| 4 | 為何商家打烊還開燈？（安全考量：照明嚇阻竊賊、保險條款要求、招牌建立 24h 品牌印象；節電損失通常小於潛在損失） | 461 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te112q/) |
+| 5 | 為何遊戲原型叫 Alpha/Beta？（軟體開發階段命名——希臘字母順序代表內部測試、封閉測試、發布候選；50 年代電腦業繼承） | 422 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tea5da/) |
+| 6 | 為何閉眼才能睡？（眼皮閉合是「進入睡眠」訊號；視覺輸入即使弱光也維持腦警覺度——大腦演化將閉眼與安全、放鬆連結） | 339 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1teeu0c/) |
+| 7 | 太熱為何難入睡？（核心體溫下降是入睡訊號；環境熱導致皮膚散熱困難，無法讓核心降溫） | 192 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tekb8k/) |
+| 8 | 海底光纜如何鋪設？（特製纜輪船「cable ship」沿規劃路線拋纜，沉至海床；數百 km 含中繼放大器；19 世紀電報纜起家） | 83 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tes7bg/) |
+| 9 | 點滴為何可注入大量液體？（人血液量約 5 L，腎臟每小時可處理 1 L 額外輸液；緩慢滴注讓循環系統適應） | 71 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te2aop/) |
+| 10 | 什麼是再融資（refinance）？（用新貸款還舊貸款換較低利率/不同期限——但需付手續費，划算門檻通常利率差 1%+） | 62 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tefz52/) |
+| 11 | 文字檔可先壓縮後加密，為何不能先加密後壓縮？（加密產生高熵資料看起來像隨機；壓縮靠「樣式重複」減少容量，隨機資料無樣式可壓） | 56 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tedxp2/) |
+| 12 | 「用 Google 登入」原理？（OAuth 2.0 協定；網站向 Google 索要「身分」token，Google 回應你已驗證——網站不會看到密碼，只知 Google 認可你） | 45 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te00ev/) |
+| 13 | 死電池放著為何能再用幾秒？（電池並非「完全耗盡」——剩餘化學能緩慢平衡到電極；用後再放又會略微回升） | 26 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te19u6/) |
+| 14 | 帕斯卡定律為何能放大力？（壓力 = 力/面積；流體傳遞均勻壓力；小面積活塞推進讓壓力傳至大面積活塞時，總力 = 壓力×大面積——關鍵是「位移交換力」） | 23 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tefmoy/) |
+| 15 | 「貿易火箭炮」如何運作？（極端關稅 + 制裁 + 出口管制 + 凍結資產——4 維協同打擊，比單純斷貿更具威懾） | 22 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1te8lj0/) |
+
+## 2026-05-15
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 螺紋為何能撐這麼重？（螺紋將軸向拉力轉成側向壓力分散到多個牙；摩擦力與材料剪切強度共同抵抗滑脫） | 1,131 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1td79wh/) |
+| 2 | 為何某些工具（剪刀、削皮器）只能右手用？（刀片偏向設計——左手使用時切點偏離料件，剪不斷；專利上「左撇子版」需特意製作） | 844 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdi6l2/) |
+| 3 | COVID 期間為何衛生紙短缺？（恐慌儲糧 + 商用衛生紙與家用是不同產線，無法快速轉換 + 供應鏈 just-in-time 易斷貨） | 225 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdjj9b/) |
+| 4 | 鏡頭/直播為何用環形燈？（光源環繞鏡頭軸線，眼睛中環形反光成「招牌眼神」；柔光無陰影避免臉部突出） | 195 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdh01w/) |
+| 5 | 莊家投注如何賺錢？（莊家根據投注量動態調整賠率，讓兩邊投注量平衡——莊家收「vigorish」手續費；Polymarket 不平衡是流動性差所致） | 174 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1td0y4w/) |
+| 6 | 聲波消失後去哪了？（能量被空氣阻力、物體表面吸收轉成熱能——能量不滅，只是擴散與耗散） | 84 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdgzt5/) |
+| 7 | USB Type-B/C 為何不用圓柱形像音頻孔？（資料線需多 pin 對齊不能旋轉；圓柱旋轉造成 pin 接觸不穩） | 65 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdvq0x/) |
+| 8 | 宇宙常數是什麼？（Einstein 加入廣義相對論的常數項，原以為宇宙穩定；後測得宇宙加速膨脹，又重新成為「暗能量」的數學表現） | 60 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdjgli/) |
+| 9 | CPU 一週期做多少事？（1 個 cycle 約 0.2 ns；單核可在 1 cycle 完成一個簡單指令如加法；複雜指令需多 cycle，pipeline 並行讓平均 1 IPC+） | 60 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdeuvl/) |
+| 10 | 為何有些語言的音對其他語言者極難發出？（嬰兒期語音知覺定型；超過某齡腦丟棄不用音素鑑別力——後天訓練難重建） | 48 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdtwa8/) |
+| 11 | GPS 如何精準定位？（接收 4+ 衛星訊號計算時間差，三角測量求位置；衛星帶原子鐘，需修正廣義/特殊相對論時間差） | 48 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdraxi/) |
+| 12 | CIDR（無類別域間路由）？（取代 ABC 類別 IP 區段；用「/N」精確指定網路位數，更彈性的子網切分） | 37 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1td30zf/) |
+| 13 | 最簡核能電廠長什麼樣？（鈾燃料棒 + 慢化劑（水/石墨）+ 冷卻劑 + 蒸氣發電機 + 控制棒——本質是「核燒鍋」推汽輪機） | 34 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdtbui/) |
+| 14 | 屏息呼氣後反而能撐更久？（吐光降低 CO₂ 累積——息感是 CO₂ 偵測非缺氧；自由潛水利用此原理「準備」） | 22 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tdr905/) |
+| 15 | 軌道計算為何重要？（衛星軌道規劃、太空垃圾避撞、行星探測軌跡——空間計算需高精度推算動力學） | 18 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tddsxe/) |
+
+## 2026-05-14
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 為何大蕭條沒爆發大規模革命/無政府？（美國有制度緩衝——選舉換政府（FDR 新政）；勞工運動分散憤怒；地理廣大難協調；軍方仍效忠政府） | 2,129 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tchizw/) |
+| 2 | 為何成癮者通常無法自力戒斷？（成癮改變腦獎賞迴路與決策皮層；普通壞習慣只涉及行為記憶，成癮涉及神經化學物質的物理依賴） | 464 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tckzy0/) |
+| 3 | 大型船為何用重油？（重油 50% 便宜；大型柴油引擎熱效率高可耐重油；柴油更貴只用啟動/閒置時的小引擎） | 454 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tc58lt/) |
+| 4 | 美國卡車為何與歐洲不同？（美：法規允長車身/重車重 + 長途；歐：法規嚴限總長 + 城市路窄 → cab over engine 平頭設計） | 366 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tc9a9d/) |
+| 5 | 為何不用郡為投票區劃分？（人口稠密差異大——大都會 1 個郡 = 100 萬人 vs 小郡 = 10 萬人；選區劃分追求人口均等而非地理） | 224 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcgohk/) |
+| 6 | 「鳥是恐龍」為何？（鳥類在分類學上是恐龍演化的一支——獸腳亞目；非滅絕恐龍演化後代，化石證據連續） | 112 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tct76o/) |
+| 7 | 為何新生兒有與阿茲海默症相關的腦蛋白？（β-amyloid 與 tau 在嬰兒期協助神經元生長與突觸塑形；成人後神經元成熟，殘餘累積才致病） | 50 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tc14hg/) |
+| 8 | 為何刮風感覺更冷（氣溫相同）？（風加速皮膚熱對流流失——「風寒指數」效應；無風時邊界層保暖隔絕） | 52 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcsx7i/) |
+| 9 | 手機更新為何充電更快？（軟體可調整充電 IC 的電流上限、優化充電曲線、開啟之前未啟用的快充協議） | 44 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcn7x1/) |
+| 10 | 加一個質子為何完全改變元素？（質子數 = 元素身分；電子數隨之變→化學性質完全不同；C(6) 是固體碳，N(7) 是氣態氮分子） | 28 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcdhy4/) |
+| 11 | 運動相對性下軌道如何運作？（軌道是「自由墜落但側向移動足以錯過地球」；參考系切換時表象不同但物理一致——所有座標系皆描述同一事件） | 24 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcs9k8/) |
+| 12 | 為何多數可裂變同位素在 230-240 範圍？（這個原子量範圍質子/中子比剛好不穩定，捕獲中子後易分裂——重元素核太大難穩定，輕元素核太緊難分裂） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcrftf/) |
+| 13 | 演化突變有多隨機？（多數突變隨機發生於 DNA 複製錯誤、輻射、化學損傷；環境決定哪個突變被「選汰」——突變隨機，選擇有方向） | 10 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tc6ju9/) |
+| 14 | 基因突變如何在演化中發生？（DNA 複製錯誤、紫外線/輻射損傷、化學物質致變；多數無害或有害，少數提供優勢） | 6 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tcfp55/) |
+| 15 | 智齒為何存在但常需拔除？（祖先飲食粗硬下顎大，現代軟食下顎縮小；演化滯後——智齒在「擠不進」的下顎仍長出） | 0 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tc8atz/) |
+
+## 2026-05-13
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 鼻塞時身體為何不「智慧」改善呼吸？（呼吸由腦幹自動控制，鼻塞時嘴自動接手——但不舒服感是「警示訊號」而非真斷氣） | 1,809 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tb563x/) |
+| 2 | 為何空心金屬管彎曲強度幾乎等同實心？（彎曲應力集中於外層；中心區域貢獻小，挖空可減重而幾不影響強度——抗彎模數 ∝ r³ 主要看外徑） | 1,083 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbgmta/) |
+| 3 | 為何人不喝水比不吃飯撐更短時間？（水參與所有代謝反應；不吃飯可消耗肝糖/脂肪；無水則細胞功能 3-5 日內崩潰） | 660 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbi5dx/) |
+| 4 | 螺栓鎖太緊為何反而變弱？（過鎖超彈性極限→塑性變形→螺紋微觀剪斷或鬆動；正確 torque 維持在彈性區） | 407 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tb9pmp/) |
+| 5 | 為何有「比無限更大的無限」？（Cantor 對角化證實數無限「不可數」大於自然數的可數無限；同為無限但「基數」不同） | 308 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tb4lta/) |
+| 6 | 為何車不用拉力賽車的籠式骨架？（市售車要兼顧載客舒適、變形吸能（crumple zone）讓乘員生存；拉力車犧牲乘客體驗換生存性） | 297 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbn9gh/) |
+| 7 | 插座怎麼「知道」供多少電？（不是插座知道——電壓是固定的（如 110V），電流由設備內部電阻決定 I=V/R；人體電阻低所以會「燒熟」） | 279 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbb2nh/) |
+| 8 | 為何胚胎可凍 30 年後出生健康，但普通細胞凍會死？（胚胎細胞代謝極低、冷凍保護劑滲透好；普通細胞冰晶刺破細胞膜；胚胎玻璃化技術 vitrification 避免結冰） | 164 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbxqh7/) |
+| 9 | 為何天氣網站常很慢？（地理資料密度大、即時動態渲染、廣告層多——商業模式靠廣告填滿頁面） | 135 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbl85d/) |
+| 10 | 自行車為何快騎自動平衡而慢騎不平衡？（角動量讓輪維持自轉軸方向；前叉幾何（caster angle）讓車自動修正傾倒方向） | 111 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tb7zm5/) |
+| 11 | 為何資料中心很大？（伺服器運算密度有限；散熱與電力需要大空間；冗餘設計倍增佔地） | 65 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbweyg/) |
+| 12 | 雷雨/閃電/紅色精靈中為何「空氣有電」？人類為何未能收集利用？（電荷分離由水滴上下對流造成；閃電瞬間放電功率極高但能量總量有限，難穩定收集） | 54 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tb89ay/) |
+| 13 | 冷氣是否讓周圍加熱多於室內降溫？（是——冷氣搬熱還消耗額外電能轉成熱，整體增加環境總熱量） | 49 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tby3z3/) |
+| 14 | 為何常把整個腹部叫「胃」？（口語簡化；胃只在左上腹小區，但「stomach pain」「punched in the stomach」已成為「腹部」的通稱） | 49 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbwlsi/) |
+| 15 | 冷凍 H₂O₂ 會怎樣？（H₂O₂ 結晶結構不同於水——分子斜對稱；高濃度 H₂O₂ 冷凍可能結成正交晶體，純度高時可能形成單斜晶系） | 43 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tbmndh/) |
+
+## 2026-05-12
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 古代地圖無空中視角為何常常驚人準確？（航海者觀星定緯度、計步測距、長期累積、相互交叉驗證；早期地圖多沿海，內陸誤差大） | 1,051 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1taljww/) |
+| 2 | 病毒演化目標是繁殖延續，為何常致死？（病毒不「目標」演化——能傳播即可被選擇；致死可能是「太成功」副作用，或新跨物種未適應） | 747 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tapgot/) |
+| 3 | 太空為何是好絕緣體？（無物質 = 無熱傳導 = 無對流；只剩輻射散熱——這就是熱水瓶真空夾層原理） | 585 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ta4r2y/) |
+| 4 | 為何充電器有些熱有些不熱？（轉換效率差異——劣質 80% 效率、好 95%；剩餘能量變熱） | 330 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1takafu/) |
+| 5 | 為何下載最後 1% 比前 99% 更久？（進度估算用平均速率而非剩餘工作；最後階段常含解壓/校驗/小檔案逐個寫入——這些不易計算速率） | 289 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1talcmy/) |
+| 6 | 大麻 schedule 重分類實際影響為何？（從 Schedule I 移至 III——研究放鬆、銀行可服務、稅務可扣費用；仍未完全合法化） | 243 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ta8tw2/) |
+| 7 | 裝置如何「知道」電池剩多少電？（測電壓/電流變化、累積放電量；現代電池管理 IC（BMS）內建學習算法） | 218 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ta9p9r/) |
+| 8 | Starlink 碟子功率比燈泡小，怎能傳訊至太空？（功率小但極窄波束聚焦——天線增益高 + 衛星接收靈敏度高；WiFi 是球面散射故衰減快） | 208 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tatzfb/) |
+| 9 | 作者如何從圖書館借出獲收入？（不同國家不同——歐洲多國有「公共借閱權」基金；美國則無直接付費，但圖書館購書本身是收入） | 187 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1taf6vl/) |
+| 10 | 為何密封塑膠仍可聞到內容物？（塑料是多孔聚合物——氣體小分子可緩慢擴散；防潮但不防氣味） | 166 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ta7bsf/) |
+| 11 | 古人如何知道天上某些是「行星」而非星星？（觀察「漫遊星」——希臘文 planetes，多年位置在天空移動，與固定恆星不同） | 115 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tarxgv/) |
+| 12 | 為何我們強烈關聯臉部表型與個性？（演化讓「第一印象」快速判斷生存威脅；本質是訊號偵測，準確度其實有限） | 37 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ta8zob/) |
+| 13 | 嗅覺與味覺關係？（味覺只 5 種（甜鹹酸苦鮮）；其他「味道」是嗅球同時偵測的氣味；鼻塞使腦無法整合味覺與嗅覺） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1taq3ze/) |
+| 14 | 童音與成人音差別在哪？（聲帶短小音高高；共振腔小頻譜窄；節奏不穩；發音器官未完全控制） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1taoj4n/) |
+| 15 | 經濟學「集體行動」是什麼？（多人合作可獲更大利益但個人有誘因「搭便車」——稅、環保、工會皆為集體行動問題） | 18 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tadp94/) |
+
+## 2026-05-11
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | Cuba 為何允許美軍基地（與監獄）在自己土地，雖被禁運數十年？（Guantánamo Bay 是 1903 永久租約，1959 革命後 Cuba 拒收租金但無法依國際法驅逐——美方持續寄支票卡為法律記錄） | 2,250 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9qcn9/) |
+| 2 | 胎壓感測器如何把資料傳到車？（每輪內有小無線電池發射器，433/315 MHz 短距無線傳至車載接收器） | 1,552 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9aruk/) |
+| 3 | 為何動物臉的眼鼻嘴都在同一處且固定順序？（演化早期「頭部」就以攝食器官為中心，感官靠近食物入口最有效；對稱保持源自雙側對稱祖先） | 967 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9f70j/) |
+| 4 | 賭場如何數學上保證獲利？（每場遊戲對賭場有微小「house edge」，大數法則下長期幾近確定獲利；個別大彩贏家也包含在統計中） | 387 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9p1ba/) |
+| 5 | 為何白衣需與彩衣分洗，但彩衣間不太需要分？（白色容易染上少量染料就明顯；彩色染料退色被吸收後人眼較不易察覺） | 345 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9kzn9/) |
+| 6 | 億萬富翁為何在壞經濟下持續變富？（資產（股票/不動產）跌深易回升；他們有現金能逢低買進；經濟差使勞動人口資產減少而富人比重提升） | 274 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9us6e/) |
+| 7 | 為何運動停止後比運動中更覺得汗多？（運動中皮膚血流大、汗即蒸發冷卻；停下後血流降低、蒸發減慢，汗水堆積感更明顯） | 227 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9iu3n/) |
+| 8 | 怎麼發現「空間擴張比光快」？（哈伯紅移觀測——遙遠星系紅移大於光速允許；但這不違反相對論，因為「空間本身」擴張不算「物體在空間中移動」） | 187 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9d9sg/) |
+| 9 | 為何某些運動員叫「player」，其他叫「jockey/driver/boxer」？（英文歷史慣例——player 來自一般「play sport」，特定職業（騎師/拳手）有專名是領域早期定型；無嚴格規則） | 99 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9x0qa/) |
+| 10 | 如何估計整個宇宙的大小？我們看不到全部？（可觀測宇宙 = 光從宇宙誕生以來能傳到的範圍，半徑 ~465 億光年；總宇宙可能更大或無限） | 64 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9cs07/) |
+| 11 | 身體如何知道治癒傷口時停在皮膚層？（接觸抑制——細胞觸碰停止分裂；纖維芽細胞填補後上皮細胞遷移覆蓋；癌症常是這個機制失效） | 57 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9f4ar/) |
+| 12 | 「Follow-the-sun」模式前提為何？（24h 連續支援——全球三班輪換，亞洲下班歐洲接、歐洲下班美洲接；比單純「全球團隊」更有結構化交接） | 19 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9m3y3/) |
+| 13 | 為何某些護膚品吸收某些不吸收？（分子大小與脂溶性——小分子過皮膚屏障；防曬乳設計成「停留表面」反射 UV） | 18 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9mjff/) |
+| 14 | 紅線（redlining）如何運作？（聯邦房屋管理局 1930s 標記特定區「高風險」拒貸；該區房價跌→種族集中→投資不足→自我強化的隔離） | 13 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9qjtf/) |
+| 15 | 想像時腦在做什麼讓我們計畫與反事實推理？（默認模式網路 + 前額葉合作模擬不在場景；用感覺記憶構建未發生的場景） | 14 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1t9j5sl/) |
 
 ## 2026-05-10
 

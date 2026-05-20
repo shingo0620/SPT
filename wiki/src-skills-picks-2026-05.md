@@ -1,9 +1,9 @@
 ---
 title: skills.sh Picks 月報 — 2026-05
 type: source
-sources: [skills-picks-2026-05-08.md, skills-picks-2026-05-07.md, skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
+sources: [skills-picks-2026-05-12.md, skills-picks-2026-05-11.md, skills-picks-2026-05-10.md, skills-picks-2026-05-09.md, skills-picks-2026-05-08.md, skills-picks-2026-05-07.md, skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-09
+updated: 2026-05-19
 tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 ---
 
@@ -34,8 +34,14 @@ tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 | 2026-05-06 | 4,703 | +157 | 加速進一步——3 日 +12.4% |
 | 2026-05-07 | 4,873 | +170 | **持續加速**——日增續創新高 |
 | 2026-05-08 | 5,036 | +163 | **突破 5,000**——歷史里程碑（從 04-18 首次精選 2,941 起 +71%） |
+| 2026-05-09 | 5,156 | +120 | 增速回落但仍維持 100+ |
+| 2026-05-10 | 5,259 | +103 | **加速軌跡終結**——連 5 日加速後首次明顯減速 |
+| 2026-05-11 | 5,332 | +73 | 增速續減（疑似進入新平台期） |
+| 2026-05-12 | 5,414 | +82 | 增速微反彈但仍低於 100 |
 
-**9 日累積增長**：+963（4,073 → 5,036），日均約 +107。
+**13 日累積增長**：+1,341（4,073 → 5,414），日均約 +103。
+
+> ⚠️ **5/13 起 fetcher 失效**——skills-picks raw 自 2026-05-13 起未抓到（疑似 fetch-skills-picks.sh 或 skills.sh 端問題）。安裝數追蹤暫時中斷，待修復 fetcher 後補。
 
 > **W18 預測校正**——[[週綜整-2026-W18]] 中曾預測「5/4 ast-grep 日增將跌至 ~50」並推論「skills.sh pick 效應結束」。**實際 5/4-5/8 五日數據（+106 / +116 / +157 / +170 / +163）完全推翻此假設**：5 日內持續加速並突破 5,000。校正觀察：
 >
@@ -47,6 +53,8 @@ tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 >   - 對比意義：**ast-grep 是「真實 organic 擴散」（非 hype），find-skills 可能是「統計重置 + 渠道推送」**
 > - **可能機制**：(1) ast-grep 的 npm 生態擴散自然成長（2）GitHub Trending Skill 生態擴散外溢（3）以 4 月 18 日**唯一一次精選**為起點的長尾延續
 > - **5/9 觀察點**：能否突破 5,200？日增能否維持 +150 以上？find-skills 是否回榜？
+
+> **5/9-5/12 W19-W20 校正觀察**——5/9 +120 已預告減速、5/10 +103 確認加速軌跡終結、5/11 +73 跌破 100。**W19 持續加速假設失敗**——5/4-5/8 五日加速（+106 → +163）是峰值，5/9-5/12 進入新平台期（日均 +94）。對照 [[src-skills-trending-2026-05]]，find-skills 5/7-5/8 連續跌出榜外、5/9 後雖回 Top 10 但 install 增速放緩，與 ast-grep 的減速時機吻合——**證實「skill discovery 渠道擴大」是真實機制**（find-skills 退潮 → ast-grep 減速）。
 
 > **比較 [[src-skills-trending-2026-05]] 05-01 首日基線**：
 > - ast-grep 4,173 安裝 → 排在 trending Top 10 之外（推測 #11+）
@@ -61,10 +69,10 @@ tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 
 ## 本月觀察
 
-- **5 月前 6 日 skills.sh 仍未恢復發布**——`/picks` 頁面從 04-19 起空白已超過 18 天（5/6 為止），實質停發機率持續上升
-- **ast-grep 衰減假設失效**——5/4-5/6 日增 106 → 116 → 157，與 5/1-5/3 的 100 → 90 → 61 形成 V 字反彈；先前的「自然擴散平台期」推論被自身數據推翻
-- **本月關注重點**（5/6 更新）：
+- **5 月前 12 日 skills.sh 仍未恢復發布**——`/picks` 頁面從 04-19 起空白已超過 24 天（5/12 為止），實質停發已成事實
+- **ast-grep 增速三階段**：5/1-5/3 衰減（100/90/61）→ 5/4-5/8 加速（+106 至 +170 峰值）→ 5/9-5/12 平台化（+120 → +73 → +82，日均 +94）
+- **本月關注重點**（5/12 更新）：
   1. skills.sh 是否恢復發布 Pick of the Day（恢復則本表格將即時更新）
   2. trending 月報（[[src-skills-trending-2026-05]]）作為 organic 流行度的主要追蹤——picks 停發後，trending 接替成為 skills.sh 生態的核心信號
-  3. ast-grep 是否能擠入 trending Top 10——5/6 為 4,703，與 Top 10 microsoft-foundry 6,762 仍差 30%，但若維持日增 +150 則 W19 內可能進入榜
-  4. **find-skills 5/3-5/6 從 11.7k → 18.6k 暴漲（+60%）**——可能解釋 ast-grep 重新加速的機制（skill discovery 渠道擴大）；待驗證
+  3. ast-grep 是否能擠入 trending Top 10——5/12 為 5,414，與 5/8 Top 10 入榜門檻仍有距離；目前增速放緩可能延後進榜時程
+  4. **fetcher 失效調查**——5/13 起 picks/trending 雙雙缺失，可能：(a) fetch-skills-picks.sh 在 skills.sh 改版後解析失敗、(b) skills.sh 服務端問題、(c) GitHub Actions runner 出狀況。需手動跑腳本驗證
