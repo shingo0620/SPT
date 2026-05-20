@@ -1,7 +1,7 @@
 ---
 title: skills.sh Trending Top 10 月報 — 2026-05
 type: source
-sources: [skills-trending-2026-05-12.md, skills-trending-2026-05-11.md, skills-trending-2026-05-10.md, skills-trending-2026-05-09.md, skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
+sources: [skills-trending-2026-05-20.md, skills-trending-2026-05-12.md, skills-trending-2026-05-11.md, skills-trending-2026-05-10.md, skills-trending-2026-05-09.md, skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [skills-sh, agent-skills, trending, monthly-digest]
@@ -19,7 +19,37 @@ tags: [skills-sh, agent-skills, trending, monthly-digest]
 
 > **2026-05-13 更新**：5/9-5/12 四日連續異常事件：(1) **5/9 inference URL 第二次改名**（inference-skills → inference-sh-skills，install 全部 -33%）(2) **5/10 agentspace-so 五件全進榜**（單日推送異象，當日 inference 同步恢復至 32k+）(3) **5/11 agentspace-so 全部跌出**（hype 結束）+ mattpocock 三件全進榜（grill-with-docs ✨ 首次入榜）(4) **5/12 organic 恢復**（soultrace 突破 8k，mattpocock 三件均成長）
 
-> ⚠️ **2026-05-13 fetcher 失效**：skills-trending 與 picks raw 自 5/13 起未抓到，疑似 skills.sh 改版或 fetch 腳本失敗，待修復
+> ⚠️ **5/13-5/19 資料缺口（已診斷修復）**：fetcher 自 5/13 起失效，根因為 skills.sh 啟用 `skills.sh` → `www.skills.sh` 的 **308 永久重導向**，而 `fetch-skills-trending.sh` 的 `curl -sf` 缺 `-L`，拿到 15 bytes 重導向佔位頁。**5/20 加 `-L` 修復**；中間 7 日（5/13-19）排名變化因 skills.sh 不提供歷史快照而**永久遺失**——故 5/20 與 5/12 不可直接逐日比較。
+
+## 2026-05-20 — inference 五件全跌出 + 飛書（Lark）八件刷榜（修復後首個資料點）
+
+| # | Skill | Source | Installs | 變化 |
+|---|-------|--------|----------|------|
+| 1 | [[src-mattpocock-skills\|grill-me]] | mattpocock/skills | 7,568 | ↑ 5/12 #8 7,972 → #1（**8 日跨缺口**，登頂） |
+| 2 | [grill-with-docs](https://skills.sh/mattpocock/skills/grill-with-docs) | mattpocock/skills | 7,407 | ↑ 5/12 #9 7,059 → #2 |
+| 3 | ✨ [lark-approval](https://skills.sh/open.feishu.cn/lark-approval) | open.feishu.cn | 6,741 | ✨ **首次入榜**——飛書/Lark 第 1 件 |
+| 4 | ✨ [lark-calendar](https://skills.sh/open.feishu.cn/lark-calendar) | open.feishu.cn | 6,736 | ✨ 飛書第 2 件 |
+| 5 | ✨ [lark-base](https://skills.sh/open.feishu.cn/lark-base) | open.feishu.cn | 6,734 | ✨ 飛書第 3 件 |
+| 6 | ✨ [lark-shared](https://skills.sh/open.feishu.cn/lark-shared) | open.feishu.cn | 6,733 | ✨ 飛書第 4 件 |
+| 7 | ✨ [lark-contact](https://skills.sh/open.feishu.cn/lark-contact) | open.feishu.cn | 6,732 | ✨ 飛書第 5 件 |
+| 8 | ✨ [lark-task](https://skills.sh/open.feishu.cn/lark-task) | open.feishu.cn | 6,731 | ✨ 飛書第 6 件 |
+| 9 | ✨ [lark-wiki](https://skills.sh/open.feishu.cn/lark-wiki) | open.feishu.cn | 6,730 | ✨ 飛書第 7 件 |
+| 10 | ✨ [lark-vc](https://skills.sh/open.feishu.cn/lark-vc) | open.feishu.cn | 6,730 | ✨ 飛書第 8 件 |
+
+⬇️ **跌出榜外**（對比 5/12，但中隔 7 日缺口）：inference-sh-skills 五件（5/12 全在 #1-#5，33k+）+ wonda-cli + soultrace + improve-codebase-architecture
+
+> **05-20 觀察**（⚠️ 因 5/13-19 缺口，以下為「5/12 → 5/20 跨 8 日」變化，非單日）：
+>
+> ### 1. **inference-sh-skills 五件全跌出 Top 10——數週霸榜終結**
+> - 5/12 為止 inference 五件穩居 #1-#5（33k+ installs）長達數週；5/20 已**完全不在 Top 10**
+> - 因缺口無法判斷是漸跌還是某日驟跌；可能與 5/9 URL 二次改名（inference-skills → inference-sh-skills）的長尾衰減有關
+>
+> ### 2. **飛書（open.feishu.cn）八件同步刷榜——史上最大單 publisher 佔榜**
+> - lark-approval/calendar/base/shared/contact/task/wiki/vc 八件佔據 #3-#10，installs 集中在 6,730-6,741（11 install 區間內）
+> - 比 5/10 agentspace-so 五件、5/11 mattpocock 三件更誇張——**單一 publisher 佔 Top 10 的 8 席**
+> - 高度同步的 install（相差僅 11）是典型「批次發布 + 集中曝光」樣式，非 organic；對應飛書（字節跳動）官方推出整套 Lark MCP/skill
+>
+> ### 3. **mattpocock 兩件登頂**——organic skill 在 inference 退場後遞補榜首（grill-me 7,568 / grill-with-docs 7,407）
 
 ## 2026-05-12 — Organic 恢復日 + mattpocock 三件全在榜
 

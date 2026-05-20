@@ -1,7 +1,7 @@
 ---
 title: skills.sh Picks 月報 — 2026-05
 type: source
-sources: [skills-picks-2026-05-12.md, skills-picks-2026-05-11.md, skills-picks-2026-05-10.md, skills-picks-2026-05-09.md, skills-picks-2026-05-08.md, skills-picks-2026-05-07.md, skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
+sources: [skills-picks-2026-05-20.md, skills-picks-2026-05-12.md, skills-picks-2026-05-11.md, skills-picks-2026-05-10.md, skills-picks-2026-05-09.md, skills-picks-2026-05-08.md, skills-picks-2026-05-07.md, skills-picks-2026-05-06.md, skills-picks-2026-05-05.md, skills-picks-2026-05-04.md, skills-picks-2026-05-03.md, skills-picks-2026-05-02.md, skills-picks-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
@@ -38,10 +38,13 @@ tags: [skills-sh, agent-skills, monthly-digest, no-new-pick]
 | 2026-05-10 | 5,259 | +103 | **加速軌跡終結**——連 5 日加速後首次明顯減速 |
 | 2026-05-11 | 5,332 | +73 | 增速續減（疑似進入新平台期） |
 | 2026-05-12 | 5,414 | +82 | 增速微反彈但仍低於 100 |
+| 2026-05-13~19 | — | — | ⚠️ **資料缺口**（fetcher 失效，永久遺失，見下） |
+| 2026-05-20 | 6,357 | +943/8日 | 修復後恢復；8 日累積 +943（≈ 日均 +118），無法還原中間單日 |
 
-**13 日累積增長**：+1,341（4,073 → 5,414），日均約 +103。
+**累積增長**：4,073（4/30）→ 6,357（5/20），20 日 +2,284。
 
-> ⚠️ **5/13 起 fetcher 失效**——skills-picks raw 自 2026-05-13 起未抓到（疑似 fetch-skills-picks.sh 或 skills.sh 端問題）。安裝數追蹤暫時中斷，待修復 fetcher 後補。
+> ⚠️ **5/13-5/19 資料缺口（已診斷修復）**：fetcher 自 5/13 起失效，根因為 **skills.sh 啟用 `skills.sh` → `www.skills.sh` 的 308 永久重導向**，而 `fetch-skills-picks.sh` 的 `curl -sf` 缺 `-L` 旗標，拿到的是 15 bytes 重導向佔位頁 → 解析報「找不到 picks 資料」。**2026-05-20 加 `-L` 修復後恢復正常**。中間 7 日（5/13-19）的 ast-grep 安裝數因 skills.sh 不提供歷史快照而**永久遺失**。
+> ✅ 修復驗證：5/20 picks 正確標記 `is_fresh_pick: false`（fallback ast-grep 6,357）；skills.sh `/picks` 頁面內容完好（picks 資料、ast-grep installs 都在），確認非 skills.sh 改版破壞解析，純為缺 `-L`。
 
 > **W18 預測校正**——[[週綜整-2026-W18]] 中曾預測「5/4 ast-grep 日增將跌至 ~50」並推論「skills.sh pick 效應結束」。**實際 5/4-5/8 五日數據（+106 / +116 / +157 / +170 / +163）完全推翻此假設**：5 日內持續加速並突破 5,000。校正觀察：
 >

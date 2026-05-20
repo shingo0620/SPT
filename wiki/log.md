@@ -2,6 +2,22 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-20] fix | skills fetcher 缺 `-L` 致 5/13-19 缺口（根因診斷 + 修復）
+
+**觸發**：使用者跑 `bash scripts/fetch-skills-picks.sh` 報 `ERROR: 找不到 picks 資料`，要求診斷。
+
+**根因**：skills.sh 約在 5/12→5/13 間啟用 `skills.sh` → `www.skills.sh` 的 **HTTP 308 永久重導向**。`fetch-skills-picks.sh` 與 `fetch-skills-trending.sh` 的 `curl -sf` **缺 `-L` 旗標不跟隨重導向**，拿到 15 bytes 的「Redirecting...」佔位頁 → RSC payload 解析找不到 `picks`/`blurb` chunk → 報錯。
+- ✅ 排除其他假設：curl `-L` 跟隨後頁面回 200 / 139KB / picks 資料與 ast-grep installs 都在 → **非 skills.sh 改版破壞解析、非 picks 真停發到無資料、非 Cloudflare 擋**
+- ✅ 時間線吻合：5/13 起失效 = 重導向啟用時點
+
+**修復**：兩腳本 `curl -sf` → `curl -sfL`（加 `-L` 跟隨重導向，比寫死 www 網域更穩健）。驗證：5/20 picks（fallback ast-grep 6,357，正確標 `is_fresh_pick: false`）+ trending（Top 10 正常）皆成功抓取。
+
+**資料缺口**：5/13-5/19（7 日）picks/trending raw 因當時失效未抓，skills.sh 不提供歷史快照 → **永久遺失**。已在 [[src-skills-picks-2026-05]]、[[src-skills-trending-2026-05]] 明確標注缺口，未虛構填補（遵循「靜默 fallback 製造假象」教訓）。
+
+**5/20 ingest（修復後首個資料點）**：
+- picks：ast-grep 6,357（5/12 5,414 → 5/20，8 日 +943）
+- trending：⚠️ 重大變化——**inference-sh-skills 五件數週霸榜後全跌出 Top 10**；mattpocock grill-me/grill-with-docs 登頂 #1-#2；**飛書 open.feishu.cn 八件（lark-*）刷榜佔 #3-#10**（installs 集中 6,730-6,741，史上最大單 publisher 佔榜）
+
 ## [2026-05-19] ingest | 大批補齊 5/9-5/18 八來源月報 + 4 篇 obsidian 文章 + W20 綜整
 
 **觸發**：`/llm-wiki ingest`，使用者選「全部一次處理完」。pull-before（sync-vault pull）後偵測到大量積壓。

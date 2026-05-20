@@ -13,7 +13,7 @@ OUTFILE="${RAW_DIR}/skills-trending-${DATE}.md"
 TMPFILE=$(mktemp)
 trap 'rm -f "$TMPFILE"' EXIT
 
-curl -sf "https://skills.sh/trending" -o "$TMPFILE" || { echo "ERROR: 無法取得 skills.sh/trending"; exit 1; }
+curl -sfL "https://skills.sh/trending" -o "$TMPFILE" || { echo "ERROR: 無法取得 skills.sh/trending"; exit 1; }
 
 python3 - "$TMPFILE" "$DATE" "$OUTFILE" << 'PYEOF'
 import re, sys
