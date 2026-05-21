@@ -22,6 +22,8 @@
 > 月報 2026-05-09 ingest：5 月月報補完 05-07、05-08 兩日（共 16 個 daily raw）。**重大事件**：（1）**HN 5/8 三線重大事件**：[[Cloudflare]] 裁員 20% 1,069 分（與 5/6 「agents 自主買域名」形成戲劇性反差，「人類員工 → AI 員工」轉型訊號）+ Canvas/ShinyHunters 駭事件 839 分（跨 Wikipedia/ELI5 三平台同步連動）+ Dirtyfrag Universal Linux LPE 726 分；（2）**HN 5/7 開源硬體與 agent 工具鏈**：Valve 釋出 Steam Controller CAD 1,634 分 + SQLite 獲美國國會圖書館認證 484 分 + DeepMind AlphaEvolve（Gemini coding agent for science）+ Agent-harness-kit MCP scaffolding；（3）**PH 5/8 YC Application 季啟動**：15 件中 11 件帶 YC Application 標籤——Monid 2.0「OpenRouter for agent tools」+ Minions「Hermes agent mission control」+ Kuku「open-source local second brain」(呼應 LLM Wiki) + Fabraix「Find gaps in your AI agents before users do」(呼應 [[AI 品質共謀]])；（4）**PH 5/7 Anthropic 進攻金融服務**：Claude Agents for Financial Services（KYC/pitches/closing books）+ GPT-5.5 Instant 同日對打 + FlowMarket「AI agents 之間生成 B2B deals 的 socialnet」開創 agent-to-agent 商業層；（5）**skills.sh trending 二度大跌**：inference-skills 五件 5/8 單日 -2,800/skill 同步下跌（不同於 5/3 改名重置）+ find-skills 5/7 跌出榜外（5 日 hype curve 急轉）+ mattpocock 兩件穩定回到 #9/#10；（6）**ast-grep 持續加速突破 5,000**：5/4-5/8 五日 +106/+116/+157/+170/+163，9 日累積 +963（4,073 → 5,036）證實「organic 擴散」（非 hype）；（7）**GitHub Trending 信號崩壞日 #3+#4 連兩日**：5/7 五帳號 polymarket bot 7 件 + 5/8 三帳號 0-desc 7 件刷榜+ TRX-Drainer-Tool 偷錢工具上榜揭示演算法漏洞；亮點 ✨ 5/8 #7 mitsuhiko/pi-ds4（[[Armin Ronacher]] 在 Pi 上跑 DeepSeek V4，與 [[antirez]] 4/26 llama.cpp 實驗形成 indie 邊緣設備跑大模型軸）；（8）**Wikipedia 跨平台連動**：5/8 ShinyHunters 條目進 Top 3（呼應 HN）+ Hantavirus 雙條目進榜（疫情訊號）。
 
 > 月報/文章 2026-05-11 ingest：（A）**5 月月報補完 05-09、05-10 兩日 reddit**（til + eli5，4 個 raw；其他來源 hn/github/pH/wiki/skills 自 5/9 起 GitHub Actions 尚未抓）——傳統 TIL/ELI5 風格回歸（歷史/科學/動物冷知識為主，無重大資安/AI 滲透）。（B）**7 個獨立來源 ingest**：① ⭐ **[[src-karpathy-sequoia-ascent-2026]]**——Karpathy 2026-04-30 Sequoia 訪談（Software 3.0 / Agentic Engineering / Jagged Intelligence / Verifiability / Ghosts vs Animals / 「外包思考不外包理解」），**Karpathy 親自把 [[LLM Wiki]] 列為「以前不可能、現在自然」的代表——本 wiki 專案正是該方法論的實踐**；② **[[src-armin-agent-design-hard]]**——Armin Ronacher agent 工程實戰（SDK 選擇、cache points、reinforcement injection、virtual fs、Claude Code TodoWrite = echo tool 洞察）；③ **[[src-graphify]]**——safishamsi/graphify 46k stars，codebase → knowledge graph 跨 17 平台 skill，[[LLM Wiki]] 模式的程式碼特化自動版；④ **[[src-anthropic-managed-agents]]**——Anthropic Managed Agents PM 視角，確認 Anthropic 6 產品線（含 Claude Cowork / Claude Security）；⑤ **[[src-gemma4-mtp]]**——Gemma 4 MTP drafters 3x inference 加速；⑥ **[[src-forbes-vibe-coding-buy-vs-build]]**——vibe coding 失敗時 buy vs build（低風險自建 / 高風險 system of record 應買）；⑦ **[[src-claude-family]]**——5 個 Claude 產品工作流定位速查。（C）**新建 entity**：[[Armin Ronacher]]（2 source）；更新 [[Andrej Karpathy]]（5 source，加 Software 3.0 等概念表）。（D）**反向更新**：[[Multi-Agent 失敗分類學]] 加 Karpathy Sequoia 對位段。**待後續（lint 範圍）**：W19 綜整待補 5/9-5/10 其他來源後完整；Software 3.0 / Jagged Intelligence / Verifiability 是否值得獨立概念頁；[[Skill vs Bash vs MCP]] 待加 Mario Zechner「不用 MCP」反觀點段。
+
+> 月報/lint 2026-05-20 ingest+lint：（A）**補 ingest 05-19 四來源**（hn/github-trending/producthunt/wikipedia——先前僅 reddit 完成、`updated` 虛報 05-19 造成假象）：⭐ **HN #3 [[Andrej Karpathy]] 宣布加入 [[Anthropic]]**（477 分當日最高，TechCrunch/CNBC/Axios 證實，投入 pre-training 團隊 lead Nick Joseph；[[LLM Wiki]] 提出者投奔 Claude 母廠）+ HN 資安雙線（CISA AWS GovCloud 金鑰外洩 + Mini Shai-Hulud 314 npm 套件）+ GitHub #12 nashsu/llm_wiki_skill ✨（LLM Wiki 模式擴散）+ PH agent 語音/電話化（PollyReach/Chert）+ Composer 2.5/ShioriCode 編輯器戰局。（B）**lint 修正**：[[src-skill-ast-grep]] 安裝數補至 6,357（05-20）+ 05-13~19 fetcher 308 缺口註記；修 6 處懸空連結（Bun/Palantir/綜整Q1 forward ref/SPT-CLAUDE.md×3 降純文字）；skills 兩月報 `updated`→05-20；[[src-reddit-til-2026-05]]↔[[src-reddit-eli5-2026-05]] 補交叉引用消孤立。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -100,7 +102,7 @@
 
 - [[src-skill-character-arc]] — character-arc：角色弧線診斷 skill，純 prompt engineering 的 diagnostic 範本（來源數：1）
 - [[src-skill-3b1b-style-animation-skill]] — 3b1b-style-animation-skill：Manim 數學動畫 skill，將 3Blue1Brown 教學哲學整合成 agent 工作流（來源數：1）
-- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）→ 4,703（05-06）→ **5,036（05-08，突破 5,000；5/4-5/8 五日 +106/+116/+157/+170/+163 持續加速確認 organic 擴散，vs find-skills hype curve 5/7 跌出榜外**），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及 + find-skills 暴漲帶動發現（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
+- [[src-skill-ast-grep]] — ast-grep：AST 結構化代碼搜尋 skill，skills.sh **2026-04-18 唯一一次精選**，安裝數從 2,941（04-18）→ 4,073（04-30）→ 5,036（05-08，突破 5,000）→ 5,414（05-12）→ ⚠️【05-13~19 fetcher 308 缺口】→ **6,357（05-20，自 04-18 累積 +116%）**，5/4-5/8 五日加速確認 organic 擴散（vs find-skills 5/7 跌出榜外），擴散驅動為 GitHub Trending Skill 生態爆發 + Claude Code 文化普及 + find-skills 暴漲帶動發現（非 skills.sh 持續精選；⚠️ 原「連 N 日精選」說法為 fetcher fallback 假象，已撤回）（來源數：1）
 - [[src-skill-guizang-ppt]] — guizang-ppt（歸藏）：雜誌風 horizontal swipe HTML PPT skill，「強約束派」設計（5 主題 / 10 layout 不可自訂）（來源數：1）
 - [[src-bug-hunter]] — bug-hunter（codexstar69）：跨 7+ agent 平台的 adversarial multi-agent bug hunter + auto-fix skill；首個明確「multi-agent + adversarial」設計（來源數：1，僅 URL 標籤）
 
@@ -108,7 +110,7 @@
 
 ### 人物
 
-- [[Andrej Karpathy]] — 深度學習實作者與教育者，LLM Wiki 提出者；提出 Software 3.0 / Agentic Engineering / Jagged Intelligence / Ghosts vs Animals（來源數：5）
+- [[Andrej Karpathy]] — 深度學習實作者與教育者，LLM Wiki 提出者；提出 Software 3.0 / Agentic Engineering / Jagged Intelligence / Ghosts vs Animals；**2026-05-19 加入 [[Anthropic]] pre-training 團隊**（來源數：5）
 - [[Armin Ronacher]] — Flask/Jinja2/Pocoo 創辦人（mitsuhiko），現於 Earendil 做 agent engineering；agent 設計實戰 + indie edge LLM（pi-ds4）；反 MCP 過度工程（來源數：2）
 - [[Tobi Lütke]] — Shopify CEO，QMD 提出者（來源數：1）
 - [[Garry Tan]] — YC 總裁，GBrain 建立者（來源數：1）
@@ -120,7 +122,7 @@
 
 ### 組織
 
-- [[Anthropic]] — Claude 模型系列與 Claude Code 開發商（來源數：0，LLM 跨來源歸納）
+- [[Anthropic]] — Claude 模型系列與 Claude Code 開發商；**2026-05-19 招募 [[Andrej Karpathy]]** 投入 pre-training（來源數：0，LLM 跨來源歸納）
 - [[Apple]] — 2026-04-20 Tim Cook → John Ternus CEO 交接事件為本月追蹤焦點（來源數：2）
 - [[Cloudflare]] — 網路基礎設施公司；2026-05 「裁員 20%（1,100+ 人）× agents 自主買域名上崗」戲劇性反差，「人類員工 → AI 員工」轉型標誌性事件（來源數：3）
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）

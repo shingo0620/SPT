@@ -28,7 +28,7 @@ tags: [claude-code, claude-md, karpathy, agentic-engineering, best-practices]
 3. **Surgical Changes**——只動該動的、不「改善」鄰近程式碼、配合既有風格
 4. **Goal-Driven Execution**——定義成功標準後迭代，而非規定步驟
 
-> 註：這 4 條與 [[SPT/CLAUDE.md|本 wiki 使用者全域 CLAUDE.md]] 的「Think Before Coding / Simplicity First / Surgical Changes / Goal-Driven Execution」四原則**字面幾乎相同**——使用者的全域規範正是源自 forrestchang 這份 repo。
+> 註：這 4 條與本 wiki 使用者全域 CLAUDE.md 的「Think Before Coding / Simplicity First / Surgical Changes / Goal-Driven Execution」四原則**字面幾乎相同**——使用者的全域規範正是源自 forrestchang 這份 repo。
 
 ## 新增 8 規則（ceiling）
 

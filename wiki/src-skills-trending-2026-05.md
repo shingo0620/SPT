@@ -3,7 +3,7 @@ title: skills.sh Trending Top 10 月報 — 2026-05
 type: source
 sources: [skills-trending-2026-05-20.md, skills-trending-2026-05-12.md, skills-trending-2026-05-11.md, skills-trending-2026-05-10.md, skills-trending-2026-05-09.md, skills-trending-2026-05-08.md, skills-trending-2026-05-07.md, skills-trending-2026-05-06.md, skills-trending-2026-05-05.md, skills-trending-2026-05-04.md, skills-trending-2026-05-03.md, skills-trending-2026-05-02.md, skills-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-20
 tags: [skills-sh, agent-skills, trending, monthly-digest]
 ---
 

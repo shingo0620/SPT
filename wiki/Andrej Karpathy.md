@@ -3,7 +3,7 @@ title: Andrej Karpathy
 type: entity
 sources: [向三位大師學AI筆記.md, karpathy筆記實作.md, LLM Wiki.md, sequoia-ascent-2026-summary-karpathy.md, 你可以外包思考但不能外包理解karpathy-最新訪談精華心得ai-時代的真正競爭力.md]
 created: 2026-04-13
-updated: 2026-05-11
+updated: 2026-05-20
 tags: [人物, AI, 深度學習, 教育者]
 ---
 
@@ -19,6 +19,7 @@ tags: [人物, AI, 深度學習, 教育者]
 - Tesla AI 總監（Director of AI），主導 Autopilot 神經網路與電腦視覺
 - 近年再度與 OpenAI 深度合作
 - 2024 年創辦 Eureka Labs，延伸至 AI 原生教育產品
+- **2026-05-19 加入 [[Anthropic]]**，投入 pre-training 研究（team lead Nick Joseph）
 - 提出「Software 2.0」「Software 3.0」「vibe coding」「Agentic Engineering」「Jagged Intelligence」「Ghosts vs Animals」等概念
 
 ## 知識管理貢獻
@@ -38,6 +39,14 @@ tags: [人物, AI, 深度學習, 教育者]
 > **You can outsource your thinking, but you can't outsource your understanding.**
 
 連結 Karpathy 的教育哲學——AI 把執行成本壓近零，但「方向、品味、判斷」的單價持續上漲。
+
+## ⭐ 2026-05-19 加入 Anthropic
+
+2026-05-19 Karpathy 發推宣布加入 [[Anthropic]]（[[src-hn-2026-05]] 當日 HN #3，477 分當日最高；TechCrunch / CNBC / Axios 多家證實）：投入 **pre-training 團隊**（team lead Nick Joseph），目標「用 Claude 加速 pre-training 研究」。
+
+> Personal update: I've joined Anthropic. ... I am very excited to join the team here and **get back to R&D**. I remain deeply passionate about education and plan to resume my work on it in time.
+
+職涯軌跡至此完整：OpenAI 創始成員 → Tesla FSD/Autopilot → 回 OpenAI → 2024 Eureka Labs → **2026-05 Anthropic**。對本 wiki 的意義：[[LLM Wiki]] 提出者、剛於 4/30 [[src-karpathy-sequoia-ascent-2026|Sequoia 訪談]]向矽谷推銷 Software 3.0 的 Karpathy，正式加入本 wiki 核心追蹤的 Claude 母廠——倡議「外包思考但不外包理解」的人選擇回到前沿 R&D。教育志業（Eureka Labs）暫緩但未放棄。
 
 ## 概念貢獻
 
@@ -62,6 +71,7 @@ tags: [人物, AI, 深度學習, 教育者]
 - [[src-LLM Wiki]]
 - [[src-andrej-karpathy-skills]]
 - [[src-karpathy-12-claude-rules]] — 由 Karpathy 1 月抱怨衍生的 4 規則再擴充為 12 規則 CLAUDE.md 模板（第三方實測）
+- [[src-hn-2026-05]] — 2026-05-19 加入 Anthropic 事件（HN #3）
 
 ### 概念頁
 - [[LLM Wiki]]

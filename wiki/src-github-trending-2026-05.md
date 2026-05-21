@@ -1,7 +1,7 @@
 ---
 title: GitHub Trending 月報 — 2026-05
 type: source
-sources: [github-trending-2026-05-18.md, github-trending-2026-05-17.md, github-trending-2026-05-16.md, github-trending-2026-05-15.md, github-trending-2026-05-14.md, github-trending-2026-05-13.md, github-trending-2026-05-12.md, github-trending-2026-05-11.md, github-trending-2026-05-10.md, github-trending-2026-05-09.md, github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
+sources: [github-trending-2026-05-19.md, github-trending-2026-05-18.md, github-trending-2026-05-17.md, github-trending-2026-05-16.md, github-trending-2026-05-15.md, github-trending-2026-05-14.md, github-trending-2026-05-13.md, github-trending-2026-05-12.md, github-trending-2026-05-11.md, github-trending-2026-05-10.md, github-trending-2026-05-09.md, github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [github, trending, monthly-digest]
@@ -12,6 +12,32 @@ tags: [github, trending, monthly-digest]
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
 >
 > ⚠️ **5 月持續性信號崩壞**：GitHub Trending（依新建 repo 日星數）長期被遊戲外掛、盜版軟體、加密詐騙 bot、SEO 刷榜帳號佔據高星位。每日表格保留全 15 列以利追溯，重點以 ❌（詐騙/惡意）/ ⚠️（灰色/刷榜）/ ✅（合法）/ ✨（值得關注）標注。**真實有價值的合法 repo 多集中在中低星區**。
+
+## 2026-05-19 ⚠️ 信號崩壞延續 — llm_wiki_skill ✨ + 攻擊工具/詐騙/無描述佔多數
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | ~~Glazenovatag/hyperliquid-whale-order-tracking~~ | 279 | Python | Hyperliquid 鯨魚掛單追蹤器 | ⚠️ | [GitHub](https://github.com/Glazenovatag/hyperliquid-whale-order-tracking) |
+| 2 | ~~suyancc/openai-plus-vxt~~ | 143 | TypeScript | ❌ ChatGPT 註冊輔助 + 隨機地址生成 + OpenAI/PayPal 支付頁自動填 | ❌ | [GitHub](https://github.com/suyancc/openai-plus-vxt) |
+| 3 | FoundZiGu/GuJumpgate | 72 | JavaScript | （無描述） | ⚠️ | [GitHub](https://github.com/FoundZiGu/GuJumpgate) |
+| 4 | ~~littlefrogyq/UE4SS-Subnautica-2~~ | 38 | C++ | Subnautica 2 mod loader（標題塞滿 SEO 關鍵字） | ⚠️ | [GitHub](https://github.com/littlefrogyq/UE4SS-Subnautica-2) |
+| 5 | ~~4n7h0nywh9.../Flash-USDT-Tool~~ | 35 | Python | ❌ Flash USDT 假交易工具（多鏈假轉帳） | ❌ | [GitHub](https://github.com/4n7h0nywh9ubernaw371/Flash-USDT-Tool) |
+| 6 | ~~redteamfortress/PhantomKiller~~ | 31 | C++ | ❌ BYOVD EDR killer——繞過所有防毒（已簽名） | ❌ | [GitHub](https://github.com/redteamfortress/PhantomKiller) |
+| 7 | boona13/crowds-system-js | 29 | HTML | （無描述） | ⚠️ | [GitHub](https://github.com/boona13/crowds-system-js) |
+| 8 | YxuanAr/Code-as-Room | 22 | N/A | （無描述） | ⚠️ | [GitHub](https://github.com/YxuanAr/Code-as-Room) |
+| 9 | ~~he4rt/marketing-extension~~ | 21 | JavaScript | 被動捕獲 X/Twitter GraphQL 回應做互動追蹤 | ⚠️ | [GitHub](https://github.com/he4rt/marketing-extension) |
+| 10 | Shitsuten/Bibliotheca | 20 | N/A | （無描述） | ⚠️ | [GitHub](https://github.com/Shitsuten/Bibliotheca) |
+| 11 | Arccalc/Dwmfix | 18 | Python | 修 Windows 次螢幕卡頓（防 DWM 合成節流） | ✅ | [GitHub](https://github.com/Arccalc/Dwmfix) |
+| 12 | **nashsu/llm_wiki_skill** | 18 | N/A | LLM Wiki skill（無描述，名稱直指「LLM 維護 wiki」） | ✅✨ | [GitHub](https://github.com/nashsu/llm_wiki_skill) |
+| 13 | RoseKhlifa/Image-Studio | 18 | TypeScript | 開源圖像生成/編輯桌面客戶端（Wails Go+React，資料 100% 本地） | ✅ | [GitHub](https://github.com/RoseKhlifa/Image-Studio) |
+| 14 | wanshuiyin/ARIS-in-AI-Offer | 17 | Python | 中文 ML/LLM/多模態面試 cheat sheet（ARIS /render-html 自動生成） | ✅ | [GitHub](https://github.com/wanshuiyin/ARIS-in-AI-Offer) |
+| 15 | AudiEtoffe/Plasma-GPU-Router | 17 | Python | KDE Plasma Wayland 渲染裝置/輸出選擇（釋出獨顯資源） | ✅ | [GitHub](https://github.com/AudiEtoffe/Plasma-GPU-Router) |
+
+> **05-19 觀察**——**信號崩壞延續（合法價值集中中低星）**：
+> - ✨ **#12 nashsu/llm_wiki_skill**——雖無描述，名稱直指「LLM Wiki skill 化」；呼應 [[LLM Wiki]] / [[src-obsidian-llm-wiki]] / [[src-graphify]] 的「LLM Wiki 模式持續擴散」軸——**本 wiki 正是此模式的實踐**
+> - ❌ **3 件惡意/詐騙**：#2 openai-plus-vxt（自動化 ChatGPT 註冊 + 支付頁填充 + 隨機地址，AI 服務濫用工具化）、#5 Flash-USDT-Tool（加密假交易詐騙）、#6 PhantomKiller（BYOVD EDR 繞過攻擊工具）
+> - ⚠️ **4 件無描述刷榜**（#3/#7/#8/#10）+ crypto 灰色（#1）+ SEO 堆砌（#4）——最高星僅 279，演算法仍易被低質 repo 佔據
+> - 合法亮點集中尾段：#13 Image-Studio（本地圖像生成，呼應 5/16 Loova 影片 agent 創意軌）、#14 ARIS 中文面試 cheat sheet
 
 ## 2026-05-18 ⚠️ 信號崩壞延續 — smallcode 小模型 agent ✨ + 盜版/灰色佔前三
 

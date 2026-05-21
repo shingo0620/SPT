@@ -1,7 +1,7 @@
 ---
 title: Product Hunt 月報 — 2026-05
 type: source
-sources: [producthunt-2026-05-18.md, producthunt-2026-05-17.md, producthunt-2026-05-16.md, producthunt-2026-05-15.md, producthunt-2026-05-14.md, producthunt-2026-05-13.md, producthunt-2026-05-12.md, producthunt-2026-05-11.md, producthunt-2026-05-10.md, producthunt-2026-05-09.md, producthunt-2026-05-08.md, producthunt-2026-05-07.md, producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
+sources: [producthunt-2026-05-19.md, producthunt-2026-05-18.md, producthunt-2026-05-17.md, producthunt-2026-05-16.md, producthunt-2026-05-15.md, producthunt-2026-05-14.md, producthunt-2026-05-13.md, producthunt-2026-05-12.md, producthunt-2026-05-11.md, producthunt-2026-05-10.md, producthunt-2026-05-09.md, producthunt-2026-05-08.md, producthunt-2026-05-07.md, producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [producthunt, monthly-digest]
@@ -10,6 +10,33 @@ tags: [producthunt, monthly-digest]
 # Product Hunt — 2026 年 5 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-19 — Agent 語音/電話化 + Cursor Composer 2.5 + Code Review 篩選
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | **PollyReach** | 給你的 agent 一個真實號碼與語音來打電話 | 336 | Productivity / AI / Virtual Assistants | [PH](https://www.producthunt.com/products/pollyreach) |
+| 2 | **Drizz** | 會自寫、自跑、自修的 mobile 測試 | 279 | Dev Tools / AI / No-Code | [PH](https://www.producthunt.com/products/drizz-2) |
+| 3 | **Composer 2.5** | Cursor 至今最強的模型 | 251 | AI / Development | [PH](https://www.producthunt.com/products/cursor) |
+| 4 | Mantle Chat | 團隊與 AI 共同協作的平台 | 226 | Productivity / Messaging | [PH](https://www.producthunt.com/products/mantle-chat) |
+| 5 | CtrlOps | 用 AI 部署、除錯、管理 Linux 伺服器 | 181 | Linux / Dev Tools / AI | [PH](https://www.producthunt.com/products/ctrlops) |
+| 6 | Chert | 打造在 iMessage 發訊給客戶的 AI agent | 145 | Messaging / API / AI | [PH](https://www.producthunt.com/products/chert) |
+| 7 | Motion | 講究品味的動態設計影片 agent | 134 | AI / Animation / Video | [PH](https://www.producthunt.com/products/motion-8) |
+| 8 | Insights by Omnia | 提升你 AI 可見度的逐步行動方案 | 127 | Marketing / AI | [PH](https://www.producthunt.com/products/omnia-2) |
+| 9 | imgproxy v4 | 快速安全的自架圖像處理伺服器 | 125 | Software Eng / Dev Tools / GitHub | [PH](https://www.producthunt.com/products/imgproxy) |
+| 10 | Monocle 3.5 for macOS | 為你的螢幕降噪（聚焦工具） | 122 | Productivity / UX | [PH](https://www.producthunt.com/products/monocle-clear-workspace-clear-mind) |
+| 11 | **Voker** | AI 產品團隊的 Agent Analytics 平台 | 117 | Analytics / Dev Tools / AI | [PH](https://www.producthunt.com/products/voker) |
+| 12 | **Haystack** | 只 review 真正需要人類關注的 PR | 104 | Dev Tools / AI / GitHub | [PH](https://www.producthunt.com/products/haystack-editor) |
+| 13 | **ShioriCode** | Codex 與 Claude Code 的開源替代 | 99 | Open Source / Dev Tools / AI | [PH](https://www.producthunt.com/products/shioricode) |
+| 14 | Starchild-1 by Odyssey | 首個即時多模態世界模型（world model） | 94 | Robots / Education / AI | [PH](https://www.producthunt.com/products/odysseyml-starchild-1-model) |
+| 15 | LearnHouse | 教你所打造之物的現代方式 | 92 | Open Source / Education / GitHub | [PH](https://www.producthunt.com/products/learnhouse) |
+
+> **05-19 觀察**：
+> - **Agent 接上真實通訊管道**：#1 PollyReach（真實電話號碼 + 語音）+ #6 Chert（iMessage 客服 agent）——agent 從 chat box 走向電話/簡訊，呼應 5/8 Monid「OpenRouter for agent tools」賦能線
+> - **編輯器/CLI 戰局延燒**：#3 Composer 2.5（Cursor 自研模型升級）+ #13 ShioriCode（Codex / [[Claude Code]] 開源替代）——呼應 [[Zed]] 1.0 與 [[src-oh-my-codex]]
+> - **#12 Haystack「只 review 需要人類關注的 PR」**——呼應 [[src-Code Review已死]]：AI 量產 PR 時代，Code Review 從「全面審」轉向「篩選該人看的」
+> - **#11 Voker（Agent Analytics）+ #8 Insights by Omnia（AI 可見度/GEO）**——agent 可觀測性 + GEO 雙線延續（呼應 [[AI 品質共謀]] 與 4 月 GEO 三角）
+> - **#14 Starchild-1 世界模型**——即時多模態 world model 進榜，創意/模擬 AI 軌
 
 ## 2026-05-18 — Agent operator/memory/self-improvement 三線 + scraper
 

@@ -1,9 +1,9 @@
 ---
 title: "Skill — ast-grep"
 type: source
-sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md, skills-picks-2026-05-01.md, skills-picks-2026-05-02.md, skills-picks-2026-05-03.md, skills-picks-2026-05-04.md, skills-picks-2026-05-05.md, skills-picks-2026-05-06.md, skills-picks-2026-05-07.md, skills-picks-2026-05-08.md]
+sources: [skills-picks-2026-04-18.md, skills-picks-2026-04-19.md, skills-picks-2026-04-20.md, skills-picks-2026-04-21.md, skills-picks-2026-04-22.md, skills-picks-2026-04-23.md, skills-picks-2026-04-24.md, skills-picks-2026-04-25.md, skills-picks-2026-04-26.md, skills-picks-2026-04-27.md, skills-picks-2026-04-28.md, skills-picks-2026-04-29.md, skills-picks-2026-04-30.md, skills-picks-2026-05-01.md, skills-picks-2026-05-02.md, skills-picks-2026-05-03.md, skills-picks-2026-05-04.md, skills-picks-2026-05-05.md, skills-picks-2026-05-06.md, skills-picks-2026-05-07.md, skills-picks-2026-05-08.md, skills-picks-2026-05-09.md, skills-picks-2026-05-10.md, skills-picks-2026-05-11.md, skills-picks-2026-05-12.md, skills-picks-2026-05-20.md]
 created: 2026-04-18
-updated: 2026-05-11
+updated: 2026-05-20
 tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 ---
 
@@ -12,7 +12,9 @@ tags: [skills-sh, agent-skill, ast-grep, code-search, refactoring, linting]
 > skills.sh Pick of the Day — **2026-04-18 唯一一次**（⚠️ 先前「連十三日精選」記錄為 fetcher fallback 假象——skills.sh 自 04-19 起停發新 pick，[[src-skills-picks-2026-04]] 已加校正聲明）
 > 原 repo：[ast-grep/agent-skill](https://github.com/ast-grep/agent-skill)
 > skills.sh 頁面：https://skills.sh/ast-grep/agent-skill/ast-grep
-> **安裝數縱向追蹤**（從 ast-grep skill 頁面即時擷取，與 skills.sh 連續精選無關）：**2,941（04-18）→ 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03）→ 4,430（05-04）→ 4,546（05-05）→ 4,703（05-06）→ 4,873（05-07）→ 5,036（05-08，突破 5,000 milestone）**——20 日累積 +2,095 install；04-30 → 05-08 九日累積 +963，日均 +107
+> **安裝數縱向追蹤**（從 ast-grep skill 頁面即時擷取，與 skills.sh 連續精選無關）：**2,941（04-18）→ 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03）→ 4,430（05-04）→ 4,546（05-05）→ 4,703（05-06）→ 4,873（05-07）→ 5,036（05-08，突破 5,000）→ 5,156（05-09）→ 5,259（05-10）→ 5,332（05-11）→ 5,414（05-12）→ ⚠️【05-13~19 fetcher 缺口】→ 6,357（05-20）**——自 04-18 首見 2,941 起累積 +3,416（+116%）；04-30 → 05-12 日均 ≈ +107；05-12 → 05-20 跨 8 日 +943（日均 ≈ +118，無法還原單日）
+>
+> ⚠️ **2026-05-13~19 安裝數缺口（永久遺失）**：`fetch-skills-picks.sh` 因 skills.sh 啟用 `skills.sh → www.skills.sh` 308 永久重導向、而 curl 缺 `-L` 旗標，自 5/13 起抓到 15-byte 重導向佔位頁，連續 7 日無有效資料；2026-05-20 加 `-L` 修復後恢復（6,357）。中間 7 日單日安裝數因 skills.sh 不提供歷史快照而**永久遺失**，只能還原 05-12 → 05-20 的 8 日總增。詳見 [[src-skills-picks-2026-05]]。
 >
 > ⚠️ **2026-05-07 校正（2026-05-11 更新）：W18 末「衰減平台期」推論失效**——5/1-5/3 日增 100→90→61 曾被解讀為「自然衰減平台期到來」（記錄於 [[週綜整-2026-W18]] / 5/01 ingest），但 5/4-5/8 反彈為 **+106 → +116 → +157 → +170 → +163**（V 字反彈後持續加速 5 日）。**僅 3 日數據不足以判斷「衰減」**——需至少 7 日方向一致才能下結論。5/4-5/8 五日加速 + 5/8 突破 5,000 milestone **確認 ast-grep 是「真實 organic 擴散」**——對比同期 find-skills 的 hype curve（5/3-5/6 連 4 日 +60% 暴漲 → 5/7 單日跌出榜外），ast-grep 沒有暴漲也沒有暴跌，是穩定加速。可能機制：(1) [[src-skills-trending-2026-05]] find-skills 同期暴漲讓 ast-grep 被更多人發現（雖然 find-skills 自身已退潮，帶來的 discovery 流量留下），(2) skill discovery 渠道擴大，(3) ast-grep 自身 npm 生態擴散，(4) [[Claude Code]] skills 文化長尾普及。
 > **真實擴散驅動因素**（修正後解讀）：

@@ -59,7 +59,7 @@ tags: [agent-team, multi-agent, claude-code, super-individual, single-agent, org
 - **引用《人月神話》Brooks's Law**——對應 [[src-hn-2026-05]] 5/9 HN「Mythical Man Month」當日上榜（242 分）
 - **「信任單一全能 agent + 寫好 Skill/Workflow/CLAUDE.md」**——呼應 [[src-karpathy-12-claude-rules]] 的「行為契約」+ [[Andrej Karpathy]] Agentic Engineering
 - **「管成果不管流程」的放手哲學**——對應 [[src-karpathy-sequoia-ascent-2026]]「外包思考但不外包理解」（雷蒙是外包流程、保留品味判斷）
-- **與本 wiki 全域 [[SPT/CLAUDE.md]]「永遠不過度設計」呼應**——Agent Team 對個體即是過度設計
+- **與本 wiki 全域 CLAUDE.md「永遠不過度設計」呼應**——Agent Team 對個體即是過度設計
 
 ## 查核備註
 

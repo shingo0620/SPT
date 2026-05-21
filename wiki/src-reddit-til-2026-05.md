@@ -9,7 +9,7 @@ tags: [reddit, todayilearned, monthly-digest]
 
 # Reddit r/todayilearned — 2026 年 5 月
 
-> 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+> 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。姊妹來源（白話科普）見 [[src-reddit-eli5-2026-05]]。
 
 ## 2026-05-19
 

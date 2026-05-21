@@ -1,7 +1,7 @@
 ---
 title: Wikipedia Featured 月報 — 2026-05
 type: source
-sources: [wikipedia-featured-2026-05-18.md, wikipedia-featured-2026-05-17.md, wikipedia-featured-2026-05-16.md, wikipedia-featured-2026-05-15.md, wikipedia-featured-2026-05-14.md, wikipedia-featured-2026-05-13.md, wikipedia-featured-2026-05-12.md, wikipedia-featured-2026-05-11.md, wikipedia-featured-2026-05-10.md, wikipedia-featured-2026-05-09.md, wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
+sources: [wikipedia-featured-2026-05-19.md, wikipedia-featured-2026-05-18.md, wikipedia-featured-2026-05-17.md, wikipedia-featured-2026-05-16.md, wikipedia-featured-2026-05-15.md, wikipedia-featured-2026-05-14.md, wikipedia-featured-2026-05-13.md, wikipedia-featured-2026-05-12.md, wikipedia-featured-2026-05-11.md, wikipedia-featured-2026-05-10.md, wikipedia-featured-2026-05-09.md, wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
 created: 2026-05-01
 updated: 2026-05-19
 tags: [wikipedia, monthly-digest]
@@ -10,6 +10,36 @@ tags: [wikipedia, monthly-digest]
 # Wikipedia Featured — 2026 年 5 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-19
+
+### 今日精選文章
+
+**[Silverthrone Caldera](https://en.wikipedia.org/wiki/Silverthrone_Caldera)**——加拿大卑詩省海岸山脈太平洋山域的火山破火山口，海拔 2,860 m（部分資料達 3,160 m）；約 25×20 km，深度侵蝕形成崎嶇地形，多條冰川融水溪流（Pashleth、Selman、Catto 等）流經。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Aaron Rai](https://en.wikipedia.org/wiki/Aaron_Rai) | 455,711 |
+| 2 | [Murder of Dominic Russo and Davion Flanagan](https://en.wikipedia.org/wiki/Murder_of_Dominic_Russo_and_Davion_Flanagan) | 235,633 |
+| 3 | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) | 215,416 |
+| 4 | [Tom Kane](https://en.wikipedia.org/wiki/Tom_Kane) | 164,930 |
+| 5 | [Karuppu (film)](https://en.wikipedia.org/wiki/Karuppu_(film)) | 157,826 |
+| 6 | [Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2026) | 150,261 |
+| 7 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 136,625 |
+| 8 | [Off Campus](https://en.wikipedia.org/wiki/Off_Campus) | 130,476 |
+| 9 | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 118,518 |
+| 10 | [Dara (Bulgarian singer)](https://en.wikipedia.org/wiki/Dara_(Bulgarian_singer)) | 114,797 |
+
+### 歷史上的今天
+- **2024**：伊朗發生直升機墜機，總統 Ebrahim Raisi 與外長 Hossein Amir-Abdollahian 等 8 人罹難
+- **2018**：哈利王子與 Meghan Markle 於英國溫莎城堡聖喬治禮拜堂大婚
+- **2015**：加州 Refugio 州立海灘附近腐蝕管線洩漏 14.28 萬加侖（3,400 桶）原油至 Gaviota 海岸
+- **2010**：曼谷泰國軍方結束為期一週的鎮壓，迫使反對派領袖投降
+- **1997**：墨西哥生態最多樣的 Sierra Gorda 生物圈因草根努力獲設立
+
+> **05-19 觀察**：低風險日，娛樂/體育/時事主導（Aaron Rai 高爾夫連日登頂、Tom Kane 配音員、Eurovision 2026 決賽週續熱、印度電影 Karuppu）；無 AI/資安條目滲透。歷史上的今天 5 條全 ✅（Raisi 墜機、哈利婚禮、加州漏油等均可查證）
 
 ## 2026-05-18
 

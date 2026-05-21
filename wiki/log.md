@@ -2,6 +2,34 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-20] lint + ingest | 補 05-19 四來源（⭐ Karpathy 加入 Anthropic）+ P2-P5 修正
+
+**觸發**：`/llm-wiki lint` 全量健檢後，使用者選「P1 補完整 ingest + P2-P5 全修」。已 pull-before。
+
+**lint 掃描**：123 wiki 頁；frontmatter 完整性 100%（121 內容頁全具 title/type/created/updated）；skills 5/13-19 缺口已誠實標註、無 phantom 假象（遵循靜默 fallback 教訓）。發現並修正 6 類問題：
+
+**P1 — 補 ingest 05-19 四來源**（hn/github-trending/producthunt/wikipedia）
+- 根因：上一筆 5/19 ingest 中 reddit 做到 5/19、主來源僅到 5/18，但四月報 `updated` 批次虛報 5/19 → 5/19 主來源 raw 存在卻未進 body，下次 ingest 恐永久跳過
+- ⭐ **HN #3 [[Andrej Karpathy]] 宣布加入 [[Anthropic]]**（477 分當日最高）——**已查核**（TechCrunch/CNBC/Axios/Yahoo/Gizmodo 多家一致）：投入 pre-training 團隊（lead Nick Joseph），推文「get back to R&D」；職涯 OpenAI 創始 → Tesla FSD → Eureka Labs → Anthropic
+- HN 資安雙線：CISA AWS GovCloud 金鑰外洩（193）+ Mini Shai-Hulud 314 npm 套件（282）；⚠️ #11 阿塔卡馬「量子晶體」聳動存疑
+- GitHub ✨ #12 nashsu/llm_wiki_skill（LLM Wiki 模式擴散）；3 ❌（openai-plus-vxt 濫用/Flash-USDT 詐騙/PhantomKiller EDR bypass）+ 4 無描述刷榜
+- PH agent 語音/電話化（PollyReach/Chert）+ Composer 2.5/ShioriCode 編輯器戰局 + Haystack（Code Review 篩選，呼應 [[src-Code Review已死]]）
+- Wikipedia Silverthrone Caldera 精選；低風險日，歷史上的今天 5 條 ✅
+
+**P2 — [[src-skill-ast-grep]] 過時 12 天**：安裝數 5,036（05-08）→ 補至 6,357（05-20）+ 05-13~19 fetcher 308 缺口註記；[[index]] 摘要同步
+
+**P3 — 6 處懸空連結**：移除 `綜整-2026-Q1 學界 AI 衝擊` forward ref（原帶「如有」）；`Bun`/`Palantir` 降純文字；`SPT/CLAUDE.md`×3（[[src-雷蒙-不需要-agent-team]]/[[src-karpathy-12-claude-rules]]/[[週綜整-2026-W20]]）降純文字
+
+**P4**：[[src-skills-picks-2026-05]]、[[src-skills-trending-2026-05]] 月報 `updated` 05-19→05-20（內文已含 5/20）
+
+**P5**：[[src-reddit-til-2026-05]] 引言補 [[src-reddit-eli5-2026-05]] 姊妹連結，消除 eli5 孤立
+
+**反向更新**：[[Andrej Karpathy]] 新增「加入 Anthropic」小節 + 職涯軌跡 + 背景列；[[Anthropic]] 近期事件加招募 Karpathy
+
+**驗證**：lint 重掃 → 懸空連結 **0**、孤立頁 **0**、frontmatter 100%
+
+**待後續**：（1）`raw/Pasted image 20260507125336.png` 為 pull 帶回的已處理圖片殘留（5/19 ingest 已移至 `raw/assets/claude-ecosystem-5-products-20260507.png` 並入 [[src-claude-family]]）——push 前清理；（2）log.md 上半新到舊、下半（04-28 以前）舊到新，排列不一致，未來可統一
+
 ## [2026-05-20] fix | skills fetcher 缺 `-L` 致 5/13-19 缺口（根因診斷 + 修復）
 
 **觸發**：使用者跑 `bash scripts/fetch-skills-picks.sh` 報 `ERROR: 找不到 picks 資料`，要求診斷。
