@@ -1,15 +1,59 @@
 ---
 title: Reddit r/todayilearned 月報 — 2026-05
 type: source
-sources: [reddit-til-2026-05-19.md, reddit-til-2026-05-18.md, reddit-til-2026-05-17.md, reddit-til-2026-05-16.md, reddit-til-2026-05-15.md, reddit-til-2026-05-14.md, reddit-til-2026-05-13.md, reddit-til-2026-05-12.md, reddit-til-2026-05-11.md, reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
+sources: [reddit-til-2026-05-21.md, reddit-til-2026-05-20.md, reddit-til-2026-05-19.md, reddit-til-2026-05-18.md, reddit-til-2026-05-17.md, reddit-til-2026-05-16.md, reddit-til-2026-05-15.md, reddit-til-2026-05-14.md, reddit-til-2026-05-13.md, reddit-til-2026-05-12.md, reddit-til-2026-05-11.md, reddit-til-2026-05-10.md, reddit-til-2026-05-09.md, reddit-til-2026-05-08.md, reddit-til-2026-05-07.md, reddit-til-2026-05-06.md, reddit-til-2026-05-05.md, reddit-til-2026-05-04.md, reddit-til-2026-05-03.md, reddit-til-2026-05-02.md, reddit-til-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-21
 tags: [reddit, todayilearned, monthly-digest]
 ---
 
 # Reddit r/todayilearned — 2026 年 5 月
 
 > 每日自動收集 r/todayilearned Top 15，由 LLM 翻譯彙整。依日期新到舊排列。姊妹來源（白話科普）見 [[src-reddit-eli5-2026-05]]。
+
+## 2026-05-21
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | JCM Farming——加州一座 80 英畝武裝高牆「橄欖農場」的神秘公司，2011 告倒多家熱氣球業者 | 26,131 | ✅ | [NBC LA](https://www.nbclosangeles.com/news/local/balloons-grounded-by-mysterious-olive-farm/1909581/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tixs0h/) |
+| 2 | 電視佈道家 Jimmy Swaggart 首次嫖妓醜聞流淚懺悔「我犯了罪」，第二次卻說「主說這flat 不關你們事」 | 22,664 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Jimmy_Swaggart) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tj5iv9/) |
+| 3 | 第一夫人 Mary Todd Lincoln 被獨子送進精神病院，她偷遞信給律師與支持者，3 個月後獲釋 | 22,547 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Mary_Todd_Lincoln#Institutionalization) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tiwhdu/) |
+| 4 | 2024 一名博士生上網找資料時「意外」發現墨西哥一座愛丁堡大小的隱藏馬雅城 Valeriana | 10,671 | ✅ | [BBC](https://www.bbc.com/news/articles/crmznzkly3go) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tjeens/) |
+| 5 | 腔棘魚（Coelacanth）被認為與恐龍同於 6600 萬年前滅絕，直到 1938 一條落入漁網 | 6,529 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Coelacanth) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tiybsq/) |
+| 6 | Palmyra 環礁雖無常住居民，卻是美國唯一的「合併建制領地」，憲法完全適用 | 5,664 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Palmyra_Atoll) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tj2vq0/) |
+| 7 | 2010 拉斯維加斯一名在任法官之子持槍搶 Bellagio $1.5M 籌碼，竟續住該店一週當豪客，後在店內被捕 | 5,556 | ✅ | [ABC](https://abcnews.com/Business/alleged-bellagio-gunman-lived-large-hotel-robbed/story?id=12842961) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tirqgx/) |
+| 8 | 基因突變不能飛的果蠅在網路上公開販售，方便餵食寵物 | 3,685 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Flightless_fruit_fly) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tiw2dz/) |
+| 9 | 中濱萬次郎（John Manjirō）首位訪美日本人——14 歲船難獲美捕鯨船救起、參與加州淘金，10 年後返日封武士兼官方翻譯 | 3,239 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Nakahama_Manjir%C5%8D) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tizjej/) |
+| 10 | 忍者（shinobi）多為間諜與破壞者而非刺客，常穿便裝偽裝而非影視中的全黑 | 2,431 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Ninja) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tj2z8w/) |
+| 11 | 黑死病時期的英格蘭，會用鴿子消腫——若淋巴腫不消，最後手段是把活鴿剖開敷在腫處 | 2,371 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Black_Death_in_England) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tipr8q/) |
+| 12 | 1983 一名思覺失調者因「神諭」認罪謀殺；Colorado v. Connelly 案最高法院判供詞可採（非國家脅迫） | 1,866 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Colorado_v._Connelly) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tj37kl/) |
+| 13 | 虎鯨 Tahlequah（J35）2018 在幼鯨出生不久夭折後，馱著屍體在頭與背鰭上逾兩週不肯放手 | 1,474 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Tahlequah_(orca)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tis1wv/) |
+| 14 | 「Cat gap」——化石紀錄中貓科幾乎不存在的一段時期（可能因氣候或貓科作為大型肉食者的自我成功之累） | 1,300 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Cat_gap) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tiset2/) |
+| 15 | Funk Brothers（少有人知的 Motown 樂手）參與的 #1 金曲，比 Beatles、Elvis、Stones、Beach Boys 加起來還多 | 1,232 | ✅ | [Motown](https://classic.motown.com/artist/the-funk-brothers/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tio53s/) |
+
+> **05-21 觀察**：傳統冷知識日，歷史/語言/動物為主，全 ✅，無 AI/資安滲透；#13 Tahlequah 馱死胎、#9 中濱萬次郎、#5 腔棘魚等經典條目。
+
+## 2026-05-20
+
+| # | 冷知識 | 分數 | 查核 | 來源 | 討論 |
+|---|-------|------|------|------|------|
+| 1 | 2003 Oprah 節目散播青少年「rainbow parties」（口紅口交派對）道德恐慌——從無證據顯示這類派對真的存在 | 29,417 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Rainbow_party_(sexuality)) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thpnt1/) |
+| 2 | 馬的下肢沒有肌肉，蹄因此充當「第二心臟」泵血；無法行動會使血液淤積蹄部致組織壞死——這是腿傷常對馬致命的關鍵 | 18,956 | ✅ | [Horses Extension](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ti6j05/) |
+| 3 | 二戰期間英國把財富藏在蒙特婁 Sun Life 大樓地下 3 層（Operation Fish）——麥克風警報、廢鐵路鋼牆、雙盲同步密碼門，120 名密工宣誓保密分類數十億 | 9,726 | ✅ | [acresofsnow](https://acresofsnow.ca/operation-fish/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thznn0/) |
+| 4 | 墨西哥自征服以來 130 位元首中，僅 Maximilian（哈布斯堡）會講主要原住民語納瓦特語 | 7,266 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/History_of_Nahuatl#Modern_era) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thybzu/) |
+| 5 | Ojibwe 語（五大湖區）沒有羅曼/日耳曼語的性別名詞，而是把名詞分為「有生命」（樹、羽毛）與「無生命」（河、心臟） | 4,622 | ✅ | [native-languages](https://www.native-languages.org/ojibwe_animate.htm) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ti5blk/) |
+| 6 | 孕期食物渴望通常不反映母體營養失衡，唯一例外是異食癖（強迫想吃粉筆/石頭/冰）可能指向嚴重礦物質缺乏或貧血 | 4,354 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Food_craving#Pregnancy) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thocan/) |
+| 7 | 史上最快遠洋郵輪 SS United States（1952-69），首航 NYC→英國 3 天、均速 41mph，紀錄至今未破 | 4,128 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/SS_United_States#Maiden_voyage) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tibyvq/) |
+| 8 | 研究記錄到 34 起野生虎鯨向人類獻食（魚、鳥、魟魚） | 2,671 | ✅ | [Smithsonian](https://www.smithsonianmag.com/smart-news/orcas-appear-to-be-sharing-their-prey-with-humans-but-what-does-it-mean-180986913/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tik7yo/) |
+| 9 | Biddy Mason（1818-91）1851 以奴隸身分來加州，法庭贏得自由，成為洛杉磯首批黑人女地主之一；地價飆漲後成富有慈善家 | 2,313 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Biddy_Mason) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ti8cgs/) |
+| 10 | 單次閃電可把周圍空氣加熱至約 30,000°C，比太陽表面還熱 | 2,047 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Lightning) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1ti11xq/) |
+| 11 | 福克蘭戰爭中，BBC 在攻擊前一天就宣布傘兵團第 2 營即將進攻 Goose Green | 1,846 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Goose_Green) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thrby8/) |
+| 12 | 紐西蘭的古柯鹼與 LSD 均價皆為全球最高（截至 2019） | 1,303 | ✅ | [Stuff](https://www.stuff.co.nz/national/112753955/) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thpsuh/) |
+| 13 | 二戰後日本因造林政策而花粉症普遍——所植樹種成熟時產生大量花粉 | 1,220 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Hay_fever_in_Japan) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1tijfnk/) |
+| 14 | 不到 20% 的榮譽勳章得主是追授（posthumously） | 609 | ✅ | [army.mil](https://www.army.mil/medalofhonor/statistics.html) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thpqbg/) |
+| 15 | 世界最大無公路可達城市是秘魯 Iquitos（僅空運與亞馬遜河可達）；Eiffel 設計 Casa de Fierro 一說今有爭議 | 520 | ✅ | [Wikipedia](https://en.wikipedia.org/wiki/Iquitos) | [Reddit](https://www.reddit.com/r/todayilearned/comments/1thom0t/) |
+
+> **05-20 觀察**：歷史/科學/動物冷知識日，全 ✅；#1 rainbow parties 為知名道德恐慌（標題正確強調「從無證據」）、#3 Operation Fish 二戰藏金、#7 SS United States 速度紀錄。
 
 ## 2026-05-19
 

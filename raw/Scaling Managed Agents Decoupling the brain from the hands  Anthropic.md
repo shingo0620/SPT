@@ -1,0 +1,1 @@
+[Scaling Managed Agents: Decoupling the brain from the hands \ Anthropic](https://www.anthropic.com/engineering/managed-agents?fbclid=IwdGRleAR7KpVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeaB8LAILYwkFZ01LOEKlRjmRsWwrWRZjX9ST-urPdNk02Fj0BGv98VfAMbOs_aem_SwAd5ypuGFAqDgNwNJ5XvQ)

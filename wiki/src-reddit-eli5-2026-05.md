@@ -1,15 +1,59 @@
 ---
 title: Reddit r/explainlikeimfive 月報 — 2026-05
 type: source
-sources: [reddit-eli5-2026-05-19.md, reddit-eli5-2026-05-18.md, reddit-eli5-2026-05-17.md, reddit-eli5-2026-05-16.md, reddit-eli5-2026-05-15.md, reddit-eli5-2026-05-14.md, reddit-eli5-2026-05-13.md, reddit-eli5-2026-05-12.md, reddit-eli5-2026-05-11.md, reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
+sources: [reddit-eli5-2026-05-21.md, reddit-eli5-2026-05-20.md, reddit-eli5-2026-05-19.md, reddit-eli5-2026-05-18.md, reddit-eli5-2026-05-17.md, reddit-eli5-2026-05-16.md, reddit-eli5-2026-05-15.md, reddit-eli5-2026-05-14.md, reddit-eli5-2026-05-13.md, reddit-eli5-2026-05-12.md, reddit-eli5-2026-05-11.md, reddit-eli5-2026-05-10.md, reddit-eli5-2026-05-09.md, reddit-eli5-2026-05-08.md, reddit-eli5-2026-05-07.md, reddit-eli5-2026-05-06.md, reddit-eli5-2026-05-05.md, reddit-eli5-2026-05-04.md, reddit-eli5-2026-05-03.md, reddit-eli5-2026-05-02.md, reddit-eli5-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-21
 tags: [reddit, explainlikeimfive, monthly-digest]
 ---
 
 # Reddit r/explainlikeimfive — 2026 年 5 月
 
 > 每日自動收集 r/explainlikeimfive Top 15，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-21
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 電線為何故意設計成下垂？拉得筆直會怎樣？（留熱脹冷縮餘裕——冬天收縮會把拉緊的線扯斷或拉倒電塔；下垂是工程計算非偷懶） | 1,444 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj49y6/) |
+| 2 | GPU 這麼強，為何還需要 CPU？（GPU 擅長大量平行的簡單運算，CPU 擅長序列複雜邏輯/分支/低延遲調度；OS 與多數程式需 CPU 的通用性） | 1,410 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj31pu/) |
+| 3 | Axl Rose 為何能在高低音間輕鬆切換？（訓練有素的喉部肌肉控制 + 真假音轉換技巧，天賦音域加後天技術） | 599 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tirv2e/) |
+| 4 | 什麼是 intersectionality（交織性）？（不同身分——種族/性別/階級——的歧視會交互疊加而非單純相加；Kimberlé Crenshaw 提出） | 468 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tit1l0/) |
+| 5 | 罩杯為何隨下圍差很多？（罩杯是胸圍與下圍的「差值」，同為 D 杯在 28 與 34 下圍實際體積差很多） | 348 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj4kbv/) |
+| 6 | 為何不沿高速公路（中央分隔帶）建鐵路？（坡度/彎道半徑不符鐵路規格、月台與維修通道難設、公路彎道對鐵路太急） | 192 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj6mf9/) |
+| 7 | 加工肉切片與真肉切片的差異？（加工肉是肉糜重組+黏合劑+防腐成形再切，真肉是整塊肌肉切片） | 166 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tit304/) |
+| 8 | 如何知道可觀測宇宙有 2 兆個星系？真的數過？（取樣深空小區塊數星系密度再外推全天球，非逐個計數） | 95 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tjhv4f/) |
+| 9 | 加州自產自煉石油又外運，油價為何仍最高？（特殊配方汽油法規 + 高燃料稅 + 煉廠管線不連外州的孤立 + 環保成本） | 75 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tjaj9e/) |
+| 10 | 光速為何恆定、什麼會改變它？（真空光速 c 是時空常數，對所有觀察者恆定——狹義相對論基礎；介質中因折射變慢） | 64 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tjemgf/) |
+| 11 | 喉糖如何止咳？（潤滑喉嚨 + 刺激唾液分泌 + 薄荷醇的清涼麻痺感舒緩咳嗽反射） | 32 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj04ez/) |
+| 12 | 指紋為何獨特又（對同一人）一致？（胎兒期皮膚脊紋隨機形成、定型後終身不變；連同卵雙胞胎都不同） | 18 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tioisi/) |
+| 13 | 後天學者症候群如何讓人對複雜主題產生強烈興趣？（腦傷/事件後罕見解鎖能力，機制未明，可能為抑制解除或腦區重組） | 14 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tj7gyu/) |
+| 14 | 傷到大腳趾為何走路幾乎不可能、感覺隨時會跌？（大腳趾是步態推進與平衡的關鍵著力點，受傷破壞重心轉移） | 9 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tjjxkt/) |
+| 15 | UMA 在 Polymarket 的角色？（UMA 的 optimistic oracle 作為預測市場結算的去中心化真相仲裁層） | 3 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tjkyfu/) |
+
+> **05-21 觀察**：日常科普日，物理/工程/語言/生物為主，無爭議；#2 GPU vs CPU、#10 光速恆定等技術題與本 wiki 讀者相關。
+
+## 2026-05-20
+
+| # | 問題 | 分數 | 查核 | 連結 |
+|---|------|------|------|------|
+| 1 | 英語為何每種動物的肉有獨立名稱（beef/pork/veal）？（諾曼征服後法語貴族餐桌詞與盎格魯農民養殖詞 cow/pig/calf 分層——階級語言遺產） | 1,481 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thwood/) |
+| 2 | 海水鹽濃度較高，為何不靠滲透把人吸乾？（皮膚角質層是有效屏障而非半透膜，只有黏膜/傷口會少量滲透） | 1,306 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti4kvk/) |
+| 3 | 為何不擠豬奶？（母豬乳頭多但單個泌乳量少、不耐擠、性情難馴、哺乳期短——經濟上不划算） | 1,299 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thowco/) |
+| 4 | 靠著東西伸展背部「喬」一下為何感覺好？（放鬆緊繃肌肉 + 關節釋放氣泡 + 刺激本體感受神經，非真的「歸位」） | 477 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti3m9k/) |
+| 5 | 酒放在架上為何不會變更烈？（發酵靠活酵母；酒精達一定濃度酵母已死或裝瓶前已終止，無活酵母就不再產酒精） | 255 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti9bo3/) |
+| 6 | 地球在製造更多岩石嗎？（是——岩漿冷卻成新岩石、沉積物固結、板塊循環；岩石循環持續但總量大致守恆） | 154 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti8ipu/) |
+| 7 | 趨近無限為何永遠到不了？（漸近線——每步只縮小部分距離，無限項的和收斂但永不等於極限；極限是趨勢非到達） | 124 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti1y8o/) |
+| 8 | MRI 為何發出那些擾人聲音？（梯度線圈快速通電產生勞侖茲力震動敲擊外殼，不同掃描序列不同聲音） | 101 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1tiey4c/) |
+| 9 | VoLTE 手機支援 vs 電信商支援差異？（VoLTE 需手機韌體與電信商網路雙方認證白名單；未列入即使硬體支援也不啟用） | 20 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thpmvn/) |
+| 10 | DAC + 內建擴大機是什麼、為何好？（DAC 把數位轉類比、擴大機放大驅動耳機/喇叭；好的 DAC/amp 提升音質與驅動力） | 20 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti6hrb/) |
+| 11 | 第三方訂房為何比直訂便宜？是賠售嗎？（批發房價折扣 + 衝量返佣 + 部分犧牲利潤搶市占，非全然賠售） | 19 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1til7fo/) |
+| 12 | 摸乾冰/液態氮為何會「燒傷」？（極低溫快速帶走皮膚熱量造成凍傷，組織損傷機制類似燒傷——故稱 cold burn） | 15 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1til9cf/) |
+| 13 | 生物發光的原理？燃料是什麼？（螢光素 luciferin + 螢光素酶 luciferase 催化氧化放光，幾乎無熱的「冷光」） | 12 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ti9z26/) |
+| 14 | 結構工程的側向設計/分析是什麼？（抵抗風/地震水平力——透過剪力牆、斜撐、彎矩框架把載重傳至基礎的載重路徑） | 13 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1thpudo/) |
+| 15 | 大腦用電為何不會把自己燒壞？（神經訊號是微弱離子電位（毫伏級），非雷擊那種大電流——性質完全不同） | 0 | ✅ | [討論](https://www.reddit.com/r/explainlikeimfive/comments/1ths14n/) |
+
+> **05-20 觀察**：語言/生物/物理日常科普，無爭議；#1 英語肉類詞的諾曼遺產、#7 漸近線、#13 生物發光等經典題。
 
 ## 2026-05-19
 

@@ -3,7 +3,7 @@ title: Qwen
 type: entity
 sources: []
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-20
 tags: [qwen, alibaba, ai-model, open-source, coding-agent]
 ---
 
@@ -21,6 +21,7 @@ tags: [qwen, alibaba, ai-model, open-source, coding-agent]
 |------|-----------|---------|----------|
 | **Qwen3.6-27B** | 27B dense | 「coding agent 的甜蜜點開源 dense 模型」 | [[src-producthunt-2026-04]] 04-23 #15（91 票）、[[src-hn-2026-04]] 04-22 #11 |
 | **Qwen3.6-Max-Preview** | MoE 旗艦 | 「為 agentic coding 打造的旗艦 Qwen」 | [[src-producthunt-2026-04]] 04-22 #13（88 票） |
+| **Qwen3.7-Max** | MoE 旗艦 | 「The Agent Frontier」——主打 agent 能力前沿 | [[src-hn-2026-05]] 05-20 #3（363 分） |
 | Qwen 3 / 2.5 / 2 / 1.5 / 1 | 多代 | 訓練資料層 | — |
 
 ## 核心策略：規格分層
@@ -54,5 +55,5 @@ DeepSeek 與 Qwen 同為中國開源 LLM 主力，差異化：
 
 - [[DeepSeek]]（同類中國開源 LLM 雙雄）
 - [[Anthropic]] / [[Google]] / [[OpenAI]]（閉源前沿廠商）
-- [[src-producthunt-2026-04]] / [[src-hn-2026-04]]（近期動態）
+- [[src-producthunt-2026-04]] / [[src-hn-2026-04]] / [[src-hn-2026-05]]（近期動態；05-20 Qwen3.7-Max 發布）
 - [[src-reddit-eli5-2026-04]]（eGPU 議題的本地推論連動）

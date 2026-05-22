@@ -47,6 +47,7 @@ Managed Agents sessions 在 cloud 跑——可以離開，回來時工作已完�
 
 ## 跨 wiki 連動
 
+- **[[src-scaling-managed-agents]]**：本篇的**工程實作配對**——同為 Managed Agents 主題，那篇講架構深度（brain/hands/session 解耦、meta-harness、pets-vs-cattle、TTFT 降 60-90%），本篇是 PM 產品視角
 - **[[Anthropic]]**：Managed Agents 是 Anthropic 產品矩陣的雲端 agent 層
 - **[[Claude Code]]**：PM 用以 ship custom agent 的工具
 - **[[src-claude-family]]**：「Claude Cowork」在此 raw 確認為真實產品（導覽列有 `Claude Cowork` + `Claude Security`）——可更正 src-claude-family 的「待查證」標註

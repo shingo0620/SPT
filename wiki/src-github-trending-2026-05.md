@@ -1,9 +1,9 @@
 ---
 title: GitHub Trending 月報 — 2026-05
 type: source
-sources: [github-trending-2026-05-19.md, github-trending-2026-05-18.md, github-trending-2026-05-17.md, github-trending-2026-05-16.md, github-trending-2026-05-15.md, github-trending-2026-05-14.md, github-trending-2026-05-13.md, github-trending-2026-05-12.md, github-trending-2026-05-11.md, github-trending-2026-05-10.md, github-trending-2026-05-09.md, github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
+sources: [github-trending-2026-05-20.md, github-trending-2026-05-19.md, github-trending-2026-05-18.md, github-trending-2026-05-17.md, github-trending-2026-05-16.md, github-trending-2026-05-15.md, github-trending-2026-05-14.md, github-trending-2026-05-13.md, github-trending-2026-05-12.md, github-trending-2026-05-11.md, github-trending-2026-05-10.md, github-trending-2026-05-09.md, github-trending-2026-05-08.md, github-trending-2026-05-07.md, github-trending-2026-05-06.md, github-trending-2026-05-05.md, github-trending-2026-05-04.md, github-trending-2026-05-03.md, github-trending-2026-05-02.md, github-trending-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-20
 tags: [github, trending, monthly-digest]
 ---
 
@@ -12,6 +12,32 @@ tags: [github, trending, monthly-digest]
 > 每日自動收集 GitHub 當日新建熱門 repo，由 LLM 翻譯彙整。依日期新到舊排列。
 >
 > ⚠️ **5 月持續性信號崩壞**：GitHub Trending（依新建 repo 日星數）長期被遊戲外掛、盜版軟體、加密詐騙 bot、SEO 刷榜帳號佔據高星位。每日表格保留全 15 列以利追溯，重點以 ❌（詐騙/惡意）/ ⚠️（灰色/刷榜）/ ✅（合法）/ ✨（值得關注）標注。**真實有價值的合法 repo 多集中在中低星區**。
+
+## 2026-05-20 ⚠️ 信號崩壞日 — 9arm-skills ✨ + akii GEO plugin ✨ vs 破解/外掛/盜版佔多數
+
+| # | Repo | 星 | 語言 | 主題 | 查核 | 連結 |
+|---|------|----|------|------|------|------|
+| 1 | **thananon/9arm-skills** | 794 | Shell | （無描述）疑為 AI agent skills 集合（9arm 為泰國 tech 社群人物） | ⚠️✨ | [GitHub](https://github.com/thananon/9arm-skills) |
+| 2 | ~~internetkafe/vpnhostinglist~~ | 329 | N/A | VPN/翻牆代理託管清單（RemnaWave/3X-UI/MarzBan） | ⚠️ | [GitHub](https://github.com/internetkafe/vpnhostinglist) |
+| 3 | ~~CylinderChairman/aida64~~ | 249 | PowerShell | ❌ AIDA64 破解 unlocker | ❌ | [GitHub](https://github.com/CylinderChairman/aida64) |
+| 4 | ~~uktrash/LSFG-Desktop~~ | 221 | C# | ⚠️ Lossless Scaling 破解分發（SEO 關鍵字堆砌） | ⚠️ | [GitHub](https://github.com/uktrash/LSFG-Desktop) |
+| 5 | ~~rahul03524/YellowKey-Bitlocker~~ | 174 | TypeScript | ❌ Bitlocker 加密繞過/zero-day exploit 工具 | ❌ | [GitHub](https://github.com/rahul03524/YellowKey-Bitlocker) |
+| 6 | ~~MFS9628/Deepseek-v4-pro-app~~ | 170 | N/A | ⚠️ SEO 關鍵字堆砌可疑 app | ⚠️ | [GitHub](https://github.com/MFS9628/Deepseek-v4-pro-app) |
+| 7 | ~~wishzebravanquish/Fortnite-Cheat-2026~~ | 78 | N/A | ❌ Fortnite 外掛（aimbot/ESP/wallhack） | ❌ | [GitHub](https://github.com/wishzebravanquish/Fortnite-Cheat-2026) |
+| 8 | ~~CoxswainMattock/Warzone-Cheat-2026~~ | 78 | N/A | ❌ Warzone 外掛 | ❌ | [GitHub](https://github.com/CoxswainMattock/Warzone-Cheat-2026) |
+| 9 | ~~GigaSupplierCrush/MM2-Tool-2026~~ | 78 | N/A | ❌ Roblox MM2 外掛（Lua executor/silent aim） | ❌ | [GitHub](https://github.com/GigaSupplierCrush/MM2-Tool-2026) |
+| 10 | ~~CapitalPortalCloak/Rivals-Tool-2026~~ | 77 | N/A | ❌ Roblox Rivals 外掛 | ❌ | [GitHub](https://github.com/CapitalPortalCloak/Rivals-Tool-2026) |
+| 11 | ~~guowang23333/kiro-pro-batch~~ | 56 | JavaScript | ⚠️ Kiro Pro 批量訂閱 + Stripe 自動支付濫用 | ⚠️ | [GitHub](https://github.com/guowang23333/kiro-pro-batch) |
+| 12 | 5ec1cff/injectrc | 51 | C++ | （無描述）疑注入相關 | ⚠️ | [GitHub](https://github.com/5ec1cff/injectrc) |
+| 13 | **akii-technologies-ltd/akii-seo-ai-search-optimizer** | 50 | Markdown | SEO/AEO/GEO 的免費 Claude Code plugin——跨 ChatGPT/Claude/Gemini/Perplexity/Google AI Overviews 追 AI 可見度 | ✅✨ | [GitHub](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) |
+| 14 | zhw040803-glitch/UAV-GPS-DQN-Detection | 31 | Python | 基於 DQN 的無人機 GPS 欺騙攻擊偵測（學術） | ✅ | [GitHub](https://github.com/zhw040803-glitch/UAV-GPS-DQN-Detection) |
+| 15 | ~~ZettPW/KMSTools~~ | 23 | C# | ⚠️ KMS 啟用工具（盜版 Office/Windows 啟用） | ⚠️ | [GitHub](https://github.com/ZettPW/KMSTools) |
+
+> **05-20 觀察**——**信號崩壞嚴重日（合法價值集中中低星）**：
+> - ❌ **5 件惡意 + 遊戲外掛四連**：aida64 破解（#3）、YellowKey Bitlocker bypass（#5）、Fortnite/Warzone/MM2/Rivals 外掛（#7-#10）；外掛農場用統一命名模板刷榜
+> - ✨ **#1 thananon/9arm-skills（794 最高）**：無描述但疑為 AI agent skills 集合，若屬實呼應 skills 生態擴散（續 5/19 nashsu/llm_wiki_skill）；⚠️ 無描述待觀察
+> - ✨ **#13 akii GEO Claude Code plugin**：SEO/AEO/GEO 合法工具，跨多 AI 平台追蹤可見度——呼應 HN 同日 #8「Google AI 被操縱反擊」+ 4 月 GEO 三角；**GEO 從概念走向 Claude Code plugin 工具化**
+> - 灰色長尾：VPN 翻牆清單（#2）、Kiro 訂閱濫用（#11）、KMS 盜版啟用（#15）——演算法持續被低質 repo 佔據
 
 ## 2026-05-19 ⚠️ 信號崩壞延續 — llm_wiki_skill ✨ + 攻擊工具/詐騙/無描述佔多數
 

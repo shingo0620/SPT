@@ -232,6 +232,7 @@ NIAH 經典 benchmark：在幾十萬字的長文裡塞一句完全無關的句�
 
 ## 相關頁面
 
+- [[src-scaling-managed-agents]]（**Anthropic 官方版的三層解耦**：brain＝Model+Harness / hands＝Body / session；其「Sonnet 4.5 context anxiety → Opus 4.5 後消失」實例，直接印證本文「harness scaffolding 隨模型搬家但不消失」論點）
 - [[src-Harness Engineering]]（李宏毅版本：二層拆解、agents.md 研究、Ralph Loop、Lifelong AI Agent）
 - [[Claude Code]]（本文核心案例之一）
 - [[綜整-AI協作工程的六大趨勢]]（本文補強趨勢一論點）

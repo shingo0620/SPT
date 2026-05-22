@@ -1,15 +1,42 @@
 ---
 title: Product Hunt 月報 — 2026-05
 type: source
-sources: [producthunt-2026-05-19.md, producthunt-2026-05-18.md, producthunt-2026-05-17.md, producthunt-2026-05-16.md, producthunt-2026-05-15.md, producthunt-2026-05-14.md, producthunt-2026-05-13.md, producthunt-2026-05-12.md, producthunt-2026-05-11.md, producthunt-2026-05-10.md, producthunt-2026-05-09.md, producthunt-2026-05-08.md, producthunt-2026-05-07.md, producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
+sources: [producthunt-2026-05-20.md, producthunt-2026-05-19.md, producthunt-2026-05-18.md, producthunt-2026-05-17.md, producthunt-2026-05-16.md, producthunt-2026-05-15.md, producthunt-2026-05-14.md, producthunt-2026-05-13.md, producthunt-2026-05-12.md, producthunt-2026-05-11.md, producthunt-2026-05-10.md, producthunt-2026-05-09.md, producthunt-2026-05-08.md, producthunt-2026-05-07.md, producthunt-2026-05-06.md, producthunt-2026-05-05.md, producthunt-2026-05-04.md, producthunt-2026-05-03.md, producthunt-2026-05-02.md, producthunt-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-20
 tags: [producthunt, monthly-digest]
 ---
 
 # Product Hunt — 2026 年 5 月
 
 > 每日自動收集 Product Hunt 當日新產品，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-20 — Agent 全面滲透日（電商/email/coding/memory/排程）+ Gemini Omni
+
+| # | 產品 | 一句話 | 票數 | 分類 | 連結 |
+|---|------|-------|------|------|------|
+| 1 | **StoreClaw** | 用懂得銷售的 agent 增加你的店鋪利潤 | 403 | AI / E-Commerce / Marketing | [PH](https://www.producthunt.com/products/storeclaw) |
+| 2 | **mailX by mailwarm** | 給人類與 AI agent 的 email 送達工具包 | 345 | Email / AI | [PH](https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20) |
+| 3 | **Gemini Omni** | 從任何輸入創造任何東西（從影片起步） | 234 | AI / Video | [PH](https://www.producthunt.com/products/gemini-omni-4) |
+| 4 | **Emdash** | 一個 app 管所有 coding agent，開源 | 201 | Productivity / Open Source / Dev Tools | [PH](https://www.producthunt.com/products/emdash) |
+| 5 | Runtime | 給團隊每個人的沙箱化 coding agents | 135 | Slack / Dev Tools / AI | [PH](https://www.producthunt.com/products/runtime) |
+| 6 | **Re_gent** | AI agent 活動的版本控制 | 130 | Open Source / Dev Tools / GitHub | [PH](https://www.producthunt.com/products/re_gent) |
+| 7 | Manus Scheduled Tasks 2.0 | 在同一任務脈絡內跑週期性 Manus 工作 | 125 | Productivity / Task Mgmt / AI | [PH](https://www.producthunt.com/products/manus) |
+| 8 | Supercut for Agents | 權限感知的 AI 存取錄影與 metadata | 119 | Productivity / Dev Tools | [PH](https://www.producthunt.com/products/supercut) |
+| 9 | Retina | 自動縮放/平滑游標/AI 圖形的螢幕錄影 | 103 | Mac / Design Tools / Video | [PH](https://www.producthunt.com/products/retina-2) |
+| 10 | **Viberia** | 像玩 Civilization 一樣指揮 AI agents | 93 | Productivity / Dev Tools / AI | [PH](https://www.producthunt.com/products/viberia) |
+| 11 | Insta360 Mic Pro | 可自訂彩色 E-Ink 面板的專業麥克風 | 90 | Hardware / Audio | [PH](https://www.producthunt.com/products/insta-360) |
+| 12 | Owlish | 用你文件訓練的 AI agent 降低客服量 | 89 | Customer Comm / SaaS / AI | [PH](https://www.producthunt.com/products/owlish) |
+| 13 | GhostSnap | 為 AI 自動壓縮的多重截圖 | 89 | Mac / Productivity / AI | [PH](https://www.producthunt.com/products/ghostsnap) |
+| 14 | **Contextberg** | 把你的工作變成 AI agent memory，透過 MCP 提供 | 83 | Productivity / AI | [PH](https://www.producthunt.com/products/contextberg) |
+| 15 | **Glia** | 本地優先的 AI memory bridge（瀏覽器聊天 ↔ IDE） | 82 | Dev Tools / AI | [PH](https://www.producthunt.com/products/glia-2) |
+
+> **05-20 觀察**：
+> - **Agent 全面滲透**：電商（#1 StoreClaw）、email（#2 mailX）、coding agent 管理（#4 Emdash 開源管所有 + #5 Runtime 沙箱）、agent 版控（#6 Re_gent）、排程（#7 Manus 2.0）、orchestration（#10 Viberia「像玩 Civ 指揮 agent」）——agent 細分工具鏈全面成熟
+> - **Agent memory + MCP 三件**：#14 Contextberg（工作→agent memory over MCP）+ #15 Glia（本地優先 memory bridge）+ #12 Owlish（文件訓練客服）——呼應 [[LLM Wiki]] 本地知識持久化
+> - **#3 Gemini Omni（[[Google]]）**——呼應 HN 同日 Gemini 3.5 Flash，Google 創意 AI（影片）攻勢
+> - **#4 Emdash「一個 app 管所有 coding agent」**——呼應 5/19 ShioriCode、[[src-codex-代理人桌面作業系統]]，agent 管理介面戰局延燒
+> - **#6 Re_gent agent 版控 + #8 Supercut 權限感知**——agent 可觀測性/治理興起（呼應 [[AI 品質共謀]]）
 
 ## 2026-05-19 — Agent 語音/電話化 + Cursor Composer 2.5 + Code Review 篩選
 

@@ -3,7 +3,7 @@ title: Anthropic
 type: entity
 sources: []
 created: 2026-04-20
-updated: 2026-05-20
+updated: 2026-05-21
 tags: [anthropic, ai-company, llm, claude, safety]
 ---
 
@@ -72,3 +72,4 @@ tags: [anthropic, ai-company, llm, claude, safety]
 - [[src-agent-model-body-harness]]（4/23 postmortem 在三層 Agent Anatomy 中的位置——三條改動全動 harness、未動 body）
 - [[src-claude-for-creative-work]]（4/28 Claude 進入創意產業：8 個 MCP connector + Blender Dev Fund + 學術合作）
 - [[src-blender-ai-video-workflow]]（社群先行案例：Anthropic 加入 Blender Dev Fund 之前 1 個月，社群已自發採用 Blender + Seedance 2.0 + Nano Banana 2 工作流）
+- [[src-anthropic-managed-agents]]（Managed Agents PM 視角）／ [[src-scaling-managed-agents]]（Managed Agents 工程實作：brain/hands/session 解耦、meta-harness、TTFT 降 60-90%）

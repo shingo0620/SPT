@@ -3,7 +3,7 @@ title: Google
 type: entity
 sources: []
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-20
 tags: [google, ai-company, gemini, tpu, workspace]
 ---
 
@@ -20,6 +20,8 @@ tags: [google, ai-company, gemini, tpu, workspace]
 ### 1. 模型線：Gemini 系列
 
 - **Gemini 1.5 / 2.0**——支援 1M+ context，與 [[Anthropic]] Claude Opus 4.7、[[DeepSeek]] V4 並列「長 context 三巨頭」
+- **Gemini 3.5 Flash**（2026-05-20 發表）——[[src-hn-2026-05]] 05-20 #15（**912 分，當日最高**）；快速/低成本層更新，與 [[Qwen]] Qwen3.7-Max 同日發布
+- **Gemini Omni**（2026-05-20）——「從任何輸入創造任何東西」的多模態創意模型（影片起步），[[src-producthunt-2026-05]] 05-20 #3（234 票）
 - **gemini-cli**——對標 [[Claude Code]] 的官方 CLI（[[Anthropic]] 頁有提及）
 
 ### 2. 硬體線：TPU（Tensor Processing Unit）
@@ -63,3 +65,4 @@ tags: [google, ai-company, gemini, tpu, workspace]
 - [[Anthropic]] / [[DeepSeek]] / [[Qwen]]（同類 AI 廠商）
 - [[Claude Code]]（gemini-cli 對標目標）
 - [[src-hn-2026-04]] / [[src-producthunt-2026-04]]（近期動態）
+- [[src-hn-2026-05]] / [[src-producthunt-2026-05]]（2026-05 動態：Gemini 3.5 Flash + Gemini Omni）

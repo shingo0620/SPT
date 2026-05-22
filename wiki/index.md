@@ -14,6 +14,7 @@
 - [[src-andrej-karpathy-skills]] — forrestchang（同 [[Multica]] 團隊）的 103k stars CLAUDE.md repo，把 Karpathy 的 LLM coding pitfalls 觀察提煉為 4 條原則（Think Before / Simplicity / Surgical / Goal-Driven）（來源數：1）
 - [[src-codeburn]] — getagentseal/codeburn 4.7k stars，AI coding token 成本可觀測 TUI dashboard，跨 16 個 AI coding 工具，本地執行（來源數：1）
 - [[src-wshobson-agents]] — wshobson/agents **35k stars**：Claude Code Plugins Marketplace（80 plugins / 185 agents / 153 skills / 16 workflows / 100 commands）+ three-tier model strategy + PluginEval 統計級評估框架；個人專案 bus factor = 1（來源數：1）
+- [[src-scaling-managed-agents]] — Anthropic 工程文章（2026-04-08）：Managed Agents 作為 **meta-harness**，把 brain（Claude+harness）/ hands（sandbox）/ session 三者解耦；pets-vs-cattle、token 不入 sandbox、TTFT 降 60-90%；[[src-agent-model-body-harness]] 三層架構的官方版（來源數：1）
 
 > 月報 2026-05-04 ingest：5 月月報補完 05-02、05-03 兩日（共 14+ 個 daily raw + bug-hunter 手動 source）；ast-grep 安裝數 4,073（04-30）→ 4,173（05-01）→ 4,263（05-02）→ 4,324（05-03），日增 100→90→61 進入自然衰減平台期。**重大事件 5/3**：skills.sh trending `infsh-skills` repo 改名 `inference-skills` 觸發單日 −7,000 安裝重置（非真實流失）；GitHub Trending 信號崩壞日（11/15 ❌ 詐騙/外掛/盜版）；xixu-me/skills 4 件占 Top 10 #7-#10。lint P1-P4 修正完成（前次）。
 
@@ -24,6 +25,8 @@
 > 月報/文章 2026-05-11 ingest：（A）**5 月月報補完 05-09、05-10 兩日 reddit**（til + eli5，4 個 raw；其他來源 hn/github/pH/wiki/skills 自 5/9 起 GitHub Actions 尚未抓）——傳統 TIL/ELI5 風格回歸（歷史/科學/動物冷知識為主，無重大資安/AI 滲透）。（B）**7 個獨立來源 ingest**：① ⭐ **[[src-karpathy-sequoia-ascent-2026]]**——Karpathy 2026-04-30 Sequoia 訪談（Software 3.0 / Agentic Engineering / Jagged Intelligence / Verifiability / Ghosts vs Animals / 「外包思考不外包理解」），**Karpathy 親自把 [[LLM Wiki]] 列為「以前不可能、現在自然」的代表——本 wiki 專案正是該方法論的實踐**；② **[[src-armin-agent-design-hard]]**——Armin Ronacher agent 工程實戰（SDK 選擇、cache points、reinforcement injection、virtual fs、Claude Code TodoWrite = echo tool 洞察）；③ **[[src-graphify]]**——safishamsi/graphify 46k stars，codebase → knowledge graph 跨 17 平台 skill，[[LLM Wiki]] 模式的程式碼特化自動版；④ **[[src-anthropic-managed-agents]]**——Anthropic Managed Agents PM 視角，確認 Anthropic 6 產品線（含 Claude Cowork / Claude Security）；⑤ **[[src-gemma4-mtp]]**——Gemma 4 MTP drafters 3x inference 加速；⑥ **[[src-forbes-vibe-coding-buy-vs-build]]**——vibe coding 失敗時 buy vs build（低風險自建 / 高風險 system of record 應買）；⑦ **[[src-claude-family]]**——5 個 Claude 產品工作流定位速查。（C）**新建 entity**：[[Armin Ronacher]]（2 source）；更新 [[Andrej Karpathy]]（5 source，加 Software 3.0 等概念表）。（D）**反向更新**：[[Multi-Agent 失敗分類學]] 加 Karpathy Sequoia 對位段。**待後續（lint 範圍）**：W19 綜整待補 5/9-5/10 其他來源後完整；Software 3.0 / Jagged Intelligence / Verifiability 是否值得獨立概念頁；[[Skill vs Bash vs MCP]] 待加 Mario Zechner「不用 MCP」反觀點段。
 
 > 月報/lint 2026-05-20 ingest+lint：（A）**補 ingest 05-19 四來源**（hn/github-trending/producthunt/wikipedia——先前僅 reddit 完成、`updated` 虛報 05-19 造成假象）：⭐ **HN #3 [[Andrej Karpathy]] 宣布加入 [[Anthropic]]**（477 分當日最高，TechCrunch/CNBC/Axios 證實，投入 pre-training 團隊 lead Nick Joseph；[[LLM Wiki]] 提出者投奔 Claude 母廠）+ HN 資安雙線（CISA AWS GovCloud 金鑰外洩 + Mini Shai-Hulud 314 npm 套件）+ GitHub #12 nashsu/llm_wiki_skill ✨（LLM Wiki 模式擴散）+ PH agent 語音/電話化（PollyReach/Chert）+ Composer 2.5/ShioriCode 編輯器戰局。（B）**lint 修正**：[[src-skill-ast-grep]] 安裝數補至 6,357（05-20）+ 05-13~19 fetcher 308 缺口註記；修 6 處懸空連結（Bun/Palantir/綜整Q1 forward ref/SPT-CLAUDE.md×3 降純文字）；skills 兩月報 `updated`→05-20；[[src-reddit-til-2026-05]]↔[[src-reddit-eli5-2026-05]] 補交叉引用消孤立。
+
+> 月報 2026-05-21 ingest：（A）**05-20 六來源月報**（reddit-til/eli5 + hn/github/ph/wikipedia）+ **05-21 reddit**——⭐ **HN 雙模型發布日**：[[Google]] Gemini 3.5 Flash（912 當日最高）+ [[Qwen]] Qwen3.7-Max「The Agent Frontier」（363），接續 5/19 Karpathy 加入 Anthropic 的大廠動態；HN #2 1.3 億歐洲人轉主權支付（656）+ #9 AI Coding 形式化驗證閘門（structural backpressure beats smarter agents，呼應 [[AI 品質共謀]]）；PH **agent 全面滲透日**（StoreClaw/Emdash/Re_gent/Contextberg/Glia——電商/coding/memory/MCP）+ Gemini Omni；GitHub 信號崩壞日（破解/Bitlocker bypass/遊戲外掛四連）亮點 9arm-skills ✨ + akii GEO Claude Code plugin ✨。（B）**新建 [[src-scaling-managed-agents]]**——Anthropic 工程文章（meta-harness、brain/hands/session 解耦），與 [[src-agent-model-body-harness]]（三層架構）+ [[src-anthropic-managed-agents]]（PM 視角）三方互連。（C）**實體更新**：[[Qwen]] 加 Qwen3.7-Max、[[Google]] 加 Gemini 3.5 Flash + Gemini Omni、[[Anthropic]] 加 Managed Agents 工程連結。**待後續**：05-21 的 hn/github/ph/wikipedia 等來源到齊後補；[[週綜整-2026-W20]] 之後的 W21 綜整待 05-24 該週結束後回看。
 - [[src-向三位大師學AI筆記]] — 三位科技領袖的 AI 知識管理方法論比較（來源數：1）
 - [[src-karpathy筆記實作]] — LLM Wiki 實作教學與 RAG 比較（來源數：1）
 - [[src-LLM Wiki]] — Karpathy 的 LLM Wiki 原始構想文件完整版（來源數：1）
@@ -127,7 +130,7 @@
 - [[Cloudflare]] — 網路基礎設施公司；2026-05 「裁員 20%（1,100+ 人）× agents 自主買域名上崗」戲劇性反差，「人類員工 → AI 員工」轉型標誌性事件（來源數：3）
 - [[Devv.AI]] — 3-4 人上海新創，AI 搜尋引擎 → Coding Agent → Multica 三階段演化（來源數：1）
 - [[DeepSeek]] — 杭州幻方量化旗下 AI，2026-04-24 V4 發布為本月關鍵事件（HN/PH/GitHub Trending 三榜聯動）（來源數：0，LLM 跨來源歸納）
-- [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI；Gemma 4 開源（60M+ downloads）+ MTP drafters 3x inference 加速（來源數：1）
+- [[Google]] — TPU + Gemini + Workspace Intelligence 三戰線，2026-04-22~24 連發企業 AI；Gemma 4 開源（60M+ downloads）+ MTP drafters 3x inference 加速；**2026-05-20 Gemini 3.5 Flash + Gemini Omni**（來源數：1）
 - [[月之暗面]] — Moonshot AI / Kimi 模型線，本月因 Attention Residuals 復現專案進入追蹤（來源數：1）
 - [[OpenAI]] — GPT 系列、Codex 開發者工具、ChatGPT 消費級產品，2026-04-22 ChatGPT Images 2.0、04-24 GPT-5.5 + Codex 3.0（來源數：0，LLM 跨來源歸納）
 - [[Inference.sh]] — AI 媒體 skill 主要發行者，5 件 skill 占 skills.sh trending Top 1-5；2026-05-03 GitHub repo 從 `infsh-skills` 改名 `inference-skills` 觸發單日 −7,000 安裝重置；**5/4 install 單日 +10.8k 完全恢復至 31.4k 確認是統計層級事件**（來源數：6） 
@@ -138,7 +141,7 @@
 - [[Claude Code]] — Anthropic 官方 agent CLI，本 wiki 多處參照的核心實體（來源數：0，LLM 跨來源歸納）
 - [[skills.sh]] — Agent Skill 策展平台（來源數：0，LLM 跨來源歸納）
 - [[Multica]] — Vendor-neutral 的多 Agent 協作平台，Devv.AI 團隊開源（來源數：1）
-- [[Qwen]] — Alibaba 開源 LLM 系列，2026-04 Qwen3.6-27B / Max-Preview 雙規格切入 coding agent 市場（來源數：0，LLM 跨來源歸納）
+- [[Qwen]] — Alibaba 開源 LLM 系列，2026-04 Qwen3.6-27B / Max-Preview 雙規格切入 coding agent 市場；**2026-05-20 Qwen3.7-Max「The Agent Frontier」**（來源數：0，LLM 跨來源歸納）
 - [[defuddle]] — Obsidian 生態的網頁正文擷取工具，可作 markdown.new fallback（來源數：0，LLM 跨來源歸納）
 - [[Godot]] — 免費開源遊戲引擎，AI 輔助開發首選（來源數：1）
 - [[Manim]] — Python 數學動畫引擎，3Blue1Brown 開發並開源，ML/教育內容事實標準（來源數：1）

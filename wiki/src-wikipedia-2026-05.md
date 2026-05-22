@@ -1,15 +1,45 @@
 ---
 title: Wikipedia Featured 月報 — 2026-05
 type: source
-sources: [wikipedia-featured-2026-05-19.md, wikipedia-featured-2026-05-18.md, wikipedia-featured-2026-05-17.md, wikipedia-featured-2026-05-16.md, wikipedia-featured-2026-05-15.md, wikipedia-featured-2026-05-14.md, wikipedia-featured-2026-05-13.md, wikipedia-featured-2026-05-12.md, wikipedia-featured-2026-05-11.md, wikipedia-featured-2026-05-10.md, wikipedia-featured-2026-05-09.md, wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
+sources: [wikipedia-featured-2026-05-20.md, wikipedia-featured-2026-05-19.md, wikipedia-featured-2026-05-18.md, wikipedia-featured-2026-05-17.md, wikipedia-featured-2026-05-16.md, wikipedia-featured-2026-05-15.md, wikipedia-featured-2026-05-14.md, wikipedia-featured-2026-05-13.md, wikipedia-featured-2026-05-12.md, wikipedia-featured-2026-05-11.md, wikipedia-featured-2026-05-10.md, wikipedia-featured-2026-05-09.md, wikipedia-featured-2026-05-08.md, wikipedia-featured-2026-05-07.md, wikipedia-featured-2026-05-06.md, wikipedia-featured-2026-05-05.md, wikipedia-featured-2026-05-04.md, wikipedia-featured-2026-05-03.md, wikipedia-featured-2026-05-02.md, wikipedia-featured-2026-05-01.md]
 created: 2026-05-01
-updated: 2026-05-19
+updated: 2026-05-20
 tags: [wikipedia, monthly-digest]
 ---
 
 # Wikipedia Featured — 2026 年 5 月
 
 > 每日自動收集 Wikipedia 精選文章、熱門頁面與歷史上的今天，由 LLM 翻譯彙整。依日期新到舊排列。
+
+## 2026-05-20
+
+### 今日精選文章
+
+**[Maryland and Virginia Rifle Regiment](https://en.wikipedia.org/wiki/Maryland_and_Virginia_Rifle_Regiment)**——美國獨立戰爭期間 1776 年 6 月組建的大陸軍輕步兵狙擊兵團（時人稱 Rawlings' Regiment），以遠程精準射擊補充以滑膛槍為主的線列步兵，常任前方散兵與側翼，戰鬥隊形較線列步兵更具適應性。
+
+### 今日最多人閱讀
+
+| # | 文章 | 瀏覽數 |
+|---|------|--------|
+| 1 | [Murder of Dominic Russo and Davion Flanagan](https://en.wikipedia.org/wiki/Murder_of_Dominic_Russo_and_Davion_Flanagan) | 295,851 |
+| 2 | [Victor Wembanyama](https://en.wikipedia.org/wiki/Victor_Wembanyama) | 233,083 |
+| 3 | [Mark Fuhrman](https://en.wikipedia.org/wiki/Mark_Fuhrman) | 184,752 |
+| 4 | [Obsession (2025 film)](https://en.wikipedia.org/wiki/Obsession_(2025_film)) | 181,535 |
+| 5 | [Tom Kane](https://en.wikipedia.org/wiki/Tom_Kane) | 159,481 |
+| 6 | [Deaths in 2026](https://en.wikipedia.org/wiki/Deaths_in_2026) | 134,999 |
+| 7 | [Judy Blume](https://en.wikipedia.org/wiki/Judy_Blume) | 132,835 |
+| 8 | [Karuppu (film)](https://en.wikipedia.org/wiki/Karuppu_(film)) | 125,442 |
+| 9 | [Enzo Maresca](https://en.wikipedia.org/wiki/Enzo_Maresca) | 122,886 |
+| 10 | [Off Campus](https://en.wikipedia.org/wiki/Off_Campus) | 121,969 |
+
+### 歷史上的今天
+- **2022**：俄烏戰爭——俄羅斯在近三個月圍城後宣稱完全控制馬里烏波爾
+- **2013**：龍捲風襲擊美國奧克拉荷馬州 Moore，24 死、約 20 億美元損失
+- **2012**：義大利北部首場大地震（兩場之一），7 死
+- **1996**：Romer v. Evans——美國最高法院推翻科羅拉多州禁止同性戀/雙性戀受法律保護的修憲案
+- **1993**：美國情境喜劇《Cheers》大結局「One for the Road」首播，4,240 萬美國家庭收看
+
+> **05-20 觀察**：低風險日，犯罪/體育/娛樂主導（謀殺案連日居首、Wembanyama NBA、Mark Fuhrman OJ 案證人、Judy Blume 作家）；歷史上的今天 5 條全 ✅（馬里烏波爾陷落、Moore 龍捲風、Romer v. Evans 等均可查證）
 
 ## 2026-05-19
 

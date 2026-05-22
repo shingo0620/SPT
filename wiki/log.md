@@ -2,6 +2,36 @@
 
 > 僅追加記錄。格式：`## [YYYY-MM-DD] 操作 | 標題`
 
+## [2026-05-21] ingest | 05-20 六來源 + 05-21 reddit + ⭐ Scaling Managed Agents（雙模型發布日）
+
+**觸發**：`/llm-wiki ingest`。使用者 git pull 帶回 05-20 四主來源 + vault 新增一篇 Anthropic 工程文章。pull-before（sync-vault）後確認範圍，使用者選「05-20 完整 + 05-21 reddit 都做」「Scaling 文章建獨立頁」。
+
+**處理範圍**：
+- **6 來源月報**（新到舊插入）：
+  - reddit-til + reddit-eli5 加 **05-20 + 05-21**（各 2 日 × 15 則，逐則查核全 ✅，傳統冷知識/日常科普，無 AI/資安滲透）
+  - hn / github-trending / producthunt / wikipedia 加 **05-20**
+- **新建 [[src-scaling-managed-agents]]**：Anthropic 工程文章（2026-04-08，Lance Martin 等）——Managed Agents 作為 meta-harness，brain/hands/session 三者解耦、pets-vs-cattle、token 不入 sandbox、TTFT p50 −60%/p95 −90%、Pokémon emulator；`fetch-url.sh` 擷取正文成功
+- **三方互連**：與 [[src-agent-model-body-harness]]（Model+Body+Harness 三層）+ [[src-anthropic-managed-agents]]（PM 視角）雙向連結；其「Sonnet 4.5 context anxiety → Opus 4.5 消失」實例印證 body-harness 頁「scaffolding 隨模型搬家但不消失」論點
+- **實體更新**：[[Qwen]]（Qwen3.7-Max）、[[Google]]（Gemini 3.5 Flash + Gemini Omni）、[[Anthropic]]（Managed Agents 工程連結 + 補 PM 版連結）
+
+**05-20/05-21 重點**：
+- ⭐ **雙模型發布日**：HN #15 [[Google]] Gemini 3.5 Flash（912 當日最高）+ #3 [[Qwen]] Qwen3.7-Max「The Agent Frontier」（363）——接續 5/19 Karpathy 加入 Anthropic，AI 大廠動態連三日
+- **數位主權**：HN 5/20 #2 1.3 億歐洲人轉主權支付（656）續 [[週綜整-2026-W20]] 軸
+- **AI Coding 驗證**：HN 5/20 #9 structural backpressure beats smarter agents（呼應 [[AI 品質共謀]] + 5/19 TLA+）
+- **PH agent 全面滲透日**：電商/email/coding 管理/agent 版控/memory+MCP 全到齊（StoreClaw/Emdash/Re_gent/Contextberg/Glia）
+- **GEO 工具化**：GitHub 5/20 #13 akii GEO Claude Code plugin ✨ + HN #8 Google AI 被操縱反擊
+- GitHub 5/19-5/20 連兩日信號崩壞（破解/Bitlocker bypass/遊戲外掛四連/KMS 盜版）
+
+**事實查核**：reddit til/eli5 兩日全 ✅；HN/PH 多連權威來源；GitHub 逐條 ❌/⚠️/✅/✨（05-20 五件 ❌ 含遊戲外掛四連 #7-#10）；HN 5/19 #11「量子晶體」已標 ⚠️ 存疑
+
+**驗證**：lint 重掃 → 懸空連結 **0**、孤立頁 **0**
+
+**待後續**：
+- 05-21 的 hn/github/ph/wikipedia 等主來源到齊後補（本次僅 reddit 到 05-21）
+- `raw/Scaling Managed Agents...Anthropic.md`（URL 標籤檔）與 fetch 正文檔 `scaling-managed-agents-...-anthropic.md` 並存，保留使用者原始標記（含 fbclid 來源）
+- `raw/Pasted image 20260507125336.png` 再次被 vault pull 帶回、已再刪；根治需在 Obsidian vault 刪原始貼圖
+- W21 綜整待 05-24 該週結束後回看
+
 ## [2026-05-20] lint + ingest | 補 05-19 四來源（⭐ Karpathy 加入 Anthropic）+ P2-P5 修正
 
 **觸發**：`/llm-wiki lint` 全量健檢後，使用者選「P1 補完整 ingest + P2-P5 全修」。已 pull-before。
